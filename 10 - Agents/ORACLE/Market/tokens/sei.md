@@ -17,6 +17,7 @@ oracle_rating: REDUCE
 Sei is a Layer 1 blockchain purpose-built for trading applications. Originally launched as a parallelized EVM + Cosmos-based chain optimized for on-chain order books and low-latency trading, Sei v2 became fully EVM-compatible while maintaining its performance optimizations. Key features include parallel transaction processing (multiple independent transactions processed simultaneously), an integrated order book primitive at the protocol level, and sub-400ms block times. The goal is to be the "best chain for financial applications" — replacing existing DEX and trading infrastructure with something faster and cheaper.
 
 ## Last 30 Days
+- **April 22:** SEI at $0.06–$0.07, unchanged. Risk-off session but SEI already near critical support. The Iran tensions and equity weakness are secondary to SEI's own narrative problems (Hyperliquid winning perps).
 - SEI is testing critical $0.06–$0.07 support range
 - No major positive catalysts in the current period
 - The "trading-optimized L1" narrative has not attracted the volume that was projected

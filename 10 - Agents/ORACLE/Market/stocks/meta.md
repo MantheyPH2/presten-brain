@@ -19,6 +19,7 @@ oracle_rating: Strong Buy
 Meta operates Facebook, Instagram, WhatsApp, Threads, and the Reality Labs (Quest VR/AR) division. Revenue is ~98% advertising. The AI advertising platform (Advantage+) is a step-function improvement in ad ROI that is driving accelerating revenue growth even as the industry normalizes.
 
 ## Recent Developments
+- **April 22 update:** META tracking broader market weakness (S&P -0.63%, Nasdaq streak snapped). The risk-off into Apr 29 earnings may create a better entry. TSLA earnings miss irrelevant to META. Iran tension is the macro risk to monitor.
 - **Advantage+ at $60B annual revenue run rate** — AI-powered ad automation now majority of delivery
 - **3.58B Daily Active People** — the largest social network moat in history; untouchable scale
 - Threads growing rapidly — approaching 200M+ users; monetization unlocking in 2026

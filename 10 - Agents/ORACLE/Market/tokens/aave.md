@@ -21,6 +21,7 @@ oracle_rating: ACCUMULATE
 Aave is the largest decentralized lending protocol in crypto. It enables users to deposit assets as collateral and borrow other assets, or supply assets to earn yield from borrowers. Aave operates on multiple chains (Ethereum, Arbitrum, Polygon, Optimism, Avalanche, Base, and others). Its key innovations include flash loans (uncollateralized loans repaid in one transaction — used by arbitrageurs and liquidators), rate switching (between stable and variable borrowing rates), and the GHO stablecoin (Aave's native USD-pegged stablecoin). Aave V3 improved capital efficiency and introduced cross-chain lending. Aave is one of the few DeFi protocols generating meaningful real revenue ($34M annualized).
 
 ## Last 30 Days
+- **April 22:** AAVE at $91.26, holding. Broad risk-off (BTC -1.7%, S&P -0.63%) but AAVE post-hack stabilization holding. The DeFi recovery trade is paused, not broken. Iran tensions + TSLA miss after close adding to overnight negativity.
 - **KelpDAO Exploit Contagion:** KelpDAO was a liquid restaking protocol with Aave exposure. The $292M exploit triggered panic — users pulled $6.6B from Aave in 48 hours as a precaution.
 - AAVE token dropped 16% — a significant move but notably NOT proportional to the actual risk Aave faced (Aave itself was NOT hacked; the collateral panic was secondary exposure)
 - $738M daily volume shows the protocol is still being used actively despite the outflow

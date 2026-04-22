@@ -18,6 +18,7 @@ oracle_rating: ACCUMULATE
 Bittensor is the most ambitious decentralized AI project in crypto. It creates an open, decentralized market for machine intelligence — a network of competing AI models (organized into "subnets") that are incentivized by TAO emissions to produce the best outputs. Each subnet specializes in a different task (text generation, image generation, price prediction, protein folding, etc.). The network uses a unique consensus mechanism where validators assess the quality of miner outputs and reward the best performers with TAO. TAO is capped at 21 million (identical to Bitcoin) — "the Bitcoin of AI." Subnet owners must burn TAO to register a new subnet (deflationary). Staking TAO to validators earns alpha tokens (subnet-specific tokens) that represent ownership of that subnet's output.
 
 ## Last 30 Days
+- **April 22:** TAO at ~$240, holding critical support. Broad risk-off (BTC -1.7%, equities red) threatening the $240 level. If this breaks, $200 is the next major support. The AI narrative from early April is fading as macro takes control.
 - TAO participated in the early April AI token surge
 - Price consolidated at $240 support after the rally
 - The $260–$280 range is the key resistance that needs to be reclaimed for the next leg

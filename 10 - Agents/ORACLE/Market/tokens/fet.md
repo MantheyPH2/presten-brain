@@ -18,6 +18,7 @@ oracle_rating: ACCUMULATE
 Fetch.ai is an AI and multi-agent systems platform built on its own blockchain (the Fetch.ai network). It provides infrastructure for building autonomous AI agents that can interact with each other and with external services to complete tasks — booking travel, managing energy grids, optimizing supply chains, coordinating DeFi strategies. Fetch.ai merged with SingularityNET (AGIX) and Ocean Protocol (OCEAN) in 2024 to form the ASI (Artificial Superintelligence) Alliance, with FET serving as the unified token. This makes FET a broad bet on decentralized AI infrastructure across agents (FET), AI model marketplace (SingularityNET), and data marketplace (Ocean Protocol).
 
 ## Last 30 Days
+- **April 22:** FET tracking lower with broad crypto risk-off (BTC -1.7%). AI token momentum from early April fading as macro takes control. The $0.20 resistance test is delayed by the Iran/equity selloff backdrop.
 - **AI Token Rally:** FET participated in the early April AI token surge alongside TAO and RENDER
 - Price rebounded from $0.14 support — a technically significant bounce
 - Now approaching $0.20 resistance — the breakout level to watch

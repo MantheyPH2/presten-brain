@@ -19,6 +19,7 @@ oracle_rating: Hold
 Apple's revenue mix: iPhone (~52%), Services (~23%), Mac (~8%), iPad (~7%), Wearables (~10%). Services (App Store, Apple Intelligence, Apple TV+, iCloud, Apple Pay) is the highest-margin segment and the growth story. iPhone 17 cycle in focus for 2H 2026.
 
 ## Recent Developments
+- **April 22:** AAPL trading in line with broader market weakness (S&P -0.63%, Nasdaq -0.59%). Iran tensions and Nasdaq streak snapping weigh on all mega-caps. No AAPL-specific news today.
 - **MAJOR:** Tim Cook confirmed stepping down. John Ternus (SVP Hardware Engineering, led M-chip transition and Vision Pro) named as successor. Ternus is an engineer-first CEO — signals product focus over financial engineering.
 - Transition is planned/orderly — this is not a crisis departure
 - Apple Intelligence (on-device AI) gaining traction but monetization timeline unclear

@@ -20,6 +20,7 @@ oracle_rating: Strong Buy
 NVIDIA is the dominant provider of AI accelerator chips (H100, H200, Blackwell B200/GB200). Data center revenue has eclipsed gaming as the primary growth engine. CUDA moat remains nearly unassailable. Also a leader in networking (InfiniBand via Mellanox) and AI software (NIM microservices, NEMO).
 
 ## Recent Developments
+- **April 22 update:** Nasdaq 13-day streak snapped. NVDA's 11-day streak likely ending as well in the risk-off session (S&P -0.63%). Iran ceasefire deadline Wednesday + TSLA earnings miss after close weigh on tech sentiment broadly. The pullback may create a better entry ahead of the Apr 29 hyperscaler earnings.
 - 11-day consecutive gain into Apr 22 — momentum is exceptional
 - Market cap surpassed $4.5T, briefly world's most valuable company
 - Blackwell GPU ramp accelerating — hyperscaler demand from MSFT, AMZN, GOOGL, META still exceeds supply

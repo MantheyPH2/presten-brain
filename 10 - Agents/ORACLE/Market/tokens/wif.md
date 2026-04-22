@@ -17,6 +17,7 @@ oracle_rating: AVOID
 dogwifhat is a Solana-based meme coin — a dog wearing a hat. It has no utility, no roadmap, no development team in the traditional sense. It was one of the standout meme coins of the 2024 meme supercycle, achieving a peak market cap in the billions. Its value is entirely sentiment-driven, based on community enthusiasm, social media virality, and the general meme coin mania of 2024–2025.
 
 ## Last 30 Days
+- **April 22:** WIF unchanged. Meme sector dead quiet. Risk-off macro irrelevant at these levels. SOL ecosystem weakness ($85 support breaking) is the primary headwind for SOL-based memes.
 - WIF declining with the broader meme sector
 - The $38B meme coin market cap (down from $150B peak) reflects the structural bear market in memes
 - SOL meme ecosystem was the epicenter of the 2024 meme supercycle — WIF was a beneficiary

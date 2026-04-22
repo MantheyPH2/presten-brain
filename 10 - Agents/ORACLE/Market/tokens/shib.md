@@ -17,6 +17,7 @@ oracle_rating: AVOID
 Shiba Inu is an ERC-20 meme token on Ethereum, launched in 2020 as the "Dogecoin killer." The SHIB ecosystem has expanded to include: ShibaSwap (DEX), LEASH (low-supply companion token), BONE (governance token for ShibaSwap), Shibarium (their own Layer 2 on Ethereum), and Shib: The Metaverse (virtual land project). Despite this ecosystem expansion, adoption metrics have been disappointing — Shibarium sees limited usage, ShibaSwap volume is minimal, and the metaverse has not attracted meaningful users. SHIB's primary value driver remains sentiment and retail speculation.
 
 ## Last 30 Days
+- **April 22:** SHIB at $0.000006076, flat. Meme sector dead. Risk-off macro (Iran, equities) is irrelevant to SHIB at these levels — no new catalyst.
 - SHIB quietly declining — no major positive news
 - Shibarium (their L2) continues operating at very low transaction volumes relative to projections
 - The meme coin sector overall has declined 75% from the November 2024 peak

@@ -18,6 +18,7 @@ oracle_rating: HOLD
 Celestia is a modular blockchain focused exclusively on data availability (DA). In the modular blockchain thesis, different functions (execution, settlement, consensus, data availability) are separated into specialized layers. Celestia handles only DA — it orders transactions and makes data available for anyone to download and verify, but does NOT execute transactions. This makes Celestia extremely efficient at its specific job. Rollups (L2s and L3s) post their transaction data to Celestia (instead of Ethereum) for a fraction of the cost, while still inheriting security guarantees. TIA is the native staking and fee token. The Celestia team includes members from the original Cosmos/Tendermint ecosystem.
 
 ## Last 30 Days
+- **April 22:** TIA continuing to digest the April 1 unlock. Broad risk-off (BTC -1.7%, equities red) compounds the unlock selling pressure. We are 3 weeks into the typical 2-4 month absorption period.
 - **April 1 Unlock:** 175.6M TIA tokens unlocked — 17.2% of circulating supply. This is one of the largest percentage unlocks of the year for any major project.
 - Markets had partially anticipated this, but supply events of this magnitude create persistent sell pressure as early investors distribute positions
 - The modular blockchain narrative continues to develop — several rollup ecosystems (Eclipse, Manta, Dymension) use Celestia for DA

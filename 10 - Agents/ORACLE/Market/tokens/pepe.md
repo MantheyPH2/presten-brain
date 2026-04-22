@@ -17,6 +17,7 @@ oracle_rating: AVOID
 PEPE is an Ethereum-based meme coin based on the Pepe the Frog internet meme. Launched in April 2023, it was one of the fastest meme coins to reach significant market cap, driven by the cultural resonance of the Pepe meme (which predates crypto). PEPE has no utility, no roadmap, no development team. It is a pure cultural/speculative asset. Its advantage over other meme coins is the age and universality of the Pepe meme itself — Pepe the Frog has been an internet staple since the mid-2000s. PEPE is an ERC-20 token on Ethereum.
 
 ## Last 30 Days
+- **April 22:** PEPE in the same $0.0000037–$0.0000039 range. Meme sector is dead quiet. Risk-off session but PEPE already at such depressed levels that macro doesn't move the needle.
 - PEPE ranging in the $0.0000037–$0.0000039 band — very tight, low-volume consolidation
 - The meme sector is broadly depressed — PEPE has held this range without a significant further decline but also without recovery
 - Volume is thin, suggesting neither accumulation nor distribution at significant scale

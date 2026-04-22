@@ -18,6 +18,7 @@ oracle_rating: HOLD
 MakerDAO (now Sky) is the creator of DAI — the largest decentralized stablecoin. Users lock collateral (ETH, wBTC, and increasingly real-world assets like US Treasury bills) into Maker Vaults to mint DAI at a collateralization ratio. The MKR/SKY token governs the protocol — holders vote on risk parameters, collateral types, and the stability fee (interest rate). Maker generates revenue from stability fees and from real-world asset (RWA) yield. MakerDAO was one of the first DeFi protocols to integrate RWAs at scale — they hold billions in short-duration US Treasuries as collateral, earning yield that flows to the protocol. The Sky rebrand included creating USDS (a new, potentially more compliant stablecoin) alongside DAI.
 
 ## Last 30 Days
+- **April 22:** MKR/SKY flat in broad risk-off session. RWA revenue continues accruing regardless of market conditions — the yield from US Treasury collateral is unaffected by Iran tensions or equity weakness.
 - MKR/SKY in a complex transition following the Sky rebrand
 - The rebrand was not universally welcomed — many community members prefer the MakerDAO brand
 - RWA collateral (US Treasuries) provides real yield income to the protocol — this is sustainable revenue

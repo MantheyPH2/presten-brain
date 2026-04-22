@@ -19,6 +19,7 @@ oracle_rating: Strong Buy
 Amazon operates: Retail (North America + International), AWS (cloud computing), Advertising, and Prime/subscriptions. AWS is the world's largest cloud provider (~32% market share). Advertising is a high-margin $60B+ business growing 20%+. The stock is increasingly priced as a cloud/AI company with a retail optionality, not the other way around.
 
 ## Recent Developments
+- **April 22 update:** AMZN tracking broader weakness (S&P -0.63%). The pre-earnings dip toward $240 entry zone we flagged may materialize if Iran tensions escalate or Nasdaq continues to pull back from the broken streak. TSLA earnings miss is irrelevant to AMZN thesis.
 - **AWS grew 24% in Q4 2025** — acceleration from prior quarters (21% → 24%)
 - **AI revenue on AWS: $15B annually** — fastest growing product in Amazon's history
 - AWS AI services (Bedrock, SageMaker, Trainium chips) competing directly with Azure OpenAI

@@ -17,6 +17,7 @@ oracle_rating: HOLD
 Jupiter is the leading DEX aggregator on Solana — it routes trades across all Solana DEXs (Raydium, Orca, Meteora, etc.) to find the best price for users. It has expanded beyond aggregation to offer: perpetuals trading (Jupiter Perps — one of the largest perps DEXs on Solana), limit orders, dollar-cost averaging (DCA) tools, and a swap infrastructure used by virtually every Solana wallet and app. JUP is the governance token. Jupiter has an active "Jupuary" airdrop event annually (in January) that distributes JUP to users. The protocol processes billions in monthly volume and is arguably the most important DeFi infrastructure on Solana alongside Raydium.
 
 ## Last 30 Days
+- **April 22:** JUP tracking SOL lower as broad risk-off intensifies. SOL breaking below $85 support means JUP faces amplified downside pressure as the high-beta SOL play.
 - JUP tracking broader SOL ecosystem weakness
 - Jupiter Perps volume has declined with overall meme coin and DeFi activity on Solana
 - The Solana ecosystem Q1 revenue decline (68% YoY) directly impacts Jupiter's volume and fee generation

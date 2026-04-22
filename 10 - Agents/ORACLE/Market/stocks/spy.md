@@ -17,7 +17,15 @@ oracle_rating: Hold
 - **Current Level vs Record:** ~0.9% below all-time high
 
 ## Market Overview
-The S&P 500 is in a fascinating technical position: coming off its worst quarter in nearly 4 years, yet recovering strongly into mid-April with a new all-time high on April 15. The Nasdaq posted a 13-consecutive-day win streak — longest since 1992. Internals are improving but macro risks remain elevated.
+The S&P 500 is in a fascinating technical position: coming off its worst quarter in nearly 4 years, yet recovering strongly into mid-April with a new all-time high on April 15. The Nasdaq's 13-day win streak (longest since 1992) was SNAPPED on April 21. The recovery has paused. Iran ceasefire deadline Wednesday is the immediate macro catalyst. TSLA earnings miss after close adds to overnight negativity.
+
+### April 21-22 Session Update
+- **S&P 500:** 7,064 (-0.63%)
+- **Dow:** 49,149 (-293 points)
+- **Nasdaq:** 24,260 (-0.59%)
+- **Nasdaq 13-day streak SNAPPED** — the reversal signal the bears were waiting for
+- **Iran ceasefire deadline Wednesday** — binary risk event driving uncertainty
+- TSLA reported after close: deliveries missed, energy storage missed badly, >$20B CapEx guidance
 
 ## Q1 2026 Sector Breakdown
 | Sector | Q1 Performance | Trend |
@@ -62,7 +70,7 @@ The S&P 500 is in a fascinating technical position: coming off its worst quarter
 - **Alternative:** SPY May 16 $680/$660 Bear Put Spread — ~$4 debit, ~$16 max profit; caps cost, limits upside
 
 ## ORACLE's Take
-The market is at an inflection. New ATH on Apr 15 is bullish. Q1 was ugly — the rotation from tech to energy is the story. The macro setup is: (1) earnings need to validate the recovery — Apr 29 is the test, (2) Iran/geopolitics is the wild card, (3) Fed independence = no easy rate cut catalyst. **Hold the S&P position. Overweight energy and quality tech (NVDA, AVGO). Underweight financials and consumer discretionary. Carry a put hedge into the Apr 29 earnings cluster.**
+The 13-day Nasdaq win streak snapping is the first real reversal signal since the April recovery began. The market is now facing a triple headwind: (1) Iran ceasefire deadline Wednesday — binary geopolitical risk, (2) TSLA earnings miss adding to risk-off sentiment, (3) the Apr 29 mega-cap earnings cluster is the next make-or-break. If MSFT/AMZN/META/GOOGL all beat, the dip gets bought violently. If any two disappoint, 7,064 on the S&P becomes resistance, not support. **Hold SPY but tighten stops. The put hedge into Apr 29 is more important today than it was yesterday. Energy overweight remains correct with Iran risk elevated.**
 
 ## Key Levels (S&P 500 Index)
 - **Resistance:** 7,126 (ATH), 7,200 (next psychological)

@@ -17,6 +17,7 @@ oracle_rating: HOLD
 Injective is a Layer 1 blockchain purpose-built for DeFi applications, with a particular focus on derivatives, perpetuals, and financial applications. It is EVM-compatible and built with the Cosmos SDK (IBC-connected). Key features: zero gas fees for users (front-running resistant on-chain order book with fees paid by protocol), native on-chain order book (not AMM-based like most DEXs), instant finality via Tendermint BFT consensus, and a deflationary burn mechanism (60% of protocol fees are used to buy and burn INJ). Injective hosts a growing ecosystem of DeFi apps including Helix (perps DEX), Mito (automated vaults), and multiple synthetic asset platforms.
 
 ## Last 30 Days
+- **April 22:** INJ flat in risk-off session. DeFi tokens broadly quiet as macro dominates (Iran tensions, equity selloff, BTC -1.7%). No INJ-specific catalyst.
 - INJ trading under pressure following the broader DeFi crisis (KelpDAO hack, $14B DeFi TVL exodus)
 - The Injective burn mechanism continues — deflationary pressure from protocol fee burns
 - The perps and derivatives market on Injective saw reduced volume as traders risk-off following the hack wave

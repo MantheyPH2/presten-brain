@@ -10,11 +10,12 @@ oracle_rating: Buy
 # QQQ — Nasdaq-100 ETF
 
 ## Current State
-- **Nasdaq Index:** 24,260
+- **Nasdaq Index:** 24,260 (-0.59% on April 21)
 - **QQQ Price (approx):** ~$418–$422 (estimate based on index)
-- **Record:** Near all-time highs post-recovery
-- **13-Day Win Streak:** Longest Nasdaq consecutive gain since 1992
+- **Record:** Near all-time highs but pulling back
+- **13-Day Win Streak: SNAPPED** — April 21 broke the longest Nasdaq consecutive gain since 1992
 - **Q1 2026 Performance:** Underperformed broad market (tech -9.3%)
+- **Overnight Risk:** TSLA earnings miss (energy storage -29% vs estimate) adds to selling pressure
 
 ## Fund Overview
 QQQ tracks the Nasdaq-100 — the 100 largest non-financial companies on the Nasdaq. Top holdings include AAPL, MSFT, NVDA, AMZN, META, GOOGL, TSLA, AVGO. Effectively a concentrated bet on mega-cap tech and AI.
@@ -32,8 +33,9 @@ QQQ tracks the Nasdaq-100 — the 100 largest non-financial companies on the Nas
 | AVGO | ~4% | Strong Buy — BofA top pick |
 
 ## Recent Developments
-- 13-day consecutive Nasdaq win streak into Apr 22 — extraordinary momentum signal
-- Streak mirrors strong periods from 1992 — historically bullish near-term continuation
+- 13-day Nasdaq win streak SNAPPED on April 21 (-0.59%). The streak ending is the first bearish technical signal since the April recovery began.
+- TSLA earnings after close: deliveries missed by 7,600 units, energy storage missed 12.45 GWh estimate by 29% (came in 8.8 GWh), CapEx guidance >$20B (double last year). TSLA is ~4% of QQQ — a 5-10% TSLA selloff would drag QQQ by ~0.2-0.4%.
+- Iran-US ceasefire deadline Wednesday creating binary geopolitical risk.
 - April 29 mega-cap earnings week (MSFT/GOOGL/AMZN/META) = QQQ volatility event
 - Tech's -9.3% Q1 created entry points across the index — recovery underway
 - AI investment thesis increasingly concentrated in QQQ holdings

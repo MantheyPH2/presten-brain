@@ -17,6 +17,7 @@ oracle_rating: HOLD
 Aptos is a Layer 1 blockchain also built by ex-Meta Diem engineers using the Move programming language. It competes directly with Sui — both launched at similar times, both use Move, both have well-funded teams and ex-Meta pedigree. Aptos uses a BFT-based consensus mechanism (AptosBFT, derived from LibraBFT) and an account-based model (unlike Sui's object-centric model). Aptos emphasizes correctness and developer safety through Move's ownership model. The Aptos ecosystem includes Econia (order book DEX), Liquidswap (AMM), Thala (stablecoin), and several gaming projects.
 
 ## Last 30 Days
+- **April 22:** APT at $0.836, flat. Risk-off session across all markets. SUI's May 4 CME futures catalyst continues to overshadow APT in the Move L1 narrative. No APT-specific catalyst.
 - APT trading at $0.836 with no major positive catalysts
 - The Move L1 narrative has been split between Sui and Aptos — SUI is currently winning the narrative battle (CME futures, inflows)
 - Aptos Foundation has been active in developer grants but this has not translated to price action

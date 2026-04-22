@@ -19,6 +19,7 @@ oracle_rating: Buy
 Microsoft operates three core segments: Productivity & Business Processes (Office 365, LinkedIn, Dynamics), Intelligent Cloud (Azure, GitHub, SQL Server), and More Personal Computing (Windows, Xbox, Surface). Azure is the growth engine — the #2 cloud provider globally with accelerating AI workloads via Copilot and OpenAI partnership.
 
 ## Recent Developments
+- **April 22 update:** Market weakness (S&P -0.63%) and Nasdaq streak snapping create a slightly weaker setup going into Apr 29 earnings. BUT: any MSFT dip into $418-$420 is a better entry for the earnings play. Iran ceasefire deadline Wednesday is the near-term risk. TSLA earnings miss after close does not directly affect MSFT thesis.
 - Azure grew 21% YoY in the most recent reported quarter — AI workloads now ~13 pts of Azure growth
 - OpenAI partnership deepening — MSFT hosts all OpenAI training and inference on Azure
 - GitHub Copilot has 1.8M paid enterprise seats and growing

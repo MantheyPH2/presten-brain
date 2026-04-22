@@ -19,6 +19,7 @@ oracle_rating: ACCUMULATE
 Render Network is a decentralized GPU compute marketplace. Artists, AI researchers, and developers who need GPU rendering/compute can submit jobs to the network. GPU owners (node operators) provide their idle GPU power in exchange for RENDER token payments. Originally built for 3D rendering for creative professionals (working with major studios and artists), Render has pivoted to also serve AI training and inference workloads as the demand for GPU compute exploded with the AI boom. The network operates on Solana (it migrated from Ethereum in 2023 for lower fees and higher throughput). RENDER is the payment and incentive token.
 
 ## Last 30 Days
+- **April 22:** RENDER at $1.81, pulling back from $1.88–$1.92 consolidation zone. Broad risk-off (BTC -1.7%, equities red) dragging AI tokens lower. The pullback toward $1.70 accumulation zone may materialize if macro weakness continues through the Iran deadline.
 - **AI Token Surge:** Early April 2026 saw AI x Crypto tokens post double-digit gains while the broader market was weak. RENDER participated in this rally.
 - Price consolidating in the $1.88–$1.92 zone after the surge, with resistance at $1.94–$1.95
 - GPU compute demand globally at record levels — AI training requires enormous GPU resources. Render's TAM is growing regardless of crypto market conditions.
