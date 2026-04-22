@@ -10,20 +10,24 @@ oracle_rating: ACCUMULATE
 # Bitcoin (BTC)
 
 ## Current State
-**Price:** $75,901
-**Dominance:** 58.5%
-**Trend:** Testing $76K resistance from below. Down from ~$87K a year ago.
-**Funding Rate:** Negative for 46 consecutive days on Binance — extreme reading historically associated with short squeezes.
+**Price:** ~$74,280 (April 22 evening)
+**Prior Close:** $75,901
+**24h Change:** -1.7% (slipped from $76.5K intraday)
+**Dominance:** 58.5%+
+**Trend:** Weakening. Lost $75K support on Iran ceasefire deadline anxiety. Down from ~$87K a year ago.
+**Funding Rate:** Negative for 47+ consecutive days on Binance — extreme reading historically associated with short squeezes.
 
 ## What It Does
 Bitcoin is the original cryptocurrency and the dominant store-of-value asset in the crypto ecosystem. It operates on a Proof-of-Work consensus mechanism with a hard-capped supply of 21 million coins. It has no programmability at the base layer (beyond Taproot scripts and ordinals/inscriptions). Its value proposition is: absolute scarcity, decentralization, censorship resistance, and 15+ years of security track record. It is now also the first crypto asset with spot ETFs in the US, Canada, Hong Kong, and Europe.
 
 ## Last 30 Days
-- Declined from ~$87K range to current $75,901
+- Declined from ~$87K range to current ~$74,280
+- **April 22 session:** BTC slid from $76.5K intraday to ~$74,280 as Iran-US ceasefire deadline (Wednesday) drives risk-off across all assets. Nasdaq 13-day win streak snapped; S&P -0.63%. BTC following equities lower.
 - Major catalysts for decline: Kevin Warsh Fed Chair nomination fears (hawkish Fed = bad for risk assets), Iran-US geopolitical tensions, and post-KelpDAO DeFi contagion affecting crypto sentiment broadly
-- BTC dominance rose to 58.5% — the highest since 2021 — reflecting altcoin underperformance even as BTC itself sold off
-- Negative funding rate streak reached 46 days on Binance — retail shorting heavily, historically a contrarian bullish signal
+- BTC dominance rose to 58.5%+ — the highest since 2021 — reflecting altcoin underperformance even as BTC itself sold off
+- Negative funding rate streak reached 47+ days on Binance — retail shorting heavily, historically a contrarian bullish signal
 - Long-term holder (LTH) on-chain data: coins continue moving off exchanges into cold storage, suggesting holders are not capitulating
+- TSLA earnings miss after close (deliveries missed, energy storage missed badly) adds risk-off sentiment to overnight session
 
 ## Upcoming Catalysts
 - **Short Squeeze Setup:** 46 days of negative funding = massive crowded short position. When longs begin to accumulate, forced short covering can produce rapid rallies. Timing is unpredictable but the setup is textbook.
@@ -58,8 +62,10 @@ The macro risk (Warsh, Iran) is real but temporary. If those headwinds fade, BTC
 ## Key Levels
 | Level | Significance |
 |---|---|
-| $76,000 | Current resistance — needs to break and hold |
-| $75,000 | Near-term support — loss would be bearish |
+| $76,500 | Intraday resistance (April 22 high) |
+| $75,000 | Broken support — now resistance |
+| $74,280 | Current price |
+| $72,000 | Near-term support |
 | $70,000 | Major psychological support |
 | $65,000 | Bull-bear line — loss would signal structural breakdown |
 | $80,000 | Recovery target #1 |

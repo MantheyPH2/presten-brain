@@ -10,14 +10,16 @@ oracle_rating: HOLD
 # Solana (SOL)
 
 ## Current State
-**Price:** $85.16
-**Trend:** Consolidating. Off highs but maintaining key support.
+**Price:** ~$83–84 (April 22 evening, tracking BTC weakness)
+**Prior:** $85.16
+**Trend:** Slipping below $85 support on broad risk-off. Consolidation breaking to downside.
 **Notable:** Surpassed ETH in weekly dApp revenue for 5 consecutive weeks. ETF inflows surging.
 
 ## What It Does
 Solana is a high-performance Layer 1 blockchain using a novel combination of Proof-of-Stake and Proof-of-History (PoH) for ordering transactions. It offers sub-second finality, very low fees (<$0.01 per transaction), and extremely high throughput (~65,000 TPS theoretical, ~2,000–5,000 TPS sustained in production). Solana is the dominant chain for consumer crypto applications: meme coins, NFTs, prediction markets, DePIN, and increasingly DeFi. Its ecosystem includes Jupiter (DEX aggregator), Raydium (AMM), Marinade (liquid staking), and hundreds of consumer apps.
 
 ## Last 30 Days
+- **April 22:** SOL slipping below $85 as macro risk-off intensifies. Iran ceasefire deadline Wednesday + equity weakness + TSLA earnings miss all contributing to broad crypto selling pressure.
 - SOL maintained relative stability vs the broader market selloff
 - **ETF Story:** SOL ETF inflows surged, with the largest single-day inflow since mid-March occurring on April 16. Multiple asset managers running SOL ETF products.
 - **Revenue Dominance:** SOL surpassed ETH in weekly dApp revenue for the 5th consecutive week — a significant metric that was unthinkable 2 years ago

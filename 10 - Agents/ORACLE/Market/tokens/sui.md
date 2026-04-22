@@ -18,6 +18,7 @@ oracle_rating: ACCUMULATE
 Sui is a high-performance Layer 1 blockchain built by Mysten Labs (founded by former Meta Diem/Novi engineers). It uses the Move programming language (originally developed for Diem) — a Rust-based language with strong ownership semantics that make it harder to write exploitable smart contracts. Sui's architecture is unique: it processes "simple" transactions (no shared state dependencies) in parallel with sub-second finality, while more complex transactions use a BFT consensus mechanism. This gives Sui extremely high throughput for straightforward use cases (NFT mints, payments, games) while maintaining flexibility for complex DeFi. Sui also uses an object-centric data model rather than the account-centric model of Ethereum.
 
 ## Last 30 Days
+- **April 22:** SUI dipping with broad market risk-off (BTC -1.7%, equities red). Key question: does the May 4 CME futures catalyst provide enough forward demand to hold $0.90 support in this weakness? The pullback is creating a better entry for the May 4 event trade.
 - **CME Futures Announcement:** CME Group (world's largest derivatives exchange) announced SUI futures launching May 4, 2026. CME had previously only listed BTC and ETH futures before expanding to SOL. SUI being third (after SOL) represents a major institutional legitimacy milestone.
 - **$2.2M Inflows:** April 20 saw $2.2M in SUI product inflows — significant for a single day
 - Price approaching $1 psychological level — a breakout above $1 would signal new market interest

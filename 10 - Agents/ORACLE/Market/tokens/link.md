@@ -18,6 +18,7 @@ oracle_rating: ACCUMULATE
 Chainlink is the dominant decentralized oracle network — the infrastructure that connects blockchains to real-world data. Smart contracts are deterministic systems that cannot access off-chain data on their own; Chainlink provides the trusted, aggregated data feeds (price feeds, proof of reserve, weather data, sports scores, RNG) that make complex DeFi, insurance, gaming, and RWA applications possible. LINK is used to pay oracle node operators for their data services and is staked by node operators as collateral for their work. Chainlink also operates CCIP (Cross-Chain Interoperability Protocol), which is rapidly becoming the standard for cross-chain messaging and asset transfers — directly competing with bridges and LayerZero in enterprise contexts.
 
 ## Last 30 Days
+- **April 22:** LINK still range-bound at ~$9.18. Remarkable resilience given the broad risk-off (BTC -1.7%, S&P -0.63%). LINK continues to be the best relative-strength play among mid-caps during macro weakness.
 - LINK held the $8.98–$9.33 range throughout April 2026 — notable resilience given broader market declines
 - Every new RWA (real-world asset) tokenization protocol that launches requires Chainlink price feeds — the RWA boom is a LINK demand driver that does not require the token price to go up for the utility to exist
 - CCIP continues to see enterprise adoption for cross-chain messaging

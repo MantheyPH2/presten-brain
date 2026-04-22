@@ -17,6 +17,7 @@ oracle_rating: REDUCE
 Polkadot is a Layer 0 / sharded blockchain ecosystem founded by Gavin Wood (Ethereum co-founder). Its central innovation is the "parachain" architecture: parallel, specialized blockchains (parachains) that each lease a slot on the Polkadot relay chain and share its security. The relay chain itself does not support smart contracts — it is purely a coordination and security layer. Parachains (Acala, Moonbeam, Astar, etc.) provide specific functionality. XCM (Cross-Consensus Messaging) allows parachains to communicate. The Substrate framework allows developers to build custom blockchains that can connect to Polkadot. DOT is used for governance, staking, and bonding (parachain slot auctions).
 
 ## Last 30 Days
+- **April 22:** DOT at $1.38, unchanged. Broad risk-off (BTC -1.7%, equities red) but DOT already near cycle lows. No new catalyst. The deep discount continues.
 - DOT is trading at $1.38 — deeply depressed
 - The parachain auction model, which generated enormous excitement in 2021–2022, has not delivered the adoption anticipated
 - Most parachains are underutilized and struggling to attract developers and users

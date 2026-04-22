@@ -10,15 +10,16 @@ oracle_rating: HOLD
 # Ethereum (ETH)
 
 ## Current State
-**Price:** $2,322
+**Price:** $2,322 (April 22 evening — holding steady)
 **ATH Reference:** ~$5,000 (August 2025)
 **From ATH:** -53.6%
-**Trend:** Sustained downtrend. Underperforming BTC significantly.
+**Trend:** Sustained downtrend. Underperforming BTC significantly. Holding better than BTC on the April 22 selloff (BTC -1.7%, ETH relatively flat).
 
 ## What It Does
 Ethereum is the dominant smart contract platform and the settlement layer for the majority of decentralized applications. It operates on Proof-of-Stake (since The Merge, September 2022). ETH serves as gas for the network, collateral in DeFi, and the base asset for a massive ecosystem of tokens, NFTs, and protocols. It is also the first smart contract platform with a spot ETF in the United States. The network processes billions in daily transaction value and hosts the majority of institutional DeFi TVL.
 
 ## Last 30 Days
+- **April 22:** ETH at $2,322 while BTC dropped -1.7% — ETH showing relative stability at these deeply oversold levels. Iran tensions and equity weakness (S&P -0.63%, Nasdaq streak snapped) weigh broadly but ETH already discounted.
 - ETH declined significantly from the $3,000+ range earlier in 2026
 - Vitalik Buterin sold substantial ETH holdings in early 2026, which was interpreted as bearish by markets and received significant negative press
 - ETH has dramatically underperformed both BTC (which has 58.5% dominance) and SOL (which has surpassed ETH in weekly dApp revenue for 5 consecutive weeks)

@@ -18,6 +18,7 @@ oracle_rating: HOLD (Trade Only)
 Dogecoin is the original meme cryptocurrency, launched in 2013 as a joke but now one of the most recognized crypto assets in the world. It is a Proof-of-Work coin (Scrypt algorithm, similar to Litecoin) with no hard supply cap — approximately 5 billion DOGE are issued per year (inflationary by design). DOGE has no smart contract capability, no DeFi ecosystem, and no programmatic use case beyond payments and tipping. Its value is almost entirely narrative-driven: Elon Musk's repeated endorsements, its use as a payment option on certain platforms, and its cultural status as the OG meme coin. Elon Musk's X (Twitter) has explored DOGE as a payment method, which represents the largest potential real use case.
 
 ## Last 30 Days
+- **April 22:** DOGE at $0.094, unchanged. Risk-off session (Iran tensions, S&P -0.63%, Nasdaq streak snapped) but DOGE already at such depressed levels that further selling is muted. No catalyst. TSLA earnings miss after close could weigh on DOGE given the Elon Musk correlation.
 - DOGE declined alongside the broader meme coin sector selloff
 - Meme coin market cap fell from $150B peak (November 2024) to $38B — 75% decline
 - DOGE holding above $0.094 by hugging the 50-day EMA at $0.095 — a fragile but functional support

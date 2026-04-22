@@ -18,6 +18,7 @@ oracle_rating: HOLD
 Polygon is a multi-pronged Ethereum scaling ecosystem. Originally known for its Proof-of-Stake sidechain (Polygon PoS — which is technically not an L2 but a sidechain), Polygon has pivoted aggressively to a true ZK rollup strategy with Polygon zkEVM. The Polygon 2.0 vision involves a network of ZK-powered L2s (aggregated under the "AggLayer") where multiple chains share liquidity and communicate seamlessly. POL (the new token) will serve as the staking token across all Polygon protocols and the AggLayer's coordination token. Polygon has also built the Polygon CDK (Chain Development Kit), allowing anyone to launch their own ZK-powered L2 that connects to the Polygon ecosystem.
 
 ## Last 30 Days
+- **April 22:** POL flat in a risk-off session. Macro pressures (Iran, equity selloff) keep all L2 tokens suppressed but POL already at depressed levels with limited further downside pressure.
 - Polygon/POL trading in a depressed range following the token migration
 - The transition from MATIC to POL created temporary confusion and selling pressure
 - Polygon's AggLayer is in early deployment — a few chains have connected

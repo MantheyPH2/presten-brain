@@ -17,6 +17,7 @@ oracle_rating: HOLD
 Optimism is an Ethereum Layer 2 using Optimistic Rollup technology — the same underlying approach as Arbitrum but with different implementation details. OP Mainnet was the original product, but Optimism's ambition has expanded to the "Superchain" — a network of interconnected OP Stack chains that share a common execution environment and message-passing protocol. The most significant Superchain member is Base (launched by Coinbase), which has grown to become one of the largest L2s by transaction count. The OP Stack is open source and designed to be the "Linux of L2s." Optimism's governance (Optimism Collective) splits power between token holders and a "Citizens' House" of appointed representatives. OP token is used for governance voting and receives a portion of sequencer revenue from OP Mainnet.
 
 ## Last 30 Days
+- **April 22:** OP flat in risk-off session. L2 tokens broadly quiet as macro (Iran tensions, equity selloff) dominates price action. No OP-specific catalyst.
 - OP tracking broader market weakness with no major protocol-specific news
 - The Superchain narrative continues to build — Base's success reflects positively on the OP Stack
 - Optimism DAO has been active in governance experiments and retroactive public goods funding

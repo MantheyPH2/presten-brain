@@ -17,6 +17,7 @@ oracle_rating: HOLD
 Uniswap is the dominant decentralized exchange (DEX) and the inventor of the Automated Market Maker (AMM) model that powers most DeFi. Instead of order books, Uniswap uses liquidity pools where traders swap tokens against pooled reserves of two assets. Liquidity providers (LPs) earn fees (0.01% to 1% depending on pool) for supplying capital. Uniswap V3 introduced concentrated liquidity — allowing LPs to focus capital in specific price ranges for greater efficiency. Uniswap V4 launched in 2024 introducing "hooks" — programmable pool logic that allows custom fee structures, limit orders, TWAP oracles, and more. Uniswap processes billions in daily volume and is deployed across 10+ chains including Ethereum, Arbitrum, Polygon, Optimism, Base, and BNB Chain.
 
 ## Last 30 Days
+- **April 22:** UNI flat. Risk-off session across all markets (BTC -1.7%, S&P -0.63%). DeFi tokens continue to trade quietly post-KelpDAO cleanup. No UNI-specific catalyst.
 - Uniswap trading volume remained robust despite broader DeFi outflows — DEX activity is more resilient than lending in a hack environment (people move assets, which requires swaps)
 - UNI token underperforming relative to protocol usage — a persistent frustration for token holders
 - The fee switch debate continues: UNI holders have been pushing for protocol fee revenue to flow to UNI stakers, but legal concerns have delayed implementation

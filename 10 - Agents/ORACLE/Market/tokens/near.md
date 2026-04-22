@@ -17,6 +17,7 @@ oracle_rating: HOLD
 NEAR Protocol is a sharded Proof-of-Stake Layer 1 blockchain designed for developer friendliness and user experience. It uses "Nightshade" sharding — a dynamic sharding approach that automatically adds shards as demand increases. NEAR is notable for human-readable account names (instead of hex addresses), progressive security models (allowing users to start with simple accounts and upgrade security), and very low transaction fees. NEAR has pivoted its narrative toward two key themes: (1) Chain Abstraction — the idea that users should be able to interact with any blockchain without knowing which chain they're on, with NEAR as the coordination layer, and (2) AI x Crypto — NEAR has positioned itself as a platform for AI agents and AI-native applications. NEAR AI (a research initiative) has developed AI assistants and models.
 
 ## Last 30 Days
+- **April 22:** NEAR tracking lower with broad market. Iran tensions + equity weakness creating risk-off across all crypto. AI token momentum from earlier in April fading as macro takes the wheel.
 - NEAR tracking broader market weakness
 - The chain abstraction narrative continues to develop — NEAR's intent-centric architecture allows transactions to be routed to whichever chain offers the best execution
 - NEAR AI initiatives gaining attention as the AI x Crypto sector heats up

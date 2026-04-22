@@ -18,6 +18,7 @@ oracle_rating: SPECULATIVE ACCUMULATE
 Cardano is a Proof-of-Stake Layer 1 blockchain with a research-first philosophy. Founded by Charles Hoskinson (Ethereum co-founder), Cardano uses the Ouroboros PoS consensus mechanism, a UTXO-based accounting model (similar to Bitcoin), and the Haskell/Plutus programming environment for smart contracts. It has a treasury system funded by network fees, governed by ADA holders (Project Catalyst). Cardano has historically been criticized for slow development relative to competitors, but it has shipped consistently, if cautiously. Its focus is on peer-reviewed research, formal verification, and sustainability.
 
 ## Last 30 Days
+- **April 22:** ADA at $0.259, flat. Whale accumulation continues quietly while macro risk-off (Iran tensions, equity selloff) keeps headline prices suppressed. The patient accumulation thesis remains intact.
 - **Protocol 11 Hard Fork:** Activated in April 2026 — the most significant Cardano upgrade since the Vasil hard fork. Brings improved Plutus smart contract efficiency and prepares the network for scaling solutions.
 - **Treasury Fund Approved:** $71M from the Cardano treasury has been approved for development of Hydra (state channels for high-speed micropayments) and Leios (parallel block production for higher throughput) — targeted late 2026 delivery.
 - **Whale Accumulation:** 424 identified whale wallets have accumulated 819M ADA (~$214M) — this is large-scale smart money buying at current prices.

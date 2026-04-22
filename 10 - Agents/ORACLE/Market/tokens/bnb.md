@@ -17,6 +17,7 @@ oracle_rating: HOLD
 BNB is the native token of the BNB Chain ecosystem (formerly Binance Smart Chain) and Binance Exchange. It serves multiple functions: (1) exchange fee discounts on Binance, (2) gas token for BNB Chain (the L1), (3) used in BNB Chain DeFi protocols like PancakeSwap, and (4) subject to quarterly burns (a portion of Binance profits used to buy and burn BNB, reducing supply). BNB Chain is a semi-centralized chain that prioritizes low fees and Binance ecosystem alignment over decentralization. It remains one of the most-used chains by transaction count globally, particularly in emerging markets.
 
 ## Last 30 Days
+- **April 22:** BNB tracking BTC lower as broad risk-off continues. Iran tensions, equity weakness (S&P -0.63%, Dow -293), and TSLA earnings miss after close all weigh on sentiment. No BNB-specific catalyst.
 - General market weakness dragged BNB lower alongside the broader market
 - BNB Chain continues to generate significant transaction volume, particularly in Asian markets
 - Quarterly BNB burn continues reducing supply

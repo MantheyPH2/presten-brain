@@ -18,6 +18,7 @@ oracle_rating: HOLD
 Arbitrum is the leading Ethereum Layer 2 by TVL and transaction volume. It uses Optimistic Rollup technology — transactions are processed off-chain and posted to Ethereum as calldata (or blobs post-EIP-4844), with a 7-day challenge window for fraud proofs. Arbitrum One is the primary chain; Arbitrum Nova is a lower-cost AnyTrust chain for high-volume, lower-value applications (gaming, social). The Arbitrum DAO governs the ARB token and the ecosystem treasury. Arbitrum Orbit allows anyone to launch their own L3 chains using Arbitrum's technology stack.
 
 ## Last 30 Days
+- **April 22:** ARB pulling back from 2-month high as broad risk-off takes hold (BTC -1.7%, S&P -0.63%). The Eldorado LATAM momentum story is still intact but macro is overriding short-term.
 - **2-Month High:** ARB rallied to a 2-month high in mid-April, bucking the broader market trend
 - **Volume:** Daily volume spiked 44% to $181M — real trading activity, not wash trading
 - **Eldorado Partnership:** Arbitrum partnered with Eldorado, a LATAM payments/gaming platform with 1M+ active users. This is significant — it represents real-world non-crypto-native user base adoption

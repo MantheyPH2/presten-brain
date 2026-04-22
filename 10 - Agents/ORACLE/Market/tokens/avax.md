@@ -17,6 +17,7 @@ oracle_rating: HOLD
 Avalanche is a Layer 1 blockchain using a novel consensus mechanism (Avalanche consensus — a variant of PoS that achieves near-instant finality through probabilistic sampling). Its key architectural differentiator is the "subnet" architecture: any entity can launch their own customized blockchain (subnet) that connects to the Avalanche Primary Network but operates with its own rules, validators, and even native tokens. This makes Avalanche attractive for enterprise and gaming use cases where clients want a dedicated chain with guaranteed throughput, without managing full blockchain infrastructure. The C-Chain (EVM-compatible) runs DeFi applications. The P-Chain manages validator coordination. The X-Chain handles native asset transfers.
 
 ## Last 30 Days
+- **April 22:** AVAX at ~$9.13, no change. Macro risk-off environment (Iran tensions, equity weakness) but AVAX already so depressed that marginal selling is limited. No new catalysts.
 - AVAX has declined significantly from prior cycle levels
 - The subnet narrative has attracted some enterprise interest but has not translated to sustained price appreciation
 - No major protocol-level news or partnership announcements in the current period

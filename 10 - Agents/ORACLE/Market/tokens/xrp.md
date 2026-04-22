@@ -19,6 +19,7 @@ oracle_rating: HOLD
 XRP is the native token of the XRP Ledger (XRPL), a blockchain designed specifically for fast, cheap cross-border payments and asset settlement. Ripple Labs (the company) uses XRP as a bridge currency in its ODL (On-Demand Liquidity) product for financial institutions. The XRPL can settle transactions in 3–5 seconds with fees of fractions of a cent. It is not a general-purpose smart contract platform — it is purpose-built for payments and increasingly for tokenized real-world assets. The SEC's years-long lawsuit against Ripple Labs was finally dropped, removing a major cloud over the project.
 
 ## Last 30 Days
+- **April 22:** XRP holding $1.42 area. Broad risk-off from Iran tensions and equity weakness (S&P -0.63%) pulling all alts lower, but XRP's post-SEC clarity institutional floor providing support. No new catalyst today.
 - **SEC Lawsuit Dropped:** The most significant fundamental development. Ripple Labs operated under a cloud of regulatory uncertainty for years; that cloud is now lifted.
 - XRP rallied to $1.50 on the news and sustained institutional interest
 - **Rakuten Partnership:** Major Japanese e-commerce company integrating XRP for payment settlement
