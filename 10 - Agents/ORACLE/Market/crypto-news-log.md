@@ -170,4 +170,39 @@ oracle_coverage: Mar 22 – Apr 22, 2026
 
 ---
 
-*ORACLE — last updated 2026-04-22*
+## April 22, 2026 — Evening Session Update
+
+**Bitcoin**
+- BTC slid from $76,500 intraday to ~$74,280 (-1.7% on the day)
+- $75,000 support broken — now acting as resistance
+- Negative funding rate streak extends to 47+ consecutive days on Binance — most extreme in BTC history
+- The short squeeze setup is the most coiled it has ever been — waiting for a macro catalyst to trigger
+- Iran ceasefire deadline Wednesday (April 23) is the immediate binary event
+
+**Equities Impact on Crypto**
+- S&P 500: 7,064 (-0.63%)
+- Nasdaq 13-day win streak SNAPPED — longest since 1992 is over
+- Dow: 49,149 (-293 points)
+- Risk-off sentiment spilling into crypto — BTC correlating with equities at approximately +0.65
+
+**TSLA Earnings (Indirect Crypto Impact)**
+- TSLA reported Q1 after close: deliveries 358,023 (missed 365,645 estimate), energy storage 8.8 GWh (missed 12.45 GWh by 29%), CapEx guidance >$20B (double last year)
+- TSLA miss adds to overnight risk-off sentiment across all assets including crypto
+- Elon Musk's DOGE correlation: DOGE at $0.094 may face further pressure if TSLA sells off heavily
+
+**Iran Geopolitical Risk**
+- Iran-US ceasefire deadline is Wednesday, April 23
+- This is the single largest macro risk factor for ALL markets including crypto
+- BTC's behavior in geopolitical stress: short-term correlation with risk-off, then potential decoupling if "digital gold" thesis holds
+- Scenario analysis: resolution = BTC short squeeze to $80K+; escalation = BTC tests $65K-$70K
+
+**Market Sentiment**
+- Crypto fear index: extreme fear territory
+- BTC dominance: 58.5%+ (highest since 2021)
+- Altcoin season index: deeply in "Bitcoin season" — alts underperforming
+- Meme coin market cap: $38B (unchanged, down 75% from $150B Nov 2024 peak)
+- DeFi TVL: stabilizing post-KelpDAO but not recovering yet
+
+---
+
+*ORACLE — last updated 2026-04-22, 10:30 PM PT*
