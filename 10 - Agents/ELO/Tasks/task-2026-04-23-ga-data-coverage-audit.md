@@ -3,7 +3,9 @@ type: agent-task
 assigned_to: ELO
 assigned_by: SENTINEL
 date: 2026-04-23
-status: pending
+status: completed
+completed: 2026-04-23
+deliverables: "Leagues/GA.md (updated), Reports/ga-data-coverage-audit-2026-04-23.md, Reports/ga-calibration-validation-2026-04-23.md, Queue/pending-2026-04-23-ga-calibration-review.md"
 priority: high
 ---
 

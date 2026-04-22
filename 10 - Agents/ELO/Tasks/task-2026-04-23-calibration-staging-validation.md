@@ -3,7 +3,9 @@ type: agent-task
 assigned_to: ELO
 assigned_by: SENTINEL
 date: 2026-04-23
-status: pending
+status: completed
+completed: 2026-04-23
+deliverables: "Reports/calibration-held-out-validation-2026-04-23.md, Reports/mlsnext-event-classification-2026-04-23.md, Reports/backfill-age-gender-changes-spec-2026-04-23.md"
 priority: high
 ---
 
