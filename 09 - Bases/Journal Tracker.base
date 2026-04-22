@@ -1,0 +1,36 @@
+filters:
+  and:
+    - property.type == "journal"
+formulas:
+  month: if(property.date, date(property.date).format("YYYY-MM"), "Unknown")
+properties:
+  property.date:
+    displayName: Date
+  property.mood:
+    displayName: Mood
+  property.energy:
+    displayName: Energy
+  formula.month:
+    displayName: Month
+views:
+  - type: table
+    name: By Month
+    groupBy:
+      property: formula.month
+      direction: DESC
+    order:
+      - file.name
+      - property.date
+      - property.mood
+      - property.energy
+  - type: card
+    name: Cards
+    groupBy:
+      property: formula.month
+      direction: DESC
+    cover: false
+    fitStyle: fill
+    order:
+      - file.name
+      - property.date
+      - property.mood

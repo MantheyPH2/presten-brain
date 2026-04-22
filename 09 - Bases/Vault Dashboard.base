@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.ext == "md"
+formulas:
+  days_ago: (now() - file.mtime).days.round(0)
+  total_links: file.links.length + file.backlinks.length
+  category: if(file.inFolder("Projects"), "Project", if(file.inFolder("Areas"), "Area", if(file.inFolder("Resources"), "Resource", if(file.inFolder("Daily Notes"), "Daily", if(file.inFolder("Archive"), "Archive", "Other")))))
+properties:
+  formula.days_ago:
+    displayName: Days Ago
+  formula.total_links:
+    displayName: Connections
+  formula.category:
+    displayName: Category
+views:
+  - type: table
+    name: Recently Modified
+    order:
+      - file.name
+      - formula.category
+      - formula.total_links
+      - formula.days_ago
+      - file.mtime
+    limit: 20
+  - type: table
+    name: All Notes by Category
+    groupBy:
+      property: formula.category
+      direction: ASC
+    order:
+      - file.name
+      - formula.category
+      - tags
+      - formula.total_links
+    summaries:
+      formula.total_links: Sum

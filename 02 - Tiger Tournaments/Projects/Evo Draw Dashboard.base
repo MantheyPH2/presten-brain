@@ -1,0 +1,52 @@
+filters:
+  and:
+    - file.hasTag("evo-draw")
+    - file.ext == "md"
+formulas:
+  age: (now() - file.ctime).days.round(0)
+  freshness: (now() - file.mtime).days.round(0)
+  outlinks: file.links.length
+  inlinks: file.backlinks.length
+  hub_score: file.links.length + file.backlinks.length
+  size_kb: (file.size / 1024).round(1)
+  stale_flag: if((now() - file.mtime).days > 14, "🔴 Stale", if((now() - file.mtime).days > 7, "🟡 Aging", "🟢 Fresh"))
+properties:
+  status:
+    displayName: Status
+  formula.freshness:
+    displayName: Days Since Edit
+  formula.hub_score:
+    displayName: Connections
+  formula.size_kb:
+    displayName: Size (KB)
+  formula.stale_flag:
+    displayName: Freshness
+views:
+  - type: table
+    name: All Evo Draw Notes
+    order:
+      - file.name
+      - status
+      - formula.stale_flag
+      - formula.hub_score
+      - formula.size_kb
+      - file.mtime
+    summaries:
+      formula.hub_score: Average
+      formula.freshness: Average
+  - type: table
+    name: Hub Notes (Most Connected)
+    order:
+      - file.name
+      - formula.inlinks
+      - formula.outlinks
+      - formula.hub_score
+    summaries:
+      formula.hub_score: Max
+  - type: cards
+    name: Card View
+    order:
+      - file.name
+      - status
+      - formula.stale_flag
+      - tags

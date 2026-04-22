@@ -1,0 +1,33 @@
+filters:
+  and:
+    - property.type == "meeting"
+properties:
+  property.date:
+    displayName: Date
+  property.attendees:
+    displayName: Attendees
+  property.world:
+    displayName: World
+  property.project:
+    displayName: Project
+views:
+  - type: table
+    name: Recent
+    order:
+      - file.name
+      - property.date
+      - property.world
+      - property.attendees
+      - property.project
+    limit: 30
+  - type: card
+    name: Cards
+    groupBy:
+      property: property.world
+      direction: ASC
+    cover: false
+    fitStyle: fill
+    order:
+      - file.name
+      - property.date
+      - property.attendees

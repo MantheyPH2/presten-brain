@@ -1,0 +1,41 @@
+filters:
+  and:
+    - property.type == "project"
+    - property.status == "active"
+formulas:
+  days_since_start: if(property.started, (now() - date(property.started)).days.round(0), "—")
+properties:
+  property.world:
+    displayName: World
+  property.priority:
+    displayName: Priority
+  property.status:
+    displayName: Status
+  property.target:
+    displayName: Target
+  formula.days_since_start:
+    displayName: Days Active
+views:
+  - type: table
+    name: By World
+    groupBy:
+      property: property.world
+      direction: ASC
+    order:
+      - file.name
+      - property.world
+      - property.priority
+      - property.status
+      - property.target
+      - formula.days_since_start
+  - type: card
+    name: Cards
+    groupBy:
+      property: property.world
+      direction: ASC
+    cover: false
+    fitStyle: fill
+    order:
+      - file.name
+      - property.priority
+      - property.target

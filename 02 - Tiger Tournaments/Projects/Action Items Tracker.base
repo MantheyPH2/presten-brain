@@ -1,0 +1,46 @@
+filters:
+  and:
+    - file.hasTag("strategy")
+    - file.hasTag("evo-draw")
+
+formulas:
+  days_since_update: '(now() - file.mtime).days.round(0)'
+  link_count: 'file.links.length'
+  backlink_count: 'file.backlinks.length'
+  connectivity: 'file.links.length + file.backlinks.length'
+
+properties:
+  status:
+    displayName: "Status"
+  formula.days_since_update:
+    displayName: "Days Since Update"
+  formula.link_count:
+    displayName: "Outgoing Links"
+  formula.backlink_count:
+    displayName: "Incoming Links"
+  formula.connectivity:
+    displayName: "Total Connections"
+
+views:
+  - type: table
+    name: "Strategic Notes"
+    order:
+      - file.name
+      - status
+      - tags
+      - formula.connectivity
+      - formula.days_since_update
+      - file.mtime
+    summaries:
+      formula.connectivity: Average
+      formula.days_since_update: Average
+
+  - type: table
+    name: "Most Connected"
+    order:
+      - file.name
+      - formula.backlink_count
+      - formula.link_count
+      - formula.connectivity
+    summaries:
+      formula.connectivity: Max

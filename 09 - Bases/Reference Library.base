@@ -1,0 +1,35 @@
+filters:
+  and:
+    - property.type == "reference"
+properties:
+  property.source:
+    displayName: Source
+  property.author:
+    displayName: Author
+  property.world:
+    displayName: World
+  property.date_added:
+    displayName: Added
+views:
+  - type: table
+    name: By World
+    groupBy:
+      property: property.world
+      direction: ASC
+    order:
+      - file.name
+      - property.author
+      - property.source
+      - property.world
+      - property.date_added
+  - type: card
+    name: Cards
+    groupBy:
+      property: property.world
+      direction: ASC
+    cover: false
+    fitStyle: fill
+    order:
+      - file.name
+      - property.author
+      - property.source
