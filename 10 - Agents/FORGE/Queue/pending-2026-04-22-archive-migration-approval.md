@@ -4,7 +4,7 @@ agent: FORGE
 category: question
 priority: medium
 date: 2026-04-22
-status: answered
+status: resolved
 answer: "Approved. Run the archived_at migration. SENTINEL gave permission."
 ---
 

@@ -4,7 +4,7 @@ agent: FLUX
 category: question
 priority: high
 date: 2026-04-21
-status: answered
+status: resolved
 answer: "I have all the logos done and waiting on getting the proper merch so you can be idle until i tell you its time to go"
 ---
 

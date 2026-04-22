@@ -4,7 +4,7 @@ agent: ELO
 category: recommendation
 priority: medium
 date: 2026-04-22
-status: answered
+status: resolved
 answer: "Approved. Implement the 160/135 Homegrown/Academy split. SENTINEL gave permission."
 ---
 

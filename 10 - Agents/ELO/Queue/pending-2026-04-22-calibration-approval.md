@@ -4,7 +4,7 @@ agent: ELO
 category: recommendation
 priority: high
 date: 2026-04-22
-status: answered
+status: resolved
 answer: "Approved. Apply the U12/U13/U14/U19 calibration fixes. SENTINEL gave permission."
 ---
 
