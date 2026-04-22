@@ -7,31 +7,49 @@ tags: [agents, hub]
 
 > Back to [[000 - Presten Manthey]]
 
-Five autonomous agents working daily across your three worlds.
+Six autonomous agents working daily across your three worlds, managed by CHIEF.
 
 ---
+
+## Management
+
+| Agent | Role | Reports To | Manages |
+|-------|------|-----------|---------|
+| [[CHIEF Config\|CHIEF]] | Chief of Staff | Presten | SENTINEL, ORACLE, FLUX |
 
 ## Evo Draw Wing
 
 | Agent | Role | Reports To |
 |-------|------|-----------|
+| [[SENTINEL Config\|SENTINEL]] | Quality & Completeness Manager | CHIEF |
 | [[FORGE Config\|FORGE]] | Pipeline & Data Engineer | SENTINEL |
 | [[ELO Config\|ELO]] | Ranking & Algorithm Engineer | SENTINEL |
-| [[SENTINEL Config\|SENTINEL]] | Quality & Completeness Manager | Presten |
 
 ## Personal Wing
 
 | Agent | Role | Reports To |
 |-------|------|-----------|
-| [[ORACLE Config\|ORACLE]] | Personal Intelligence & Life Advisor | Presten |
+| [[ORACLE Config\|ORACLE]] | Personal Intelligence & Life Advisor | CHIEF |
 
 ## Exel Labs Wing
 
 | Agent | Role | Reports To |
 |-------|------|-----------|
-| [[FLUX Config\|FLUX]] | Brand Builder & Product Developer | Presten |
+| [[FLUX Config\|FLUX]] | Brand Builder & Product Developer | CHIEF |
 
 ---
+
+## Chain of Command
+
+```
+Presten
+  |
+  CHIEF (Chief of Staff — handles everything, only escalates decisions)
+  |
+  +-- SENTINEL → FORGE, ELO (Evo Draw)
+  +-- ORACLE (Personal + Markets + Twitter)
+  +-- FLUX (Exel Labs — standby)
+```
 
 ## Delivery Board
 
@@ -49,5 +67,5 @@ TABLE agent AS "Agent", tasks_completed AS "Done", questions_posted AS "Question
 FROM "10 - Agents"
 WHERE type = "agent-briefing"
 SORT date DESC
-LIMIT 10
+LIMIT 12
 ```
