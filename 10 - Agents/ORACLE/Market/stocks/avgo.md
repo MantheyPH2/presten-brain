@@ -19,6 +19,7 @@ oracle_rating: Strong Buy
 Broadcom is a diversified semiconductor and infrastructure software company. Segments: Semiconductor Solutions (networking chips, custom AI ASICs, storage, wireless) and Infrastructure Software (VMware, CA Technologies, Symantec). The VMware acquisition ($69B, closed Oct 2023) transformed the business model — 40%+ of revenue is now recurring software.
 
 ## Recent Developments
+- **April 22 update:** AVGO tracking broader weakness (S&P -0.63%). Nasdaq streak snapping creates short-term headwind but does not change the custom ASIC thesis. Apr 29 hyperscaler capex from GOOGL/META (AVGO's direct custom ASIC customers) is the catalyst to watch.
 - **BofA named AVGO a top chip pick** — alongside NVDA, LRCX, KLAC, ADI, CDNS
 - Custom AI ASIC business: AVGO builds XPUs for Google (TPU) and Meta — massive TAM
 - VMware integration ahead of schedule; revenue synergies exceeding targets

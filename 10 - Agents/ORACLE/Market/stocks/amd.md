@@ -18,6 +18,7 @@ oracle_rating: Buy
 AMD sells CPUs (EPYC server, Ryzen consumer), GPUs (Radeon consumer, Instinct MI300/MI350 data center), and embedded chips (Xilinx FPGA). The data center GPU business (MI300X/MI350) is AMD's attempt to crack NVDA's AI moat. EPYC server CPUs are taking meaningful share from Intel.
 
 ## Recent Developments
+- **April 22 update:** AMD tracking broader chip/tech weakness (S&P -0.63%, Nasdaq streak snapped). TSLA earnings miss after close irrelevant to AMD thesis. Apr 29 hyperscaler capex confirmations from MSFT/AMZN/META/GOOGL will be a secondary catalyst for AMD (confirms AI chip demand).
 - MI300X gaining traction at cost-sensitive customers (Microsoft Azure, Meta) as lower-cost NVDA alternative
 - MI350 chip announced — competing with NVDA H200 on memory bandwidth
 - EPYC Genoa/Turin CPUs now at ~25% server CPU market share — Intel in secular decline

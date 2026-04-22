@@ -19,6 +19,7 @@ oracle_rating: Buy
 Alphabet's revenue is ~75% advertising (Search + YouTube), ~13% Google Cloud, and the rest across hardware, subscriptions, and Other Bets (Waymo, DeepMind, Verily). Google Search remains the most profitable digital business ever built. Google Cloud is the #3 cloud provider but growing fastest among the major three.
 
 ## Recent Developments
+- **April 22 update:** GOOGL tracking market weakness (S&P -0.63%). Nasdaq streak snapping is first bearish signal ahead of the critical Apr 29 report. DOJ antitrust overhang remains the unique risk for GOOGL vs peers.
 - Gemini AI model integrated across Search, Workspace, and Cloud — monetization accelerating
 - AI Overviews in Search expanded globally — query volume up but monetization per query still evolving
 - Google Cloud growing ~28% YoY in recent quarters — competing with AWS and Azure on AI workloads
