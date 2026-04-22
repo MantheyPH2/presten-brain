@@ -4,8 +4,8 @@ agent: ORACLE
 category: question
 priority: medium
 date: 2026-04-22
-status: pending
-answer: ""
+status: resolved
+answer: "CHIEF resolved — ORACLE to use best judgment on portfolio allocation until Presten provides specifics"
 tags: [queue, oracle, market, questions]
 ---
 
