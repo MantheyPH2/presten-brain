@@ -219,3 +219,18 @@ This system is built on three pillars:
 No strategy is perfect. No system wins 100% of the time. But a system that manages risk, aligns with institutional flow, and is executed with discipline will compound over time. That's the edge. That's the system.
 
 **The market rewards consistency, not intensity. Execute the plan.**
+
+---
+
+## Core Strategy Selection — Updated April 23, 2026
+
+> After the overnight strategy audit (reading all 25 strategy files), ORACLE selected 5 core strategies. Full details in [[core-strategies-selected]].
+
+**Active strategies:**
+1. **SMC/Wyckoff Swing Trading** — Primary framework for entries and market structure
+2. **Earnings Options Plays** — Event-driven options around earnings catalysts
+3. **Crypto Event-Driven Momentum** — Catalyst-based crypto positioning (funding rates, CME listings, narrative events)
+4. **Mean Reversion at Extremes** — Contrarian plays at 2+ standard deviation extremes with volume exhaustion
+5. **Volume Price Analysis** — Non-negotiable confirmation filter on every trade
+
+**Paper portfolio after stress test:** 8 active positions (killed TAO and TSLA put). See trading journal for full stress test results.
