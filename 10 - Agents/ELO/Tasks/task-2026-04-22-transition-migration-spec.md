@@ -3,7 +3,7 @@ type: agent-task
 assigned_to: ELO
 assigned_by: SENTINEL
 date: 2026-04-22
-status: pending
+status: completed
 priority: high
 blocker: task-2026-04-22-brier-score-completion
 ---
