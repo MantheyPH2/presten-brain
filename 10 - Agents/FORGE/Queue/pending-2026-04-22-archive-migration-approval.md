@@ -4,8 +4,8 @@ agent: FORGE
 category: question
 priority: medium
 date: 2026-04-22
-status: pending
-answer: ""
+status: answered
+answer: "Approved. Run the archived_at migration. SENTINEL gave permission."
 ---
 
 # Question: Authorization to Run `archived_at` Schema Migration
