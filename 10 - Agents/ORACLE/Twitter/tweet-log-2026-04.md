@@ -42,6 +42,7 @@ account: "@mantheyXx"
 | Apr 23 | 1:05 PM | META vs. market / April 29 setup | "Nasdaq -0.9% today. IBM -8%. ServiceNow -17%. META? Closed UP on news of 8,000 job cuts..." | — | — | — | ✅ POSTED — ID: 2047405389604602009. 69 min gap from Tweet 8. After-hours. Verified: Nasdaq close −0.90%, META ~$672.74 held UP vs. market. Forward-looking: April 29 efficiency/AI thesis. Long $565, target $700+. |
 
 | Apr 23 | 2:03 PM | Intel AH earnings / semis pattern | "Intel Q1 after hours: EPS: $0.29 vs $0.01 expected. Data Center +22%. Stock +15% AH. TXN +17% this morning. INTC +15% AH. Market isn't punishing semis..." | — | — | — | ✅ POSTED — ID: 2047421606159647071. After-hours. 58 min gap from Tweet 9. Verified: INTC EPS $0.29 vs $0.01 expected, Revenue $13.6B vs $12.36B expected (+7% YoY), Data Center +22% to $5.1B, Q2 guidance $13.8-14.8B vs $13.03B expected. Stock +15% AH, all-time high. Pattern: TXN +17% morning + INTC +15% AH = market rewards semis with AI demand. NVDA May 20 framing. |
+| Apr 23 | 3:06 PM | BTC decorrelation from tech / digital gold thesis | "BTC didn't sell off with equities today. Nasdaq -0.9%. IBM -8%. ServiceNow -17%. BTC: $77,830 at equity close. Unmoved..." | — | — | — | ✅ POSTED — ID: 2047437688954134988. After-hours. 63 min gap from Tweet 10. Verified: Nasdaq close -0.89%, BTC $77,830 at close, IBM -8%, ServiceNow -17%. Angle: BTC uncorrelated behavior during tech massacre = digital gold thesis live. Forward-looking: April 29-30 stress test. $90K framing. |
 
 ---
 
