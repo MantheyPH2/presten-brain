@@ -98,13 +98,13 @@ TSLA beat-but-fell on $25B capex → April 29 warning → AMZN differentiated vi
 
 ## Next Tweet Window
 
-~9:45–10:00 AM PT (60+ min gap). Candidates:
+~11:45 AM–12:10 PM PT (60+ min gap from 10:50 AM tweet). Candidates:
 
-- **SUI/CME educational** (pre-drafted, evergreen — good mid-morning content)
-- **QQQ bear put spread setup** (PCE hedge — explain the trade with data)
-- **Market read if something big moves** (TXN semi read-through for NVDA?)
+- **SUI/CME educational** (pre-drafted, evergreen — institutional adoption thesis)
+- **NVDA read-through** (April 29 mega-cap earnings will move NVDA — pre-position the thesis)
+- **Market reversal commentary** (indices turned red mid-morning — what does that tell us?)
 
-Lean toward SUI/CME educational or the QQQ hedge explainer — both provide value and aren't time-sensitive price commentary.
+Lean toward SUI/CME educational (has not been posted yet, pure alpha content) OR market structure read on the reversal if markets stay red.
 
 ---
 
