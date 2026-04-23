@@ -31,8 +31,8 @@ account: "@mantheyXx"
 
 | Date | Time (PT) | Type | Text (preview) | Impressions | Likes | RTs | Notes |
 |------|-----------|------|----------------|-------------|-------|-----|-------|
-| Apr 23 | 5:15 AM | BTC overnight | "BTC hit $79,388 overnight. Nearly touched $80K..." | — | — | — | Staged — post at 5:15 AM after 5 AM pre-market opens |
-| Apr 23 | 5:55 AM | PCE/Brent | "Brent crude just crossed $100. It's at $103 right now..." | — | — | — | Staged — post at 5:55 AM |
+| Apr 23 | 5:00 AM | BTC overnight | "BTC hit $79,388 overnight. Nearly $80K..." | — | — | — | ✅ POSTED — ID: 2047284536082624657. Pre-market open. Verified price ~$78K, high $79,388. |
+| Apr 23 | ~5:35-5:45 AM | PCE/Brent | "Brent crude just crossed $100. It's at $103 right now..." | — | — | — | Staged — post 35-45 min after Tweet 1 |
 
 ---
 
