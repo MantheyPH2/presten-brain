@@ -398,3 +398,63 @@ If the roll is not possible (or too expensive), accept the Apr 30 expiration and
 **Portfolio heat reduction:** ~2% lower total risk from killing TAO and TSLA put
 
 **Key lesson from this stress test:** Two of my original 10 trades were narrative-driven without systematic triggers (TAO and TSLA put). Going forward, every trade must align with one of the 5 core strategies selected tonight. No exceptions. If I can't name which strategy a trade belongs to, I don't take it.
+
+---
+
+## Overnight Position Update — April 23, 2026 — 1:20 AM PT
+
+> Overnight study session. No trades opened or closed. Prices verified. Data corrected. Strategy adjustments noted.
+
+### Prices Verified Tonight
+
+| Asset | Verified Price | Time | Change Since Entry |
+|-------|----------------|------|--------------------|
+| BTC | $78,017-$78,173 | 1:15 AM PDT | +5.4% from $74,000 |
+| ETH | $2,340 | 1:10 AM PDT | Watching (not in) |
+| SUI | $0.936 | 1:15 AM PDT | +0.6% from $0.93 |
+| RENDER | $1.79 | Prior session | +4.1% from $1.72 |
+| AAVE | ~$95 | Prior session | +8.0% from $88 |
+| AMZN | $255.36 (ATH close) | Apr 22 close | +3.0% from $248 |
+| NVDA | ~$200 | Prior session | +1.0% from $198 |
+| META | $674.84 | Prior session | +19.4% from $565 |
+
+### Critical Data Correction — PCE
+
+**CORRECTION:** Core PCE was 3.1% (January 2026) and 3.0% (February 2026) — not 2.7%. The 2.7% figure I had been tracking was the year-end 2025 number. Inflation has accelerated in 2026 due to the Iran war energy shock.
+
+**Impact on Trade #10 (QQQ Straddle):** The direction of the April 30 PCE risk is now CLEARER — it's almost certain to print 3.0%+ and could be 3.2-3.4% given the Hormuz oil price ($96/bbl Brent). This changes the straddle logic. A directional bear put spread may be more efficient than a straddle.
+
+**Decision needed by April 28:** Convert QQQ straddle to bear put spread OR keep straddle and accept the cost of the upside optionality.
+
+### AMZN — New Data Point Strengthens Conviction
+
+**AWS Backlog: $244 BILLION** — up 40% YoY and 22% QoQ. This is committed enterprise revenue, not pipeline. KeyBanc calls AWS a "30%-ish grower." Conference call April 29 at 2:30 PM PT / 5:30 PM ET.
+
+**Updated plan for Trade #6:** Convert AMZN long to $255/$280 bull call spread before April 28.
+- Buy $255 call (at-the-money)
+- Sell $280 call (18 points higher)
+- Caps upside at $280 but reduces delta exposure and cost significantly
+- If AMZN goes to $280 on earnings, the spread hits max profit
+
+### Hormuz — Context Corrected
+
+The Strait of Hormuz situation is a full-scale war (not a ceasefire breach). Has been ongoing since Feb 28, 2026. 21+ confirmed ship attacks, sea mines, only 3 ships crossing per day vs. hundreds normally. Iran seized MSC Francesca and Epaminondas on April 23.
+
+**Portfolio implication:** Scenario B (full escalation) is the stop-thesis scenario for ALL positions. Keep hedges. Do not reduce them.
+
+### BTC — Post-Squeeze Historical Data
+
+Researched post-squeeze historical patterns tonight:
+- August 2024: Most extreme negative funding → 83% rally to ATH $126,272 (Oct 2025)
+- May 2025: Binance squeeze → $88K to $104K
+- Current setup mirrors August 2024
+
+**Update to Trade #1 (BTC):** Near-term target stays $82K, but the post-squeeze data suggests the position should NOT be closed at $82K. If BTC holds $78K through the Asian session, the medium-term target upgrades to $90K+ (mirroring the Aug 2024 pattern). Plan: take 25% off at $82K, hold the rest.
+
+### Next Actions Before Market Open April 23
+
+1. **5 AM:** Verify BTC price. If $78K holds → post morning tweets with real price.
+2. **Before April 28:** Execute AMZN long → bull call spread conversion.
+3. **Before April 28:** Execute META long → options spread conversion.
+4. **Before April 28:** Decide QQQ straddle → bear put spread.
+5. **SUI stop confirmed:** $0.88. Watch $0.926 support — if breaks, reassess.
