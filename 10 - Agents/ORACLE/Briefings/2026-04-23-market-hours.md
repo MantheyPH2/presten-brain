@@ -2,108 +2,87 @@
 type: agent-briefing
 agent: ORACLE
 date: 2026-04-23
-session: market-hours-740am
+time: 08:43 PT
+session: market-hours
 status: completed
-tasks_completed: 5
-tasks_in_progress: 0
-market_sentiment: bullish
-flags: [btc-yellow-flag-cleared, btc-dominance-rising, pce-hedge-april-28-urgent]
 ---
 
-# ORACLE Briefing — April 23, 2026 | 7:40 AM PT (Market Hours)
+# ORACLE Briefing — April 23, 2026 — 8:43 AM PT (Market Hours)
 
 ## Session Summary
 
-Market hours session. S&P 500 -0.12% from ATH. BTC yellow flag triggered at open ($77,464), then CLEARED by 7:40 AM ($78,000+). Altcoins bleeding while BTC holds — BTC dominance expanding, textbook early cycle behavior.
+Market hours check-in. 5th tweet of the day posted. TSLA provided the key April 29 signal.
 
 ---
 
-## Market Snapshot (7:40 AM PT — Verified)
+## Prices Verified (8:43 AM PT)
 
-| Asset | Price | Change | Status |
-|-------|-------|--------|--------|
-| BTC | ~$78,000 | +2.5% | ✅ Yellow flag cleared — dominance rising |
-| ETH | ~$2,340 | flat/slight fade | Watching — entry $2,200-$2,300 |
-| SUI | $0.955 | +2% | Above support, $1.00 target in range |
-| QQQ | $650.81 | +0.4% from low | ATH territory — bear put spread April 28 URGENT |
-| AMZN | $254.69 | +0.6% | Holding near ATH, earnings April 29 |
-| Brent | $103.38-$103.67 | +1.4% | PCE thesis locked in |
-| S&P 500 | ~7,109 | -0.12% | Minor pullback from record highs |
-| SOL | $85.74 | -2.49% | Bleeding vs. BTC |
-| XRP | $1.42 | -2.32% | Bleeding vs. BTC |
+| Asset | Price | Change | Notes |
+|-------|-------|--------|-------|
+| BTC | ~$77,830 | Flat | Holding above $77,500 yellow flag. Thesis intact. |
+| ETH | ~$2,340 | -2.5% | Still underperforming BTC — dominance expanding |
+| META | $672.74 | -0.3% | Slightly off ATH close |
+| QQQ | $650.81 | Flat | At ATH territory |
+| Brent | ~$103.38 | Flat | Still above $100 structural inflation |
+| S&P 500 | Slightly green (+0.07%) | Recovering | After early pressure from TSLA earnings reaction |
 
 ---
 
-## Key Signal: BTC Dominance Expanding
+## Key Event Today: TSLA Earnings — Live April 29 Thesis Validation
 
-- At 6:35 AM market open, BTC dipped to $77,464 — BELOW the $77,500 yellow flag. Correctly held BTC content.
-- By 7:40 AM, BTC reclaimed $78,000. Yellow flag CLEARED.
-- Meanwhile: SOL -2.49%, XRP -2.32% — altcoins bleeding while BTC holds.
-- **This is BTC dominance expansion.** In every cycle, BTC leads the move. Alts follow 2-4 weeks later when BTC establishes a new range.
-- Tweet posted on this signal at 7:40 AM. Contrarian framing: alt bleed is NOT weakness — it's rotation confirmation.
+Tesla BEAT Q1 2026 earnings. Stock -3% anyway.
 
----
+The reason: $25 billion AI/robotics capex guidance for 2026 with no clear near-term ROI timeline.
 
-## Tweets Posted Today (April 23)
+**Why this matters for April 29:** AMZN, META, MSFT all report massive AI capex plans 6 days from now. The market has now shown what happens when capex surprises without ROI clarity — it sells the stock even on a beat.
 
-| # | Time | Topic | ID |
-|---|------|-------|----|
-| 1 | 5:00 AM | BTC overnight ($79,388 high, nearly $80K) | 2047284536082624657 |
-| 2 | 5:35 AM | PCE/Brent ($103.38, structural inflation thesis) | 2047293239536054639 |
-| 3 | 6:35 AM | AMZN earnings setup (AWS $244B backlog, $15B AI run rate) | 2047308845383639427 |
-| 4 | 7:40 AM | BTC dominance / alt bleed rotation signal | 2047325060718088524 |
+**AMZN differentiated:** CEO Jassy pre-disclosed $15B AI revenue run rate in shareholder letter BEFORE April 29 call. This is not "spending without ROI" — Jassy is showing the return exists. This is the key distinction vs. TSLA.
 
-All properly spaced (35-65 min gaps). All verified prices before posting.
+**META risk elevated:** META's AI infrastructure capex has been large. If the market is in "show me the ROI" mode (TSLA just proved it is), META needs a strong Q1 AND clear capex-to-revenue bridge. More scrutiny now.
+
+**TXN +16.6%:** Semiconductor earnings done right — strong results, market loved it. Another data point that market rewards results, not just spending.
 
 ---
 
-## Positions — Current P&L
+## Tweet Posted
 
-| Ticker | Entry | Current | P&L | Status |
-|--------|-------|---------|-----|--------|
-| BTC | $74,000 | ~$78,000 | +5.4% | ✅ Hold — thesis intact |
-| META | $565 | $674.84 | +19.4% | Convert to spread before Apr 29 |
-| AAVE | $88 | ~$93-95 | +5.7-8% | 50% locked at $105, stop $91 |
-| RENDER | $1.72 | $1.79 | +4.1% | Hold — AI capex catalyst Apr 29 |
-| SUI | $0.93 | $0.955 | +2.7% | Hold — CME May 4 |
-| AMZN | $248 | $254.69 | +2.7% | Convert to $255/$280 call spread before Apr 28 |
-| NVDA | $198 | ~$200 | +1% | Hold — May 20 |
-| QQQ | — | $650.81 | — | ENTER bear put spread April 28 |
+**8:43 AM PT — Tweet #5 — ID: 2047341089577922592**
+TSLA beat-but-fell on $25B capex → April 29 warning → AMZN differentiated via Jassy pre-disclosure → PCE April 30 landmine
+
+63-min gap from prior tweet. ✅ Clean spacing.
 
 ---
 
-## Upcoming Critical Actions
+## Tweets Posted Today (Full Log)
 
-| Date | Action | Priority |
-|------|--------|----------|
-| **April 28** | Enter QQQ bear put spread (buy $645-650 put, sell $622-625 put, Apr 30 expiry) | 🔴 URGENT |
-| **April 28** | Convert AMZN to $255/$280 bull call spread | High |
-| **April 28** | Convert META to options spread | High |
-| **April 29** | MSFT, AMZN, META, GOOGL earnings after close | Biggest info event |
-| **April 30** | PCE 08:30 ET — almost certain 3.0%+ | Macro wall |
-| **May 4** | SUI CME futures launch — partial exit at $1.10-$1.15 | Event trade |
-| **May 20** | NVDA earnings | Hold |
+1. 5:00 AM — BTC overnight ($79,388 high, nearly $80K)
+2. 5:35 AM — PCE/Brent ($103.38, structural inflation)
+3. 6:35 AM — AMZN earnings setup
+4. 7:40 AM — Alt bleed + BTC dominance expanding
+5. 8:43 AM — TSLA capex → April 29 warning ✅ (this session)
 
 ---
 
 ## Next Tweet Window
 
-Wait 10-60 min from the 7:40 AM tweet. Next post available: **8:10-8:40 AM PT**.
+~9:45–10:00 AM PT (60+ min gap). Candidates:
 
-Candidates:
-- PCE reminder / QQQ hedge setup (educational + forward-looking)
-- AMZN pre-earnings thesis thread
-- Market structure: S&P ATH + hot PCE = something has to give
+- **SUI/CME educational** (pre-drafted, evergreen — good mid-morning content)
+- **QQQ bear put spread setup** (PCE hedge — explain the trade with data)
+- **Market read if something big moves** (TXN semi read-through for NVDA?)
 
----
-
-## What ORACLE Got Right This Session
-
-- Correctly flagged yellow flag at 6:35 AM open ($77,464 < $77,500) and held BTC content
-- Posted AMZN tweet at market open instead — right call for that time
-- Recognized yellow flag cleared at 7:40 AM and posted BTC dominance tweet immediately
-- All 4 tweets properly spaced, all prices verified before posting
+Lean toward SUI/CME educational or the QQQ hedge explainer — both provide value and aren't time-sensitive price commentary.
 
 ---
 
-*ORACLE | Market Hours Session | April 23, 2026 | 7:40 AM PT*
+## Open Action Items (Priority Order)
+
+1. **April 28:** Enter QQQ bear put spread (buy Apr 30 put ~$650 ATM, sell Apr 30 put ~$622)
+2. **Before April 28:** Convert AMZN paper long → $255/$280 bull call spread
+3. **Before April 28:** Convert META paper long → options spread (protect +19% gain)
+4. **Watch SUI:** $0.9667 — hold above $0.926. CME May 4 intact.
+5. **Watch AAVE:** ~$93-95, stop at $91. DeFi recovery 30-90 day timeline.
+
+---
+
+*ORACLE | April 23, 2026 | @mantheyXx | Paper trading — building toward real account*

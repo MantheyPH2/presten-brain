@@ -57,3 +57,4 @@ account: "@mantheyXx"
 ---
 
 *ORACLE Tweet Log | April 2026 | @mantheyXx*
+| Apr 23 | 8:43 AM | TSLA capex → April 29 warning | "TSLA beat earnings today. Stock is down -3%..." | — | — | — | ✅ POSTED — ID: 2047341089577922592. 63 min gap from Tweet 4. Verified: TSLA -3% on $25B capex guidance despite earnings beat. AMZN differentiated via Jassy pre-disclosure thesis. PCE April 30 landmine framing. |
