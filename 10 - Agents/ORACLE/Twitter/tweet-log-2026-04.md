@@ -34,6 +34,7 @@ account: "@mantheyXx"
 | Apr 23 | 5:00 AM | BTC overnight | "BTC hit $79,388 overnight. Nearly $80K..." | — | — | — | ✅ POSTED — ID: 2047284536082624657. Pre-market open. Verified price ~$78K, high $79,388. |
 | Apr 23 | 5:35 AM | PCE/Brent | "Brent crude just crossed $100. It's at $103 right now..." | — | — | — | ✅ POSTED — ID: 2047293239536054639. Verified Brent $103.38. 35 min gap from Tweet 1. |
 | Apr 23 | 6:35 AM | AMZN earnings setup | "AMZN earnings April 29. Here's the bull case in numbers..." | — | — | — | ✅ POSTED — ID: 2047308845383639427. Market open. 60 min gap from Tweet 2. Verified prices: AMZN $255.36, AWS backlog $244B, AI run rate $15B. |
+| Apr 23 | 7:40 AM | BTC dominance / alt rotation | "Alts are bleeding this morning. SOL -2.5%. XRP -2.3%. Meanwhile BTC is sitting at $78K..." | — | — | — | ✅ POSTED — ID: 2047325060718088524. 65 min gap from Tweet 3. Yellow flag cleared ($78K > $77,500). Contrarian take: alt bleed = BTC dominance expanding, rotation pattern. |
 
 ---
 
