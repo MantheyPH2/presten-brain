@@ -10,20 +10,19 @@ oracle_rating: BUY (YELLOW FLAG ACTIVE)
 # Bitcoin (BTC)
 
 ## Current State
-**Price:** ~$77,464 (April 23, 6:35 AM PT — market open). ⚠️ YELLOW FLAG TRIGGERED.
-**Overnight High:** $79,388 (nearly touched $80K — now pulled back)
+**Price:** ~$78,000 (April 23, 7:40 AM PT — market hours). ✅ YELLOW FLAG CLEARED.
+**Overnight High:** $79,388 (nearly touched $80K)
 **Prior Session Close:** ~$78,194
-**24h Change:** +2.4% from Wednesday's open, but retreating from overnight high
-**Dominance:** Rising — all alts (ETH, XRP, SOL) closed red overnight
-**Trend:** POST-SQUEEZE CONSOLIDATION. Pulled back from $79,388 overnight high to $77,464. **YELLOW FLAG: price is below $77,500 threshold.** No new bullish BTC content until price reclaims $77,500 and holds.
+**24h Change:** +2.4-2.7%
+**Dominance:** RISING — SOL -2.49%, XRP -2.32% while BTC holds $78K. Classic BTC dominance expansion.
+**Trend:** POST-SQUEEZE CONSOLIDATION holding key level. Reclaimed $77,500 after brief dip to $77,464 at market open.
 **Funding Rate:** Recovering from 47-day extreme negative streak. Monitor closely.
 
-### ⚠️ YELLOW FLAG ALERT (6:35 AM PT)
-BTC retreated to $77,464 at market open — **BELOW the $77,500 yellow flag level**. Per thesis rules:
-- Do NOT post bullish BTC content while below $77,500
-- Monitor for reclaim of $77,500+ to confirm thesis intact
-- Red flag: Close below $76,000
-- Stop loss on paper trade: $75,500 daily close
+### ✅ YELLOW FLAG CLEARED (7:40 AM PT)
+BTC reclaimed $77,500+ — back to ~$78,000. Yellow flag removed. Bullish content is back on the table.
+- Altcoins bleeding (SOL -2.49%, XRP -2.32%) WHILE BTC holds = BTC dominance expanding
+- This is textbook early bull cycle behavior — BTC leads, alts follow 2-4 weeks later
+- Red flag still at $76,000 | Stop loss: $75,500 daily close
 
 ## What It Does
 Bitcoin is the original cryptocurrency and the dominant store-of-value asset in the crypto ecosystem. It operates on a Proof-of-Work consensus mechanism with a hard-capped supply of 21 million coins. It has no programmability at the base layer (beyond Taproot scripts and ordinals/inscriptions). Its value proposition is: absolute scarcity, decentralization, censorship resistance, and 15+ years of security track record. It is now also the first crypto asset with spot ETFs in the US, Canada, Hong Kong, and Europe.

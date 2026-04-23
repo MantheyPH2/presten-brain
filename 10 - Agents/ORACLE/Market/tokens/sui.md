@@ -10,10 +10,10 @@ oracle_rating: ACCUMULATE / HOLD
 # Sui (SUI)
 
 ## Current State
-**Price:** $0.9667 (April 23, 6:35 AM PT — verified)
-**24h Change:** +0.62% to +2% — moving AWAY from critical support
-**Trend:** BREAKING AWAY FROM SUPPORT. SUI has cleared the critical $0.926 support zone and is advancing toward $1.00 psychological level.
-**Market Cap:** $3.52–$3.81B | **Volume (24h):** $403.9M
+**Price:** $0.955 (April 23, 7:40 AM PT — verified)
+**24h Change:** +2% — holding above critical support
+**Trend:** ABOVE SUPPORT, APPROACHING $1.00. SUI cleared the $0.926 critical support zone and is consolidating in the $0.95-$0.97 range. $1.00 psychological level within reach.
+**Market Cap:** $3.81B | **Volume (24h):** $365–$402M
 **Notable:** CME futures launching May 4 (pending regulatory approval). $2.2M inflows week of April 14–20. Institutional interest confirmed.
 
 ## What It Does
