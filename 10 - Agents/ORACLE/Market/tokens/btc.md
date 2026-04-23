@@ -3,19 +3,20 @@ type: token-tracker
 token: BTC
 name: Bitcoin
 sector: L1
-last_updated: 2026-04-23
+last_updated: 2026-04-23-premarket
 oracle_rating: STRONG BUY
 ---
 
 # Bitcoin (BTC)
 
 ## Current State
-**Price:** ~$78,194 (April 23 evening)
-**Prior Session:** $74,280
-**24h Change:** +5.3% -- violent breakout
-**Dominance:** 58.5%+
-**Trend:** REVERSAL CONFIRMED. Iran ceasefire extended indefinitely triggered a massive risk-on move. $180M in shorts liquidated. BTC ripped from $74K to $78.2K in hours.
-**Funding Rate:** Negative funding streak BROKEN after 48+ days. The coiled spring fired.
+**Price:** ~$78,000 consolidating (April 23, 4:37 AM PT). Overnight HIGH: **$79,388** — nearly touched $80K.
+**Prior Session Close:** ~$78,194
+**Overnight High:** $79,388 (first test of $80K resistance)
+**24h Change:** +0.4% (consolidating after yesterday's +5.3% breakout)
+**Dominance:** Rising — all alts (ETH, XRP, SOL) closed red overnight, BTC dominance increasing
+**Trend:** POST-SQUEEZE CONTINUATION. After the $180M liquidation event, the squeeze is NOT done — BTC is now testing $80K resistance. Holding $78K overnight validates the thesis.
+**Funding Rate:** Still recovering from 47-day extreme negative streak. New funding is likely normalizing. Watch for renewal of negative rates as new shorts pile in ahead of the $80K resistance test — that would be another coiled-spring setup.
 
 ## What It Does
 Bitcoin is the original cryptocurrency and the dominant store-of-value asset in the crypto ecosystem. It operates on a Proof-of-Work consensus mechanism with a hard-capped supply of 21 million coins. It has no programmability at the base layer (beyond Taproot scripts and ordinals/inscriptions). Its value proposition is: absolute scarcity, decentralization, censorship resistance, and 15+ years of security track record. It is now also the first crypto asset with spot ETFs in the US, Canada, Hong Kong, and Europe.
@@ -97,7 +98,9 @@ This is no longer a "buy the dip" call. This is a "the trend has reversed" call.
 |---|---|
 | $82,000 | Paper trade target / next major resistance |
 | $80,000 | Psychological breakout level -- above this, squeeze accelerates |
-| $78,194 | Current price |
+| $79,388 | Overnight high — first test of $80K zone |
+| $78,000 | Current consolidation zone |
+| $78,194 | Prior session close |
 | $76,500 | Near-term support (prior intraday resistance, now support) |
 | $74,000 | Paper trade entry / strong support |
 | $70,500 | Stop loss level |
