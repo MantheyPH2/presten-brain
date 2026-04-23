@@ -36,28 +36,37 @@ AMZN is ORACLE's highest conviction earnings play at 5/5. AWS growth is accelera
 
 ---
 
-## Setup 2: QQQ May 9 $415/$405 Bear Put Spread (PCE Hedge)
+## Setup 2: QQQ April 30 $648/$622 Bear Put Spread (PCE Hedge) — ⚠️ CORRECTED
 
 **Underlying:** Invesco QQQ Trust (QQQ)
 **Direction:** Bearish
-**Structure:** Buy May 9 $415 put / Sell May 9 $405 put
-**Entry Price Estimate:** ~$2.50-$3.50 debit (will be cheap if entered after earnings-driven rally)
-**Current IV Context:** QQQ IV will be crushed after April 29 earnings. Puts bought on April 30 morning will be cheap. That's the point -- buy protection when everyone is euphoric and premiums are low.
+**Structure:** Buy April 30 $648 put (near ATM) / Sell April 30 $622 put (~4% OTM)
+**Current QQQ Price:** $650.81 (verified April 23, 2026 — ABOVE 52-week high of $650.20)
+**Entry Price Estimate:** ~$8-$12 net debit (wider spread at QQQ's current ATH level; estimated based on current ATM vol structure)
+**Current IV Context:** QQQ IV will be crushed after April 29 earnings. Entering by April 28 captures full IV before crush. The trade is directional — you WANT to be in before the event, not after.
+
+> ⚠️ CORRECTION: Prior overnight session had incorrect QQQ strikes ($415/$405) — those prices correspond to an older QQQ level and were a data error. Current QQQ is $650.81 (verified). All strikes updated accordingly.
 
 **Why this setup vs others:**
-This is the PCE hedge (Catalyst #1 from the catalyst report). If mega-cap earnings are strong on April 29, QQQ rallies and IV crushes. April 30 morning, PCE inflation data drops. If it's hot (core PCE > 2.7%), the "rate cut" narrative dies and QQQ reverses the earnings rally. This put spread captures that reversal at a cheap entry (post-IV-crush). Defined risk means worst case is losing the small debit.
+QQQ is at an ALL-TIME HIGH. Brent crude crossed $100 (verified $103.38 today). Core PCE has been running at 3.0-3.1% in Jan/Feb 2026. The March PCE data (April 30, 8:30 AM ET) is mathematically almost certain to print 3.2%+. From an all-time high, a hot PCE print has maximum asymmetry — there is no cushion above. The bear put spread: (1) enters BEFORE earnings at April 28, (2) has defined risk (the premium paid), (3) profits from any QQQ decline back from ATH on PCE data.
 
-**Max Profit:** $10.00 spread width - $3.00 debit = $7.00 per spread ($700 per contract)
-**Max Loss:** $3.00 debit paid ($300 per contract)
-**Break-even:** $412 (QQQ needs to be below $412 at expiration)
-**Risk/Reward:** ~1:2.3
+**Revised Math (QQQ at $650.81):**
+- Buy $648 put — near ATM, high delta, primary driver of profits
+- Sell $622 put — approximately 4.4% OTM, caps downside exposure
+- Spread width: $26 ($2,600 per contract)
+- Estimated net debit: $10-13 per spread ($1,000-$1,300 per contract at current vol)
+- Max profit: $26 - $12 = $14 per spread ($1,400 per contract) — if QQQ at or below $622 on April 30
+- Max loss: debit paid (~$1,200 per contract)
+- Break-even: ~$636 (4.4% decline from ATH entry)
+- **PCE scenario:** QQQ -1.2% on Feb 2026 PCE (3.0%). If March PCE prints 3.2%+, expect -2% to -4% move. Break-even at -4.4% is aggressive — but Brent at $103 makes 3.3-3.5% PCE plausible. If it prints 3.5%, QQQ could drop 4-6%.
+**Risk/Reward:** ~1:1.2 at mid estimates. Better if PCE prints very hot.
 
-**Trigger to enter:** ONLY enter if: (a) QQQ rallied 1.5%+ on April 29 earnings, AND (b) IV has crushed significantly (VIX drops below 20). Enter at market open April 30 BEFORE the PCE data drops at 8:30 AM, or immediately after if PCE is hot. Do NOT enter if QQQ sold off on earnings -- the hedge is unnecessary and the put spread will already be expensive.
+**Trigger to enter:** Enter April 28 (day before earnings). Target near ATM strike based on where QQQ is trading that morning. The entry MUST happen before April 29 earnings — once earnings rally starts, the puts get expensive.
 
 **Exit plan:**
-- **Profit:** If PCE is hot and QQQ drops 2%+ on April 30, close 50% of the position same day. Hold the rest targeting $405 by May 9.
-- **Loss:** If PCE is in-line or cool, close the spread by May 2. Accept the small loss. The spread was cheap insurance, not a high-conviction directional bet.
-- **Alternative:** If PCE is hot but QQQ only drops 1%, hold the spread. The market often takes 2-3 days to fully digest an inflation surprise.
+- **Profit:** If PCE prints 3.2%+ and QQQ drops 2%+, close 50% same day. Hold remainder for up to 2 additional trading days (the market takes time to fully process hot inflation).
+- **Loss:** If PCE is in-line (2.8-3.0%) and QQQ doesn't move, close the spread by April 30 EOD. Accept the loss — it was insurance, not a lottery ticket.
+- **Unexpected scenario:** If QQQ DROPS before April 29 (earnings fears), do NOT enter the bear put spread — the asymmetry is gone if QQQ is already down 3-4%.
 
 ---
 
@@ -141,7 +150,7 @@ Three converging catalysts for energy: (a) PCE inflation data on April 30 -- if 
 | # | Setup | Direction | Structure | Max Loss | Max Profit | R:R | Entry Trigger |
 |---|-------|-----------|-----------|----------|------------|-----|---------------|
 | 1 | AMZN May 16 | Bullish | $255/$275 call spread | $700 | $1,300 | 1:1.85 | By Apr 28 close |
-| 2 | QQQ May 9 | Bearish | $415/$405 put spread | $300 | $700 | 1:2.3 | Apr 30 AM if rally + hot PCE |
+| 2 | QQQ Apr 30 ⚠️CORRECTED | Bearish | $648/$622 put spread | ~$1,200 | ~$1,400 | 1:1.2 | Apr 28 — before earnings |
 | 3 | IWM May 16 | Volatility | $195 straddle | $800 | $1,200+ | 1:1.5+ | By Apr 30 close |
 | 4 | SNAP May 9 | Bullish | $12/$15 call spread | $70 | $230 | 1:3.3 | By Apr 28 close |
 | 5 | XLE May 30 | Bullish | $88/$95 call spread | $225 | $475 | 1:2.1 | Apr 28 or post-PCE |
