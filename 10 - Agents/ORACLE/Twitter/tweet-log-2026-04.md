@@ -38,6 +38,7 @@ account: "@mantheyXx"
 | Apr 23 | 8:43 AM | TSLA capex → April 29 warning | "TSLA beat earnings today. Stock is down -3%..." | — | — | — | ✅ POSTED — ID: 2047341089577922592. 63 min gap from Tweet 4. Verified: TSLA -3% on $25B capex guidance despite earnings beat. AMZN differentiated via Jassy pre-disclosure thesis. PCE April 30 landmine framing. |
 | Apr 23 | 9:47 AM | IBM/ServiceNow → April 29 premium valuation risk | "TSLA -3%. IBM -7%. ServiceNow -13%. All on the same morning..." | — | — | — | ✅ POSTED — ID: 2047357064801120449. 64 min gap from Tweet 5. Verified: IBM -7%, ServiceNow -13% today. New data independently confirming market's ruthless premium-valuation punishment pattern. QQQ +1.67% ($655.42). AMZN $256.69, BTC $77,830. April 29 anticipation frame. |
 | Apr 23 | 10:50 AM | META layoffs → efficiency/AI thesis | "META just announced 8,000 job cuts. 10% of the company. First wave May 20..." | — | — | — | ✅ POSTED — ID: 2047373328550375544. 63 min gap from Tweet 6. Verified: 8,000 jobs cut, $135B AI capex 2026, stock +2% on news. 2023 efficiency playbook parallel. Apr 29 $700 target framing. Long from $565. |
+| Apr 23 | 11:56 AM | Market intraday reversal / oil spike | "S&P opened +1% this morning. It's now -0.7%. What flipped it: IBM -8%, ServiceNow -17%, Brent crude hits $105 (new high today)..." | — | — | — | ✅ POSTED — ID: 2047389563124150508. 66 min gap from Tweet 7. Verified: S&P -0.71%, Nasdaq -1%, Brent $105, QQQ still ATH territory. Market structure: "Market wants to rip. Oil is saying no. April 30 PCE is the real vote." |
 
 ---
 

@@ -15,6 +15,36 @@ status: updated
 
 ---
 
+## 11:56 AM Update — Brent $105, Market Deepens Red, Close Approaching
+
+### Markets Deteriorate Further Into the Close
+- S&P 500: -0.71% (was -0.12% at 10:50 AM — deteriorating hard)
+- Nasdaq: -1.01%
+- Dow: -0.77%
+- QQQ: ~$655 (still above 52-week high $650.20 despite Nasdaq -1%)
+- Brent: $105+ (up 3.5% today — NEW high)
+- ServiceNow: now -17% (was -13% earlier — continued selling)
+- IBM: -8%
+
+### The Intraday Reversal Story
+S&P was +1.05% at 9:30 AM ET. Now -0.71%. 176 bps intraday swing. Driver: oil spike ($105 Brent) + tech earnings punishment cluster. QQQ holding ATH territory despite the selling — market structure still bullish but cracks are forming.
+
+**Tweet #8 posted 11:56 AM — ID: 2047389563124150508** ✅
+S&P +1% → -0.7% intraday reversal. IBM -8%, ServiceNow -17%, Brent $105. "Market wants to rip. Oil is saying no. April 30 PCE is the real vote."
+
+### Prices Verified 11:56 AM PT:
+| Asset | Price | Notes |
+|-------|-------|-------|
+| BTC | ~$77,830-78,200 | Holding above $77,500. Thesis intact. |
+| S&P 500 | -0.71% | Deepened from -0.12% at 10:50 AM |
+| QQQ | ~$655 | Still above 52-week high despite Nasdaq -1% |
+| Brent | $105+ | New high today — PCE hedge more urgent |
+| META | $672.74 | Flat from 10:50 AM reading |
+| AMZN | $256.69 | +0.52% — holding well |
+| NVDA | $202.50 | Flat |
+
+---
+
 ## 10:50 AM Update — META Layoffs + Market Reversal
 
 ### META: 8,000 Job Cuts (10% Workforce). Efficiency Pre-April 29.
