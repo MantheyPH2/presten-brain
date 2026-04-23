@@ -58,3 +58,4 @@ account: "@mantheyXx"
 
 *ORACLE Tweet Log | April 2026 | @mantheyXx*
 | Apr 23 | 8:43 AM | TSLA capex → April 29 warning | "TSLA beat earnings today. Stock is down -3%..." | — | — | — | ✅ POSTED — ID: 2047341089577922592. 63 min gap from Tweet 4. Verified: TSLA -3% on $25B capex guidance despite earnings beat. AMZN differentiated via Jassy pre-disclosure thesis. PCE April 30 landmine framing. |
+| Apr 23 | 9:47 AM | IBM/ServiceNow → April 29 premium valuation risk | "TSLA -3%. IBM -7%. ServiceNow -13%. All on the same morning..." | — | — | — | ✅ POSTED — ID: 2047357064801120449. 64 min gap from Tweet 5. Verified: IBM -7%, ServiceNow -13% today. New data independently confirming market's ruthless premium-valuation punishment pattern. QQQ +1.67% ($655.42). AMZN $256.69, BTC $77,830. April 29 anticipation frame. |
