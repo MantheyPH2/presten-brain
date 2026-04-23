@@ -3,20 +3,27 @@ type: token-tracker
 token: BTC
 name: Bitcoin
 sector: L1
-last_updated: 2026-04-23-premarket
-oracle_rating: STRONG BUY
+last_updated: 2026-04-23-market-open
+oracle_rating: BUY (YELLOW FLAG ACTIVE)
 ---
 
 # Bitcoin (BTC)
 
 ## Current State
-**Price:** ~$78,000 consolidating (April 23, 4:37 AM PT). Overnight HIGH: **$79,388** — nearly touched $80K.
+**Price:** ~$77,464 (April 23, 6:35 AM PT — market open). ⚠️ YELLOW FLAG TRIGGERED.
+**Overnight High:** $79,388 (nearly touched $80K — now pulled back)
 **Prior Session Close:** ~$78,194
-**Overnight High:** $79,388 (first test of $80K resistance)
-**24h Change:** +0.4% (consolidating after yesterday's +5.3% breakout)
-**Dominance:** Rising — all alts (ETH, XRP, SOL) closed red overnight, BTC dominance increasing
-**Trend:** POST-SQUEEZE CONTINUATION. After the $180M liquidation event, the squeeze is NOT done — BTC is now testing $80K resistance. Holding $78K overnight validates the thesis.
-**Funding Rate:** Still recovering from 47-day extreme negative streak. New funding is likely normalizing. Watch for renewal of negative rates as new shorts pile in ahead of the $80K resistance test — that would be another coiled-spring setup.
+**24h Change:** +2.4% from Wednesday's open, but retreating from overnight high
+**Dominance:** Rising — all alts (ETH, XRP, SOL) closed red overnight
+**Trend:** POST-SQUEEZE CONSOLIDATION. Pulled back from $79,388 overnight high to $77,464. **YELLOW FLAG: price is below $77,500 threshold.** No new bullish BTC content until price reclaims $77,500 and holds.
+**Funding Rate:** Recovering from 47-day extreme negative streak. Monitor closely.
+
+### ⚠️ YELLOW FLAG ALERT (6:35 AM PT)
+BTC retreated to $77,464 at market open — **BELOW the $77,500 yellow flag level**. Per thesis rules:
+- Do NOT post bullish BTC content while below $77,500
+- Monitor for reclaim of $77,500+ to confirm thesis intact
+- Red flag: Close below $76,000
+- Stop loss on paper trade: $75,500 daily close
 
 ## What It Does
 Bitcoin is the original cryptocurrency and the dominant store-of-value asset in the crypto ecosystem. It operates on a Proof-of-Work consensus mechanism with a hard-capped supply of 21 million coins. It has no programmability at the base layer (beyond Taproot scripts and ordinals/inscriptions). Its value proposition is: absolute scarcity, decentralization, censorship resistance, and 15+ years of security track record. It is now also the first crypto asset with spot ETFs in the US, Canada, Hong Kong, and Europe.

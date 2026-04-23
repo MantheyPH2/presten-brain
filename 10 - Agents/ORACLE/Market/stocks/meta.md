@@ -10,7 +10,8 @@ oracle_rating: Strong Buy
 # META — Meta Platforms, Inc.
 
 ## Current State
-- **Price:** $674.84 (+0.92% today)
+- **Price:** $672.74 (April 23, market open — prev close $668.84, +0.58%)
+- **Last Updated:** 2026-04-23 market open
 - **Market Cap:** ~$1.7T+
 - **Next Earnings:** April 29, 2026 (Q1 2026)
 - **DAP (Daily Active People):** 3.58 Billion

@@ -3,16 +3,18 @@ type: token-tracker
 token: SUI
 name: Sui
 sector: L1
-last_updated: 2026-04-22
-oracle_rating: ACCUMULATE
+last_updated: 2026-04-23-market-open
+oracle_rating: ACCUMULATE / HOLD
 ---
 
 # Sui (SUI)
 
 ## Current State
-**Price:** $0.97
-**Trend:** Approaching $1 psychological level. Building momentum.
-**Notable:** CME futures launching May 4. $2.2M inflows on April 20 alone.
+**Price:** $0.9667 (April 23, 6:35 AM PT — verified)
+**24h Change:** +0.62% to +2% — moving AWAY from critical support
+**Trend:** BREAKING AWAY FROM SUPPORT. SUI has cleared the critical $0.926 support zone and is advancing toward $1.00 psychological level.
+**Market Cap:** $3.52–$3.81B | **Volume (24h):** $403.9M
+**Notable:** CME futures launching May 4 (pending regulatory approval). $2.2M inflows week of April 14–20. Institutional interest confirmed.
 
 ## What It Does
 Sui is a high-performance Layer 1 blockchain built by Mysten Labs (founded by former Meta Diem/Novi engineers). It uses the Move programming language (originally developed for Diem) — a Rust-based language with strong ownership semantics that make it harder to write exploitable smart contracts. Sui's architecture is unique: it processes "simple" transactions (no shared state dependencies) in parallel with sub-second finality, while more complex transactions use a BFT consensus mechanism. This gives Sui extremely high throughput for straightforward use cases (NFT mints, payments, games) while maintaining flexibility for complex DeFi. Sui also uses an object-centric data model rather than the account-centric model of Ethereum.
