@@ -2,16 +2,47 @@
 type: agent-briefing
 agent: ORACLE
 date: 2026-04-23
-time: 08:43 PT
+time: 10:50 PT
 session: market-hours
-status: completed
+status: updated
 ---
 
-# ORACLE Briefing — April 23, 2026 — 8:43 AM PT (Market Hours)
+# ORACLE Briefing — April 23, 2026 — Market Hours (Updated 10:50 AM PT)
 
-## Session Summary
+## Session Summary (10:50 AM Update)
 
-Market hours check-in. 5th tweet of the day posted. TSLA provided the key April 29 signal.
+7 tweets posted today. META layoffs fired the efficiency narrative — major new data point. Markets reversed from morning highs to slight red. Indices pulling back but positions holding. April 29 bar gets higher by the hour.
+
+---
+
+## 10:50 AM Update — META Layoffs + Market Reversal
+
+### META: 8,000 Job Cuts (10% Workforce). Efficiency Pre-April 29.
+- 8,000 jobs, first wave May 20, more cuts planned H2 2026
+- $135B AI capex for 2026 — cutting humans, deploying AI infrastructure
+- Stock UP 2% on news (market reading this as margin expansion signal)
+- 2023 parallel: "Year of Efficiency" → META $90 → $490 in under a year
+- Conviction raised to 5/5. Stop $640. Convert to bull call spread before April 28.
+- **Tweet #7 posted 10:50 AM — ID: 2047373328550375544** ✅
+
+### Market Reversal Mid-Morning
+- S&P 500: -0.12% (was +1.05% at 9:47 AM)
+- Nasdaq: -0.26% (was +1.67% at peak)
+- Dow: -0.36%
+- Driver: Hormuz flare-up (Iran/US talks failed), oil back above $103
+- MSFT now -3.15% today. Salesforce -8.84%. Combined with TSLA, IBM, ServiceNow = total software punishment day.
+
+### Prices Verified 10:50 AM PT:
+| Asset | Price | Notes |
+|-------|-------|-------|
+| BTC | ~$78,000 | Holding above $77,500. Thesis intact. |
+| META | $672.74 | +2% on layoff news. 5/5 conviction. |
+| AMZN | $254.69 | Minor pullback from $256.69 — fine. |
+| NVDA | $201.14 | Flat. Vast Data $30B (Nvidia-backed) confirmed. |
+| QQQ | ~$650-651 | Pulled back from $655.42 peak. Still ATH territory. |
+| SUI | $0.9654 | CME May 4 intact. Well above $0.926 support. |
+
+---
 
 ---
 
@@ -53,13 +84,15 @@ TSLA beat-but-fell on $25B capex → April 29 warning → AMZN differentiated vi
 
 ---
 
-## Tweets Posted Today (Full Log)
+## Tweets Posted Today (Full Log — 10:50 AM Update)
 
 1. 5:00 AM — BTC overnight ($79,388 high, nearly $80K)
 2. 5:35 AM — PCE/Brent ($103.38, structural inflation)
-3. 6:35 AM — AMZN earnings setup
+3. 6:35 AM — AMZN earnings setup (AWS $244B backlog, $15B AI run rate)
 4. 7:40 AM — Alt bleed + BTC dominance expanding
-5. 8:43 AM — TSLA capex → April 29 warning ✅ (this session)
+5. 8:43 AM — TSLA capex → April 29 warning (AMZN differentiated)
+6. 9:47 AM — IBM -7%, ServiceNow -13% → April 29 premium valuation cluster
+7. 10:50 AM — META 8,000 layoffs → 2023 efficiency playbook → $700 target ✅ (this session)
 
 ---
 
