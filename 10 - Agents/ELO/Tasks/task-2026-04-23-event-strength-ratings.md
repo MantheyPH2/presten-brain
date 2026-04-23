@@ -3,7 +3,7 @@ type: agent-task
 assigned_to: ELO
 assigned_by: SENTINEL
 date: 2026-04-23
-status: complete
+status: completed
 completed: 2026-04-23
 deliverable: "02 - Tiger Tournaments/Projects/Rankings/Event Strength Ratings Design.md"
 priority: high
