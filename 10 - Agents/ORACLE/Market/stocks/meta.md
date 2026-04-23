@@ -3,23 +3,24 @@ type: stock-tracker
 ticker: META
 name: Meta Platforms, Inc.
 sector: Technology / Communication Services
-last_updated: 2026-04-22
+last_updated: 2026-04-22 (evening)
 oracle_rating: Strong Buy
 ---
 
 # META — Meta Platforms, Inc.
 
 ## Current State
-- **Price:** ~$560–$580 (est., exact price not reported in data — update on next market open)
-- **Market Cap:** ~$1.5T+
+- **Price:** $674.84 (+0.92% today)
+- **Market Cap:** ~$1.7T+
 - **Next Earnings:** April 29, 2026 (Q1 2026)
 - **DAP (Daily Active People):** 3.58 Billion
+- **Trading at:** 22x forward earnings
 
 ## Business Overview
 Meta operates Facebook, Instagram, WhatsApp, Threads, and the Reality Labs (Quest VR/AR) division. Revenue is ~98% advertising. The AI advertising platform (Advantage+) is a step-function improvement in ad ROI that is driving accelerating revenue growth even as the industry normalizes.
 
 ## Recent Developments
-- **April 22 update:** META tracking broader market weakness (S&P -0.63%, Nasdaq streak snapped). The risk-off into Apr 29 earnings may create a better entry. TSLA earnings miss irrelevant to META. Iran tension is the macro risk to monitor.
+- **April 22 evening update:** META at $674.84 — has BLOWN THROUGH all prior resistance levels ($595, $620, $650 ATH zone). Stock is up 200%+ over the past three years. Iran ceasefire extension + risk-on market drove broad tech rally. Nasdaq hit fresh ATH. The earnings setup into April 29 is very different now — stock is richly priced and expectations are high. A beat needs to be substantial or the stock drifts after earnings.
 - **Advantage+ at $60B annual revenue run rate** — AI-powered ad automation now majority of delivery
 - **3.58B Daily Active People** — the largest social network moat in history; untouchable scale
 - Threads growing rapidly — approaching 200M+ users; monetization unlocking in 2026
@@ -64,18 +65,21 @@ Meta operates Facebook, Instagram, WhatsApp, Threads, and the Reality Labs (Ques
 - AI capex ($65B+ guided for 2026) is enormous — any ROI doubt = selloff
 
 ## Options Play
-**Trade:** Buy META May 9 $590 Call
-- **Cost:** ~$12–$15 (post-earnings week)
-- **Thesis:** Advantage+ beat + $60B run rate guided higher + Threads monetization = $610-$640 post-earnings
-- **Alternative:** META Apr 30 $575/$600 Bull Call Spread (overnight earnings play)
-  - Cost: ~$7 debit, max $18 profit
-  - Win condition: META beats on revenue and DAP, guides Q2 higher
+**PRIOR trade (now deep ITM, stale):** May 9 $590 Call — obsolete at $674. 
+**Updated trade into April 29 earnings:**
+- META Apr 30 $680/$710 Bull Call Spread (overnight earnings play)
+  - Thesis: Advantage+ beat + elevated expectations already baked in — needs a strong beat to go higher
+  - Win condition: Revenue beat + Q2 guidance raise + Advantage+ run rate above $65B
+  - Risk: Stock is richly priced at $674 — any miss or soft guidance = -5% to -8% snap
+- **Alternative hedge:** May 2 $650 Put as downside protection (earnings straddle) — stock has moved a LOT into earnings; implied move may be cheap relative to actual risk
 
 ## ORACLE's Take
-META is the most underrated AI stock in the Mag 7. While everyone focuses on NVDA chips and MSFT Azure, META is already MONETIZING AI at $60B annual run rate through Advantage+. The ad platform improvement is real, measurable, and expanding. 3.58B daily users is an unassailable moat. **Strong Buy into Apr 29 earnings. This is my highest-conviction earnings play of the week alongside AMZN.**
+META has RUN. At $674, the stock has already priced in a lot of good news. The Advantage+ thesis is working, the buy on weakness strategy into the dip never materialized — META ripped straight through all resistance. **The trade now is trickier: I'm long from $565 in paper trade so still in profit, but the risk/reward is less attractive at $674 than it was at $565. Watch for the actual earnings beat magnitude. A small beat doesn't move this stock higher from here — you need a blowout.**
 
-## Key Levels
-- **Support:** $545 (key), $520 (major)
-- **Resistance:** $595, $620, $650 (ATH zone)
-- **Stop Loss (swing):** Close below $530
-- **Target (3-month):** $620–$650
+## Key Levels (UPDATED)
+- **Current Price:** $674.84
+- **Support:** $650 (new), $620 (major), $595 (old ATH zone)
+- **Resistance:** $700 (psychological), $720 (next target if blowout earnings)
+- **Stop Loss (swing):** Close below $640
+- **Target (3-month, bull case):** $720–$750
+- **Bear case post-earnings:** $620 if guidance disappoints

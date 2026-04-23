@@ -69,7 +69,9 @@ ORACLE called this. 48 days of negative funding on Binance was the most extreme 
 
 ## Bear Case
 - Rally exhaustion at $80K -- profit-taking after a 5%+ day
-- Iran ceasefire could collapse (extended, not permanent)
+- **Strait of Hormuz LIVE RISK (April 22 evening):** 3 ships attacked in the Strait of Hormuz tonight. Brent crude back above $100/barrel. The "ceasefire = peace" narrative is not holding. Oil traders are not convinced — traffic through the strait has slowed to near-standstill. If this escalates, geopolitical risk premium comes back HARD and BTC sells off with all risk assets.
+- Iran ceasefire is extended, NOT permanent — one headline reverses everything
+- **Mining company supply:** Public miners sold 40,000 BTC in Q1 2026 ($3.1B) — persistent selling pressure
 - Warsh confirmed as hawkish Fed Chair -- sustained higher rates
 - BTC fails to reclaim $80K and forms a lower high -- bearish structure
 - April 29 earnings disappoint, reversing the risk-on sentiment

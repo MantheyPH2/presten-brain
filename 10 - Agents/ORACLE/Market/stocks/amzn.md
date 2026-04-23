@@ -10,8 +10,8 @@ oracle_rating: Strong Buy
 # AMZN — Amazon.com, Inc.
 
 ## Current State
-- **Price:** $250.56
-- **Market Cap:** ~$2.65T
+- **Price:** $255.36 (ALL-TIME HIGH CLOSE — April 22, 2026)
+- **Market Cap:** ~$2.7T
 - **Next Earnings:** April 29, 2026 (Q1 2026)
 - **AWS Revenue Run Rate:** ~$115B+ annually
 
@@ -19,7 +19,7 @@ oracle_rating: Strong Buy
 Amazon operates: Retail (North America + International), AWS (cloud computing), Advertising, and Prime/subscriptions. AWS is the world's largest cloud provider (~32% market share). Advertising is a high-margin $60B+ business growing 20%+. The stock is increasingly priced as a cloud/AI company with a retail optionality, not the other way around.
 
 ## Recent Developments
-- **April 22 update:** AMZN tracking broader weakness (S&P -0.63%). The pre-earnings dip toward $240 entry zone we flagged may materialize if Iran tensions escalate or Nasdaq continues to pull back from the broken streak. TSLA earnings miss is irrelevant to AMZN thesis.
+- **April 22 evening update:** AMZN closed at an ALL-TIME HIGH of $255.36. The pre-earnings dip to $240 never materialized — the Iran ceasefire extension + risk-on rally drove AMZN straight to ATH. Additionally, Amazon announced a **$25 BILLION investment in Anthropic** (Claude's parent company) — cementing AWS as the primary cloud provider for the most advanced AI models. This is a massive validation of the AWS AI thesis. 7 days to earnings.
 - **AWS grew 24% in Q4 2025** — acceleration from prior quarters (21% → 24%)
 - **AI revenue on AWS: $15B annually** — fastest growing product in Amazon's history
 - AWS AI services (Bedrock, SageMaker, Trainium chips) competing directly with Azure OpenAI
