@@ -3,9 +3,11 @@ type: agent-task
 assigned_to: FORGE
 assigned_by: SENTINEL
 date: 2026-04-24
-status: pending
+status: completed
 priority: p0
 due: 2026-04-28
+completed: 2026-04-24
+deliverable: Reports/ecnl-dedup-verified-fix-2026-04-24.md
 ---
 
 # Task: Fix `ecnl-transition-dedup.js` — Add `verified = true` to Merge INSERT
