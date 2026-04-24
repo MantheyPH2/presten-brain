@@ -2,7 +2,7 @@
 title: Source Gap Inventory — April 2026
 tags: [infrastructure, sources, gap-analysis, coverage, evo-draw, forge]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-24 (rows updated at 15:46 — USL Academy, EDP, Elite 64, NAL provisional research added; org ID confirmation pending Presten browser lookup)
 author: FORGE
 status: complete
 task: task-2026-04-24-source-gap-inventory
@@ -35,10 +35,10 @@ task: task-2026-04-24-source-gap-inventory
 | **ECNL RL Boys** | Boys | GotSport API (priority 1) | event_tier = `ecnl_rl` | Unknown — query needed | Active | ~400 boys clubs. Same override rules as Girls. |
 | **NPL** | Both | GotSport API (priority 1) | event_tier = `npl` | Unknown — query needed | Active | Merit-based promotion system. Integrating with USYS National League for 2026-27. |
 | **DPL** | Girls | GotSport API (priority 1) | event_tier = `dpl` | Unknown — query needed | Active | Girls-focused, GA pathway. Calibration 55. |
-| **USL Academy** | Boys | GotSport API (priority 1) | org_id unknown | Unknown | Stale | 90 clubs with professional pathway. GotSport org_id not confirmed in config. Requires browser lookup to confirm org_id and whether events are indexed via ranked discovery. |
-| **Elite 64** | Both | Unknown | None confirmed | N/A | No source | GotSport presence unknown. No org_id configured. Requires research. |
-| **EDP (Eastern Development Program)** | Both | GotSport API (priority 1) | event_tier = `edp` (assumed) | Unknown — query needed | Partial | Eastern regional league. Likely ingested via GotSport ranked-team discovery but org_id not in explicit config. Requires DB query to confirm. |
-| **NAL (North American League)** | Both | Unknown | None confirmed | N/A | No source | Platform and GotSport presence unknown. Requires research. |
+| **USL Academy** | Boys | GotSport API (priority 1) | org_id pending lookup | Unknown — query needed | Stale/Partial | 90 clubs with professional pathway (U13–U19). USL Soccer is a major GotSport-platform organization; **high probability GotSport org_id exists.** Lookup: `system.gotsport.com` → search "USL Academy" or "United Soccer League." If org_id confirmed: add to crawl config (same process as USYS state org expansion). Flag for Presten to add. |
+| **Elite 64** | Both | GotSport (likely — via US Club Soccer) | org_id pending lookup | N/A | No source | Elite 64 is affiliated with US Club Soccer, which is a primary GotSport organization. **High probability Elite 64 events appear under a US Club Soccer or dedicated org_id on GotSport.** Lookup: `system.gotsport.com` → search "Elite 64" or "US Club Soccer." Game volume unknown — likely moderate (national championship/showcase format, not full-season). |
+| **EDP (Eastern Development Program)** | Both | GotSport API (priority 1) | org_id pending lookup | Unknown — query needed | Partial | Major northeastern regional league (NJ, NY, PA, CT, MA, MD, RI, DE, VA, VT). ~150+ clubs, U8–U19. **EDP Soccer is a known GotSport organization.** Likely ingested via ranked-team discovery already; org-level explicit config not confirmed. Lookup: `system.gotsport.com` → search "Eastern Development Program" or "EDP Soccer." DB query to confirm existing ingestion: `SELECT COUNT(*) FROM games WHERE event_name ILIKE '%EDP%'` |
+| **NAL (North American League)** | Both | Unknown — research needed | None confirmed | N/A | No source | Platform genuinely unknown as of 2026-04-24. NAL appears at Tier 2 alongside USL Academy and EDP in the League Hierarchy. Could be on GotSport or an independent platform. **Required next step:** identify NAL website → check result publication platform. Search GotSport for "North American League" or "NAL Soccer." If results found on an independent platform, flag for scraper feasibility assessment. |
 | **Pre-ECNL** | Both | GotSport API (priority 1) | event_tier = `pre_ecnl` | Unknown — query needed | Active | U10-U12 developmental. 300+ clubs. Calibration 25. `resolveTeamTier()` enforces correct tier. |
 | **State Leagues — GotSport states** | Both | GotSport API (priority 1) | USYS state org IDs (expansion in progress) | Unknown — query needed | Partial | Ranked-division teams discovered via rankings endpoint. Unranked divisions (state cup/state league) **invisible** without org-level discovery. Expansion task adds 9 state org IDs (TX, CA, FL, NY, NJ, PA, WA, OH, CO). |
 | **State Leagues — Illinois (Affinity Soccer)** | Both | None | None | N/A | No source | IL uses Affinity Soccer, not GotSport. Deprioritized: post-DSS. Est. 5,000–15,000 games/year gap. See [[Affinity Soccer Source Research]]. |
@@ -55,13 +55,13 @@ task: task-2026-04-24-source-gap-inventory
 
 1. **USYS State Cup/League unranked divisions** — 20,000–35,000 games estimated missing. GotSport org-ID expansion task addresses this (TX, CA, FL, NY, NJ, PA, WA, OH, CO). Partial solution in progress.
 2. **Illinois State Leagues (Affinity Soccer)** — 5,000–15,000 games/year. No ingestion path. Post-DSS.
-3. **Elite 64** — game volume unknown. No GotSport org_id confirmed. Requires research.
-4. **NAL (North American League)** — game volume unknown. No source confirmed. Requires research.
+3. **Elite 64** — game volume unknown. No org_id confirmed. Likely on GotSport via US Club Soccer. Requires browser lookup to confirm GotSport org_id. If confirmed: config update path (same as USYS state expansion). If not on GotSport: research alternative source. **Go/No-Go: conditional — if GotSport org_id confirmed, GO for config addition. If not, assess game volume before committing to new scraper.**
+4. **NAL (North American League)** — game volume unknown. Platform unknown. Requires website + GotSport search. **Go/No-Go: defer until platform confirmed. If <5,000 games/year, deprioritize post-DSS. If >5,000 games/year and on GotSport, recommend config addition.**
 
 ### Priority 2 — Stale or partial source
 
-1. **USL Academy** — GotSport org_id not confirmed in config. 90 clubs. Likely ingested via ranked-team discovery only; org-level discovery not confirmed. Requires browser lookup to retrieve org_id.
-2. **EDP** — No explicit org_id in config. Ingested only if EDP teams appear in ranked discovery. Org_id unknown.
+1. **USL Academy** — GotSport org_id not confirmed in config. 90 clubs. USL Soccer is a GotSport organization — high probability org_id exists. Lookup: `system.gotsport.com` → "USL Academy." If confirmed: add to config (same path as USYS state expansion). Requires Presten browser lookup; flagged for next session.
+2. **EDP** — No explicit org_id in config. EDP Soccer is a known GotSport organization (~150+ clubs, Northeast). May already have game ingestion via ranked-team discovery. Confirmation requires DB query (`SELECT COUNT(*) FROM games WHERE event_name ILIKE '%EDP%'`) + browser lookup for org_id. Flagged for Presten session.
 3. **ECNL RL Boys/Girls** — Active source but last ingestion date unverified. Query needed to confirm recent games.
 4. **NPL/DPL** — Active source but last ingestion date unverified.
 5. **GA ASPIRE** — Misclassified as `ga` tier until April 28 fix executes. Post-fix: active.
@@ -80,8 +80,8 @@ task: task-2026-04-24-source-gap-inventory
 
 - **USYS State Cup/League (unranked)** — Run TX org-ID test crawl (Presten execution, per `Infrastructure/Pipeline Deployment Validation Spec — April 2026.md` Section 2). Once test passes, add all P1 state org IDs from `Data Sources/GotSport USYS Org-ID Master List.md`.
 - **Illinois (Affinity Soccer)** — Deprioritize until post-DSS. Revisit June 2026 after migration stabilizes.
-- **Elite 64** — Assign to FORGE: research GotSport org_id or alternative source. Low priority if game volume is <5,000/year.
-- **NAL** — Assign to FORGE: confirm platform (GotSport or other). Likely low volume.
+- **Elite 64** — Browser lookup at `system.gotsport.com` → search "Elite 64" and "US Club Soccer." **If org_id found:** note the org_id, add one-line annotation "Org-ID confirmed — pending Presten config addition," promote status to Active. **If not found:** check Elite 64 official website for result publication platform; document platform name for scraper feasibility assessment. Game volume estimate needed before committing build time.
+- **NAL** — Two-step: (1) Search GotSport for "North American League" or "NAL Soccer." (2) If not found, identify NAL's official website and check result format. **If on GotSport:** same config-add path as USYS states (low effort). **If on third-party platform:** estimate game volume first — deprioritize if <5,000 games/year. **If no public results available:** flag as inaccessible, remove from Priority 1 list.
 
 ### Priority 2 Gaps
 

@@ -2,7 +2,7 @@
 title: April 28 Escalation Reference Card
 tags: [execution, escalation, p0, sentinel, evo-draw]
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-24 (Section 3 integrated from ELO's ga-aspire-tier-fix-2026-04-24.md at 15:46)
 author: FORGE
 status: ready — use on April 28, 2026
 task: task-2026-04-24-april28-escalation-reference-card
@@ -70,41 +70,75 @@ WHERE merge_type = 'ecnl_transition'
 
 ## Section 3: Item 2 — GA ASPIRE Tier Fix (~45–60 min)
 
-> [!warning] GA ASPIRE SQL NOT FOUND
-> `Reports/ga-aspire-tier-fix-2026-04-[date].md` does not exist in the vault. `Rankings/calibration-fix-pre-deploy-2026-04-23.md` covers U12/U13/U14/U19 calibration — it does not contain GA ASPIRE SQL.
->
-> **SENTINEL must locate or reconstruct the GA ASPIRE UPDATE SQL before this item can be executed.**
->
-> Check: ELO's GA calibration validation (`Reports/ga-calibration-validation-2026-04-23.md`) and the approved queue item (`10 - Agents/ELO/Queue/pending-2026-04-23-ga-calibration-review.md`). ELO approved adding `ga_aspire` at calibration 100. The SQL must be constructed from that spec or retrieved from ELO.
+> Source: `Reports/ga-aspire-tier-fix-2026-04-24.md` (ELO, filed 2026-04-24). Copy-paste all SQL below verbatim.
 
-**What the fix should do (from the ELO approval):**
-
-The GA ASPIRE fix requires:
-1. A new `ga_aspire` tier entry in the calibration system at value **100** (down from the current inherited GA value of 140).
-2. Events tagged as GA that contain "aspire" in the event name to be re-classified as `ga_aspire`.
-3. Estimated affected teams: **350–1,050** across 7 age groups.
-
-**Once the SQL is located or provided by ELO/SENTINEL:**
-
-```
-Expected execution:
-1. Open a psql session: psql -U p -h localhost -p 5432 youth_soccer
-2. Run the UPDATE statement to classify ASPIRE events
-3. Verify: check that affected_rows matches expected 350–1,050 range
-4. If pipeline does not recompute automatically, trigger: node scripts/compute-rankings.js
-```
-
-**Expected verification query (adapt when SQL is staged):**
+**Pre-condition — check Boys GA ASPIRE exposure (run first):**
 
 ```sql
--- After fix: confirm ga_aspire tier exists and has a reasonable event count
-SELECT event_tier, COUNT(*) as event_count
-FROM event_tiers
-WHERE event_tier IN ('ga', 'ga_aspire')
-GROUP BY event_tier
-ORDER BY event_tier;
--- Expected: ga_aspire row appears with N > 0 events
+SELECT g.gender, COUNT(DISTINCT g.id) AS game_count
+FROM games g
+JOIN events e ON e.id = g.event_id
+WHERE e.event_name ILIKE '%ASPIRE%'
+  AND e.event_tier = 'ga'
+GROUP BY g.gender;
 ```
+
+If Boys game_count > 0: this is safe to proceed — Boys GA calibration is already 100 (same as ga_aspire), so reclassification has no net rating impact for Boys. Note the count in your session log.
+
+**Step 1 — Scope verification:**
+
+```sql
+SELECT COUNT(*) AS events_to_reclassify, event_tier
+FROM events
+WHERE event_name ILIKE '%ASPIRE%'
+  AND event_tier = 'ga'
+GROUP BY event_tier;
+```
+
+Expected: some rows with `event_tier = 'ga'`. If **0 rows**: STOP — events may already be reclassified or the name pattern is wrong. Do not proceed.
+
+**Step 2 — Run the UPDATE:**
+
+```sql
+UPDATE events
+SET event_tier = 'ga_aspire'
+WHERE event_name ILIKE '%ASPIRE%'
+  AND event_tier = 'ga';
+```
+
+Note rows updated: ___. Must match `events_to_reclassify` from Step 1.
+
+**Step 3 — Verify:**
+
+```sql
+-- Confirm no GA ASPIRE events remain tagged as 'ga'
+SELECT COUNT(*) AS still_tagged_ga
+FROM events
+WHERE event_name ILIKE '%ASPIRE%'
+  AND event_tier = 'ga';
+-- Expected: 0
+
+-- Confirm ga_aspire tier is populated
+SELECT COUNT(*) AS now_tagged_aspire, MIN(event_name) AS sample_event
+FROM events
+WHERE event_tier = 'ga_aspire';
+-- Expected: > 0, matching rows updated in Step 2
+```
+
+**Step 4 — Recompute rankings.**
+
+The calibration change (140 → 100 for Girls GA ASPIRE) does not take effect until rankings are recomputed. Trigger: `node scripts/compute-rankings.js`. Post-recompute verification: see `Reports/ga-aspire-post-fix-verification-2026-04-28.md` (ELO spec — confirms avg rating shift <15 pts for U13/U14).
+
+**Rollback (if needed within 48 hours):**
+
+```sql
+UPDATE events
+SET event_tier = 'ga'
+WHERE event_name ILIKE '%ASPIRE%'
+  AND event_tier = 'ga_aspire';
+```
+
+Then recompute rankings to restore prior calibration.
 
 ---
 
@@ -114,7 +148,7 @@ After completing both items:
 
 ```
 □ ECNL P0 spec: May 1 calendar confirmed, INSERT spec reviewed
-□ GA ASPIRE fix: SQL staged by SENTINEL/ELO, executed, verification query returns ga_aspire row
+□ GA ASPIRE fix: UPDATE executed, Step 3 verification queries return (0, >0), post-recompute check passes per `Reports/ga-aspire-post-fix-verification-2026-04-28.md`
 □ Note completion time in Presten Session Plans log (Product & Planning/Presten Session Plans — April 2026.md)
 ```
 
