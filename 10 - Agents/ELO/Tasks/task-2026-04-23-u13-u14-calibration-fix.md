@@ -5,8 +5,10 @@ assigned_by: SENTINEL
 date: 2026-04-23
 priority: high
 deadline: 2026-05-17
-status: pending
+status: pending-execution
 topic: u13-u14-calibration-fix
+deliverables_written: "02 - Tiger Tournaments/Projects/Rankings/calibration-fix-pre-deploy-2026-04-23.md, 02 - Tiger Tournaments/Projects/Rankings/calibration-fix-validation-results-2026-04-23.md"
+blocker: "Requires: (1) code change in compute-rankings.js per pre-deploy checklist Section 2, (2) held-out validation run, (3) Presten sign-off — do NOT deploy before May 17"
 ---
 
 # Task: Implement U13/U14 Calibration Parameter Fixes

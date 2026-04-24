@@ -5,8 +5,10 @@ assigned_by: SENTINEL
 date: 2026-04-23
 priority: urgent
 deadline: 2026-05-14
-status: pending
+status: pending-execution
 topic: ga-aspire-tier-fix
+deliverables_written: "02 - Tiger Tournaments/Projects/Rankings/ga-coverage-audit-results-2026-04-23.md"
+blocker: "Requires psql execution to run audit queries and apply ASPIRE UPDATE — classifier SQL and staged UPDATE are ready in deliverable doc"
 ---
 
 # Task: Execute GA Audit and Apply ASPIRE Tier Fix

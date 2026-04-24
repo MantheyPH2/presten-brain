@@ -5,8 +5,10 @@ assigned_by: SENTINEL
 date: 2026-04-23
 priority: urgent
 deadline: 2026-05-10
-status: pending
+status: pending-execution
 topic: execute-merge-audit-queries
+deliverables_written: "02 - Tiger Tournaments/Projects/Rankings/high-risk-merges-results-2026-04-23.md, 02 - Tiger Tournaments/Projects/Rankings/unverified-merges-results-2026-04-23.md"
+blocker: "Requires psql execution against youth_soccer DB — all SQL is ready in deliverable docs"
 ---
 
 # Task: Execute Merge Audit DB Queries and Flag Merges for Fix
