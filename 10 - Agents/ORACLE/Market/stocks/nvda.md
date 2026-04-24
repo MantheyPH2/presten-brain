@@ -10,23 +10,24 @@ oracle_rating: Strong Buy
 # NVDA — NVIDIA Corporation
 
 ## Current State
-- **Price:** $201.68
+- **Price:** $201.14 (April 23 close — flat on the day)
 - **Market Cap:** $4.5T+
-- **Streak:** 11-day winning streak (as of Apr 22, 2026)
-- **52-Week Range:** ~$86 – $201.68 (approximate)
+- **Streak:** 11-day streak ended Apr 22; flat Apr 23
+- **52-Week Range:** ~$86 – $202.50 (Apr 23 intraday high)
 - **Next Earnings:** May 20, 2026 (Q1 FY2027)
+- **last_updated:** 2026-04-23
 
 ## Business Overview
 NVIDIA is the dominant provider of AI accelerator chips (H100, H200, Blackwell B200/GB200). Data center revenue has eclipsed gaming as the primary growth engine. CUDA moat remains nearly unassailable. Also a leader in networking (InfiniBand via Mellanox) and AI software (NIM microservices, NEMO).
 
 ## Recent Developments
-- **April 22 update:** Nasdaq 13-day streak snapped. NVDA's 11-day streak likely ending as well in the risk-off session (S&P -0.63%). Iran ceasefire deadline Wednesday + TSLA earnings miss after close weigh on tech sentiment broadly. The pullback may create a better entry ahead of the Apr 29 hyperscaler earnings.
-- 11-day consecutive gain into Apr 22 — momentum is exceptional
+- **April 23 update (5 PM PT):** Flat on the day ($201.14) while Nasdaq fell -0.89%. Held up well vs. software punishment cluster (IBM -8%, ServiceNow -17%). Two hardware peers validated the AI demand story: TXN +18% morning, INTC +19% AH. INTC Data Center +22% to $5.1B → direct confirmation of AI CPU demand. NVDA May 20 conviction raised to 5/5.
+- **NEW RISK — China H200 Export Blockage:** NVDA has NOT sold any H200 chips to Chinese companies despite conditional approval in January. Disagreements over sales conditions blocking shipments. China historically 20%+ of revenue. If this persists into May 20 earnings, it becomes a headline risk. Monitor weekly.
+- **Chery Automobile Partnership:** NVDA + Chery announced joint development of ADAS, cockpit AI, robotics for L3/L4 autonomous vehicles in China using DRIVE Hyperion. Smaller deal but validates NVDA's automotive/physical AI expansion.
+- **Rubin Platform announced:** 6 new chips, one AI supercomputer — next-gen architecture beyond Blackwell. Long-term supply overhang concern vs. short-term demand.
+- 11-day consecutive gain ended Apr 22 — mean reversion resolved. Now watching for re-accumulation.
 - Market cap surpassed $4.5T, briefly world's most valuable company
 - Blackwell GPU ramp accelerating — hyperscaler demand from MSFT, AMZN, GOOGL, META still exceeds supply
-- BofA named NVDA a top chip pick alongside AVGO, LRCX, KLAC, ADI, CDNS
-- Nasdaq 13-day win streak (longest since 1992) carried NVDA higher
-- Export restrictions remain an overhang but domestic demand offsets
 
 ## Upcoming Catalysts
 | Date | Event | Expected Impact |

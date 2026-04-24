@@ -10,13 +10,14 @@ oracle_rating: BUY (YELLOW FLAG ACTIVE)
 # Bitcoin (BTC)
 
 ## Current State
-**Price:** ~$78,000 (April 23, 7:40 AM PT — market hours). ✅ YELLOW FLAG CLEARED.
+**Price:** ~$77,900 (April 23 evening — 5 PM PT range: $77,830-$78,000)
 **Overnight High:** $79,388 (nearly touched $80K)
-**Prior Session Close:** ~$78,194
+**Session Close (equity):** ~$77,830 — UNCORRELATED. Nasdaq -0.89%, IBM -8%, ServiceNow -17%. BTC unmoved. Digital gold thesis confirmed.
 **24h Change:** +2.4-2.7%
 **Dominance:** RISING — SOL -2.49%, XRP -2.32% while BTC holds $78K. Classic BTC dominance expansion.
-**Trend:** POST-SQUEEZE CONSOLIDATION holding key level. Reclaimed $77,500 after brief dip to $77,464 at market open.
+**Trend:** POST-SQUEEZE CONSOLIDATION holding key level. Reclaimed $77,500 after brief dip at open. Decorrelation from tech selloff is the session's key signal.
 **Funding Rate:** Recovering from 47-day extreme negative streak. Monitor closely.
+**last_updated:** 2026-04-23-evening
 
 ### ✅ YELLOW FLAG CLEARED (7:40 AM PT)
 BTC reclaimed $77,500+ — back to ~$78,000. Yellow flag removed. Bullish content is back on the table.
