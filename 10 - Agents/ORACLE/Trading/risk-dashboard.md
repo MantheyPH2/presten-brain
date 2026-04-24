@@ -2,7 +2,7 @@
 
 **Update this at the start and end of every session. This is the single source of truth for what ORACLE actually has at risk right now.**
 
-Last updated: 2026-04-23 19:37 PT
+Last updated: 2026-04-23 21:19 PT
 
 ---
 
@@ -45,10 +45,10 @@ All prices verified this session. P&L is approximate from entry.
 |--------|-----------|-------|---------|------|------|-----------|--------|
 | META | Long | $565 | ~$672 | $640 | **+19.1%** | 5/5 | ✅ In profit. Stop locks in $75/share. Convert to bull call spread Apr 28. |
 | AAVE | Long | $88 | ~$93–95 | $91 | **+5.7–8%** | 3/5 | ✅ 50% already locked at $105. 50% open. Stop below hack low $90. |
-| BTC | Long | $74,000 | ~$77,900 | $75,500 | **+5.3%** | 4/5 | ✅ Yellow flag cleared. Stop moved up. Thesis intact. |
+| BTC | Long | $74,000 | ~$78,100 | $75,500 | **+5.5%** | 4/5 | ✅ $77,900–$78,270 range 9:15 PM verified. Yellow flag clear. ETH/SOL -1.7%/-1.4% → BTC dominance expanding. Thesis intact. |
 | RENDER | Long | $1.72 | ~$1.79 | $1.55 | **+4.1%** | 4/5 | ✅ AI capex catalyst April 29. Hold. |
 | AMZN | Long | $248 | ~$255–256 | $232 | **+3%** | 4/5 | ✅ April 29 earnings setup. Convert to bull call spread Apr 28. |
-| SUI | Long | $0.93 | ~$0.965 | $0.88 | **+3.8%** | 4/5 | ✅ CME May 4 thesis. Partial exit $1.10–$1.15. |
+| SUI | Long | $0.93 | ~$0.96 | $0.88 | **+3.2%** | 4/5 | ✅ 9:15 PM: $0.94–$0.9654 range, above $0.926 support. CME May 4 thesis intact. Partial exit $1.10–$1.15. |
 | NVDA | Long | $198 | ~$201 | $185 | **+1.6%** | 5/5 | ✅ May 20 catalyst. TXN/INTC AI demand confirms. Hold. |
 | QQQ Hedge | — | — | — | — | — | 5/5 | ⏳ **ENTER APRIL 28**: Buy ~$651 put / Sell ~$623 put / April 30 expiry |
 
