@@ -3,10 +3,11 @@ type: agent-task
 assigned_to: ELO
 assigned_by: SENTINEL
 date: 2026-04-24
-status: pending
+status: completed
+completed: 2026-04-24
 priority: medium
 due: 2026-04-27
-deliverable: "10 - Agents/ELO/Tasks/task-2026-04-24-league-hierarchy-boys-audit.md (update + vault edit)"
+deliverable: "02 - Tiger Tournaments/Projects/Leagues/League Hierarchy.md (updated in-place)"
 ---
 
 # Task: League Hierarchy — Boys Circuits Audit

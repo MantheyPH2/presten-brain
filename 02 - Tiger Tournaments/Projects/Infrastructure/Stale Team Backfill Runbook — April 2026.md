@@ -205,6 +205,15 @@ Review `teams_dlq` field in the summary. If >5% of the 50 teams ended in the DLQ
 
 ## Stage 3 — Remaining (480 Teams)
 
+> [!warning] SEQUENCING CONSTRAINT — READ BEFORE RUNNING STAGE 3
+> **Do NOT run Stage 3 on the same night as the first `run-daily.sh` pipeline run.**
+>
+> Stage 3 identifies stale teams using a snapshot of the `last_game_date` column. If the daily pipeline runs concurrently or immediately after Stage 3 begins, new game records may update `last_game_date` mid-scan, producing false negatives (teams incorrectly excluded from the backfill batch).
+>
+> **Correct sequence:** Complete the daily pipeline first. Confirm it succeeded (check `Logs/gotsport-sync/` for a `SYNC_RUN_SUMMARY` line and confirm `DAILY PIPELINE COMPLETED SUCCESSFULLY` in the daily log). Then run Stage 3 the following day.
+>
+> If you are unsure whether the daily pipeline has run for the first time yet, check: `logs/daily-pipeline-$(date +%Y-%m-%d).log` for the success marker, or use the verification command in `Infrastructure/Daily Pipeline Log Format Spec.md`.
+
 **Purpose:** Complete the full backfill of all 540 rate-limit casualties.  
 **Team IDs:** All remaining rows from the stale CSV (rows 61–540).  
 **Expected run time:** 6–10 hours at 600ms/request with backoff events.  

@@ -3,7 +3,7 @@ title: League Hierarchy
 aliases: [Tier System, League Tiers, Competitive Pathway]
 tags: [leagues, hierarchy, tiers, calibration, evo-draw, critical]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-24
 ---
 
 # League Hierarchy
@@ -95,22 +95,32 @@ Recreational → Select → Competitive → High Competitive → Elite → Profe
 
 ## Calibration Values (used in [[Ranking Engine]])
 
+> [!info] MLS NEXT Tier Split (pending May 18–20 implementation)
+> The unified `mlsnext: 160` value is being split into `mlsnext_homegrown: 160` and `mlsnext_academy: 135` per [[MLS NEXT Tier Split — Calibration Spec 2026-04-24]]. Values below reflect both current (unified) and post-split state.
+
 ### Boys
-| League        | Calibration Points |
-| ------------- | ------------------ |
-| [[MLS NEXT]]  | 160                |
-| [[ECNL]]      | 120                |
-| GA             | 100                |
-| NPL / DPL / [[ECNL RL]] | 55      |
-| [[Pre-ECNL]]  | 25                 |
+
+| League | Cal Value | Post-Split Cal | Validation Status | Notes |
+|--------|-----------|---------------|-------------------|-------|
+| MLS NEXT (unified, pre-split) | 160 | — | validated | Legacy; will be replaced by splits below |
+| MLS NEXT Homegrown | 160 | **160** | validated | 71.4% win rate vs ECNL Boys (n=3,820) |
+| MLS NEXT Academy | 160 | **135** | validated | 58.2% win rate vs ECNL Boys (n=4,110) |
+| MLS NEXT Unclassified | 160 | **147** | interpolated | Weighted midpoint (60% Academy / 40% Homegrown); recalculate if classifier distribution differs from assumed |
+| [[ECNL]] Boys | 120 | 120 | validated | Baseline anchor for cross-league derivations |
+| GA (Boys) | 100 | 100 | theoretically sound; not Brier-validated | Boys GA = secondary tier (MLS NEXT is Boys #1). Lower than Girls GA by design. See [[Boys Calibration Gap Analysis — April 2026]] |
+| GA ASPIRE (Boys) | 100 (assumed) | 100 (assumed) | **assumed — unvalidated** | GA ASPIRE events for Boys currently tagged as `ga` (cal=100). If Boys GA ASPIRE should sit below Boys GA (analogous to Girls GA ASPIRE at 100 vs Girls GA at 140), the correct Boys GA ASPIRE value would be ~70. Needs Boys-specific Brier analysis to confirm. GA ASPIRE Boys fix is NOT included in the April 28 session — only Girls GA ASPIRE fix is confirmed pending. |
+| NPL / DPL / [[ECNL RL]] | 55 | 55 | validated | ECNL RL beats NPL 55.1% — confirms peer-tier status |
+| [[Pre-ECNL]] | 25 | 25 | validated | Tier 3 developmental; `resolveTeamTier()` enforces this |
 
 ### Girls
-| League        | Calibration Points |
-| ------------- | ------------------ |
-| GA             | 140                |
-| [[ECNL]]      | 130                |
-| NPL / DPL / [[ECNL RL]] | 55      |
-| [[Pre-ECNL]]  | 25                 |
+
+| League | Cal Value | Validation Status | Notes |
+|--------|-----------|-------------------|-------|
+| GA | 140 | validated | Girls #1 tier (tied with ECNL) |
+| GA ASPIRE | 100 | validated (post-fix pending) | GA ASPIRE events overcalibrated as `ga` (140) until April 28 fix executes. Correct value: 100. See [[ga-coverage-audit-results-2026-04-23]] |
+| [[ECNL]] Girls | 130 | validated | Girls #1 tier (tied with GA) |
+| NPL / DPL / [[ECNL RL]] | 55 | validated | Peer tier to Boys equivalents |
+| [[Pre-ECNL]] | 25 | validated | Tier 3 developmental |
 
 ---
 
@@ -134,8 +144,20 @@ From our [[Cross-League Analysis]] of 575K games:
 
 ---
 
+## Boys GA ASPIRE Flag
+
+> [!warning] Boys GA ASPIRE — Calibration Status Uncertain
+> The Girls GA ASPIRE fix (reclassifying GA ASPIRE events from `ga` tier at cal=140 to `ga_aspire` at cal=100) is scheduled for execution April 28, 2026. For Boys:
+>
+> - Boys GA events are calibrated at 100 (vs Girls GA at 140). Boys GA ASPIRE events, if also tagged as `ga`, receive cal=100 — the same as regular Boys GA.
+> - It is unknown whether Boys GA ASPIRE competition level is materially different from Boys GA. If Boys GA ASPIRE sits below Boys regular GA in quality, the correct Boys GA ASPIRE value would be ~70 (same 30-point differential as Girls: 140 → 100).
+> - **Conservative recommendation:** Do not apply a Boys GA ASPIRE fix until Option B Boys Brier analysis (scheduled post-DSS, June 2026) produces data to validate the correct value. The overcalibration risk for Boys is smaller than for Girls because Boys GA (100) is already 40 points below the Girls GA (140) it parallels.
+> - **Action required:** Confirm with Presten whether the April 28 GA ASPIRE fix session includes Boys events or Girls-only. If it targets all `ga` tier events by name pattern (events with "ASPIRE" in name), Boys events will be reclassified too — which may or may not be correct depending on the Boys GA ASPIRE calibration decision above.
+
 ## Related Notes
 - [[Ranking Engine]] — how calibration values are applied
 - [[Cross-League Analysis]] — empirical win-rate data
 - [[Recent Changes 2024-2026]] — structural shifts in the landscape
 - [[MLS NEXT]], [[ECNL]], [[ECNL RL]], [[Pre-ECNL]] — individual league details
+- [[Boys Calibration Gap Analysis — April 2026]] — Boys calibration validation status
+- [[MLS NEXT Tier Split — Calibration Spec 2026-04-24]] — Academy/Homegrown split derivation
