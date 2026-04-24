@@ -244,6 +244,46 @@ ORDER BY r.rank;
 
 ---
 
+### Check 6: Rating Orphan Detection — ECNL Transition Teams (Risk B)
+
+This check scans all teams involved in `ecnl_transition` merges for the rating reset signature. Check 2C covers the 100-team spot-check list. This check covers all remaining ECNL-migration teams.
+
+```sql
+-- Teams with ecnl_transition merges showing near-initialization ratings
+-- A team previously rated >1200 that now shows ~1000 has had its history orphaned
+SELECT
+  t.name,
+  r.rating::int AS current_rating,
+  r.rank AS current_rank,
+  r.age_group,
+  r.gender,
+  COUNT(tm.id) AS ecnl_transition_merges
+FROM rankings r
+JOIN teams t ON t.id = r.team_id
+JOIN team_merges tm ON (tm.canonical_team_id = r.team_id OR tm.merged_team_id = r.team_id)
+WHERE tm.method = 'ecnl_transition'
+  AND r.age_group IN ('U13', 'U14')
+  AND r.gender = 'F'
+  AND r.rating BETWEEN 950 AND 1050
+GROUP BY t.name, r.rating, r.rank, r.age_group, r.gender
+ORDER BY r.rank NULLS LAST;
+```
+
+Run for all age groups if time permits (replace the `age_group IN ('U13', 'U14') AND gender = 'F'` filter with no filter, or iterate).
+
+**Pass criterion:** Returns 0 rows.
+**Failure criterion:** Any rows returned. Pull the team name, check whether it appeared in the May 31 ECNL spot-check list with `current_max_rating > 1200`. If yes — that team's merge record did not load correctly into Phase 1. Check `verified` flag on its specific `team_merges` entry and confirm `canonical_team_id` mapping is not inverted.
+
+See `Rankings/ECNL Rating Continuity Spec — June 2026.md` for the full investigation query.
+
+| Result | Action |
+|---|---|
+| 0 rows | Rating orphan check passed — all ecnl_transition teams have non-reset ratings |
+| 1–5 rows with ratings 950–1050 | Investigate individually — check their merge records; not necessarily systemic |
+| > 5 rows or any pre-migration high-rated team | **ROLLBACK TRIGGER** — ecnl_transition merges are not loading correctly into Phase 1; do not run next recompute until fixed |
+
+---
+
 ## Section 3: Rollback Decision Tree
 
 ### Immediate Rollback Triggers (act within 4 hours of discovery)
@@ -293,6 +333,7 @@ If any of these trigger:
 | 2D: Age group completeness | 0 teams in both old and new age group (2026-27 season) | > 10 teams in duplicate brackets |
 | 2D: U19 archived | 0 U19 rows in 2026-27 season | Any U19 rows in new season |
 | 2E: Top-team stability | Top 10 stable ± 3 positions | > 5 previous top-10 teams absent from top 30 |
+| 2F (Check 6): Rating orphan detection | 0 ecnl_transition teams near rating 1000 | Any previously high-rated team shows ~1000 post-migration |
 
 ---
 

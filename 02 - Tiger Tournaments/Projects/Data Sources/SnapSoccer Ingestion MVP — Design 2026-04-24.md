@@ -253,7 +253,39 @@ If the existing Sinc Sports bulk import already has working `schedule.aspx` HTML
 2. **Do second (if time):** SnapSoccer MVP test run — schedule for May 5–8 if Presten has a session.
 3. **If time runs out before DSS:** Defer SnapSoccer to post-DSS. The design is complete; a session in late May or June captures the games before they're needed for any June analysis.
 
-**Do not defer the design decision.** This document resolves the "should we do SnapSoccer?" question: yes, but after Org-ID. SENTINEL should remove SnapSoccer from the open-question list.
+---
+
+## Go/No-Go Decision
+
+**Decision: NO-GO for DSS sprint (May 16, 2026 deadline)**
+
+### Criteria Applied
+
+**Go criteria assessment (ALL must be true):**
+
+| Criterion | Threshold | SnapSoccer Result | Pass? |
+|---|---|---|---|
+| Estimated game count | ≥ 10,000 games/year | 1,500–2,500/year ongoing; 10,000–20,000 historical (one-time catch-up only) | ❌ Fails on annual volume |
+| MVP build estimate | ≤ 8 hours total | 5–9h test run; 8–12h full production | ❌ Full production exceeds cap |
+| Data accessible without per-org login | No CAPTCHA / no session-per-org | Fully public HTML, no auth required | ✅ |
+| Team matching implementable in MVP | No manual review campaign required | Fuzzy match + raw-name insert; merge pipeline handles post-ingest | ✅ |
+
+**Blocking criterion:** Two of four go criteria fail. Full production build estimate (8–12 hours) exceeds the 8-hour cap. Ongoing game volume (1,500–2,500/year) does not meet the 10,000/year threshold — the historical bank of 10,000–20,000 games is a valid one-time catch-up argument, but annual value is modest.
+
+### Future Sprint Trigger
+
+Revisit SnapSoccer when ALL of the following are true:
+
+1. **Org-ID expansion is confirmed in production** — USYS state association teams are being discovered and ingested from GotSport. This is the higher-ROI spend of available Presten time before DSS.
+2. **Presten has a 6–8 hour session available** — DSS window doesn't allow this; post-DSS (May 17+) is the earliest realistic window.
+3. **Browser test confirms `schedule.aspx` table structure** — the HTML parser spec in Section 4 is based on the known ASP.NET WebForms structure of SincSports. A 20-minute live browser inspection of one SnapSoccer event page should precede any coding to confirm table HTML matches parsing assumptions.
+4. **Existing Sinc Sports parser confirmed reusable** — if `crawl-sincsports.js` or equivalent already parses `schedule.aspx`, total effort drops to 4–6 hours (test) / 6–8 hours (production), which changes the calculus.
+
+When pre-conditions 1–4 are met: time estimate for MVP in a post-DSS sprint is **5–8 hours** (assuming parser reuse). Schedule as a standalone session in late May or June.
+
+### What This Decision Closes
+
+SENTINEL can remove "SnapSoccer ingestion — go/no-go pending design review" from the coverage gaps table. The answer: **No for DSS, Yes for post-DSS if conditions above are met.** The design is complete and waiting.
 
 ---
 
