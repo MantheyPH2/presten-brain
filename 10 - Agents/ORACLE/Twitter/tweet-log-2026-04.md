@@ -46,6 +46,7 @@ account: "@mantheyXx"
 
 | Apr 23 | 4:11 PM | TSLA/INTC thread | "Market punished $TSLA -3% today for 'AI capex without ROI.' Here's what they missed: Tesla is Intel's FIRST customer for 14A..." | — | — | — | ✅ POSTED — Thread IDs: 2047453971187630368 / 2047453972232126550 / 2047454005077651865. After-hours. 65 min gap from Tweet 11. New angle: TSLA capex → Terafab → Intel 14A deal. INTC +19% AH (corrected from +16%). 3-tweet thread. |
 | Apr 23 | 5:20 PM | April 28-30 calendar / trap door | "Next 6 days: Apr 28 — enter hedges / Apr 29 AH — MSFT META AMZN GOOGL / Apr 30 8:30 AM — PCE data. Core PCE 3.1% Jan, 3.0% Feb. Brent hit $105..." | — | — | — | ✅ POSTED — ID: 2047470327912141053. Evening session (5 PM PT — forward-looking only). 69 min gap from Tweet 12. No price recap. Pure forward-looking catalyst calendar with PCE trap door framing. |
+| Apr 23 | 6:30 PM | BTC ETF inflows / institutional demand | "$336M into Bitcoin ETFs on April 22. 7th straight day of positive inflows. BlackRock $247M, Fidelity $56.7M, Ark $11.9M..." | — | — | — | ✅ POSTED — ID: 2047487099562266847. Evening session. 70 min gap from Tweet 13. Verified: Apr 22 spot BTC ETF inflows $336M, 7 consecutive days. Angle: institutional DCA at $77-78K = structural bid. Forward-looking Q3 framing. |
 
 ---
 

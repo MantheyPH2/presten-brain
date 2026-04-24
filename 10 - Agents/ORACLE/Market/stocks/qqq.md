@@ -3,18 +3,18 @@ type: stock-tracker
 ticker: QQQ
 name: Invesco QQQ Trust (Nasdaq-100 ETF)
 sector: Index ETF
-last_updated: 2026-04-23-market-open
+last_updated: 2026-04-23-close
 oracle_rating: HEDGE — Bear Put Spread (PCE Risk)
 ---
 
 # QQQ — Nasdaq-100 ETF
 
 ## Current State
-- **QQQ Price:** $650.81 (April 23, 2026 — ALL-TIME HIGH TERRITORY)
-- **52-Week High:** $650.20 — QQQ is ABOVE its prior 52-week high
-- **Intraday Range:** $648.36–$656.29
-- **Market context:** S&P 500 and Nasdaq at record highs after 9% April rally. Strong earnings season (81% beat rate, 76% revenue beat). BUT futures slightly down 0.2% suggesting consolidation at open.
-- **PCE Risk:** Core PCE Jan 2026 = 3.1%, Feb 2026 = 3.0%. March data releases April 30. Almost certain to print 3.0%+. From ATH, this is maximum asymmetric downside risk.
+- **QQQ Close:** $651.42 (April 23, 2026 — CONFIRMED ABOVE 52-WEEK HIGH — ATH TERRITORY)
+- **52-Week High:** $650.20 — QQQ closed $1.22 above its prior 52-week high
+- **Intraday Range:** $648.36–$656.29 (opened strong, pulled back intraday, still closed ATH)
+- **Day context:** Nasdaq closed -0.90% but QQQ held near ATH — tech breadth narrowed but mega-cap held up. S&P 500 closed -0.41%. Full intraday reversal (opened +1%, closed red) did NOT take out ATH.
+- **PCE Risk:** Core PCE Jan 2026 = 3.1%, Feb 2026 = 3.0%. March data releases April 30. Almost certain to print 3.0%+. Brent hit $105 intraday — PCE upside risk is mathematical. From ATH, maximum asymmetric downside.
 
 ## Fund Overview
 QQQ tracks the Nasdaq-100 — the 100 largest non-financial companies on the Nasdaq. Top holdings include AAPL, MSFT, NVDA, AMZN, META, GOOGL, TSLA, AVGO. Effectively a concentrated bet on mega-cap tech and AI.
@@ -69,8 +69,8 @@ QQQ tracks the Nasdaq-100 — the 100 largest non-financial companies on the Nas
 QQQ at all-time highs going into a near-certain hot PCE print is maximum asymmetry for the downside trade. The straddle logic was valid when the outcome was uncertain — now that PCE direction is clear (hot), the directional bear put spread is the right vehicle. Enter April 28, full size. This is a 5/5 conviction hedge.
 
 ## Key Levels (QQQ)
-- **Current price:** $650.81 (ATH territory)
-- **Bear put spread strikes:** Buy $648, Sell $622 (enter Apr 28)
+- **Close price:** $651.42 (ATH territory — verified April 23 close)
+- **Bear put spread strikes:** Buy $650–$652 (ATM on Apr 28 entry), Sell $622–$625 (enter Apr 28)
 - **Support:** $635 (first meaningful support below ATH)
 - **Major support:** $615–$620 (post-PCE target if 3.2%+ prints)
 - **Stop on short thesis:** QQQ closes above $665 post-PCE (earnings euphoria overwhelms macro)
