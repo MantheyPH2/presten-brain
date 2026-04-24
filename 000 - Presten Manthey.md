@@ -18,6 +18,9 @@ Builder. Operator. Athlete-brand founder.
 > [!abstract]+ [[_MOC - Tiger Tournaments|Tiger Tournaments]]
 > Youth soccer data platform — rankings, brackets, and the Evo Draw engine.
 
+> [!abstract]+ [[_MOC - ORACLE Trading|Markets & Trading]]
+> Crypto, stocks, options — ORACLE's full trading world. @mantheyXx.
+
 > [!abstract]+ [[_MOC - Exel Labs|Exel Labs]]
 > Athletic merchandise brand I'm building from scratch.
 
