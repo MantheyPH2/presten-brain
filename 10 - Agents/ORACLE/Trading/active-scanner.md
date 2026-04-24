@@ -9,6 +9,65 @@ scan_frequency: every 15 minutes during market hours
 
 Run this system every 15-minute session during market hours (6:30 AM - 1:00 PM PT for equities, 24/7 for crypto). Each scanner has specific search queries, filtering criteria, and action triggers.
 
+**CRITICAL: You track 28 stocks and 40 crypto. The market has 6,000+ stocks and 10,000+ tokens. Your watchlist is a STARTING point, not the whole market. Every session, scan the ENTIRE market for opportunities you don't know about yet. The next 10x trade might be a name that's not on any of your lists.**
+
+---
+
+## 0. WHOLE MARKET SCAN (Run First Every Session)
+
+### Stocks — Find What You're NOT Watching
+These WebSearch queries scan the ENTIRE market, not just your 28 names:
+
+```
+WebSearch: "biggest stock movers today" (finds the top gainers/losers across ALL stocks)
+WebSearch: "stocks hitting 52 week high today volume" (breakouts you're missing)
+WebSearch: "most unusual options activity today" (smart money positioning on ANY stock)
+WebSearch: "stocks with highest volume today" (something is happening)
+WebSearch: "top stock gainers premarket today" (pre-market movers you don't track)
+WebSearch: "IPO stocks moving today 2026" (new names with momentum)
+WebSearch: "penny stocks unusual volume today" (small cap momentum)
+WebSearch: "stocks halted today" (circuit breakers = something huge happened)
+```
+
+Use the FinViz screener skill to scan:
+- All stocks up >5% today with volume >2x average
+- All stocks at new 52-week highs
+- All stocks with RSI <25 (extreme oversold across whole market)
+- All stocks with RSI >80 and volume spike (parabolic moves to watch for reversal)
+
+**If you find a name NOT on your watchlist that's moving big:**
+1. WebSearch "[ticker] news today" — why is it moving?
+2. Is there a trade here? Run the pre-trade checklist.
+3. If yes — add it to HOT watchlist and consider entering.
+4. If it's a new sector/theme you're not tracking — create a tracker file.
+
+### Crypto — Find What You're NOT Watching
+```
+WebSearch: "biggest crypto gainers today" (top movers across ALL tokens)
+WebSearch: "trending coins today" (what's getting attention)
+WebSearch: "crypto unusual volume today" (something is happening)
+WebSearch: "new token listings today 2026" (fresh catalysts)
+WebSearch: "DeFi TVL biggest gainers" (protocol momentum)
+WebSearch: "crypto trending on twitter today" (social momentum)
+```
+
+Check CoinGecko/CoinMarketCap via WebFetch:
+- Top gainers last 24h across ALL tokens
+- Trending tokens
+- Highest volume tokens you don't track
+
+**Your 40 tokens are the blue chips. The 100x plays are in the tokens you haven't heard of yet. Scan for them.**
+
+### Sector-Level Scan
+```
+WebSearch: "sector rotation today S&P" (which sectors are leading/lagging)
+WebSearch: "sector ETF performance today" (XLE vs XLK vs XLF — where is money going)
+```
+
+If a sector is suddenly outperforming and you don't have exposure — that's a missed opportunity. Fix it.
+
+---
+
 ---
 
 ## 1. Momentum Scanner
