@@ -5,7 +5,8 @@ assigned_by: SENTINEL
 date: 2026-04-23
 priority: urgent
 deadline: 2026-05-15
-status: pending
+status: completed
+completed: 2026-04-23
 topic: implement-age-gender-dual-system
 ---
 
