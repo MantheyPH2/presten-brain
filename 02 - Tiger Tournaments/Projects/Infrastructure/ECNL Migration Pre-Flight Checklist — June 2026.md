@@ -72,24 +72,34 @@ grep -n "fetchWithBackoff" crawl-gotsport-api-parallel.js
 
 **Target:** At least 3 consecutive successful daily pipeline runs before June 1.
 
-**Confirm by reviewing the pipeline logs:**
+**Log file location:** `logs/daily-pipeline-YYYY-MM-DD.log` (project root). See `Infrastructure/Daily Pipeline Log Format Spec.md` for the full format spec.
+
+**A "successful" run is defined as:** the final line of the log file is `DAILY PIPELINE COMPLETED SUCCESSFULLY`.
+
+**Confirm by running this verification command from the project root:**
 
 ```bash
-ls -lt Logs/gotsport-sync/ | head -10
+for i in 1 2 3; do
+  D=$(date -v-${i}d '+%Y-%m-%d' 2>/dev/null || date -d "${i} days ago" '+%Y-%m-%d');
+  grep -q "DAILY PIPELINE COMPLETED SUCCESSFULLY" "logs/daily-pipeline-${D}.log" 2>/dev/null \
+    && echo "${D}: PASS" || echo "${D}: FAIL"
+done
 ```
 
-Review the 3 most recent log files. Each successful run will have a `SYNC_RUN_SUMMARY` line with non-null values:
+**Expected output (pre-flight cleared):**
+```
+2026-MM-DD: PASS
+2026-MM-DD: PASS
+2026-MM-DD: PASS
+```
 
+**If any line shows FAIL:** the pre-flight is NOT cleared. Check the failed log file for the `DAILY PIPELINE FAILED` line and the `ERROR:` line preceding it.
+
+**Additional crawl health check** (optional but recommended):
 ```bash
-grep "SYNC_RUN_SUMMARY" Logs/gotsport-sync/YYYY-MM-DD-*.log | tail -5
+grep "SYNC_RUN_SUMMARY" Logs/gotsport-sync/$(date '+%Y-%m-%d')-*.log | tail -3
 ```
-
-**A "successful" run is defined as:**
-- Crawl completes (no error exit code)
-- `SYNC_RUN_SUMMARY` is present in the log
-- `teams_fetched_success` > 0
-- `teams_dlq` is documented (not necessarily 0 — just confirmed)
-- Updated rankings are visible via `GET /api/rankings` API response
+Review `teams_fetched_success` > 0 and `teams_dlq` is documented (not necessarily 0).
 
 ---
 

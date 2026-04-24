@@ -62,6 +62,19 @@ Homegrown vs Academy direct games: **66.8% win rate** (n=1,680). This implies ap
 
 **Derivation:** Weighted midpoint between Academy (135) and Homegrown (160), biased toward Academy because the Academy pool is ~60% of MLS NEXT clubs (220+ Academy vs 152 Homegrown clubs). `(160 × 0.40) + (135 × 0.60) = 145`. Rounded to 147 to provide a slight conservative buffer. Applied only to the ~4–6% of events that cannot be classified by pattern matching after FORGE's classifier runs.
 
+> [!warning] Sensitivity Note
+> `mlsnext_unclassified = 147` is derived from a **60% Academy / 40% Homegrown** weighted midpoint. If FORGE's classifier Step A output shows a different distribution, recalculate before applying:
+>
+> `unclassified = (Academy_pct × 135) + (Homegrown_pct × 160)`
+>
+> | Classifier Distribution | Recalculated Value |
+> |---|---|
+> | 80% Academy / 20% Homegrown | `(0.80 × 135) + (0.20 × 160) = 140` |
+> | 60% Academy / 40% Homegrown | 147 (current — use as-is) |
+> | 40% Academy / 60% Homegrown | `(0.40 × 135) + (0.60 × 160) = 150` |
+>
+> Update `mlsnext_unclassified` in the constants file to match the recalculated value before running the recompute. See [[MLS NEXT Tier Split — Calibration Application Spec]] Section 5.
+
 ### Updated Boys Calibration Hierarchy (post-split)
 
 | Tier | Calibration | Basis |
