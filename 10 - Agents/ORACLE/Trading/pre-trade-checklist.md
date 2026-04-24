@@ -2,6 +2,14 @@
 
 **ORACLE must pass every item before entering any position. One failure = no trade. No exceptions.**
 
+**This checklist is run TWICE:**
+1. **When planning the trade** — initial thesis validation
+2. **RIGHT BEFORE clicking buy** — final confirmation with FRESH data
+
+If the trade was planned hours or days ago, EVERYTHING must be re-checked with current data. Markets change every minute. A thesis that was valid at 5 AM may be dead by 9:30 AM. WebSearch, check indicators, check news, check prices — all LIVE, all NOW, right before execution.
+
+**If anything changed since you planned the trade: RE-EVALUATE. Don't execute a stale plan.**
+
 ---
 
 ## The Rule
