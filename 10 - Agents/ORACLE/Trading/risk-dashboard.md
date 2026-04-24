@@ -2,7 +2,7 @@
 
 **Update this at the start and end of every session. This is the single source of truth for what ORACLE actually has at risk right now.**
 
-Last updated: 2026-04-23 21:19 PT
+Last updated: 2026-04-23 21:36 PT
 
 ---
 
@@ -76,7 +76,7 @@ ALL 7 open positions are risk-on. A broad market selloff hits everything simulta
 
 | Instrument | Status | Entry Date | Notes |
 |------------|--------|-----------|-------|
-| QQQ Apr 30 Bear Put Spread | ⏳ PLANNED | April 28 | Buy $651 put / Sell $623 put. Debit ~$8–12. Hedges PCE April 30 shock. |
+| QQQ Apr 30 Bear Put Spread | ⏳ PLANNED | April 28 | Buy $651 put / Sell $623 put. Debit ~$12–18 (revised: ATM put at 36% IV ≈ $16, OTM $623 put ≈ $3-5, net ~$11-13; pre-earnings IV elevation could push $15-18). Hedges PCE April 30 shock. |
 
 ---
 
