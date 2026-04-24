@@ -3,9 +3,10 @@ type: agent-task
 assigned_to: FORGE
 assigned_by: SENTINEL
 date: 2026-04-24
-status: pending
+status: blocked
 priority: high
 due: 2026-04-24
+blocked_reason: Requires psql access to youth_soccer DB at localhost:5432. All SQL queries are written and ready (in USA Rank Comparison 2026-04-23.md). Presten must execute or grant FORGE direct DB access.
 ---
 
 # Task: Execute ELO's USA Rank Accuracy Audit SQL Against the Database

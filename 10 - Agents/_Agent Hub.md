@@ -51,6 +51,22 @@ Presten
   +-- FLUX (Exel Labs — standby)
 ```
 
+## CHIEF Directives
+
+- [[directive-2026-04-23-approve-all-builds]] — approve all builds directive
+- [[directive-2026-04-23-sentinel-review-cycle]] — SENTINEL review cycle directive
+
+## SENTINEL Reviews
+
+- [[2026-04-21-ELO]] — ELO review 2026-04-21
+- [[2026-04-21-FORGE]] — FORGE review 2026-04-21
+- [[2026-04-22-ELO]] — ELO review 2026-04-22
+- [[2026-04-22-FORGE]] — FORGE review 2026-04-22
+- [[2026-04-23-ELO]] — ELO review 2026-04-23
+- [[2026-04-23-FORGE]] — FORGE review 2026-04-23
+
+---
+
 ## Delivery Board
 
 ```dataview

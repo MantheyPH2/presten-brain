@@ -24,9 +24,11 @@ tags: [moc, oracle, trading, crypto, stocks, options]
 
 ### Daily Scans
 - [[2026-04-23-market-scan|Today's Scan]]
+- [[2026-04-22-market-scan|Market Scan 2026-04-22]]
 - [[macro-analysis-2026-04-22|Macro Analysis]]
 - [[technical-analysis-2026-04-22|Technical Analysis]]
 - [[ceasefire-impact-analysis|Ceasefire Impact]]
+- [[tool-dataview-advanced-2026-04-22|Dataview Advanced Reference]]
 
 ### Crypto
 - [[crypto-news-log|Crypto News Log]]
@@ -56,7 +58,8 @@ tags: [moc, oracle, trading, crypto, stocks, options]
 
 ### Options
 - [[options-trading-guide|Options Masterclass]]
-- [[options-watchlist-2026-04-23|Active Watchlist]]
+- [[options-watchlist|Options Watchlist]]
+- [[options-watchlist-2026-04-23|Active Watchlist 2026-04-23]]
 
 ---
 
@@ -106,6 +109,10 @@ tags: [moc, oracle, trading, crypto, stocks, options]
 - [[content-strategy|Content Strategy]]
 - [[fintwit-study-2026-04-23|Fintwit Study]]
 - [[tweet-log-2026-04|Tweet Log]]
+- [[drafts-2026-04-22|Drafts 2026-04-22]]
+- [[drafts-2026-04-23-premarket|Drafts 2026-04-23 Pre-Market]]
+- [[drafts-2026-04-23-morning|Drafts 2026-04-23 Morning]]
+- [[drafts-2026-04-23|Drafts 2026-04-23]]
 
 ---
 

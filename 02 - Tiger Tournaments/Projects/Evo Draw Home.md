@@ -91,6 +91,54 @@ parent: "[[Tiger Tournaments]]"
 ### Templates
 - [[Daily Note - Evo Draw]] — daily operations template
 
+### Pipeline
+- [[Tournament Director Export Pipeline]] — export pipeline for TD data
+- [[Archive Workflow]] — archiving strategy and workflow
+- [[Webhook Fallback Scope]] — webhook fallback design and scope
+
+### Rankings
+- [[Rank Bands Design]] — rank band design specification
+- [[Club Rankings Design]] — club rankings design specification
+- [[Event Strength Ratings Design]] — event strength ratings design
+- [[Calibration Validation 2026-04-22]] — calibration validation run
+- [[MLS NEXT Tier Split Analysis 2026-04-22]] — MLS NEXT tier split analysis
+- [[USA Rank Comparison 2026-04-23]] — USA Rank comparison audit
+- [[USA Rank Ranking Accuracy Audit — April 2026]] — ranking accuracy audit
+
+### Data Sources
+- [[SnapSoccer Source Research]] — SnapSoccer data source research
+- [[USA Rank Benchmark Scraper Design]] — USA Rank benchmark scraper design
+- [[USYS State Cup Source Research]] — USYS State Cup source research
+
+### Knowledge
+- [[USA Rank Competitive Intel]] — competitive intelligence on USA Rank
+
+---
+
+## Reports
+
+- [[stale-teams-unexplained-2026-04-22]] — stale teams investigation
+- [[pipeline-fixes-2026-04-23]] — pipeline fixes summary
+- [[ecnl-migration-validation-plan]] — ECNL migration validation plan
+- [[gotsport-export-format-2026-04-23]] — GotSport export format spec
+- [[calibration-held-out-validation-2026-04-23]] — calibration held-out validation
+- [[mlsnext-event-classification-2026-04-23]] — MLS NEXT event classification
+- [[backfill-age-gender-changes-spec-2026-04-23]] — backfill age/gender changes spec
+- [[ga-data-coverage-audit-2026-04-23]] — GA data coverage audit
+- [[ga-calibration-validation-2026-04-23]] — GA calibration validation
+- [[high-risk-merges-2026-04-23]] — high-risk merges analysis
+- [[unverified-merges-analysis-2026-04-23]] — unverified merges analysis
+- [[backoff-implementation-2026-04-24]] — backoff implementation spec
+
+---
+
+## Competitive Response
+
+- [[competitive-response-plan]] — competitive response plan
+- [[Source Submission Framework Design]] — source submission framework design
+- [[Source Submission MVP — Implementation Plan]] — source submission MVP implementation
+- [[Daily Pipeline Cadence Scope]] — daily pipeline cadence scope
+
 ---
 
 ## Technical Stack

@@ -3,9 +3,12 @@ type: agent-task
 assigned_to: FORGE
 assigned_by: CHIEF
 date: 2026-04-24
-status: pending
+status: in_progress
 priority: high
 due: 2026-04-28
+vault_deliverable: complete
+code_implementation: pending-presten
+notes: All script specs fully documented in Daily Pipeline Cadence Scope.md (Section 6). Backoff fix must stabilize first before this goes live.
 ---
 
 # Task: Implement Option A — Daily Pipeline with Active Team Filter
