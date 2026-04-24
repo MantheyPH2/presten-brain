@@ -120,29 +120,83 @@ created: 2026-04-23
 
 ---
 
+## The Cash Account Advantage — UNLIMITED Day Trades
+
+**Most people think cash accounts are a disadvantage. They're wrong.**
+
+A cash account has NO pattern day trader (PDT) restriction. PDT only applies to MARGIN accounts under $25K. Since we're cash, we can day trade as much as we want.
+
+**The only rule: use settled cash.**
+
+### How Settlement Works
+
+| Asset | Settlement | What It Means |
+|-------|-----------|---------------|
+| **Crypto** | T+0 (instant) | Buy and sell all day, unlimited. Cash is available immediately after every sell. This is your intraday playground. |
+| **Options** | T+1 | Sell an option Monday → cash available Tuesday. Can day trade options, just can't reuse that cash until tomorrow. |
+| **Stocks** | T+1 | Same as options. Sell Monday → cash settles Tuesday. |
+
+### Daily Trading Flow
+
+**Morning (6:30 AM PT):**
+- You have $X in settled cash
+- Deploy it into the best setups: calls, puts, stocks, crypto
+- Everything you buy today with settled cash is a clean trade
+
+**During the day:**
+- Sell any position for a profit or loss → that cash settles TOMORROW
+- BUT — you can immediately trade CRYPTO with proceeds (T+0)
+- You can also buy a NEW stock/option with settled cash you haven't used today
+
+**Key insight:** Split your cash mentally:
+- **Pool A:** Settled cash for stocks/options trades today
+- **Pool B:** Crypto pool (always available, instant settlement)
+- Tomorrow, Pool A refills with today's sales proceeds
+
+### The Cash Account Day Trading Playbook
+
+Since we CAN day trade unlimited times:
+
+1. **Scalp crypto all day** — BTC, ETH, SOL on momentum. No settlement delay. In and out as many times as the setups present themselves.
+
+2. **Day trade options on the best morning setups** — Buy a call at open on a gap-up stock, sell 30 min later for 20-50% gain. Cash settles tomorrow, but the trade is done.
+
+3. **Swing trade stocks with settled cash** — Buy Monday, sell Wednesday when target hits. No rush.
+
+4. **Never use unsettled funds** — This causes a good faith violation (GFV). 3 GFVs in 12 months = account restricted for 90 days.
+
+### How to Maximize a $1K Cash Account
+
+| Available | Best Use | Why |
+|-----------|---------|-----|
+| $1,000 settled | 1 option contract ($200-400) + crypto ($300-400) + cash reserve ($200) | Diversified across settlement types |
+| Option sold today | Can't reuse until tomorrow | Plan tomorrow's option trade tonight |
+| Crypto sold today | Immediately available | Rotate back into next crypto setup |
+
+### Avoiding Good Faith Violations
+
+A GFV happens when you:
+1. Buy a stock with unsettled cash
+2. Sell that stock BEFORE the cash from step 1 settles
+
+**Example of a violation:**
+- Monday: Sell NVDA call → $500 proceeds (settles Tuesday)
+- Monday: Buy AAPL call with that $500 (unsettled funds)
+- Monday: Sell AAPL call same day → GFV
+
+**How to avoid:**
+- Only buy with cash that shows as "settled" in your account
+- If you want to day trade multiple times: use crypto (instant settlement)
+- Keep a portion of cash always settled and untouched for opportunities
+
 ## Cash Account Mistakes to Avoid
 
-1. **Good faith violation** — Using unsettled funds. Plan your trades around settlement.
-2. **Wasting day trades** — You only get 3 per week. Save them for 5/5 conviction.
-3. **Buying options too close to expiration** — Theta eats you alive. Stay 30+ DTE.
-4. **Overtrading crypto** — Just because you CAN trade all day doesn't mean you should.
-5. **Not keeping cash reserve** — Always have 15-20% in cash for opportunities.
-6. **Trying to do spreads** — You can't. Don't try to work around it. Master long options first.
-
----
-
-## Settlement Planning
-
-Since cash settles T+1, plan your trades:
-
-| Day | Action | Cash Status |
-|-----|--------|-------------|
-| Monday | Sell crypto profit | Cash available immediately |
-| Monday | Sell stock/option | Cash settles Tuesday |
-| Tuesday | Buy new stock/option with Monday's proceeds | Settled |
-| Tuesday | Sell Tuesday's buy same day | Uses 1 day trade |
-
-**Crypto hack:** If you need to trade but stock cash hasn't settled, trade crypto instead. It settles instantly.
+1. **Good faith violation** — Using unsettled funds to buy AND sell. Know your settled balance.
+2. **Buying options too close to expiration** — Theta eats you alive. Stay 30+ DTE for swings, weeklies only for specific events.
+3. **Not tracking settlement** — Know exactly how much settled cash you have every morning.
+4. **Overtrading with tiny amounts** — A $50 option trade with $5 commission = 10% drag. Keep trades meaningful.
+5. **Trying to do spreads** — Can't on cash account. Master long calls/puts first.
+6. **Not keeping cash reserve** — Always have 15-20% in settled cash for sudden opportunities.
 
 ---
 
