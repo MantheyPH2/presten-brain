@@ -38,8 +38,8 @@ created: 2026-04-23
 **Platform:** Coinbase or Bybit (needs API access)
 
 **Rules:**
-- Max $10 risk per trade (2% of $500)
-- Max 3 open positions
+- 5% risk per trade ($25 on $500)
+- No limit on number of positions — run as many as you see edge
 - Every trade posted publicly on @mantheyXx
 - Every loss gets a post-mortem before next trade
 - Weekly P&L review every Sunday
@@ -53,14 +53,15 @@ created: 2026-04-23
 
 ---
 
-## Level 2: Stocks — $2,500
+## Level 2: Stocks + Options — $2,500
 **Unlocked when:** Level 1 profitable for 2+ weeks
 
-**Platform:** Webull or Alpaca (API access)
+**Platform:** Webull (API pending approval)
 
 **Rules:**
-- Max $50 risk per trade (2%)
-- Max 4 open positions
+- 5% risk per trade ($125)
+- No limit on positions — trade every setup you see edge on
+- 20% allocated to active options plays
 - Public accountability on @mantheyXx
 - Every loss → post-mortem
 - Weekly review
@@ -74,16 +75,16 @@ created: 2026-04-23
 
 ---
 
-## Level 3: Options — $5,000
+## Level 3: Full Portfolio — $5,000
 **Unlocked when:** Level 2 profitable for 3+ weeks
 
-**Platform:** Webull or Alpaca (options-enabled)
+**Platform:** Webull
 
 **Rules:**
-- Max $100 risk per trade (2%)
-- Max 3 options positions open
-- Only strategies from core system (spreads, covered, defined risk)
-- NO naked options ever
+- 5% risk per trade ($250)
+- Run the full system: Wheel + mean reversion + VIX + earnings + hedges
+- No limit on positions
+- NO naked options ever (defined risk only)
 - Public accountability
 - Weekly review
 
@@ -100,11 +101,12 @@ created: 2026-04-23
 **Unlocked when:** Level 3 profitable for 4+ weeks
 
 **Rules:**
-- Combined account management across crypto + stocks + options
-- Portfolio-level risk management (max 5% total portfolio heat)
-- Correlation awareness (don't be long BTC + AMZN + META and call it diversified)
+- 5% risk per trade
+- Full system running at scale
+- Portfolio-level Greeks management
+- Correlation awareness — know when positions are stacked
 - Monthly performance reports
-- Consider splitting into separate sub-strategies
+- Start compounding — never withdraw, reinvest everything
 
 ---
 
