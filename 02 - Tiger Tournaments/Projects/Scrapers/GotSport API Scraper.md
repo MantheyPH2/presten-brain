@@ -3,7 +3,7 @@ title: GotSport API Scraper
 aliases: [crawl-gotsport-api-parallel.js, GS API Scraper]
 tags: [scraper, gotsport, api, parallel, evo-draw]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-23
 file: crawl-gotsport-api-parallel.js
 source_priority: 1
 ---

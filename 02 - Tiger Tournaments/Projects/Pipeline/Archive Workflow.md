@@ -5,13 +5,13 @@ tags: [pipeline, archival, schema, data-hygiene, evo-draw]
 created: 2026-04-22
 updated: 2026-04-22
 author: FORGE
-status: design — pending Presten approval before production execution
+status: migration executed 2026-04-22 — archive script pending first production run
 ---
 
 # Seasonal Team Archive Workflow
 
-> [!warning] Approval Required
-> This document is a **design specification**. The `archived_at` migration SQL and the archival script must not run on production until Presten explicitly approves. The 180 de-prioritized teams are identified and ready — this is waiting on a green light.
+> [!success] Migration Executed
+> The `archived_at` schema migration ran on production on 2026-04-22 (approved by Presten via CHIEF). All existing teams now have `archived_at = NULL`. The archive script (`archive-inactive-teams.js`) has not yet run its first production pass — the 180 de-prioritized team archival is the next step.
 
 ---
 
