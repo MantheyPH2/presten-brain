@@ -55,7 +55,20 @@ The **PRIMARY** scraper for Evo Draw. Fetches structured game data from the [[Go
 Source ID format: `gs_api_{eventId}_{matchId}`
 
 > [!info] No Authentication
-> The GotSport API is publicly accessible with no API key or authentication required. Rate limiting is handled by the 1200ms delay between requests per worker.
+> The GotSport API is publicly accessible with no API key or authentication required. Rate limiting is handled by the 1200ms base delay between requests per worker, plus exponential backoff with jitter on 429 responses (implemented 2026-04-23).
+
+---
+
+## Structural Fixes (Implemented 2026-04-23)
+
+Four structural improvements were implemented following the 2026-04-22 stale team investigation:
+
+| Fix | Behavior |
+|-----|---------|
+| **Exponential Backoff + Jitter** | On 429/503: retry up to 4× with `delay = 1200ms * (2^attempt) + jitter(0, 500ms)`, cap 30s. Team ID goes to DLQ after retry exhaustion. Stops entire run on 403 (auth wall signal). |
+| **Dead Letter Queue (DLQ)** | Worker crashes and retry exhaustion write team IDs to `Logs/dlq/dlq-{runId}.jsonl`. No team ID can be silently lost. |
+| **Empty-Payload Detection** | HTTP 200 with `matches: []` does NOT update `last_synced_at`. Logged at `warn` level as `EMPTY_PAYLOAD`. Three consecutive empty runs escalates to `PERSISTENT_EMPTY_PAYLOAD`. |
+| **Per-Run Summary Log** | Every run ends with a `SYNC_RUN_SUMMARY` log line: `teams_discovered / fetched_success / empty_payload / dlq / upsert_failed / duration_ms`. Upsert failures elevated from `debug` to `warn`. |
 
 ---
 
