@@ -110,9 +110,9 @@ These claims are backed by structural design and cross-league data — not depen
 
 ## Section 3: Predictive Accuracy Claim
 
-**Status: NOT YET AUTHORIZED.**
+**Status: SOFTENED CLAIM AUTHORIZED. Full specific-Brier-score claim remains pending post-fix computation.**
 
-The Brier Score Completion document (`Rankings/Brier Score Completion.md`) was not found in the vault as of April 25, 2026. ELO cannot authorize a specific Brier score claim without that document.
+The Brier Score Completion document (`Rankings/Brier Score Completion.md`) was filed April 25, 2026. See that document for full pre-fix Brier values and post-fix projections.
 
 What is known from existing analysis:
 - U13 blended Brier: 0.312 (current, pre-calibration fix) — above acceptable threshold of ≤0.23
