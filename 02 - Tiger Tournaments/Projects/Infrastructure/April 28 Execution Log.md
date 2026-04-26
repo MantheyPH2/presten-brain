@@ -69,6 +69,30 @@ Pre-condition confirmed: Pre-April-28 Baseline Snapshot saved
 
 ---
 
+## Step 2b: ecnl_verified Backfill UPDATE
+
+**Reference:** `Infrastructure/Step 2b — ecnl_verified Backfill SQL Execution Package.md`
+
+| Field | Presten Fills |
+|-------|---------------|
+| Time started | |
+| Pre-flight count query run (Query 1) | ✅ / ❌ |
+| Pre-flight count result (# games to update) | |
+| Pre-flight count in expected range (8,000–40,000)? | YES / NO — if NO, flag to SENTINEL before proceeding |
+| UPDATE statement executed (Query 2) | ✅ / ❌ |
+| Rows affected (UPDATE output) | |
+| Rows affected matches pre-flight count? | YES / NO — if NO, flag |
+| Post-execution verification query run (Query 3) | ✅ / ❌ |
+| Verification result: all rows ecnl_verified = TRUE? | YES / NO |
+| Any rows remaining FALSE or NULL? | |
+| Any errors or unexpected output? | |
+| Step 2b complete? | ✅ / ❌ |
+
+> [!note] Why Step 2b exists
+> Step 2 adds the `ecnl_verified` column (ALTER TABLE). Step 2b backfills all historical ECNL games to `ecnl_verified = TRUE`. Without this UPDATE, historical games remain FALSE permanently, breaking the June 2 ECNL migration baseline. All three SQL queries are in the Execution Package — copy-paste ready.
+
+---
+
 ## Step 3: Rankings Recompute
 
 **Reference:** April 28 Escalation Reference Card — Section 3, Step 4
@@ -90,11 +114,12 @@ Pre-condition confirmed: Pre-April-28 Baseline Snapshot saved
 ## Post-Session Summary
 
 ```
-All 3 steps complete: YES / NO
+All 4 steps complete: YES / NO
 Session End Time: ___________
 
 Step 1 complete: ✅ / ❌
 Step 2 complete: ✅ / ❌
+Step 2b complete: ✅ / ❌
 Step 3 complete: ✅ / ❌
 
 Any issues to flag for SENTINEL: ___________
@@ -111,9 +136,10 @@ Notes: ___________
 ```
 Execution log reviewed: [ ]
 Step 1 (GA ASPIRE fix) confirmed complete: [ ]
-Step 2 (ECNL verified column) confirmed complete: [ ]
+Step 2 (ECNL verified column — ALTER TABLE) confirmed complete: [ ]
+Step 2b (ecnl_verified backfill UPDATE) confirmed complete: [ ]
 Step 3 (Rankings recompute) confirmed complete: [ ]
-All 3 steps confirmed complete: [ ]
+All 4 steps confirmed complete: [ ]
 
 Event Strength Phase 1 authorization: AUTHORIZED / HELD
 If HELD, reason: ___________

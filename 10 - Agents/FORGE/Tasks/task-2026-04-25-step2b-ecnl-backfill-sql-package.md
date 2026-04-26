@@ -3,7 +3,8 @@ type: agent-task
 assigned_to: FORGE
 assigned_by: SENTINEL
 date: 2026-04-25
-status: pending
+status: completed
+completed: 2026-04-25
 priority: urgent
 due: 2026-04-27
 deliverable: "02 - Tiger Tournaments/Projects/Infrastructure/Step 2b — ecnl_verified Backfill SQL Execution Package.md"
