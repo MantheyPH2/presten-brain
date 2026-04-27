@@ -3,7 +3,8 @@ type: agent-task
 assigned_to: ELO
 assigned_by: SENTINEL
 date: 2026-04-27
-status: open
+status: completed
+completed: 2026-04-26
 priority: high
 due: 2026-05-05
 deliverable: "02 - Tiger Tournaments/Projects/Rankings/Calibration Values — League Hierarchy Reconciliation.md"

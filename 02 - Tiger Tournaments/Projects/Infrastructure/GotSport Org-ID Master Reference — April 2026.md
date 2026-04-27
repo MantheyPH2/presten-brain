@@ -16,11 +16,11 @@ status: active — update whenever any org-ID status changes
 ## Section 4: Status Summary
 
 ```
-Last updated: 2026-04-25
+Last updated: 2026-04-26
 Active org-IDs in crawl config: 0 (TX crawl config in place; Stage 1 run pending Presten execution)
-Pending browser confirmation: 11
+Pending browser confirmation: 14 (11 Stage 2 entities + 3 Stage 3 entities: VA, CO, AZ)
 Not-on-GotSport / deferred: 5
-Total entities tracked: 16
+Total entities tracked: 19
 ```
 
 ---
@@ -77,6 +77,16 @@ Entities FORGE investigated and confirmed are not on GotSport (different platfor
 | Minnesota Youth Soccer (MSYSA) | Likely Affinity Soccer — browser confirmation pending; deprioritized | Affinity Soccer (likely) | Post-DSS |
 | Indiana Youth Soccer (IYSA) | Low volume state; likely Affinity Soccer; not worth pre-DSS investment | Affinity Soccer (likely) | Post-DSS, low priority |
 | Wisconsin Youth Soccer (WYSA) | Low volume state; likely Affinity Soccer; not worth pre-DSS investment | Affinity Soccer (likely) | Post-DSS, low priority |
+
+**Stage 3 entities (researched 2026-04-26 — pending browser confirmation):**
+
+| Entity | Type | GotSport Presence | Org-ID | Status | Config Section (when confirmed) |
+|--------|------|------------------|--------|--------|--------------------------------|
+| Virginia Youth Soccer Association (VYSA) | USYS State Assoc | Likely (documented tournament usage) | null | pending-browser-lookup | `// USYS State Associations — Stage 3` |
+| Colorado Youth Soccer Association (CYSA) | USYS State Assoc | Yes (GotSport platform confirmed) | null | pending-browser-lookup | `// USYS State Associations — Stage 3` |
+| Arizona Youth Soccer (AzSA) | USYS State Assoc | Likely (documented tournament usage) | null | pending-browser-lookup | `// USYS State Associations — Stage 3` |
+
+See `Infrastructure/GotSport Org-ID Research — VA, CO, AZ.md` for full research detail and volume estimates.
 
 > [!note] NAL status
 > NAL is currently in Section 2 (pending browser lookup). If the browser session confirms NAL is not on GotSport, move NAL here with the identified platform (if found) or "no accessible results data" (if none found).
