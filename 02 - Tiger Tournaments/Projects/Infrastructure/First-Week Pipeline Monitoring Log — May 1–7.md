@@ -24,7 +24,7 @@ task: task-2026-04-26-first-week-pipeline-monitoring-log
 
 | Date | Run Start | Run End | Duration | New Games Ingested | Total Games in DB | Errors | Status | Notes |
 |------|-----------|---------|----------|--------------------|-------------------|--------|--------|-------|
-| May 1 | | | | | | | | First production run — manual launch via May 1 Deployment Runbook |
+| May 1 | [fill post-run] | [fill post-run] | [fill post-run] | [fill post-run] | [fill post-run] | [fill post-run] | [fill post-run] | First production run — manual launch per May 1 Day-Of Runbook. Expected active team IDs: 15,000–40,000. Expected runtime: up to 6 hrs. GREEN = DAILY PIPELINE COMPLETED SUCCESSFULLY + any new games (or 0 explained). Fill all columns after run completes. |
 | May 2 | 02:00 | | | | | | | First automated cron run — use Morning-After Runbook |
 | May 3 | 02:00 | | | | | | | |
 | May 4 | 02:00 | | | | | | | |
@@ -97,7 +97,7 @@ Total new games added May 1–7: [N]
 
 | Date | Issue | Severity (1=low, 3=critical) | Resolution | Resolved? |
 |------|-------|------------------------------|------------|-----------|
-| | | | | |
+| 2026-04-26 | Pre-run note: monitoring begins. No issues to report. Pipeline not yet launched. | — | — | N/A |
 
 > If no issues by May 7: replace table with "No issues logged during first-week monitoring window (May 1–7)."
 
