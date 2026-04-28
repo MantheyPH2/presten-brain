@@ -3,9 +3,9 @@ title: Archive Workflow
 aliases: [archive-inactive-teams.js, Team Archival, archived_at]
 tags: [pipeline, archival, schema, data-hygiene, evo-draw]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-27
 author: FORGE
-status: migration executed 2026-04-22 — archive script pending first production run
+status: migration executed 2026-04-22 — archive script pending first production run — GROUP BY bug fixed in spec 2026-04-27
 ---
 
 # Seasonal Team Archive Workflow
@@ -109,6 +109,9 @@ If this returns any result, skip archival — the team is still competing in an 
 
 #### Full Candidate Query
 
+> [!warning] Bug Fixed 2026-04-27
+> Prior version included `g.event_name` in both `SELECT` and `GROUP BY`. This caused a team with games in multiple events to produce multiple rows — one per event — instead of one row per team. During a dry-run this inflated the candidate count and surfaced duplicate team_ids. Fixed by removing `g.event_name` from the GROUP BY and replacing it with a subquery scalar so one row per team is guaranteed. SENTINEL flagged this bug during the 2026-04-22 review. The fix in this spec must also be applied to the `archive-inactive-teams.js` script before the first dry-run runs.
+
 ```sql
 SELECT
   t.team_id,
@@ -117,7 +120,13 @@ SELECT
   t.last_synced_at,
   MAX(g.match_date) AS last_game_date,
   COUNT(g.id) AS total_games,
-  g.event_name AS last_event_name
+  (
+    SELECT g2.event_name
+    FROM games g2
+    WHERE (g2.home_team_id = t.team_id OR g2.away_team_id = t.team_id)
+    ORDER BY g2.match_date DESC
+    LIMIT 1
+  ) AS last_event_name
 FROM teams t
 JOIN games g ON (g.home_team_id = t.team_id OR g.away_team_id = t.team_id)
   AND g.is_hidden = false
@@ -125,7 +134,7 @@ WHERE
   t.archived_at IS NULL              -- not already archived
   AND t.active = true                -- currently considered active
   AND t.last_synced_at < NOW() - INTERVAL '30 days'  -- not recently synced
-GROUP BY t.team_id, t.team_name, t.active, t.last_synced_at, g.event_name
+GROUP BY t.team_id, t.team_name, t.active, t.last_synced_at
 HAVING MAX(g.match_date) < NOW() - INTERVAL '180 days'
   AND NOT EXISTS (
     SELECT 1 FROM games g2

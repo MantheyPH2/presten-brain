@@ -4,7 +4,7 @@ tags: [infrastructure, gotsport, stage2, authorization, org-ids, pipeline, forge
 created: 2026-04-27
 updated: 2026-04-27
 author: FORGE
-status: awaiting SENTINEL pre-approval (Section 5)
+status: Section 5 incorporated — awaiting SENTINEL pre-approval (Section 6)
 task: task-2026-04-27-stage2-authorization-criteria-doc
 ---
 
@@ -128,7 +128,23 @@ Requesting SENTINEL authorization to add Stage 2 org-IDs to production crawl con
 
 ---
 
-## Section 5: SENTINEL Pre-Approval of These Criteria
+## Section 5: FORGE Technical Readiness Criteria
+
+All 5 criteria must be met before FORGE files the Stage 2 Authorization Confirmation document (criterion 5.5):
+
+- **5.1 — Config Additions Staged and Reviewed:** All Stage 2 org-IDs have been added to the crawl config with correct format, reviewed against the org-ID reference document, and confirmed non-duplicate with Stage 1 entries. Verification: `Infrastructure/Stage 2 Org-ID Config Pre-Staging.md` filed and current.
+
+- **5.2 — Crawl Test Successful:** At least one test crawl per new source category returned > 0 valid game records. Verification: Sample output logged in the Stage 2 Authorization Trigger document or inline test output.
+
+- **5.3 — No Stage 1 Regression:** Stage 1 sources continue to produce game volumes within ±10% of the pre-Stage-2 baseline after Stage 2 config additions are staged. Verification: Source Baseline Section 4 query results show all Stage 1 sources within tolerance.
+
+- **5.4 — Pipeline Stability Confirmed:** At least 3 consecutive successful daily pipeline runs logged (no FM1/FM2 errors, no source-level failures) before Stage 2 expansion goes live. Verification: First-Week Pipeline Monitoring Log shows 3 consecutive green runs.
+
+- **5.5 — FORGE Authorization Confirmation Filed:** FORGE has filed `Infrastructure/Stage 2 Authorization Confirmation — FORGE.md` stating all criteria in Sections 1–5 are met, with a reference to each verification document.
+
+---
+
+## Section 6: SENTINEL Pre-Approval of These Criteria
 
 *This section is reserved for SENTINEL to fill. If SENTINEL approves the criteria as written, SENTINEL adds a disposition here. If any criteria require modification, SENTINEL notes the change below.*
 
@@ -152,6 +168,7 @@ SENTINEL Disposition:
 | Version | Date | Change | Author |
 |---------|------|--------|--------|
 | 1.0 | 2026-04-27 | Initial write — all three gates defined | FORGE |
+| 1.1 | 2026-04-27 | Added Section 5 (FORGE Technical Readiness Criteria); renumbered old Section 5 to Section 6 per SENTINEL direction | FORGE |
 
 ---
 
