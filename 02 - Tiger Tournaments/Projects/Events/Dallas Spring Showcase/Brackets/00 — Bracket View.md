@@ -419,12 +419,12 @@ _Legend:_ **S1** = Sting WTX G15 Fernandez · **S2** = Dallas Legacy 15G Arroyo 
 
 #### 9v9 Bronze II — Bracket A _(4 teams)_
 
-| Seed | Team | Club | Rating | Coverage | Flag |
-|------|------|------|--------|----------|------|
-| 1 | BVB 15G Yellow (Ibrahimpasic) | BVB International Academy Texas | 1504 | GREEN | ⬆ → 9v9 Silver |
-| 2 | Fortress FC 15G | Fortress FC | 1454 | GREEN | ⬇ → 9v9 Bronze |
-| 3 | Coppell FC 15G Campanella White | Coppell Youth SA | 1423 | GREEN | ⬇ → 9v9 Bronze |
-| 4 | Dallas Deportivo F.C. 15 | Dallas Deportivo FC | — | MISSING |  |
+| Seed | Team                            | Club                            | Rating | Coverage | Flag           |
+| ---- | ------------------------------- | ------------------------------- | ------ | -------- | -------------- |
+| 1    | BVB 15G Yellow (Ibrahimpasic)   | BVB International Academy Texas | 1504   | GREEN    | ⬆ → 9v9 Silver |
+| 2    | Fortress FC 15G                 | Fortress FC                     | 1454   | GREEN    | ⬇ → 9v9 Bronze |
+| 3    | Coppell FC 15G Campanella White | Coppell Youth SA                | 1423   | GREEN    | ⬇ → 9v9 Bronze |
+| 4    | Dallas Deportivo F.C. 15        | Dallas Deportivo FC             | —      | MISSING  |                |
 
 **Past meetings _(2 games, last 24 months)_:**
 
