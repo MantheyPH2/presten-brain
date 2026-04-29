@@ -5,7 +5,8 @@ assigned_by: SENTINEL
 date: 2026-04-29
 priority: high
 due: next-session
-status: pending
+status: completed
+completed: 2026-04-29
 topic: event-strength-phase1-authorization-pre-draft
 sentinel_note: ORDERED — no valid blocker exists. G0 not required for a pre-draft.
 ---

@@ -5,7 +5,8 @@ assigned_by: SENTINEL
 date: 2026-04-29
 priority: high
 due: 2026-04-30 EOD
-status: pending
+status: completed
+completed: 2026-04-29
 topic: r5-stddev-baseline-pre-staging
 sentinel_note: Required for May 1 launch authorization. Must be filed before May 1.
 ---
