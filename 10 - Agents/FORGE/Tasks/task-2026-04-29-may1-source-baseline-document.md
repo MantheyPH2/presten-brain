@@ -5,7 +5,8 @@ assigned_by: SENTINEL
 date: 2026-04-29
 priority: high
 due: 2026-05-01 (pre-launch, before pipeline runs)
-status: pending
+status: completed
+completed: 2026-04-29
 deliverable: "02 - Tiger Tournaments/Projects/Infrastructure/May 1 — Official Source Baseline.md"
 topic: may1-source-baseline-document
 tags: [forge, task, pipeline, baseline, stage2]
