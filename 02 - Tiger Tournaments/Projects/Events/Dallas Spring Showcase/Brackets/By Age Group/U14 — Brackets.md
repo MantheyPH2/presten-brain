@@ -185,6 +185,50 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U14
+
+Teams ranked by their head-to-head record against other U14 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | Dallas Surf 12B South | Dallas Surf | 11v11 Bronze Bracket A | 9 | 6 | 2 | 1 | 29 | 7 | +22 | 20 | 5 |
+| 2 | Fever United 12B (Prev. Nido Águila Tarrant 12B Tovar) | Fever United | 11v11 Bronze Bracket C | 7 | 5 | 0 | 2 | 26 | 10 | +16 | 15 | 5 |
+| 3 | Dutch Lions 12B PSV | Dutch FC | 11v11 Bronze Bracket A | 5 | 4 | 0 | 1 | 16 | 8 | +8 | 12 | 4 |
+| 4 | Fever United 12B Morrow | Fever United | 11v11 Bronze II Bracket B | 5 | 3 | 1 | 1 | 19 | 11 | +8 | 10 | 4 |
+| 5 | ULETE FC 12G Andre | Ulete FC | 11v11 Silver Bracket A | 6 | 3 | 1 | 2 | 18 | 12 | +6 | 10 | 4 |
+| 6 | StrikerZ DFW 2012B Purple | StrikerZ DFW | 11v11 Bronze Bracket C | 3 | 3 | 0 | 0 | 10 | 3 | +7 | 9 | 3 |
+| 7 | StrikerZ DFW 2012G Purple | StrikerZ DFW | 11v11 Bronze Crossover Bracket A | 6 | 2 | 2 | 2 | 13 | 6 | +7 | 8 | 4 |
+| 8 | ETX United 12G | East Texas United SC | 11v11 Silver Bracket A | 5 | 2 | 1 | 2 | 12 | 13 | -1 | 7 | 3 |
+| 9 | Fever United 12G Schott | Fever United | 11v11 Bronze Crossover Bracket B | 2 | 2 | 0 | 0 | 6 | 1 | +5 | 6 | 2 |
+| 10 | Athens Futbol Club 12B | Athens Futbol Club | 11v11 Silver Bracket A | 3 | 2 | 0 | 1 | 6 | 5 | +1 | 6 | 2 |
+| 11 | FCP Dynamos 12B | FCP Dynamos | 11v11 Bronze Bracket B | 3 | 2 | 0 | 1 | 6 | 6 | +0 | 6 | 3 |
+| 12 | Athens Futbol Club - 12B Aguilar | Athens Futbol Club | 11v11 Silver Bracket A | 3 | 1 | 1 | 1 | 4 | 6 | -2 | 4 | 1 |
+| 13 | Midlothian Premier FC 2012 Girls | Midlothian Premier FC | 11v11 Bronze Crossover Bracket B | 4 | 1 | 1 | 2 | 3 | 8 | -5 | 4 | 3 |
+| 14 | Solar South 12G Cameron RLNTX | Solar SC | 11v11 Silver Bracket A | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 | 1 |
+| 15 | Sting ECNL RL NTX B12 Pitcock | Sting Soccer Club | 11v11 Bronze II Bracket A | 2 | 1 | 0 | 1 | 3 | 2 | +1 | 3 | 2 |
+| 16 | Juventus Premier FC 12G | Juventus Premier FC | 11v11 Silver Bracket A | 2 | 1 | 0 | 1 | 4 | 4 | +0 | 3 | 2 |
+| 17 | Dallas Legacy 12G Olguin | Dallas Legacy | 11v11 Silver Bracket A | 2 | 1 | 0 | 1 | 3 | 4 | -1 | 3 | 2 |
+| 18 | Dallas Surf South 12B Black | Dallas Surf | 11v11 Bronze II Bracket C | 3 | 1 | 0 | 2 | 6 | 13 | -7 | 3 | 2 |
+| 19 | Dallas Surf 12B Blue | Dallas Surf | 11v11 Bronze II Bracket B | 5 | 1 | 0 | 4 | 7 | 20 | -13 | 3 | 4 |
+| 20 | Dallas Surf 12G Black | Dallas Surf | 11v11 Bronze Crossover Bracket B | 2 | 0 | 1 | 1 | 2 | 4 | -2 | 1 | 2 |
+| 21 | 13B McMillian | Evolution | 11v11 Silver Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 22 | Barca Academy Austin STXCL B12 | Legends FC - San Antonio | 11v11 Silver Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 23 | Extreme FC 12G Reyes | Extreme FC | 11v11 Bronze Crossover Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 24 | Fever United 12B Phiri | Fever United | 11v11 Silver Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 25 | GLASA Scorpions 12B | GLASA | 11v11 Bronze II Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 26 | IRVING VELOCITY SC 12 BR | Irving Soccer Association | 11v11 Bronze II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 27 | IRVING WILD CATS 12 GR | Irving Soccer Association | ? ? | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 28 | Legacy United FC 12B - Mininni | Legacy United FC | 11v11 Bronze Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 29 | OK Energy FC 12B Red | Oklahoma Energy FC | 11v11 Bronze Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 30 | Texas LoneStars 12B | Texas LoneStars Soccer Club | 11v11 Bronze Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 31 | FC Dallas Youth North NPL NTX B12 | FC Dallas Youth | 11v11 Bronze Bracket C | 2 | 0 | 0 | 2 | 1 | 5 | -4 | 0 | 2 |
+| 32 | Dutch Lions 12B Feyenoord | Dutch FC | 11v11 Bronze II Bracket A | 2 | 0 | 0 | 2 | 0 | 9 | -9 | 0 | 2 |
+| 33 | ISW Academy 12G Ramirez | ISW Academy | 11v11 Bronze Crossover Bracket A | 2 | 0 | 0 | 2 | 0 | 11 | -11 | 0 | 1 |
+| 34 | 12B Giurgila | Evolution | 11v11 Bronze II Bracket C | 4 | 0 | 0 | 4 | 4 | 16 | -12 | 0 | 3 |
+| 35 | Texas Spurs FC 12B | Texas Spurs | 11v11 Bronze II Bracket C | 6 | 0 | 0 | 6 | 8 | 24 | -16 | 0 | 4 |
+
+---
+
 ## Common opponents — U14
 
 Opponents played by 2+ U14 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.

@@ -159,6 +159,44 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U15
+
+Teams ranked by their head-to-head record against other U15 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | DFW United 11G Sutherland | DFW United SC | Silver Elite Crossover Bracket A | 8 | 7 | 0 | 1 | 20 | 6 | +14 | 21 | 7 |
+| 2 | TEXAS UNITED AC 11B ALDAMA | Texas United AC | DS Silver Elite Bracket A | 7 | 5 | 2 | 0 | 26 | 10 | +16 | 17 | 4 |
+| 3 | NTX United FC 2011B Paice | NTX United FC | DS Silver Bracket B | 6 | 5 | 1 | 0 | 16 | 5 | +11 | 16 | 4 |
+| 4 | FC Dallas Youth 11G North White | FC Dallas Youth | Silver Elite Crossover Bracket A | 8 | 5 | 0 | 3 | 17 | 8 | +9 | 15 | 5 |
+| 5 | Dallas Surf 11G Black | Dallas Surf | Silver Bracket A | 8 | 4 | 1 | 3 | 11 | 17 | -6 | 13 | 6 |
+| 6 | Solar 11G Givens ECNL RL NTX | Solar SC | Silver Elite Crossover Bracket A | 7 | 3 | 1 | 3 | 15 | 9 | +6 | 10 | 4 |
+| 7 | Solar South 11G Cameron | Solar SC | Silver Elite Crossover Bracket A | 7 | 3 | 1 | 3 | 10 | 11 | -1 | 10 | 3 |
+| 8 | Lions Futbol Club 2011B | Lions Futbol Club | DS Silver Elite Bracket A | 6 | 2 | 3 | 1 | 11 | 8 | +3 | 9 | 5 |
+| 9 | Coppell FC 11G Morales | Coppell Youth SA | Silver Bracket B | 2 | 1 | 0 | 1 | 4 | 3 | +1 | 3 | 2 |
+| 10 | Fever United 11B Jacobo | Fever United | DS Bronze Bracket A | 3 | 1 | 0 | 2 | 6 | 8 | -2 | 3 | 3 |
+| 11 | Solar ECNL RL-NTX 11B Red | Solar SC | DS Silver Bracket A | 4 | 1 | 0 | 3 | 7 | 14 | -7 | 3 | 3 |
+| 12 | BVB 11G Black East (Contreras) | BVB International Academy Texas | Silver Bracket A | 5 | 0 | 2 | 3 | 3 | 9 | -6 | 2 | 4 |
+| 13 | Rayados MOrtega 11/12 | Laredo Youth Soccer Assn | DS Bronze Bracket B | 2 | 0 | 1 | 1 | 6 | 7 | -1 | 1 | 2 |
+| 14 | Dallas Cosmos 11G White | Dallas Cosmos Soccer Club | Silver Bracket B | 2 | 0 | 1 | 1 | 0 | 2 | -2 | 1 | 2 |
+| 15 | Texas Spurs FC 11B | Texas Spurs | DS Silver Bracket A | 3 | 0 | 1 | 2 | 4 | 8 | -4 | 1 | 2 |
+| 16 | Atlético Dallas youth NPL NTX 12B HERNANDEZ-WTX | Atletico Dallas Youth | DS Bronze Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 17 | Avanti SA White NPL NTX B11 | Avanti Soccer Academy | DS Silver Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 18 | DKSC 11B RODRIGUEZ ETX | DKSC | DS Silver Elite Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 19 | FC Dallas El Paso 2011 | El Paso Premier League | DS Silver Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 20 | Fever United 11B Yellow | Fever United | DS Silver Elite Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 21 | Shiloh FC 11B | Shiloh FC | DS Silver Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 22 | Solar 11B Volkan NPLNTX | Solar SC | DS Bronze Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 23 | Texoma FC 2011 Boys Red | Texoma Football Club | DS Silver Elite Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 24 | Toros FC 2011/2012 Neon | El Paso Premier League | DS Bronze Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 25 | Villarreal NTX 11B Yellow Vargas | Villarreal NTX | DS Silver Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 26 | FC Dallas Youth 11G White | FC Dallas Youth | Silver Bracket B | 3 | 0 | 0 | 3 | 1 | 8 | -7 | 0 | 3 |
+| 27 | Coppell FC 11B Gee Grey | Coppell Youth SA | DS Bronze Bracket A | 2 | 0 | 0 | 2 | 0 | 7 | -7 | 0 | 1 |
+| 28 | Solar 11G Richardson RL NTX | Solar SC | Silver Bracket A | 2 | 0 | 0 | 2 | 1 | 9 | -8 | 0 | 2 |
+| 29 | FC Strikers 11B | Strikers FC( Texas) | DS Silver Bracket B | 3 | 0 | 0 | 3 | 4 | 13 | -9 | 0 | 2 |
+
+---
+
 ## Common opponents — U15
 
 Opponents played by 2+ U15 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.

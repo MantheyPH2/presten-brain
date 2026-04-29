@@ -271,6 +271,72 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U13
+
+Teams ranked by their head-to-head record against other U13 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | Sting Attack G13 H Pantoja | Sting Soccer Club | 11v11 Bronze Bracket B | 12 | 7 | 1 | 4 | 36 | 11 | +25 | 22 | 8 |
+| 2 | FC DIVAS XIII | FCD | 11v11 Silver Bracket B | 9 | 7 | 1 | 1 | 21 | 8 | +13 | 22 | 5 |
+| 3 | RPSC 13B Mercado | Revolution Premier SC | 11v11 Bronze Crossover Bracket B | 8 | 5 | 0 | 3 | 18 | 10 | +8 | 15 | 5 |
+| 4 | Sting NPL NTX B13 Pitcock/C Rodriguez | Sting Soccer Club | 11v11 Silver Bracket A | 4 | 4 | 0 | 0 | 17 | 3 | +14 | 12 | 4 |
+| 5 | Solar 14B Jenkins | Solar SC | 11v11 Silver 14s Bracket A | 6 | 3 | 1 | 2 | 13 | 8 | +5 | 10 | 5 |
+| 6 | Solar ECNL RL 13B Tremblay | Solar SC | 11v11 Gold Bracket A | 5 | 3 | 1 | 1 | 12 | 8 | +4 | 10 | 4 |
+| 7 | NTX Celtic 13B High | NTX Celtic FC | 11v11 Bronze Crossover Bracket B | 3 | 3 | 0 | 0 | 11 | 0 | +11 | 9 | 3 |
+| 8 | Pumas SC- 2013 Zam | Pumas SC NTX | 11v11 Gold Bracket A | 3 | 3 | 0 | 0 | 11 | 2 | +9 | 9 | 3 |
+| 9 | Olympians SC 14B Red Chadbourn | Olympians SC | 11v11 Silver 14s Bracket A | 4 | 3 | 0 | 1 | 13 | 8 | +5 | 9 | 4 |
+| 10 | NTX United FC 2014G Smith | NTX United FC | 11v11 Bronze Bracket B | 5 | 3 | 0 | 2 | 12 | 7 | +5 | 9 | 2 |
+| 11 | StrikerZ DFW 2013B Purple | StrikerZ DFW | 11v11 Bronze Crossover Bracket B | 6 | 3 | 0 | 3 | 15 | 12 | +3 | 9 | 4 |
+| 12 | ULETE FC 13G Chris | Ulete FC | 11v11 Bronze Bracket A | 7 | 3 | 0 | 4 | 10 | 15 | -5 | 9 | 6 |
+| 13 | Lioness Select 13G | Independent Teams - NTX | 11v11 Bronze Bracket B | 6 | 2 | 2 | 2 | 5 | 5 | +0 | 8 | 4 |
+| 14 | Dallas Surf 13G White | Dallas Surf | 11v11 Bronze Bracket A | 4 | 2 | 1 | 1 | 8 | 3 | +5 | 7 | 3 |
+| 15 | Dallas Texans ECNL RL NTX G13 | Dallas Texans | 11v11 Silver Bracket B | 4 | 2 | 1 | 1 | 8 | 6 | +2 | 7 | 2 |
+| 16 | Sting Royal ECNL RL NTX G13 Brave Oliver | Sting Soccer Club | Dallas Showcase Super Group 13s Bracket A | 2 | 2 | 0 | 0 | 7 | 1 | +6 | 6 | 2 |
+| 17 | Titan Warriors 13B | Independent Teams - NTX | 11v11 Silver Bracket A | 2 | 2 | 0 | 0 | 7 | 3 | +4 | 6 | 2 |
+| 18 | Rayados MOrtega 2013 White | Laredo Youth Soccer Assn | 11v11 Bronze Crossover Bracket A | 3 | 2 | 0 | 1 | 8 | 6 | +2 | 6 | 3 |
+| 19 | 14B Sinnott | Evolution | 11v11 Bronze 14s Bracket A | 2 | 2 | 0 | 0 | 4 | 2 | +2 | 6 | 1 |
+| 20 | Pegasus Futbol 2013 | Pegasus Futbol | 11v11 Bronze Crossover Bracket A | 3 | 2 | 0 | 1 | 8 | 7 | +1 | 6 | 3 |
+| 21 | FC LEGENDS UTD 13B Red | FC LEGENDS UTD | 11v11 Gold Bracket A | 3 | 2 | 0 | 1 | 7 | 7 | +0 | 6 | 2 |
+| 22 | Coppell FC 13B Shirazi White | Coppell Youth SA | 11v11 Bronze II Bracket B | 6 | 1 | 2 | 3 | 8 | 19 | -11 | 5 | 5 |
+| 23 | NTX Celtic FC Pre-ECNL B14 Shaffer | NTX Celtic FC | 11v11 Silver 14s Bracket B | 3 | 1 | 1 | 1 | 9 | 4 | +5 | 4 | 3 |
+| 24 | BVB 14B PreECNL Yellow (Suffredin) | BVB International Academy Texas | 11v11 Silver 14s Bracket A | 4 | 1 | 1 | 2 | 6 | 9 | -3 | 4 | 3 |
+| 25 | 13B Giurgila | Evolution | 11v11 Bronze II Bracket B | 6 | 1 | 1 | 4 | 9 | 14 | -5 | 4 | 4 |
+| 26 | Dallas Cosmos 13G Red | Dallas Cosmos Soccer Club | 11v11 Bronze Bracket C | 9 | 1 | 1 | 7 | 6 | 19 | -13 | 4 | 4 |
+| 27 | NTX Celtic FC Pre-ECNL B14 Brice | NTX Celtic FC | 11v11 Silver 14s Bracket A | 1 | 1 | 0 | 0 | 5 | 0 | +5 | 3 | 1 |
+| 28 | Dallas Surf 13G Central | Dallas Surf | 11v11 Silver Bracket A | 1 | 1 | 0 | 0 | 5 | 2 | +3 | 3 | 1 |
+| 29 | FC Dallas Youth Red ECNL RL NTX G13 | FC Dallas Youth | Dallas Showcase Super Group 13s Bracket A | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 | 1 |
+| 30 | Kernow Storm FC G13 API Lynch | Kernow Storm FC | 11v11 Bronze Bracket A | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 | 1 |
+| 31 | FC Dallas Youth Navy ECNL RL NTX B13 | FC Dallas Youth | 11v11 Silver Bracket A | 2 | 1 | 0 | 1 | 6 | 4 | +2 | 3 | 2 |
+| 32 | Kernow Storm FC B13 Red River NPL H.Espinosa | Kernow Storm FC | 11v11 Gold Bracket A | 2 | 1 | 0 | 1 | 4 | 3 | +1 | 3 | 1 |
+| 33 | Solar SW 14B Gallegos PreECNL | Solar SC | 11v11 Silver 14s Bracket B | 1 | 0 | 1 | 0 | 2 | 2 | +0 | 1 | 1 |
+| 34 | Legacy United FC 13B | Legacy United FC | 11v11 Bronze II Bracket A | 2 | 0 | 1 | 1 | 2 | 3 | -1 | 1 | 1 |
+| 35 | Dutch Lions 13B PSV | Dutch FC | 11v11 Bronze II Bracket A | 3 | 0 | 1 | 2 | 1 | 6 | -5 | 1 | 3 |
+| 36 | Pegasus Futbol 2013G | Pegasus Futbol | 11v11 Bronze Bracket C | 2 | 0 | 1 | 1 | 1 | 6 | -5 | 1 | 1 |
+| 37 | Atletico Dallas Youth NPL NTX 13B GARCIA-WTX | Atletico Dallas Youth | 11v11 Bronze Crossover Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 38 | FC Dallas Youth Pre ECNL B14 Bailey | FC Dallas Youth | 11v11 Silver 14s Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 39 | FC Dallas-High Plains 2013 Girls Red | FC Dallas High Plains | Dallas Showcase Super Group 13s Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 40 | OK Energy FC 14B White | Oklahoma Energy FC | 11v11 Silver 14s Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 41 | Rayados MOrtega 2013 Blue | Laredo Youth Soccer Assn | 11v11 Gold Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 42 | SPD FC 13B Red | SPD FC | 11v11 Bronze II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 43 | U13 Boys Gold - GO | GFI Academy | 11v11 Bronze II Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 44 | Fever United 14B Mee | Fever United | 11v11 Bronze 14s Bracket A | 1 | 0 | 0 | 1 | 2 | 3 | -1 | 0 | 1 |
+| 45 | Avanti SA ECNL RL B13 | Avanti Soccer Academy | 11v11 Silver Bracket A | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 | 1 |
+| 46 | FC Dallas Youth 13G North White | FC Dallas Youth | 11v11 Silver Bracket B | 1 | 0 | 0 | 1 | 2 | 5 | -3 | 0 | 1 |
+| 47 | OK Energy FC 13G ECRL2 | Oklahoma Energy FC | 11v11 Silver Bracket A | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 | 1 |
+| 48 | Atletico Dallas Youth 13B Reyes Central | Atletico Dallas Youth | 11v11 Bronze Crossover Bracket B | 2 | 0 | 0 | 2 | 1 | 5 | -4 | 0 | 1 |
+| 49 | Dallas Surf 2013B NL TX-N | Dallas Surf | 11v11 Bronze II Bracket B | 1 | 0 | 0 | 1 | 1 | 6 | -5 | 0 | 1 |
+| 50 | Texas Spurs FC 13B | Texas Spurs | 11v11 Silver Bracket A | 2 | 0 | 0 | 2 | 4 | 10 | -6 | 0 | 2 |
+| 51 | BVB 13G GA | BVB International Academy Texas | Dallas Showcase Super Group 13s Bracket A | 2 | 0 | 0 | 2 | 2 | 8 | -6 | 0 | 1 |
+| 52 | Dallas Surf 2013G NL TX-N | Dallas Surf | 11v11 Silver Bracket A | 2 | 0 | 0 | 2 | 1 | 7 | -6 | 0 | 2 |
+| 53 | Avanti Soccer Academy 13B Blue | Avanti Soccer Academy | 11v11 Bronze Crossover Bracket A | 1 | 0 | 0 | 1 | 0 | 6 | -6 | 0 | 1 |
+| 54 | Sting WTX B14 Fernandez | Sting Soccer Club | 11v11 Bronze 14s Bracket A | 2 | 0 | 0 | 2 | 0 | 8 | -8 | 0 | 2 |
+| 55 | Thunder United SC 13B Gold | Thunder United Soccer Club | 11v11 Bronze II Bracket A | 1 | 0 | 0 | 1 | 0 | 9 | -9 | 0 | 1 |
+| 56 | Coppell FC 14B Williams Red | Coppell Youth SA | 11v11 Bronze 14s Bracket A | 3 | 0 | 0 | 3 | 2 | 12 | -10 | 0 | 2 |
+| 57 | Frisco Fusion 13G Red | Frisco Fusion | 11v11 Bronze Bracket C | 5 | 0 | 0 | 5 | 0 | 30 | -30 | 0 | 2 |
+
+---
+
 ## Common opponents — U13
 
 Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.

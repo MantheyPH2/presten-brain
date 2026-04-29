@@ -113,6 +113,37 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U16
+
+Teams ranked by their head-to-head record against other U16 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | Nido Aguila Mt. Pleasant | Club America (TX) | DS Silver Crossover Bracket A | 5 | 3 | 0 | 2 | 20 | 9 | +11 | 9 | 4 |
+| 2 | ISW Academy 10G | ISW Academy | HS 2 Bracket A | 4 | 3 | 0 | 1 | 17 | 8 | +9 | 9 | 2 |
+| 3 | Statik '10 Boys | Statik Futbol Club | DS Bronze Crossover Bracket A | 2 | 2 | 0 | 0 | 7 | 1 | +6 | 6 | 2 |
+| 4 | Solar 10G Megli GCL | Solar SC | HS 2 Bracket A | 2 | 2 | 0 | 0 | 7 | 4 | +3 | 6 | 1 |
+| 5 | Texas Spurs FC 10B White | Texas Spurs | DS Bronze Crossover Bracket B | 3 | 2 | 0 | 1 | 5 | 7 | -2 | 6 | 2 |
+| 6 | NTX United FC 2010B Costello | NTX United FC | DS Bronze Crossover Bracket A | 1 | 1 | 0 | 0 | 6 | 3 | +3 | 3 | 1 |
+| 7 | FC Dallas Youth White ECNL RL NTX G10 | FC Dallas Youth | HS 1 Bracket A | 1 | 1 | 0 | 0 | 5 | 2 | +3 | 3 | 1 |
+| 8 | Victory SC 2010 Girls Black | Victory SC | HS 1 Bracket A | 1 | 1 | 0 | 0 | 2 | 1 | +1 | 3 | 1 |
+| 9 | Elite Premier FC 2010 | Elite Premier FC | DS Silver Crossover Bracket A | 2 | 1 | 0 | 1 | 4 | 5 | -1 | 3 | 1 |
+| 10 | Texoma FC 2010 Girls Red | Texoma Football Club | HS 2 Bracket A | 4 | 1 | 0 | 3 | 9 | 16 | -7 | 3 | 2 |
+| 11 | 10B Scannell | Evolution | DS Silver Crossover Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 12 | ATLETICO DALLAS YOUTH NPL NTX 10G HERNANDEZ-WTX | Atletico Dallas Youth | HS 2 Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 13 | Colorado United 2010B Red | Colorado United | DS Silver Crossover Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 14 | FC LEGENDS UTD 10/11B Red | FC LEGENDS UTD | DS Bronze Crossover Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 15 | Kernow Storm FC B10 ECNL RL Alexander | Kernow Storm FC | DS Silver Crossover Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 16 | Plano Planets |  | DS Bronze Crossover Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 17 | Solar South 10G Cameron | Solar SC | HS 1 Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 18 | Texas Warriors FC 10B - NPL NTX Foster | Texas Warriors FC | DS Silver Crossover Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 19 | Texas Spurs FC 10B Blue | Texas Spurs | DS Bronze Crossover Bracket A | 1 | 0 | 0 | 1 | 3 | 6 | -3 | 0 | 1 |
+| 20 | Fever United 10B Jacobo | Fever United | DS Bronze Crossover Bracket B | 2 | 0 | 0 | 2 | 1 | 4 | -3 | 0 | 1 |
+| 21 | BC Elite 10/11G | BC Elite | HS 1 Bracket A | 4 | 0 | 0 | 4 | 6 | 15 | -9 | 0 | 3 |
+| 22 | FC Dallas Youth North NPL NTX B10 | FC Dallas Youth | DS Bronze Crossover Bracket A | 2 | 0 | 0 | 2 | 2 | 13 | -11 | 0 | 2 |
+
+---
+
 ## Common opponents — U16
 
 Opponents played by 2+ U16 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.

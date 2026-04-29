@@ -53,6 +53,21 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U19
+
+Teams ranked by their head-to-head record against other U19 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | 07G GARCIA (TXN) | DKSC | Gold Bracket A | 1 | 1 | 0 | 0 | 2 | 0 | +2 | 3 | 1 |
+| 2 | ETFC 07G Muhr | East Texas Football Club | Gold Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 3 | FC Hurst United 09G | Hurst United SA | Gold Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 4 | Houstonians FC STXCL ECNL-RL G07 | Houstonians FC | Gold Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 5 | Steel United TX MSA 08G Elite | Steel United Texas | Gold Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 6 | Atletico Dallas Youth 07/08G Clark | Atletico Dallas Youth | Gold Bracket A | 1 | 0 | 0 | 1 | 0 | 2 | -2 | 0 | 1 |
+
+---
+
 ## Common opponents — U19
 
 Opponents played by 2+ U19 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.

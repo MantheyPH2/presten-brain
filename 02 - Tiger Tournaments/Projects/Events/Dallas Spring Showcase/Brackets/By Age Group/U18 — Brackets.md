@@ -46,6 +46,19 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U18
+
+Teams ranked by their head-to-head record against other U18 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | Kernow Storm FC WTX B08 Lubbock | Kernow Storm FC | DS 08-09 Bracket A | 1 | 1 | 0 | 0 | 1 | 0 | +1 | 3 | 1 |
+| 2 | Dallas Legacy 08B Arroyo | Dallas Legacy | DS 08-09 Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 3 | Solar 08B Volkan RLNTX | Solar SC | DS 08-09 Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 4 | Premier FA 2008B Green | Premier Futbol Academy of San Antonio | DS 08-09 Bracket A | 1 | 0 | 0 | 1 | 0 | 1 | -1 | 0 | 1 |
+
+---
+
 ## Common opponents — U18
 
 Opponents played by 2+ U18 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.

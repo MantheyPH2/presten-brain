@@ -479,6 +479,89 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U11
+
+Teams ranked by their head-to-head record against other U11 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | FC Dallas Youth 15G North White | FC Dallas Youth | 9v9 Silver Bracket A | 21 | 12 | 1 | 8 | 61 | 46 | +15 | 37 | 14 |
+| 2 | Atletico Dallas Youth 15G Welge | Atletico Dallas Youth | 9v9 DS Gold Bracket B | 16 | 11 | 0 | 5 | 49 | 54 | -5 | 33 | 14 |
+| 3 | ULETE FC 15G Andre | Ulete FC | 9v9 DS Gold Bracket B | 13 | 10 | 2 | 1 | 42 | 9 | +33 | 32 | 11 |
+| 4 | FC Dallas Youth 15G Navy | FC Dallas Youth | 9v9 Silver Bracket C | 16 | 9 | 5 | 2 | 52 | 21 | +31 | 32 | 12 |
+| 5 | Atletico Dallas Youth 15G Williams | Atletico Dallas Youth | 9v9 Bronze Bracket A | 14 | 9 | 2 | 3 | 31 | 20 | +11 | 29 | 11 |
+| 6 | Dallas Legacy 15G Arroyo | Dallas Legacy | 9v9 Bronze Bracket B | 18 | 9 | 2 | 7 | 42 | 38 | +4 | 29 | 11 |
+| 7 | Solar South 16G Adames | Solar SC | 9v9 DS Gold Bracket A | 11 | 9 | 1 | 1 | 37 | 9 | +28 | 28 | 7 |
+| 8 | Revolution Premier SC 15G | Revolution Premier SC | 9v9 Bronze Bracket A | 20 | 8 | 4 | 8 | 32 | 40 | -8 | 28 | 15 |
+| 9 | BVB 15B PreECNL Elite (Klassen) | BVB International Academy Texas | DS 9v9 Silver Elite Bracket A | 12 | 9 | 0 | 3 | 69 | 20 | +49 | 27 | 8 |
+| 10 | Texas Warriors FC 15G - Salas | Texas Warriors FC | 9v9 Silver Bracket C | 17 | 7 | 2 | 8 | 44 | 43 | +1 | 23 | 12 |
+| 11 | The Hive | The Hive | 9v9 Bronze Bracket A | 9 | 7 | 0 | 2 | 38 | 26 | +12 | 21 | 4 |
+| 12 | Dallas Surf 15G Central | Dallas Surf | ? ? | 15 | 6 | 2 | 7 | 25 | 28 | -3 | 20 | 11 |
+| 13 | 15G Moon | Evolution | 9v9 Silver Bracket B | 15 | 5 | 4 | 6 | 32 | 28 | +4 | 19 | 10 |
+| 14 | Dallas Surf 15G North | Dallas Surf | 9v9 Silver Bracket B | 7 | 5 | 1 | 1 | 20 | 6 | +14 | 16 | 5 |
+| 15 | Dallas Cosmos 15B Black | Dallas Cosmos Soccer Club | 9v9 Silver Bracket A | 8 | 5 | 0 | 3 | 18 | 9 | +9 | 15 | 5 |
+| 16 | North Texas Elite 2015G Pina | North Texas Elite SC | 9v9 Silver Bracket A | 15 | 5 | 0 | 10 | 20 | 34 | -14 | 15 | 9 |
+| 17 | Coppell FC 15G Campanella White | Coppell Youth SA | 9v9 Bronze II Bracket A | 20 | 4 | 2 | 14 | 35 | 72 | -37 | 14 | 13 |
+| 18 | Texas Warriors FC 15B Salas | Texas Warriors FC | 9v9 Silver Bracket B | 6 | 4 | 0 | 2 | 12 | 7 | +5 | 12 | 5 |
+| 19 | Dallas Surf 15B Black | Dallas Surf | 9v9 Silver Bracket C | 6 | 4 | 0 | 2 | 17 | 17 | +0 | 12 | 4 |
+| 20 | BVB 15G Black (Oldham) | BVB International Academy Texas | 9v9 Silver Bracket C | 9 | 4 | 0 | 5 | 13 | 20 | -7 | 12 | 7 |
+| 21 | BVB 15B PreECNL White (DeSousa) | BVB International Academy Texas | 9v9 Silver Bracket B | 9 | 4 | 0 | 5 | 12 | 23 | -11 | 12 | 7 |
+| 22 | FC Dallas High Plains 2015 Girls Red | FC Dallas High Plains | 9v9 DS Gold Bracket A | 4 | 3 | 1 | 0 | 13 | 5 | +8 | 10 | 4 |
+| 23 | FC Dallas Youth 15G Blue | FC Dallas Youth | 9v9 Silver Bracket B | 9 | 3 | 1 | 5 | 5 | 13 | -8 | 10 | 6 |
+| 24 | FC Dallas Pre ECNL B15 Raine | FC Dallas Youth | DS 9v9 Silver Elite Bracket A | 3 | 3 | 0 | 0 | 16 | 3 | +13 | 9 | 2 |
+| 25 | Tyler FC 15B | Tyler FC | DS 9v9 Silver Elite Bracket B | 4 | 3 | 0 | 1 | 16 | 7 | +9 | 9 | 3 |
+| 26 | 15B McGregor | Evolution | 9v9 Bronze II Bracket B | 6 | 3 | 0 | 3 | 9 | 13 | -4 | 9 | 5 |
+| 27 | Atletico Dallas Youth 15B Brandt | Atletico Dallas Youth | 9v9 Silver Bracket C | 8 | 3 | 0 | 5 | 10 | 15 | -5 | 9 | 6 |
+| 28 | Fortress FC 15G | Fortress FC | 9v9 Bronze II Bracket A | 11 | 2 | 2 | 7 | 16 | 32 | -16 | 8 | 10 |
+| 29 | FC LEGENDS UTD 15B Red | FC LEGENDS UTD | 9v9 Bronze II Bracket C | 4 | 2 | 1 | 1 | 11 | 6 | +5 | 7 | 4 |
+| 30 | Texas Warriors FC 15B Black | Texas Warriors FC | 9v9 Bronze Bracket B | 4 | 2 | 1 | 1 | 11 | 8 | +3 | 7 | 4 |
+| 31 | Thunder United SC 15B Red | Thunder United Soccer Club | 9v9 Bronze Bracket A | 4 | 2 | 1 | 1 | 9 | 8 | +1 | 7 | 4 |
+| 32 | Frisco Fusion 15B Blue | Frisco Fusion | Silver II Bracket A | 2 | 2 | 0 | 0 | 10 | 1 | +9 | 6 | 2 |
+| 33 | ULETE FC 15B Simon | Ulete FC | 9v9 Bronze Bracket B | 3 | 2 | 0 | 1 | 12 | 7 | +5 | 6 | 3 |
+| 34 | Solar 15B Molano PreECNL Red | Solar SC | DS 9v9 Silver Elite Bracket B | 2 | 2 | 0 | 0 | 5 | 1 | +4 | 6 | 1 |
+| 35 | Sting Pre ECNL B16 Lucero | Sting Soccer Club | DS 9v9 Silver Elite Bracket A | 3 | 2 | 0 | 1 | 9 | 6 | +3 | 6 | 3 |
+| 36 | Fort Worth Vaqueros FC 15 Alonzo | Fort Worth Vaqueros FC | 9v9 Bronze II Bracket B | 3 | 2 | 0 | 1 | 7 | 7 | +0 | 6 | 3 |
+| 37 | FC LEGENDS UTD 15B Black | FC LEGENDS UTD | 9v9 Bronze Bracket C | 6 | 2 | 0 | 4 | 9 | 16 | -7 | 6 | 5 |
+| 38 | Solar Pre ECNL G15 Naizer | Solar SC | 9v9 Silver Bracket A | 7 | 2 | 0 | 5 | 10 | 18 | -8 | 6 | 3 |
+| 39 | Dallas Cosmos 15G White | Dallas Cosmos Soccer Club | 9v9 Bronze Bracket B | 15 | 2 | 0 | 13 | 14 | 50 | -36 | 6 | 9 |
+| 40 | Sting WTX G15 Fernandez | Sting Soccer Club | 9v9 Bronze Bracket B | 8 | 1 | 2 | 5 | 15 | 24 | -9 | 5 | 3 |
+| 41 | FC Dallas Youth 15B Navy | FC Dallas Youth | Silver II Bracket A | 2 | 1 | 1 | 0 | 7 | 4 | +3 | 4 | 2 |
+| 42 | BVB 15B PreECNL Black East (Contreras) | BVB International Academy Texas | Silver II Bracket C | 3 | 1 | 1 | 1 | 6 | 4 | +2 | 4 | 2 |
+| 43 | Frisco Fusion 15G Blue | Frisco Fusion | 9v9 Bronze II Bracket B | 6 | 1 | 1 | 4 | 15 | 21 | -6 | 4 | 3 |
+| 44 | Pflugerville Rayados 2015 | Mortega Soccer Club Laredo Youth Soccer Academy | DS 9v9 Silver Elite Bracket B | 1 | 1 | 0 | 0 | 4 | 0 | +4 | 3 | 1 |
+| 45 | Atletico Dallas Youth FTW 15B Blue | Atletico Dallas Youth | Silver II Bracket C | 4 | 1 | 0 | 3 | 8 | 5 | +3 | 3 | 4 |
+| 46 | FC Dallas Youth Pre ECNL B15 | FC Dallas Youth | 9v9 Silver Bracket A | 2 | 1 | 0 | 1 | 8 | 6 | +2 | 3 | 2 |
+| 47 | FC Dallas High Plains 2015 Girls Blue | FC Dallas High Plains | 9v9 Bronze Bracket A | 2 | 1 | 0 | 1 | 4 | 3 | +1 | 3 | 2 |
+| 48 | FC Dallas Youth Pre-ECNL 15G Avant West | FC Dallas Youth | 9v9 Bronze Bracket B | 3 | 1 | 0 | 2 | 4 | 7 | -3 | 3 | 3 |
+| 49 | BVB 15G Yellow (Ibrahimpasic) | BVB International Academy Texas | 9v9 Bronze II Bracket A | 2 | 1 | 0 | 1 | 3 | 7 | -4 | 3 | 2 |
+| 50 | BVB 15B Black (DeSousa) | BVB International Academy Texas | 9v9 Bronze Bracket C | 3 | 1 | 0 | 2 | 2 | 6 | -4 | 3 | 2 |
+| 51 | NTX Celtic 15B Strange South | NTX Celtic FC | 9v9 Bronze Bracket A | 4 | 1 | 0 | 3 | 3 | 10 | -7 | 3 | 3 |
+| 52 | Dallas Surf 15G Black | Dallas Surf | 9v9 Bronze II Bracket B | 9 | 0 | 3 | 6 | 8 | 29 | -21 | 3 | 8 |
+| 53 | TAG Pre ECNL 15B Gold East | TAG Soccer | 9v9 Silver Bracket A | 4 | 0 | 1 | 3 | 1 | 8 | -7 | 1 | 3 |
+| 54 | Arl Rodriguez/South Dallas Leon 15B | Arlington SA | 9v9 Bronze II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 55 | Atlético United FC | Atletico United FC | Silver II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 56 | Cobras | Little Elm Youth SA | 9v9 Bronze II Bracket C | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 57 | Dallas Cosmos 15G Red | Dallas Cosmos Soccer Club | 9v9 Bronze II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 58 | Dallas Deportivo F.C. 15 | Dallas Deportivo FC | 9v9 Bronze II Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 59 | Elite Premier FC 2015B | Elite Premier FC | 9v9 Bronze II Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 60 | FC Dallas Youth Pre ECNL B15 Malik | FC Dallas Youth | 9v9 Silver Bracket C | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 61 | GLASA Hulk Smash 15B | GLASA | ? ? | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 62 | NTX United FC 2015/16B Guibert | NTX United FC | Silver II Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 63 | Pegasus Futbol 2015 | Pegasus Futbol | 9v9 Bronze Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 64 | Solar North 16G | Solar SC | 9v9 DS Gold Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 65 | U11 Boys Gold - GO | GFI Academy | 9v9 Bronze Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 66 | Solar SW 15B Garcia.S White | Solar SC | 9v9 Bronze II Bracket A | 1 | 0 | 0 | 1 | 2 | 3 | -1 | 0 | 1 |
+| 67 | Fever United 15B C. Smith | Fever United | Silver II Bracket B | 1 | 0 | 0 | 1 | 1 | 4 | -3 | 0 | 1 |
+| 68 | Barca Academy Austin 15/16B Blue | Hill Country FC / Barca Academy Austin | Silver II Bracket B | 3 | 0 | 0 | 3 | 4 | 10 | -6 | 0 | 3 |
+| 69 | Coppell FC 15B Williams White | Coppell Youth SA | 9v9 Bronze II Bracket A | 2 | 0 | 0 | 2 | 2 | 9 | -7 | 0 | 2 |
+| 70 | FCD ETX Palestine 15/16B | FC Dallas ETX | 9v9 Silver Bracket B | 1 | 0 | 0 | 1 | 0 | 7 | -7 | 0 | 1 |
+| 71 | Athens Futbol Club - 15G Gonzalez | Athens Futbol Club | 9v9 Bronze II Bracket B | 2 | 0 | 0 | 2 | 3 | 11 | -8 | 0 | 2 |
+| 72 | 15B Sinnott | Evolution | 9v9 Bronze II Bracket C | 3 | 0 | 0 | 3 | 2 | 11 | -9 | 0 | 3 |
+| 73 | Royal Peak FC 2015 White | Royal Peak FC | Silver II Bracket C | 1 | 0 | 0 | 1 | 0 | 9 | -9 | 0 | 1 |
+| 74 | LC United 15B White Lyle | LC United | 9v9 Bronze Bracket C | 2 | 0 | 0 | 2 | 1 | 12 | -11 | 0 | 2 |
+
+---
+
 ## Common opponents — U11
 
 Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.

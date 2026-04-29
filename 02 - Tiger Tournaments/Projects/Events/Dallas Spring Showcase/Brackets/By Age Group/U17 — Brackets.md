@@ -96,6 +96,31 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U17
+
+Teams ranked by their head-to-head record against other U17 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | Atletico Dallas Youth 09G Clark | Atletico Dallas Youth | HS 1 Bracket B | 5 | 4 | 1 | 0 | 17 | 1 | +16 | 13 | 2 |
+| 2 | PSG DFW 09B ORTEGA | Paris Saint-Germain Academy DFW | Bracket B Bracket A | 3 | 2 | 1 | 0 | 5 | 0 | +5 | 7 | 2 |
+| 3 | Arsenal CF 09B | Independent Teams - NTX | DS Silver Bracket A | 1 | 1 | 0 | 0 | 4 | 0 | +4 | 3 | 1 |
+| 4 | OTIS F.C | Otis FC | Bracket B Bracket A | 1 | 1 | 0 | 0 | 3 | 0 | +3 | 3 | 1 |
+| 5 | Inter Dallas SC 09G | Dallas Inter Soccer Club | HS 1 Bracket A | 4 | 1 | 0 | 3 | 3 | 16 | -13 | 3 | 2 |
+| 6 | TAG 09B Black | TAG Soccer | Bracket B Bracket A | 2 | 0 | 1 | 1 | 0 | 2 | -2 | 1 | 1 |
+| 7 | Solar 09G Megli | Solar SC | HS 1 Bracket A | 3 | 0 | 1 | 2 | 0 | 3 | -3 | 1 | 2 |
+| 8 | Atletico Dallas Youth ECNL RL NTX BLUE 08/07B HERNANDEZ-WTX | Atletico Dallas Youth | ? ? | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 9 | Bravos Academy 10B (Garcia) | FC JUAREZ DALLAS | DS Silver Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 10 | Coppell FC 09G Sansom | Coppell Youth SA | HS 1 Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 11 | Dallas Legacy 09G Arroyo | Dallas Legacy | HS 1 Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 12 | NTX Celtic FC ECNL RL NTX G09 | NTX Celtic FC | HS 1 Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 13 | Solar East 09B Spear | Solar SC | Bracket B Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 14 | Toros FC 2009/2010 Black | El Paso Premier League | DS Silver Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 15 | Atletico Dallas Youth Blue ECNL-RL NTX B09 | Atletico Dallas Youth | Bracket B Bracket A | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 | 1 |
+| 16 | Atletico Dallas Youth FDL 09B Reyes | Atletico Dallas Youth | DS Silver Bracket A | 2 | 0 | 0 | 2 | 0 | 7 | -7 | 0 | 2 |
+
+---
+
 ## Common opponents — U17
 
 Opponents played by 2+ U17 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.

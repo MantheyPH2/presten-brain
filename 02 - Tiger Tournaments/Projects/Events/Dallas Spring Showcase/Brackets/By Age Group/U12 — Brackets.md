@@ -251,6 +251,68 @@ Games between any two teams in this age group attending DSS, last 24 months.
 
 ---
 
+## H2H Ranking — U12
+
+Teams ranked by their head-to-head record against other U12 DSS attendees (using only the played games above). Ties broken by goal differential, then goals scored. Teams with no H2H games appear at the bottom.
+
+| Rank | Team | Club | Bracket | Played | W | D | L | GF | GA | GD | Pts | Opp count |
+|------|------|------|---------|--------|---|---|---|----|----|-----|-----|-----------|
+| 1 | 14G McGregor | Evolution | 11v11 Bronze Bracket A | 13 | 7 | 2 | 4 | 23 | 11 | +12 | 23 | 7 |
+| 2 | Dallas Surf 14G White | Dallas Surf | 11v11 Silver Bracket A | 9 | 5 | 2 | 2 | 23 | 12 | +11 | 17 | 9 |
+| 3 | Solar 14G Tremblay Gold | Solar SC | 11v11 Bronze Bracket A | 6 | 4 | 2 | 0 | 13 | 4 | +9 | 14 | 4 |
+| 4 | Sting WTX G14 Jimenez | Sting Soccer Club | 11v11 DS Gold Bracket A | 5 | 3 | 1 | 1 | 16 | 7 | +9 | 10 | 4 |
+| 5 | Sting Pre-ECNL G14 H Martinez | Sting Soccer Club | 11v11 DS Gold Bracket A | 3 | 3 | 0 | 0 | 17 | 1 | +16 | 9 | 3 |
+| 6 | Barça Academy Austin 14B Red | Legends FC - San Antonio | 9v9 Silver Crossover Bracket A | 3 | 3 | 0 | 0 | 13 | 2 | +11 | 9 | 2 |
+| 7 | Sting Pre-ECNL G14 Kovacevic | Sting Soccer Club | 11v11 DS Gold Bracket A | 4 | 3 | 0 | 1 | 9 | 5 | +4 | 9 | 3 |
+| 8 | Nido Águila 14G Gonzalez | Club America - Tarrant County | 9v9 Bronze II Bracket B | 4 | 3 | 0 | 1 | 14 | 11 | +3 | 9 | 3 |
+| 9 | Elite Premier FC 2014G | Elite Premier FC | 9v9 Bronze Bracket A | 4 | 3 | 0 | 1 | 8 | 8 | +0 | 9 | 3 |
+| 10 | BVB 14G East (Brown) | BVB International Academy Texas | 11v11 Silver Bracket A | 5 | 2 | 2 | 1 | 15 | 6 | +9 | 8 | 5 |
+| 11 | Solar South 15G Adames | Solar SC | 11v11 DS Gold Bracket A | 5 | 2 | 2 | 1 | 15 | 12 | +3 | 8 | 1 |
+| 12 | Dallas Hornets 15G (Prev Alpha) | Dallas Hornets | 11v11 DS Gold Bracket A | 6 | 2 | 2 | 2 | 15 | 15 | +0 | 8 | 2 |
+| 13 | Atletico Dallas Youth 14G Enciso | Atletico Dallas Youth | 9v9 Bronze II Bracket A | 9 | 2 | 2 | 5 | 17 | 26 | -9 | 8 | 6 |
+| 14 | Barça Academy Austin 14B Black | Legends FC - San Antonio | 9v9 Bronze Bracket B | 3 | 2 | 1 | 0 | 12 | 4 | +8 | 7 | 3 |
+| 15 | Bulverde YSA Relentless SC '14 | Bulverde YSA | 9v9 Bronze Bracket C | 4 | 2 | 0 | 2 | 10 | 9 | +1 | 6 | 2 |
+| 16 | Dallas Surf 14G East Silver | Dallas Surf | 11v11 Silver Bracket A | 5 | 1 | 3 | 1 | 6 | 5 | +1 | 6 | 4 |
+| 17 | FC Dallas Youth 14G West | FC Dallas Youth | 11v11 Bronze Bracket A | 4 | 1 | 3 | 0 | 2 | 1 | +1 | 6 | 3 |
+| 18 | ULETE FC 14G Carlo | Ulete FC | 9v9 Bronze Bracket A | 7 | 2 | 0 | 5 | 12 | 22 | -10 | 6 | 3 |
+| 19 | NTX Celtic 14B Shaffer West | NTX Celtic FC | 9v9 Bronze Bracket A | 2 | 1 | 1 | 0 | 5 | 2 | +3 | 4 | 1 |
+| 20 | Juventus Premier FC 14B Cantu | Juventus Premier Futbol Club | 9v9 Silver Crossover Bracket A | 2 | 1 | 1 | 0 | 3 | 2 | +1 | 4 | 2 |
+| 21 | Juventus Premier FC 14G Black Cantu | Juventus Premier Futbol Club | 11v11 Silver Bracket A | 6 | 1 | 1 | 4 | 8 | 19 | -11 | 4 | 5 |
+| 22 | Legacy United FC 14B - Juarez | Legacy United FC | 9v9 Bronze Bracket B | 2 | 1 | 0 | 1 | 6 | 3 | +3 | 3 | 1 |
+| 23 | Dutch Lions 14B PSV | Dutch FC | 9v9 Bronze Bracket B | 2 | 1 | 0 | 1 | 5 | 2 | +3 | 3 | 2 |
+| 24 | Texas Premier SC U12 | Texas Premier SC | 9v9 Silver Crossover Bracket A | 1 | 1 | 0 | 0 | 5 | 3 | +2 | 3 | 1 |
+| 25 | Texas LoneStars 14B | Texas LoneStars Soccer Club | 9v9 Bronze Bracket C | 1 | 1 | 0 | 0 | 4 | 2 | +2 | 3 | 1 |
+| 26 | Dutch Lions 14B Sparta | Dutch FC | 9v9 Bronze II Bracket A | 1 | 1 | 0 | 0 | 3 | 1 | +2 | 3 | 1 |
+| 27 | Coppell FC 14B Gee White | Coppell Youth SA | 9v9 Bronze II Bracket A | 2 | 1 | 0 | 1 | 4 | 5 | -1 | 3 | 2 |
+| 28 | Fever United 14G Wright | Fever United | 9v9 Bronze II Bracket B | 2 | 1 | 0 | 1 | 2 | 3 | -1 | 3 | 2 |
+| 29 | Dallas Cosmos 14G White | Dallas Cosmos Soccer Club | 9v9 Bronze Bracket A | 5 | 0 | 3 | 2 | 3 | 10 | -7 | 3 | 4 |
+| 30 | Dallas Cosmos 14G Red | Dallas Cosmos Soccer Club | 9v9 Bronze II Bracket A | 5 | 1 | 0 | 4 | 2 | 11 | -9 | 3 | 4 |
+| 31 | Sting G14 Fuentes | Sting Soccer Club | 9v9 Bronze Bracket A | 4 | 1 | 0 | 3 | 2 | 11 | -9 | 3 | 4 |
+| 32 | Atletico Dallas Youth 14B Welge | Atletico Dallas Youth | 9v9 Bronze II Bracket B | 5 | 1 | 0 | 4 | 8 | 21 | -13 | 3 | 4 |
+| 33 | Rayados MOrtega 2014 White | Laredo Youth Soccer Assn | 9v9 Bronze Bracket A | 6 | 1 | 0 | 5 | 7 | 23 | -16 | 3 | 3 |
+| 34 | Southside Soccer 14B Black | Southside Soccer | 9v9 Silver Crossover Bracket A | 2 | 0 | 1 | 1 | 2 | 5 | -3 | 1 | 1 |
+| 35 | NTX Celtic 14G Holden | NTX Celtic FC | 9v9 Bronze II Bracket B | 5 | 0 | 1 | 4 | 2 | 14 | -12 | 1 | 3 |
+| 36 | Dallas Surf 14G East Wave | Dallas Surf | 9v9 Bronze II Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 37 | Dutch Lionesses 14G AJAX | Dutch FC | 11v11 Bronze Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 38 | Dutch Lions 14B AZ | Dutch FC | 9v9 Bronze II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 39 | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | FC Dallas ETX | 9v9 Bronze II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 40 | FC Forney 2014B | FC Forney | 9v9 Bronze II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 41 | GLASA Roaring Lions 14G | GLASA | 9v9 Bronze II Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 42 | GLASA Thunderbirds 14B | GLASA | 9v9 Bronze II Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 43 | IRVING TEXAS HEAT 14 GR | Irving Soccer Association | ? ? | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 44 | South Dallas Leon 2014B | Independent Teams - NTX | 9v9 Bronze Bracket C | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 45 | Southern Soccer 14B | Southern Soccer | 9v9 Bronze Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 46 | TOROS FC 2014 Black | El Paso Premier League | 9v9 Bronze Bracket C | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 47 | U12 Boys Gold - GO | GFI Academy | 9v9 Bronze Bracket A | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 48 | ULETE FC 14/15 Hanibal | Ulete FC | 9v9 Bronze II Bracket B | 0 | 0 | 0 | 0 | 0 | 0 | +0 | 0 | 0 |
+| 49 | Solar West 15B Garcia.S PreECNL | Solar SC | 9v9 Silver Crossover Bracket A | 1 | 0 | 0 | 1 | 1 | 2 | -1 | 0 | 1 |
+| 50 | Amarillo Rush 14G | Amarillo Rush SC | 11v11 Bronze Bracket A | 1 | 0 | 0 | 1 | 1 | 3 | -2 | 0 | 1 |
+| 51 | BVB 14B Black East (Fritz) | BVB International Academy Texas | 9v9 Bronze II Bracket A | 1 | 0 | 0 | 1 | 1 | 3 | -2 | 0 | 1 |
+| 52 | SPD FC 14B Black | SPD FC | 9v9 Bronze Bracket B | 1 | 0 | 0 | 1 | 0 | 3 | -3 | 0 | 1 |
+| 53 | Atletico Dallas Youth Pre ECNL G15- Perez | Atletico Dallas Youth | 11v11 Silver Bracket A | 2 | 0 | 0 | 2 | 0 | 5 | -5 | 0 | 2 |
+
+---
+
 ## Common opponents — U12
 
 Opponents played by 2+ U12 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.
