@@ -172,3 +172,311 @@ status: ready-for-scheduler
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
+
+---
+
+## Past meetings — U13 teams at DSS
+
+Games between any two teams in this age group attending DSS, last 24 months.
+
+**85 games found.**
+
+| Date | Home | Score | Away | Event |
+|------|------|-------|------|-------|
+| 2026-03-29 | Solar 14B Jenkins | 3–2 | Fever United 14B Mee | TCSL Select (U10-U16) Spring 2026 |
+| 2026-03-28 | Frisco Fusion 13g Red | 0–4 | NTX United FC 2014G Smith | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-03-26 | StrikerZ DFW 2013B Purple | 3–0 | Atletico Dallas Youth 13B Reyes Central | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-03-25 | Legacy United FC 13B | 2–2 | Coppell FC 13B Shirazi White | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-03-25 | Coppell FC 14B Williams Red | 1–2 | 14B Sinnott | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-03-21 | StrikerZ DFW 2013B Purple | 3–4 | FC LEGENDS UTD 13B Red | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-03-21 | NTX United FC 2014G Smith | 0–4 | Sting Attack G13 H Pantoja | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-03-21 | BVB 14B PreECNL Yellow (Suffredin) | 3–5 | Solar 14B Jenkins | TCSL Select (U10-U16) Spring 2026 |
+| 2026-03-10 | StrikerZ DFW 2013B Purple | 1–3 | Titan Warriors 13B | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-03-10 | Sting Attack G13 H Pantoja | 3–1 | NTX United FC 2014G Smith | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-03-07 | Rayados MOrtega 2013 White | 5–3 | Texas Spurs FC 13B | PREMIER CUP 26 |
+| 2026-02-28 | Sting Attack G13 H Pantoja | 9–0 | Frisco Fusion 13g Red | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-02-28 | Olympians SC 14B Red Chadbourn | 1–0 | Solar 14B Jenkins | TCSL Select (U10-U16) Spring 2026 |
+| 2026-02-26 | Frisco Fusion 13g Red | 0–10 | Sting Attack G13 H Pantoja | SPRING 2026 Plano Premier Invitational League 25/26 |
+| 2026-02-21 | Evoluion 13B Giurgila  | 0–1 | Revolution Premier SC 13B Mercado | Spring 2026 CCSAI Classic League |
+| 2026-02-08 | Dallas Cosmos 13G Red | 1–4 | FC DIVAS XIII | Girls Classic League 2025-26 |
+| 2026-01-18 | FC DIVAS XIII | 0–0 | Dallas Texans ECNL RL NTX G13 | 2026 Outlaw Cup |
+| 2026-01-18 | Sting WTX B14 Fernandez | 0–3 | Rayados MOrtega 2013 White | ELITE CUP |
+| 2026-01-17 | Dallas Texans ECNL RL NTX G13 | 5–0 | ULETE FC 13G Chris | 2026 Outlaw Cup |
+| 2026-01-17 | ULETE FC 13G Chris | 2–4 | FC DIVAS XIII | 2026 Outlaw Cup |
+| 2026-01-10 | Sting NPL NTX B13 Pitcock/C Rodriguez | 6–0 | Avanti Soccer Academy 13B Blue | Solar Winter Cup 2026 |
+| 2025-12-14 | Solar 14B Jenkins | 4–0 | Dutch Lions 13B PSV | 2025 NTX Celtic Snowball Cup |
+| 2025-12-14 | RPSC 13B Mercado | 4–0 | Pegasus Futbol 2013 | 2025 NTX Celtic Snowball Cup |
+| 2025-12-14 | Coppell FC 13B Shirazi White | 0–7 | RPSC 13B Mercado | 2025 NTX Celtic Snowball Cup |
+| 2025-12-14 | Dallas Cosmos 13G Red | 0–0 | Lioness Select 13G | 2025 NTX Celtic Snowball Cup |
+| 2025-12-14 | 13B Giurgila | 2–4 | Pegasus Futbol 2013 | 2025 NTX Celtic Snowball Cup |
+| 2025-12-13 | Dallas Cosmos 13G Red | 0–3 | ULETE FC 13G Chris | 2025 NTX Celtic Snowball Cup |
+| 2025-12-13 | 13B Giurgila | 1–3 | RPSC 13B Mercado | 2025 NTX Celtic Snowball Cup |
+| 2025-12-13 | ULETE FC 13G Chris | 3–1 | Lioness Select 13G | 2025 NTX Celtic Snowball Cup |
+| 2025-12-13 | Pegasus Futbol 2013 | 4–1 | Coppell FC 13B Shirazi White | 2025 NTX Celtic Snowball Cup |
+| 2025-12-13 | Dutch Lions 13B PSV | 0–1 | NTX Celtic 13B High | 2025 NTX Celtic Snowball Cup |
+| 2025-12-13 | NTX Celtic 13B High | 1–0 | Solar 14B Jenkins | 2025 NTX Celtic Snowball Cup |
+| 2025-11-23 | Sting Attack G13 H Pantoja 101 | 0–2 | Dallas Surf 13G White 208 | DALLAS SURF OPEN |
+| 2025-11-22 | Texas Spurs FC 13B 123 | 1–5 | Pumas SC- 2013 Zam 125 | DALLAS SURF OPEN |
+| 2025-11-22 | Coppell FC 14B Williams Red | 0–8 | Olympians SC 14B Red Chadbourn | HUSA Turkey Shoot XXXII |
+| 2025-11-22 | NTX Celtic FC Pre-ECNL B14 Shaffer | 7–1 | Olympians SC 14B Red Chadbourn | HUSA Turkey Shoot XXXII |
+| 2025-11-15 | Pumas SC- 2013 Zam  | 3–1 | FC LEGENDS UTD 13B Red | FALL PREMIER SHOWCASE |
+| 2025-11-15 | NTX Celtic FC Pre-ECNL B14 Brice 177* | 5–0 | Sting WTX B14 Fernandez* | FALL PREMIER SHOWCASE |
+| 2025-11-14 | Sting NPL NTX B13 Pitcock/C Rodriguez  | 2–0 | RPSC 13B Mercado | FALL PREMIER SHOWCASE |
+| 2025-11-08 | Evolution 13B Giurgila | 2–5 | StrikerZ DFW 2013B Purple | Veteran Heroes Cup 2025 |
+| 2025-11-01 | Dallas Surf 13G White | 5–0 | Pegasus Futbol 2013G | (DO NOT USE) Plano Premier Invitational League 25/26 |
+| 2025-11-01 | NTX Celtic 13B High | 9–0 | Thunder United SC 13B Gold | TCSL Select (U10-U16) Fall 2025 |
+| 2025-10-19 | ULETE FC 2013G Chris | 0–3 | Sting Attack G13 H Pantoja | Girls Classic League 2025-26 |
+| 2025-10-12 | ULETE FC 2013G Chris | 0–2 | Lioness Select 13G | Girls Classic League 2025-26 |
+| 2025-10-12 | Sting 13B Pitcock/C Rodriguez NL (TX-N) | 6–1 | Dallas Surf 13B NL (TX-N) | NL Club P1 Frontier 25-26 |
+| 2025-10-11 | Frisco Fusion 13g Red | 0–1 | NTX United FC 2014G Smith | (DO NOT USE) Plano Premier Invitational League 25/26 |
+| 2025-10-08 | Legacy United FC 13B | 0–1 | Coppell FC 13B Shirazi White | (DO NOT USE) Plano Premier Invitational League 25/26 |
+| 2025-10-02 | FC LEGENDS UTD 13B Red | 2–1 | StrikerZ DFW 2013B Purple | (DO NOT USE) Plano Premier Invitational League 25/26 |
+| 2025-09-28 | FC DIVAS XIII | 2–1 | Sting Attack G13 H Pantoja | Girls Classic League 2025-26 |
+| 2025-09-27 | Titan Warriors 13B | 4–2 | Coppell FC 13B Shirazi White | (DO NOT USE) Plano Premier Invitational League 25/26 |
+| 2025-09-27 | StrikerZ DFW 2013B Purple | 2–1 | Atletico Dallas Youth 13B Reyes Central | (DO NOT USE) Plano Premier Invitational League 25/26 |
+| 2025-09-21 | Dallas Surf 13G Central | 5–2 | FC Dallas Youth 13G North White | Girls Classic League 2025-26 |
+| 2025-09-20 | Sting Attack G13 H Pantoja | 3–0 | Dallas Cosmos 13G Red | Girls Classic League 2025-26 |
+| 2025-09-13 | NTX United FC 2014G Smith | 6–0 | Frisco Fusion 13g Red | (DO NOT USE) Plano Premier Invitational League 25/26 |
+| 2025-09-13 | FC DIVAS XIII | 1–0 | Lioness Select 13G | Girls Classic League 2025-26 |
+| 2025-09-13 | Pegasus Futbol 2013G | 1–1 | Dallas Surf 13G White | (DO NOT USE) Plano Premier Invitational League 25/26 |
+| 2025-09-07 | Lioness Select 13G | 2–1 | Dallas Cosmos 13G Red | Girls Classic League 2025-26 |
+| 2025-08-23 | Dallas Surf 13G White | 0–2 | ULETE FC 13G Chris | Coppell Cup 2025 |
+| 2025-08-23 | NTX Celtic FC Pre-ECNL B14 Shaffer | 2–2 | Solar SW 14B Gallegos PreECNL | Coppell Cup 2025 |
+| 2025-08-17 | NTX Celtic FC Pre-ECNL B14 Shaffer | 0–1 | BVB 14B PreECNL Yellow (Suffredin) 163 | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
+| 2025-08-16 | Pumas SC- 2013 Zam 180 | 3–0 | Rayados MOrtega 2013 White 142 (NF) | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
+| 2025-08-16 | Sting Attack G13 H Pantoja 133 | 0–0 | Lioness Select 13G | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
+| 2025-08-16 | Sting Royal ECNL RL NTX G13 Brave Oliver 16 | 4–1 | Dallas Surf 2013G NL TX-N 49 | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
+| 2025-08-16 | Evoluion 13B Giurgila  | 3–0 | Revolution Premier SC 13B Mercado | Fall 2025 CCSAI Classic League   |
+| 2025-08-10 | Solar 13B Tremblay Pre-ECNL Black | 3–0 | 13G GA | 2025 Desperado Summer Cup |
+| 2025-08-10 | 13G GA | 2–5 | Solar 13B Tremblay Pre-ECNL Black | 2025 Desperado Summer Cup |
+| 2025-08-03 | Solar ECNL RL 13B Tremblay | 1–0 | Avanti SA ECNL RL B13 | Premier Cup 2025 |
+| 2025-08-01 | Dallas Surf 2013G NL TX-N | 0–3 | FC Dallas Youth Red ECNL RL NTX G13 | King TUT presented by Toyota |
+| 2025-06-08 | FC Dallas Youth Pre-ECNL B13 Bailey | 2–3 | Sting Pre ECNL B13 Pitcock/C Rodriguez | Premier Copa 2025 |
+| 2025-05-11 | Sting Attack G13 H Pantoja Black | 0–2 | Dallas Cosmos 13G Red  | DALLAS SPRING SHOWCASE |
+| 2025-05-10 | Dallas Cosmos 13G Red  | 1–3 | Sting Attack G13 H Pantoja Black | DALLAS SPRING SHOWCASE |
+| 2025-04-12 | Revolution Premier SC 13B Mercado | 1–3 | Diablos FC 13B | ARLINGTON PREMIER INVITATIONAL LEAGUE SPRING 2025 UPDATES HERE |
+| 2025-03-29 | Solar 13B Black Tremblay | 2–2 | Coppell FC 13B White Shirazi | Spring 2025 CCSAI Classic League |
+| 2025-03-23 | FC DIVAS XIII | 2–1 | Dallas Cosmos 13G Red | SPRING Plano Premier Invitational League 2025 |
+| 2025-03-08 | Coppell FC 14B Hood Red | 1–2 | 14B Sinnott | SPRING Plano Premier Invitational League 2025 |
+| 2025-03-02 | Pre ECNL B14 Suffredin | 1–3 | Olympians 14B Red | TCSL Select Spring 2025 (U10-U16) |
+| 2025-02-26 | Dutch Lions 13B PSV | 1–1 | 13B Green | SPRING Plano Premier Invitational League 2025 |
+| 2025-02-22 | Dallas Cosmos 13G Red | 0–2 | FC DIVAS XIII | SPRING Plano Premier Invitational League 2025 |
+| 2025-02-15 | Pre ECNL B14 Suffredin | 1–1 | Solar 14B Jenkins | 2025 Presidents Day Invitational |
+| 2025-02-15 | Diablos FC 13B | 1–2 | Revolution Premier SC 13B Mercado | ARLINGTON PREMIER INVITATIONAL LEAGUE SPRING 2025 UPDATES HERE |
+| 2025-01-25 | Sting Pre ECNL G13 Oliver | 3–0 | OK Energy FC 13G Navy | Michael Brown Winter Classic XXIV |
+| 2025-01-25 | Solar 13B Tremblay Pre-ECNL Black | 1–4 | FC Dallas Pre-ECNL B13 Bailey | Michael Brown Winter Classic XXIV |
+| 2025-01-25 | Diablos FC 13G | 3–0 | Sting Attack G13 H Pantoja Black | Winter Cup 2025 |
+| 2025-01-05 | Dallas Texans Pre-ECNL G13 RED (Hopkins) | 1–5 | FC DIVAS XIII | 8th Annual Winter Junior Champions Cup 2025 |
+| 2025-01-04 | Dallas Texans Pre-ECNL G13 RED (Hopkins) | 2–1 | FC DIVAS XIII | 8th Annual Winter Junior Champions Cup 2025 |
+
+---
+
+## Common opponents — U13
+
+Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.
+
+**273 shared opponents found** (showing top 40 by spread, sorted by # of DSS teams that played them).
+
+| Shared opponent | DSS team | Record | Last |
+|-----------------|----------|--------|------|
+| **FC Dallas Youth Pre ECNL B13 Paige ** _(7 DSS teams played)_ | Pumas SC- 2013 Zam | 1W-0L | 4-1 (2025-05-10) |
+| | FC LEGENDS UTD 13B Red | 0W-0L-1D | 1-1 (2026-01-18) |
+| | NTX Celtic 13B High | 1W-0L | 2-1 (2026-02-27) |
+| | Dallas Surf 2013B NL TX-N | 0W-1L | 0-1 (2025-11-22) |
+| | SPD FC 13B Red | 0W-1L | 0-3 (2025-11-22) |
+| | Solar 14B Jenkins | 1W-0L | 5-1 (2025-09-20) |
+| | NTX Celtic FC Pre-ECNL B14 Brice | 1W-0L | 3-2 (2025-08-16) |
+| **FC Dallas Youth 13B Central Blue** _(7 DSS teams played)_ | FC LEGENDS UTD 13B Red | 0W-1L-1D | 3-5 (2026-03-14) |
+| | StrikerZ DFW 2013B Purple | 2W-0L | 3-0 (2026-04-09) |
+| | Atletico Dallas Youth 13B Reyes Central | 1W-1L | 2-1 (2026-02-21) |
+| | Titan Warriors 13B | 1W-1L | 1-0 (2026-03-25) |
+| | NTX Celtic 13B High | 0W-1L | 1-4 (2026-01-17) |
+| | 13B Giurgila | 0W-1L | 2-4 (2025-04-23) |
+| | Dutch Lions 13B PSV | 0W-1L | 1-2 (2025-03-22) |
+| **Dallas Legends Red Lynx 13B** _(7 DSS teams played)_ | Coppell FC 13B Shirazi White | 1W-1L | 2-0 (2026-02-21) |
+| | Legacy United FC 13B | 0W-0L-2D | 1-1 (2026-03-03) |
+| | Atletico Dallas Youth 13B Reyes Central | 1W-0L | 5-1 (2025-08-10) |
+| | 13B Giurgila | 1W-0L | 3-1 (2025-05-09) |
+| | SPD FC 13B Red | 0W-1L | 0-3 (2025-08-09) |
+| | Thunder United SC 13B Gold | 0W-1L | 1-6 (2025-02-16) |
+| | Titan Warriors 13B | 1W-0L | 5-1 (2025-09-06) |
+| **BVB 13B Black East Vincent** _(6 DSS teams played)_ | StrikerZ DFW 2013B Purple | 0W-2L | 2-5 (2026-03-29) |
+| | Coppell FC 13B Shirazi White | 0W-2L | 2-6 (2025-04-26) |
+| | FC Dallas Youth Navy ECNL RL NTX B13 | 0W-2L | 0-1 (2025-08-17) |
+| | Solar ECNL RL 13B Tremblay | 1W-0L | 4-0 (2025-03-01) |
+| | Texas Spurs FC 13B | 1W-0L | 4-3 (2025-02-15) |
+| | Solar 14B Jenkins | 0W-1L | 2-6 (2025-08-08) |
+| **DKSC 13B ESQUIBEL** _(6 DSS teams played)_ | Dallas Surf 2013B NL TX-N | 0W-1L-1D | 1-2 (2026-03-28) |
+| | Sting NPL NTX B13 Pitcock/C Rodriguez | 1W-0L-1D | 0-0 (2025-11-09) |
+| | Solar ECNL RL 13B Tremblay | 0W-1L | 2-6 (2025-02-22) |
+| | Pumas SC- 2013 Zam | 1W-0L | 8-1 (2025-08-31) |
+| | Coppell FC 13B Shirazi White | 0W-0L-1D | 1-1 (2025-03-01) |
+| | SPD FC 13B Red | 0W-1L | 1-4 (2026-01-17) |
+| **Diversity FC 13B Black** _(6 DSS teams played)_ | FC LEGENDS UTD 13B Red | 1W-1L | 4-0 (2026-03-25) |
+| | StrikerZ DFW 2013B Purple | 0W-1L-1D | 3-3 (2026-03-24) |
+| | Atletico Dallas Youth 13B Reyes Central | 0W-2L | 0-3 (2026-03-21) |
+| | Atletico Dallas Youth NPL NTX 13B GARCIA-WTX | 0W-2L | 0-1 (2025-04-13) |
+| | Coppell FC 13B Shirazi White | 0W-1L | 0-5 (2025-08-09) |
+| | Dutch Lions 13B PSV | 1W-0L | 2-1 (2026-03-22) |
+| **Frisco Fusion 13B Blue** _(6 DSS teams played)_ | StrikerZ DFW 2013B Purple | 1W-0L | 5-0 (2025-08-09) |
+| | Atletico Dallas Youth 13B Reyes Central | 1W-0L | 2-0 (2025-03-27) |
+| | Pegasus Futbol 2013 | 1W-0L | 5-2 (2026-03-21) |
+| | Coppell FC 13B Shirazi White | 1W-0L | 6-3 (2025-10-18) |
+| | Legacy United FC 13B | 1W-0L | 3-1 (2025-09-27) |
+| | Titan Warriors 13B | 1W-0L | 9-4 (2025-11-04) |
+| **Renegades 13B North Luna** _(5 DSS teams played)_ | Sting WTX B14 Fernandez | 0W-2L | 0-7 (2025-10-18) |
+| | Solar ECNL RL 13B Tremblay | 1W-0L | 4-2 (2025-02-01) |
+| | StrikerZ DFW 2013B Purple | 0W-0L-1D | 0-0 (2025-11-09) |
+| | Coppell FC 13B Shirazi White | 1W-0L | 2-0 (2025-02-08) |
+| | 13B Giurgila | 1W-0L | 5-3 (2025-11-08) |
+| **Juventus Premier FC 2013B Villalobos** _(5 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 1W-0L | 6-1 (2025-09-20) |
+| | NTX Celtic 13B High | 0W-1L | 0-2 (2025-04-12) |
+| | Atletico Dallas Youth 13B Reyes Central | 0W-1L | 0-4 (2025-11-15) |
+| | Coppell FC 13B Shirazi White | 0W-1L | 2-3 (2025-01-25) |
+| | Texas Spurs FC 13B | 0W-0L-1D | 1-1 (2025-11-16) |
+| **FC Dallas - Texoma 13B Pride** _(5 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 1W-0L | 5-1 (2025-05-17) |
+| | Pumas SC- 2013 Zam | 1W-0L | 5-3 (2025-09-20) |
+| | Coppell FC 13B Shirazi White | 0W-0L-1D | 0-0 (2025-12-13) |
+| | 13B Giurgila | 0W-0L-1D | 1-1 (2025-12-13) |
+| | Solar 14B Jenkins | 0W-0L-1D | 3-3 (2025-03-02) |
+| **Texas Warriors FC 13B - Red ** _(5 DSS teams played)_ | Pumas SC- 2013 Zam | 1W-0L | 1-0 (2025-05-11) |
+| | NTX Celtic 13B High | 1W-0L | 1-0 (2025-12-14) |
+| | 13B Giurgila | 0W-1L | 0-1 (2025-03-01) |
+| | Dutch Lions 13B PSV | 0W-0L-1D | 1-1 (2025-02-22) |
+| | Avanti SA ECNL RL B13 | 0W-1L | 1-2 (2026-01-18) |
+| **LC United 13B Santamaria** _(5 DSS teams played)_ | Pumas SC- 2013 Zam | 1W-0L | 4-0 (2025-11-22) |
+| | Pegasus Futbol 2013 | 1W-0L | 1-0 (2026-03-29) |
+| | SPD FC 13B Red | 0W-1L | 1-3 (2025-09-13) |
+| | Titan Warriors 13B | 1W-0L | 5-3 (2025-08-10) |
+| | Texas Spurs FC 13B | 1W-0L | 3-0 (2025-11-23) |
+| **SPD FC 13B Black** _(5 DSS teams played)_ | FC LEGENDS UTD 13B Red | 1W-1L | 0-2 (2026-02-28) |
+| | StrikerZ DFW 2013B Purple | 1W-0L-1D | 2-0 (2026-02-21) |
+| | Atletico Dallas Youth 13B Reyes Central | 0W-2L | 1-3 (2026-02-24) |
+| | Titan Warriors 13B | 1W-0L | 3-0 (2026-03-28) |
+| | Texas Spurs FC 13B | 1W-0L | 4-0 (2025-02-22) |
+| **Renegades 13B Navy Central Patterson** _(5 DSS teams played)_ | Dallas Surf 2013B NL TX-N | 0W-2L | 0-5 (2025-11-01) |
+| | 13B Giurgila | 0W-2L | 1-4 (2026-02-09) |
+| | Sting NPL NTX B13 Pitcock/C Rodriguez | 2W-0L | 1-0 (2025-11-08) |
+| | FC LEGENDS UTD 13B Red | 0W-1L | 0-1 (2025-03-29) |
+| | RPSC 13B Mercado | 0W-1L | 1-10 (2026-03-19) |
+| **FC Dallas Youth 13B Central** _(5 DSS teams played)_ | RPSC 13B Mercado | 2W-0L | 3-1 (2026-02-07) |
+| | 13B Giurgila | 0W-2L | 0-2 (2026-02-25) |
+| | FC LEGENDS UTD 13B Red | 1W-0L | 3-0 (2025-01-26) |
+| | Coppell FC 13B Shirazi White | 0W-1L | 0-3 (2025-05-31) |
+| | Avanti SA ECNL RL B13 | 1W-0L | 3-0 (2026-01-17) |
+| **Santos Avanti 2013B Martinez** _(5 DSS teams played)_ | SPD FC 13B Red | 0W-2L-1D | 0-2 (2026-03-10) |
+| | FC LEGENDS UTD 13B Red | 1W-0L | 5-0 (2025-08-09) |
+| | RPSC 13B Mercado | 1W-0L | 2-1 (2025-05-25) |
+| | Legacy United FC 13B | 1W-0L | 3-1 (2025-08-10) |
+| | Solar 14B Jenkins | 1W-0L | 3-1 (2025-03-21) |
+| **WFSC Wolves 2013B ** _(5 DSS teams played)_ | NTX Celtic 13B High | 1W-0L-1D | 2-0 (2026-02-28) |
+| | Dallas Surf 2013B NL TX-N | 0W-1L | 1-3 (2025-08-17) |
+| | 13B Giurgila | 0W-1L | 1-5 (2026-01-17) |
+| | Solar 14B Jenkins | 1W-0L | 4-3 (2025-09-28) |
+| | Fever United 14B Mee | 0W-0L-1D | 1-1 (2025-08-30) |
+| **Solar East 14B Hedges** _(5 DSS teams played)_ | BVB 14B PreECNL Yellow (Suffredin) | 0W-2L | 1-3 (2025-11-09) |
+| | RPSC 13B Mercado | 0W-1L | 0-1 (2025-08-10) |
+| | Olympians SC 14B Red Chadbourn | 0W-0L-1D | 2-2 (2025-09-13) |
+| | NTX Celtic FC Pre-ECNL B14 Shaffer | 1W-0L | 7-0 (2025-05-10) |
+| | Fever United 14B Mee | 0W-1L | 1-3 (2026-01-18) |
+| **Solar 13B Tremblay NL (TX-N)** _(5 DSS teams played)_ | Dallas Surf 2013B NL TX-N | 2W-0L | 2-0 (2026-03-22) |
+| | Sting NPL NTX B13 Pitcock/C Rodriguez | 2W-0L | 2-1 (2025-10-11) |
+| | 13B Giurgila | 0W-1L | 1-4 (2025-01-18) |
+| | SPD FC 13B Red | 0W-1L | 0-3 (2025-05-10) |
+| | OK Energy FC 14B White | 0W-1L | 2-5 (2026-02-08) |
+| **Legacy United FC 13B - Smith** _(5 DSS teams played)_ | Coppell FC 13B Shirazi White | 2W-0L | 2-1 (2026-03-29) |
+| | Legacy United FC 13B | 1W-1L | 2-0 (2026-03-07) |
+| | 13B Giurgila | 1W-0L | 7-0 (2025-08-29) |
+| | SPD FC 13B Red | 0W-1L | 0-2 (2026-01-16) |
+| | Titan Warriors 13B | 0W-1L | 1-4 (2025-10-18) |
+| **Sting Pre-ECNL G14 H Martinez** _(5 DSS teams played)_ | FC Dallas Youth 13G North White | 0W-2L | 1-2 (2025-06-05) |
+| | Sting Royal ECNL RL NTX G13 Brave Oliver | 2W-0L | 5-2 (2026-01-11) |
+| | Dallas Surf 2013G NL TX-N | 0W-1L | 0-4 (2025-11-15) |
+| | Sting Attack G13 H Pantoja | 0W-1L | 0-5 (2025-02-16) |
+| | FC Dallas Youth Red ECNL RL NTX G13 | 0W-1L | 3-4 (2026-04-01) |
+| **DKSC 13G MARTINEZ NL (TX-N)** _(5 DSS teams played)_ | Dallas Surf 2013G NL TX-N | 0W-1L-1D | 2-2 (2026-03-28) |
+| | FC Dallas Youth 13G North White | 0W-0L-1D | 3-3 (2025-11-05) |
+| | Dallas Surf 13G White | 0W-1L | 1-3 (2026-02-07) |
+| | Sting Royal ECNL RL NTX G13 Brave Oliver | 1W-0L | 9-0 (2026-03-30) |
+| | FC Dallas Youth Red ECNL RL NTX G13 | 0W-0L-1D | 0-0 (2025-05-09) |
+| **Frisco Fusion 13G White** _(5 DSS teams played)_ | FC DIVAS XIII | 2W-0L | 5-1 (2026-03-21) |
+| | Sting Attack G13 H Pantoja | 1W-0L-1D | 2-0 (2026-02-22) |
+| | FC Dallas Youth 13G North White | 1W-0L | 3-0 (2025-03-25) |
+| | ULETE FC 13G Chris | 0W-1L | 0-2 (2025-11-12) |
+| | Lioness Select 13G | 1W-0L | 4-1 (2026-02-08) |
+| **Sting G13 Hubbard** _(5 DSS teams played)_ | FC Dallas Youth 13G North White | 1W-0L | 3-0 (2025-02-08) |
+| | FC DIVAS XIII | 1W-0L | 3-2 (2025-11-08) |
+| | ULETE FC 13G Chris | 1W-0L | 3-1 (2026-02-24) |
+| | Sting Attack G13 H Pantoja | 1W-0L | 9-0 (2025-09-07) |
+| | Lioness Select 13G | 1W-0L | 3-1 (2026-04-11) |
+| **LC United 13G Evans** _(5 DSS teams played)_ | FC DIVAS XIII | 2W-0L-1D | 3-3 (2025-05-10) |
+| | Kernow Storm FC G13 API Lynch | 1W-1L | 1-2 (2025-01-26) |
+| | Sting Attack G13 H Pantoja | 1W-1L | 2-0 (2025-11-09) |
+| | ULETE FC 13G Chris | 0W-1L | 1-3 (2025-09-28) |
+| | Lioness Select 13G | 0W-0L-1D | 2-2 (2025-10-18) |
+| **Sting G13 E Rodriguez 100** _(5 DSS teams played)_ | Sting Attack G13 H Pantoja | 2W-0L-1D | 3-2 (2026-03-28) |
+| | FC DIVAS XIII | 0W-1L-1D | 1-1 (2025-11-01) |
+| | Dallas Surf 13G White | 0W-0L-1D | 2-2 (2025-11-22) |
+| | ULETE FC 13G Chris | 0W-1L | 1-4 (2026-02-22) |
+| | Lioness Select 13G | 0W-0L-1D | 2-2 (2025-08-23) |
+| **Sting G13 McNeal** _(5 DSS teams played)_ | Dallas Surf 13G White | 1W-0L-1D | 1-0 (2026-02-08) |
+| | FC DIVAS XIII | 1W-0L | 2-1 (2025-10-18) |
+| | ULETE FC 13G Chris | 0W-1L | 0-1 (2026-03-01) |
+| | Sting Attack G13 H Pantoja | 1W-0L | 5-2 (2026-03-21) |
+| | Lioness Select 13G | 0W-1L | 0-1 (2026-02-22) |
+| **Victory SC 2013 Girls Fort Worth** _(5 DSS teams played)_ | FC DIVAS XIII | 1W-0L | 2-1 (2025-09-07) |
+| | Dallas Texans ECNL RL NTX G13 | 1W-0L | 3-1 (2025-01-26) |
+| | ULETE FC 13G Chris | 0W-1L | 1-2 (2025-10-04) |
+| | Sting Attack G13 H Pantoja | 0W-1L | 1-3 (2025-11-01) |
+| | Lioness Select 13G | 0W-1L | 0-5 (2025-10-19) |
+| **Panthers Black 13G** _(5 DSS teams played)_ | Dallas Surf 13G White | 0W-3L-1D | 0-0 (2025-05-11) |
+| | FC DIVAS XIII | 1W-0L | 5-0 (2025-09-20) |
+| | ULETE FC 13G Chris | 0W-1L | 0-1 (2025-08-27) |
+| | Sting Attack G13 H Pantoja | 1W-0L | 1-0 (2026-02-08) |
+| | Lioness Select 13G | 1W-0L | 3-0 (2026-04-01) |
+| **DKSC 13B SINAR** _(4 DSS teams played)_ | Solar ECNL RL 13B Tremblay | 0W-1L | 0-3 (2025-04-26) |
+| | RPSC 13B Mercado | 0W-0L-1D | 1-1 (2025-05-23) |
+| | Avanti Soccer Academy 13B Blue | 0W-1L | 0-5 (2026-02-04) |
+| | Coppell FC 13B Shirazi White | 0W-0L-1D | 3-3 (2025-03-15) |
+| **Solar 13B Blue Tremblay** _(4 DSS teams played)_ | Solar ECNL RL 13B Tremblay | 0W-1L | 3-6 (2025-02-08) |
+| | Avanti Soccer Academy 13B Blue | 0W-1L | 1-6 (2025-08-02) |
+| | Coppell FC 13B Shirazi White | 1W-0L | 2-0 (2025-02-22) |
+| | FC Dallas Youth Navy ECNL RL NTX B13 | 1W-0L | 4-3 (2025-08-16) |
+| **FCDY 13B Navy Ekeme** _(4 DSS teams played)_ | Solar ECNL RL 13B Tremblay | 0W-1L | 3-5 (2025-02-02) |
+| | Avanti Soccer Academy 13B Blue | 0W-1L | 1-2 (2026-02-21) |
+| | Coppell FC 13B Shirazi White | 0W-1L | 2-3 (2025-03-23) |
+| | 13B Giurgila | 0W-1L | 0-4 (2025-05-23) |
+| **Sting Elite 2013B South Machuca** _(4 DSS teams played)_ | Solar ECNL RL 13B Tremblay | 1W-0L | 9-0 (2025-08-09) |
+| | Atletico Dallas Youth NPL NTX 13B GARCIA-WTX | 0W-1L | 3-7 (2025-04-26) |
+| | Texas Spurs FC 13B | 0W-1L | 0-8 (2025-03-15) |
+| | BVB 13G GA | 0W-1L | 1-3 (2025-08-08) |
+| **Dutch Lions 13B Ajax** _(4 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 1W-0L | 3-2 (2025-09-14) |
+| | Atletico Dallas Youth 13B Reyes Central | 0W-1L | 0-2 (2025-05-24) |
+| | 13B Giurgila | 0W-1L | 3-6 (2025-02-15) |
+| | Dutch Lions 13B PSV | 0W-1L | 0-4 (2025-04-16) |
+| **Dallas Texans Red ECNL RL NTX B13** _(4 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 2W-1L | 0-6 (2025-08-24) |
+| | Pumas SC- 2013 Zam | 0W-2L | 0-2 (2025-05-11) |
+| | Texas Spurs FC 13B | 0W-2L | 0-4 (2026-04-05) |
+| | Rayados MOrtega 2013 Blue | 0W-0L-1D | 0-0 (2025-08-16) |
+| **Fire FC 14B Lopez** _(4 DSS teams played)_ | Olympians SC 14B Red Chadbourn | 1W-1L | 1-2 (2025-11-22) |
+| | Pumas SC- 2013 Zam | 1W-0L | 1-0 (2025-03-01) |
+| | BVB 14B PreECNL Yellow (Suffredin) | 0W-1L | 3-4 (2025-05-09) |
+| | NTX Celtic FC Pre-ECNL B14 Shaffer | 1W-0L | 2-1 (2025-11-23) |
+| **Animo FC 13B Flores (prev: Dutch Lions Ajax)** _(4 DSS teams played)_ | FC LEGENDS UTD 13B Red | 0W-1L | 2-8 (2025-02-02) |
+| | RPSC 13B Mercado | 0W-1L | 1-9 (2025-08-09) |
+| | Avanti Soccer Academy 13B Blue | 0W-1L | 1-4 (2025-09-24) |
+| | SPD FC 13B Red | 0W-1L | 0-6 (2025-01-25) |
+| **JBS 13B Black** _(4 DSS teams played)_ | StrikerZ DFW 2013B Purple | 0W-1L | 1-6 (2025-02-15) |
+| | Coppell FC 13B Shirazi White | 0W-1L | 1-5 (2025-01-26) |
+| | Sting NPL NTX B13 Pitcock/C Rodriguez | 1W-0L | 9-3 (2025-06-07) |
+| | Texas Spurs FC 13B | 0W-0L-1D | 0-0 (2025-04-16) |
+| **Lonestar 13B Boca Jrs** _(4 DSS teams played)_ | Rayados MOrtega 2013 White | 0W-2L | 0-7 (2026-01-19) |
+| | NTX Celtic 13B High | 0W-1L | 0-7 (2025-11-16) |
+| | Sting NPL NTX B13 Pitcock/C Rodriguez | 1W-0L | 4-2 (2025-11-16) |
+| | Sting WTX B14 Fernandez | 0W-1L | 0-5 (2026-01-18) |
+| **DFW United SC 13b Gray** _(4 DSS teams played)_ | NTX Celtic 13B High | 1W-0L | 5-0 (2025-09-21) |
+| | Atletico Dallas Youth NPL NTX 13B GARCIA-WTX | 1W-0L | 3-2 (2025-04-27) |
+| | Thunder United SC 13B Gold | 1W-0L | 1-0 (2025-10-11) |
+| | Titan Warriors 13B | 1W-0L | 4-0 (2026-01-18) |
+
+_233 more shared opponents not shown — see master `00 — Bracket View.md` for full per-bracket detail._

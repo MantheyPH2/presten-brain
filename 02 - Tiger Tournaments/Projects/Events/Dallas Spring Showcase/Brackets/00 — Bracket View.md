@@ -217,11 +217,7 @@ _Legend:_ **S1** = FCD ETX Palestine 15/16B · **S2** = BVB 15B PreECNL White (D
 | 2 | Atletico Dallas Youth 15B Brandt | Atletico Dallas Youth | 1490 | GREEN | ⬇ → 9v9 Bronze II |
 | 3 | FC Dallas Youth Pre ECNL B15 Malik | FC Dallas Youth | — | RED | ? uncertain |
 
-**Past meetings _(1 games, last 24 months)_:**
-
-| Date | Home | Score | Away | Event |
-|------|------|-------|------|-------|
-| 2025-08-01 | Dallas Surf 15B Black | no score | Atletico Dallas Youth 15B Brandt | Premier Copa League 25/26 |
+_No past meetings between these teams in the last 24 months._
 
 **Common opponents _(played by 2+ teams in this bracket, top 5)_:**
 
@@ -430,11 +426,10 @@ _Legend:_ **S1** = Sting WTX G15 Fernandez · **S2** = Dallas Legacy 15G Arroyo 
 | 3 | Coppell FC 15G Campanella White | Coppell Youth SA | 1423 | GREEN | ⬇ → 9v9 Bronze |
 | 4 | Dallas Deportivo F.C. 15 | Dallas Deportivo FC | — | MISSING |  |
 
-**Past meetings _(3 games, last 24 months)_:**
+**Past meetings _(2 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-01-24 | Fortress FC 15G | no score | Coppell FC 15G Campanella White | Michael Brown Winter Classic XXV |
 | 2025-12-13 | Coppell FC 15G Campanella White | 6–1 | BVB 15G Yellow (Ibrahimpasic) | 2025 NTX Celtic Snowball Cup |
 | 2025-09-20 | Fortress FC 15G - LD | 3–2 | Coppell FC 15G Campanella White | Girls Classic League 2025-26 |
 
@@ -549,12 +544,11 @@ _Legend:_ **S1** = ULETE FC 15G Andre · **S2** = Atletico Dallas Youth 15G Welg
 | 2 | North Texas Elite 2015G Pina | North Texas Elite SC | 1488 | GREEN | ⬇ → 9v9 Bronze II |
 | 3 | Solar Pre ECNL G15 Naizer | Solar SC | 1468 | GREEN | ⬇ → 9v9 Bronze II |
 
-**Past meetings _(3 games, last 24 months)_:**
+**Past meetings _(2 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
 | 2025-11-16 | North Texas Elite 2015G Pina 85 | 2–1 | Solar South 15G Naizer 37 | FALL PREMIER SHOWCASE |
-| 2025-08-30 | Solar South 15G Naizer | no score | FC Dallas Youth 15G North White | Plano Labor Day Invitational 2025 |
 | 2025-01-18 | North Texas Elite 2015G | 2–6 | Solar South 15G Naizer | 2025 Outlaw Cup |
 
 **Common opponents _(played by 2+ teams in this bracket, top 15)_:**
@@ -833,7 +827,7 @@ _Legend:_ **S1** = Amarillo Rush 14G · **S2** = Solar 14G Tremblay Gold · **S3
 | 4 | Sting Pre-ECNL G14 Kovacevic | Sting Soccer Club | 1540 | GREEN |  |
 | 5 | Dallas Hornets 15G (Prev Alpha) | Dallas Hornets | — | GREEN | ? uncertain |
 
-**Past meetings _(7 games, last 24 months)_:**
+**Past meetings _(6 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
@@ -842,7 +836,6 @@ _Legend:_ **S1** = Amarillo Rush 14G · **S2** = Solar 14G Tremblay Gold · **S3
 | 2025-06-14 | Solar South 15G Adames | 3–4 | AlphaForms '15G | SuperCopa 2025 |
 | 2025-05-18 | Solar South 15G Adames | 3–1 | AlphaForms'15G | Next Generation Cup 2025 |
 | 2025-05-17 | AlphaForms'15G | 3–3 | Solar South 15G Adames | Next Generation Cup 2025 |
-| 2025-05-01 | Sting Pre ECNL G14 Kovacevic | no score | Sting Pre ECNL G14 H Martinez | Texas State Cup 2025 |
 | 2025-04-16 | Sting Pre ECNL G14 H Martinez | 2–1 | Sting Pre ECNL G14 Kovacevic | Solar International Girls Cup of McKinney 2025 |
 
 **Common opponents _(played by 2+ teams in this bracket, top 15)_:**
@@ -919,11 +912,7 @@ _Legend:_ **S1** = Juventus Premier FC 14G Black Cantu · **S2** = Dallas Surf 1
 | 3 | Sting G14 Fuentes | Sting Soccer Club | 1431 | GREEN | ⬇ → 9v9 Silver Crossover |
 | 4 | Elite Premier FC 2014G | Elite Premier FC | — | YELLOW | ? uncertain |
 
-**Past meetings _(1 games, last 24 months)_:**
-
-| Date | Home | Score | Away | Event |
-|------|------|-------|------|-------|
-| 2026-04-22 | Dallas Cosmos 14G WHITE | no score | ULETE FC 2014G Carlo | Girls Classic League 2025-26 |
+_No past meetings between these teams in the last 24 months._
 
 **Common opponents _(played by 2+ teams in this bracket, top 5)_:**
 
@@ -969,11 +958,10 @@ _Legend:_ **S1** = Dallas Cosmos 14G Red · **S2** = Atletico Dallas Youth 14G E
 | 3 | NTX Celtic 14G Holden | NTX Celtic FC | 1438 | GREEN | ⬇ → 11v11 Silver |
 | 4 | Fever United 14G Wright | Fever United | 1429 | GREEN | ⬇ → 11v11 Silver |
 
-**Past meetings _(2 games, last 24 months)_:**
+**Past meetings _(1 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-03-28 | Nido Águila 14G Gonzalez | no score | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | TCSL Select (U10-U16) Spring 2026 |
 | 2025-12-13 | Nido Águila Tarrant 14G Gonzalez | 7–0 | NTX Celtic 14G Holden | 2025 NTX Celtic Snowball Cup |
 
 **Common opponents _(played by 2+ teams in this bracket, top 13)_:**
@@ -1216,11 +1204,10 @@ _Legend:_ **S1** = Titan Warriors 13B · **S2** = Avanti SA ECNL RL B13 · **S3*
 | 3 | Olympians SC 14B Red Chadbourn | Olympians SC | — | GREEN | ? uncertain |
 | 4 | NTX Celtic FC Pre-ECNL B14 Brice | NTX Celtic FC | — | YELLOW | ? uncertain |
 
-**Past meetings _(5 games, last 24 months)_:**
+**Past meetings _(4 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-04-12 | Olympians SC 14B Red Chadbourn | no score | BVB 14B PreECNL Yellow (Suffredin) | TCSL Select (U10-U16) Spring 2026 |
 | 2026-03-21 | BVB 14B PreECNL Yellow (Suffredin) | 3–5 | Solar 14B Jenkins | TCSL Select (U10-U16) Spring 2026 |
 | 2026-02-28 | Olympians SC 14B Red Chadbourn | 1–0 | Solar 14B Jenkins | TCSL Select (U10-U16) Spring 2026 |
 | 2025-03-02 | Pre ECNL B14 Suffredin | 1–3 | Olympians 14B Red | TCSL Select Spring 2025 (U10-U16) |
@@ -1314,11 +1301,10 @@ _Legend:_ **S1** = Kernow Storm FC G13 API Lynch · **S2** = Dallas Surf 13G Whi
 | 2 | Sting Attack G13 H Pantoja | Sting Soccer Club | 1468 | GREEN | ⬇ → 11v11 Bronze 14s |
 | 3 | Lioness Select 13G | Independent Teams - NTX | 1464 | GREEN | ⬇ → 11v11 Bronze 14s |
 
-**Past meetings _(4 games, last 24 months)_:**
+**Past meetings _(3 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-04-25 | Sting Attack G13 H Pantoja | no score | Lioness Select 13G | Girls Classic League 2025-26 |
 | 2026-03-21 | NTX United FC 2014G Smith | 0–4 | Sting Attack G13 H Pantoja | SPRING 2026 Plano Premier Invitational League 25/26 |
 | 2026-03-10 | Sting Attack G13 H Pantoja | 3–1 | NTX United FC 2014G Smith | SPRING 2026 Plano Premier Invitational League 25/26 |
 | 2025-08-16 | Sting Attack G13 H Pantoja 133 | 0–0 | Lioness Select 13G | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
@@ -1771,11 +1757,7 @@ _Legend:_ **S1** = Solar ECNL RL-NTX 11B Red · **S2** = FC Dallas El Paso 2011 
 | 3 | FC Strikers 11B | Strikers FC( Texas) | 1518 | GREEN |  |
 | 4 | Shiloh FC 11B | Shiloh FC | — | MISSING |  |
 
-**Past meetings _(1 games, last 24 months)_:**
-
-| Date | Home | Score | Away | Event |
-|------|------|-------|------|-------|
-| 2026-01-25 | Avanti SA White NPL NTX B11 | no score | NTX United FC 2011B Paice | Winter Cup 2026 |
+_No past meetings between these teams in the last 24 months._
 
 **Common opponents _(played by 2+ teams in this bracket, top 5)_:**
 
@@ -1799,11 +1781,10 @@ _Legend:_ **S1** = Avanti SA White NPL NTX B11 · **S2** = NTX United FC 2011B P
 | 4 | DKSC 11B RODRIGUEZ ETX | DKSC | 1543 | GREEN | ⬇ → Silver Elite Crossover |
 | 5 | Fever United 11B Yellow | Fever United | — | MISSING |  |
 
-**Past meetings _(3 games, last 24 months)_:**
+**Past meetings _(2 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-04-28 | TEXAS UNITED AC ALDAMA | no score | Lions Futbol Club 2011B | SPRING 2026 Plano Premier Invitational League 25/26 |
 | 2025-10-18 | TEXAS UNITED AC ALDAMA | 2–2 | Lions Futbol Club 2011B | (DO NOT USE) Plano Premier Invitational League 25/26 |
 | 2025-02-15 | Texas United AC ALDAMA | 1–0 | Lions Futbol Club 11B | SPRING Plano Premier Invitational League 2025 |
 
@@ -1877,11 +1858,10 @@ _Legend:_ **S1** = Dallas Surf 11G Black · **S2** = Solar 11G Richardson RL NTX
 | 2 | Coppell FC 11G Morales | Coppell Youth SA | 1422 | GREEN |  |
 | 3 | FC Dallas Youth 11G White | FC Dallas Youth | 1399 | GREEN |  |
 
-**Past meetings _(2 games, last 24 months)_:**
+**Past meetings _(1 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-04-14 | Coppell FC 11G Morales | no score | FC Dallas Youth 11G White | Girls Classic League 2025-26 |
 | 2025-10-15 | Coppell FC 11G Morales | 4–0 | FC Dallas Youth 11G White | Girls Classic League 2025-26 |
 
 **Common opponents _(played by 2+ teams in this bracket, top 14)_:**
@@ -1914,11 +1894,10 @@ _Legend:_ **S1** = Dallas Cosmos 11G White · **S2** = Coppell FC 11G Morales ·
 | 3 | DFW United 11G Sutherland | DFW United SC | 1487 | GREEN | ⬇ → DS Silver |
 | 4 | Solar South 11G Cameron | Solar SC | 1477 | YELLOW | ⬇ → DS Silver |
 
-**Past meetings _(11 games, last 24 months)_:**
+**Past meetings _(10 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-04-26 | FC Dallas Youth 11G North White | no score | DFW United 11G Sutherland | Girls Classic League 2025-26 |
 | 2026-01-17 | FC Dallas Youth 11G North White | 3–0 | Solar South 11G Cameron | U90C Winter Classic 2026 |
 | 2025-11-23 | Solar 11G Givens ECNL RL NTX | 3–0 | Solar South 11G Cameron | League Challenge Cup Fall 2025 |
 | 2025-11-23 | Solar 11G Givens ECNL RL NTX | 1–1 | Solar South 11G Cameron | League Challenge Cup Fall 2025 |
@@ -2067,13 +2046,11 @@ _No common opponents shared by 2+ teams in this bracket._
 | 3 | Victory SC 2010 Girls Black | Victory SC | 1453 | GREEN |  |
 | 4 | FC Dallas Youth White ECNL RL NTX G10 | FC Dallas Youth | — | YELLOW | ? uncertain |
 
-**Past meetings _(3 games, last 24 months)_:**
+**Past meetings _(1 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-04-19 | BC Elite 10/11G - T | no score | Victory SC 2010 Girls Black | Girls Classic League 2025-26 |
 | 2026-03-29 | Victory SC 2010 Girls Black | 2–1 | BC Elite 10/11G - T | Girls Classic League 2025-26 |
-| 2025-05-03 | Solar South 10G Cameron | no score | BC Elite - LD | Girls Classic League 2024-25 |
 
 **Common opponents _(played by 2+ teams in this bracket, top 8)_:**
 
@@ -2202,11 +2179,10 @@ _Legend:_ **S1** = Arsenal CF 09B · **S2** = Atletico Dallas Youth FDL 09B Reye
 | 2 | Inter Dallas SC 09G | Dallas Inter Soccer Club | 1470 | GREEN |  |
 | 3 | Solar 09G Megli | Solar SC | 1421 | YELLOW |  |
 
-**Past meetings _(2 games, last 24 months)_:**
+**Past meetings _(1 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-04-19 | Inter Dallas SC 09G | no score | Solar 09G Megli | Girls Classic League 2025-26 |
 | 2025-09-07 | Inter Dallas SC 09G | 2–0 | Solar 09G Megli | Girls Classic League 2025-26 |
 
 **Common opponents _(played by 2+ teams in this bracket, top 2)_:**
@@ -2226,11 +2202,7 @@ _Legend:_ **S1** = NTX Celtic FC ECNL RL NTX G09 · **S2** = Inter Dallas SC 09G
 | 2 | Dallas Legacy 09G Arroyo | Dallas Legacy | 1441 | GREEN |  |
 | 3 | Atletico Dallas Youth 09G Clark | Atletico Dallas Youth | — | GREEN | ? uncertain |
 
-**Past meetings _(1 games, last 24 months)_:**
-
-| Date | Home | Score | Away | Event |
-|------|------|-------|------|-------|
-| 2025-05-07 | Renegades 09G - Clark | no score | Dallas Legacy 09G Arroyo - FL | Girls Classic League 2024-25 |
+_No past meetings between these teams in the last 24 months._
 
 **Common opponents _(played by 2+ teams in this bracket, top 6)_:**
 
@@ -2260,11 +2232,10 @@ _Legend:_ **S1** = Coppell FC 09G Sansom · **S2** = Dallas Legacy 09G Arroyo ·
 | 3 | Kernow Storm FC WTX B08 Lubbock | Kernow Storm FC | — | GREEN | ? uncertain |
 | 4 | Solar 08B Volkan RLNTX | Solar SC | — | MISSING |  |
 
-**Past meetings _(2 games, last 24 months)_:**
+**Past meetings _(1 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
-| 2026-04-04 | Kernow Storm FC WTX B08 Lubbock | no score | Solar 08B Volkan RLNTX | Texas Lightning Showcase and Youth Cup 2026 |
 | 2025-11-15 | Kernow Storm FC WTX B08 Lubbock | 1–0 | Premier FA 2008B Green | FALL PREMIER SHOWCASE |
 
 **Common opponents _(played by 2+ teams in this bracket, top 2)_:**

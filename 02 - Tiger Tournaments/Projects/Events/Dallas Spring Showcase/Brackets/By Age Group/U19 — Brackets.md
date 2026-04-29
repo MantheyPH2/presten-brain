@@ -38,3 +38,35 @@ status: ready-for-scheduler
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
+
+---
+
+## Past meetings — U19 teams at DSS
+
+Games between any two teams in this age group attending DSS, last 24 months.
+
+**1 games found.**
+
+| Date | Home | Score | Away | Event |
+|------|------|-------|------|-------|
+| 2026-04-11 | Atletico Dallas Youth 08G Clark | 0–2 | DKSC 07G GARCIA | Girls Classic League 2025-26 |
+
+---
+
+## Common opponents — U19
+
+Opponents played by 2+ U19 DSS teams (not attending DSS), last 24 months. Reading: each row = one shared opponent; values = each DSS team's record vs them.
+
+**4 shared opponents found** (showing top 4 by spread, sorted by # of DSS teams that played them).
+
+| Shared opponent | DSS team | Record | Last |
+|-----------------|----------|--------|------|
+| **Villarreal NTX 07/08G** _(3 DSS teams played)_ | Atletico Dallas Youth 07/08G Clark | 0W-2L | 1-3 (2026-04-19) |
+| | 07G GARCIA (TXN) | 0W-2L | 0-3 (2026-02-22) |
+| | Steel United TX MSA 08G Elite | 0W-1L | 1-3 (2025-09-21) |
+| **M&P Academy 2009G** _(2 DSS teams played)_ | FC Hurst United 09G | 1W-0L | 1-0 (2026-03-28) |
+| | Steel United TX MSA 08G Elite | 1W-0L | 12-0 (2026-04-19) |
+| **Dallas Surf 2007/2008G NL TX-N 101** _(2 DSS teams played)_ | Atletico Dallas Youth 07/08G Clark | 1W-1L | 0-2 (2025-11-02) |
+| | Steel United TX MSA 08G Elite | 1W-0L | 3-0 (2025-11-22) |
+| **Revolution Premier SC U19G Gold Zuazua** _(2 DSS teams played)_ | 07G GARCIA (TXN) | 0W-2L | 1-3 (2026-04-08) |
+| | Atletico Dallas Youth 07/08G Clark | 1W-0L | 1-0 (2026-03-28) |
