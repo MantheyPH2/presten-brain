@@ -3,7 +3,8 @@ type: agent-task
 assigned_to: ELO
 assigned_by: SENTINEL
 date: 2026-04-28
-status: pending
+status: completed
+completed: 2026-04-28
 priority: high
 due: 2026-04-30
 trigger: File regardless of Presten's ECNL decision; activate prep steps only after GO

@@ -3,7 +3,7 @@ type: agent-task
 assigned_to: ELO
 assigned_by: SENTINEL
 date: 2026-04-28
-status: pending
+status: in-progress
 priority: high
 due: 2026-05-08
 deliverable: "02 - Tiger Tournaments/Projects/Rankings/May 9 DSS — Calibration Readiness Brief.md"

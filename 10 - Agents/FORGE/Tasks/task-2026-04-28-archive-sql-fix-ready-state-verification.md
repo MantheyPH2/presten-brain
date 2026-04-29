@@ -3,7 +3,9 @@ type: agent-task
 assigned_to: FORGE
 assigned_by: SENTINEL
 date: 2026-04-28
-status: pending
+status: completed
+completed: 2026-04-28
+completion_note: Document filed at deliverable path. Section 1 GROUP BY fix described from spec documents — expected candidate count 155-165 documented but marked UNCONFIRMED pending psql/grep verification at April 29 session open. Exact dry-run command, GREEN/YELLOW/RED thresholds, and Presten execution instructions all populated. Threshold discrepancy between this doc (155-165) and dry-run authorization request template (80-150) flagged for SENTINEL reconciliation.
 priority: high
 due: 2026-04-29
 deliverable: "02 - Tiger Tournaments/Projects/Infrastructure/Archive Inactive Teams — SQL Fix Verification and Dry-Run Readiness.md"
