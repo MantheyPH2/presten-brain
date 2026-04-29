@@ -14,6 +14,106 @@ last_updated: 2026-04-29-04:29
 
 ---
 
+## Section 1 — Current Calibration Values (All Leagues)
+
+*Static snapshot as of 2026-04-29. Sourced from [[Calibration Values — League Hierarchy Reconciliation]].*
+
+### Boys Tiers
+
+| League | Cal Value | Status | Last Changed | Notes |
+|--------|-----------|--------|--------------|-------|
+| MLS NEXT (unified, pre-split) | 160 | DEPLOYED | Pre-April 26 | Split to Homegrown/Academy deferred May 18–20 |
+| MLS NEXT Homegrown (post-split) | 160 | PENDING | — | Not yet in engine; May 18–20 implementation window |
+| MLS NEXT Academy (post-split) | 135 | PENDING | — | Not yet in engine; May 18–20 implementation window |
+| ECNL Boys | 120 | DEPLOYED | Pre-April 26 | Validated — ECNL Boys baseline anchor |
+| GA Boys | 100 | DEPLOYED | Pre-April 26 | Theoretically sound; not yet Brier-validated |
+| GA ASPIRE Boys | 100 (via `ga` tag) | DEPLOYED — UNVALIDATED | Pre-April 26 | Both engine and hierarchy assume 100; unvalidated assumption; Brier analysis June 2026 |
+| NPL | 55 | DEPLOYED | Pre-April 26 | Validated (ECNL RL beats NPL 55.1%) |
+| DPL | 55 | DEPLOYED | Pre-April 26 | Validated peer tier to NPL |
+| ECNL RL | 55 | DEPLOYED | Pre-April 26 | Validated; resolveTeamTier() cap enforced |
+| Pre-ECNL | 25 | DEPLOYED | Pre-April 26 | Validated; resolveTeamTier() cap enforced |
+| USL Academy | UNDEFINED | PENDING | — | Recommend 55; Presten review required before applying |
+| Elite 64 | UNDEFINED | PENDING | — | Recommend 55; minimal cross-league data |
+| EDP | UNDEFINED | PENDING | — | Recommend 55; regional scope |
+| NAL | UNDEFINED | PENDING | — | Recommend 55; limited coverage |
+
+### Girls Tiers
+
+| League | Cal Value | Status | Last Changed | Notes |
+|--------|-----------|--------|--------------|-------|
+| GA Girls | 140 | DEPLOYED | Pre-April 26 | Validated Girls Tier 1 |
+| GA ASPIRE Girls | **FIX PENDING** (140→100) | KNOWN DISCREPANCY | April 29 session | Engine uses 140 (via `ga` tag); correct value is 100; fix deferred from April 28 to April 29 session |
+| ECNL Girls | 130 | DEPLOYED | Pre-April 26 | Validated Girls Tier 1 |
+| NPL Girls | 55 | DEPLOYED | Pre-April 26 | Validated |
+| DPL Girls | 55 | DEPLOYED | Pre-April 26 | GA pathway; peer to NPL |
+| ECNL RL | 55 | DEPLOYED | Pre-April 26 | Validated; resolveTeamTier() cap enforced |
+| Pre-ECNL | 25 | DEPLOYED | Pre-April 26 | Validated |
+| USL Academy | UNDEFINED | PENDING | — | Recommend 55; Presten review required |
+
+---
+
+## Section 2 — Pending Calibration Changes (May 1–17 Window)
+
+| Change | Target Date | Authorization Status | Risk if Missed |
+|--------|------------|---------------------|----------------|
+| Girls GA ASPIRE fix (cal 140→100) | April 29 session | NOT APPLIED — deferred from April 28 (session did not run) | Girls U13/U14 ratings inflated ~40 pts; DSS accuracy claim undermined at demo |
+| Tier 2 undefined leagues (USL Academy, Elite 64, EDP, NAL → 55) | Pre-May 9 | PENDING Presten review — low urgency | Minimal if aggregate game volume < 1,000; immaterial to May 9 gate |
+| MLS NEXT tier split (Homegrown=160, Academy=135) | May 18–20 | Spec filed and authorized; implementation deferred | Post-DSS; zero impact on May 9 gate |
+| U13/U14 K-factor/RD fix | May 17 — DO NOT DEPLOY BEFORE | HOLD until Boys Brier pre-check passes (window: May 10–16) | May 17 deploy blocked if Brier check not run; not DSS-blocking |
+| ECNL migration (CP1→CP5 checkpoints) | June 1 | Option decision due April 30 EOD — ECNL Decision Brief filed April 29 | June 1 entity migration risk if option decision delayed past May 2 |
+
+---
+
+## Section 3 — Known Risks as of April 29
+
+*Condensed from `Rankings/May 9 DSS Gate — Risk Register.md`. Full detail in that document.*
+
+| Risk ID | Risk | Probability | DSS Block? | Mitigation |
+|---------|------|-------------|-----------|------------|
+| R1 | Girls GA ASPIRE fix not applied before May 9 | High | YES | April 29 session executes GA ASPIRE UPDATE as Step 1; FORGE schema confirmation |
+| R2 | Boys Option A verdict: FAIL | Medium | NO | B-OA-1/2/3 execution package ready; ELO analyzes within 48 hrs of results |
+| R3 | ECNL migration decision delayed past May 2 | Medium | NO | Decision Brief filed April 29; Presten authorizes by April 30 EOD |
+| R4 | Event Strength Phase 1 not authorized before May 9 | High | NO (nice-to-have) | April 29 session re-evaluates G0; authorization by May 7 if G0 = GO |
+| R5 | Girls Brier does not improve after GA ASPIRE fix | Low | NO | Fallback claims language pre-authorized |
+| R6 | Team merge error surfaces at live demo | Low | NO | DSS demo teams spot-checked |
+| R7 | May 1 pipeline instability propagates to May 9 rankings | Low | YES (if anomalies affect demo set) | FORGE monitoring; ELO reviews May 8 |
+| R8 | USARank comparison not complete by May 9 | Medium | YES | April 29 session runs queries; hard deadline May 5 |
+| R9 | Boys Brier pre-check not done before May 17 deploy | Low | NO (post-DSS) | Self-contained execution package filed; window May 10–16 |
+| R10 | ECNL CP1 fail — no authorized fallback path | Low | NO | CP1 Fail Escalation Protocol filed |
+
+**Overall risk level: MEDIUM.** Three DSS-blocking risks (R1, R7, R8). All have mitigations that activate in the April 29 session. If April 29 session executes successfully, overall risk drops to LOW by April 30.
+
+---
+
+## Section 4 — Authorization Gate Status
+
+*Static as of April 29. ELO updates on result receipt.*
+
+| Gate | Status | Condition to Open |
+|------|--------|------------------|
+| G0 — Girls GA ASPIRE fix applied | NO-GO (deferred from April 28) | Presten runs GA ASPIRE UPDATE in psql; FORGE schema confirmation within 30 min |
+| G1–G4 — Girls calibration sequence | HELD (blocked on G0) | After G0 = GO; ELO verifies each gate per criteria |
+| Event Strength Phase 1 | BLOCKED | After G0 = GO + G2 PASS + SENTINEL authorization |
+| Boys Option A verdict | AWAITING RESULTS | Presten runs B-OA-1/2/3; G0-independent; window open now |
+| ECNL Migration Option | PENDING PRESTEN AUTH | April 30 EOD decision deadline; Decision Brief filed April 29 |
+| Tier 2 Leagues calibration | PENDING PRESTEN REVIEW | Low urgency; Presten confirms game volume before applying |
+| May 1 Pipeline Launch | AUTHORIZED | FORGE confirmed; not blocked by any calibration item |
+
+---
+
+## Section 5 — Data-Dependent Sections (ELO Fills May 8)
+
+The following require May 1–8 pipeline data and cannot be pre-filled:
+
+- **Calibration stability assessment (May 1–8 game data)** — (ELO fills May 8: stddev delta from first pipeline run vs. `Rankings/May 1 Pipeline Launch — ELO Ratings Baseline.md`)
+- **Rating distribution shift from first pipeline run** — (ELO fills May 8: which age groups shifted, direction, magnitude)
+- **Rank bands distribution check** — (ELO fills May 8: RB-V-1 through RB-V-4 results per `Rankings/Rank Bands — Post-Launch Validation Spec.md`)
+- **Post-fix Brier re-run result** — (ELO fills after April 29 gate confirms fix landed: Girls Brier score post-GA ASPIRE fix; target < 0.24)
+- **USARank comparison result** — (ELO fills by May 5: delta analysis post-April-28 per execution package)
+- **Boys Option A verdict** — (ELO fills within 48 hrs of B-OA-1/2/3 results: APPROVE / CONDITIONAL / REJECT)
+
+---
+
 ## Calibration Status Table
 
 Six rows. ELO fills each row by May 8 with actual production-confirmed status.
