@@ -6,7 +6,8 @@ date: 2026-04-29
 time: "11:15"
 priority: high
 due: "April 30 (ready before CP1 result arrives)"
-status: pending
+status: completed
+completed: 2026-04-29
 topic: ecnl-cp1-result-filing-protocol
 ---
 

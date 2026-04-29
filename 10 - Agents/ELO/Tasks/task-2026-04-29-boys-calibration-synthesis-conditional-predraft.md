@@ -6,7 +6,8 @@ date: 2026-04-29
 time: "11:15"
 priority: medium
 due: "May 2"
-status: pending
+status: completed
+completed: 2026-04-29
 topic: boys-calibration-synthesis-conditional-predraft
 ---
 
