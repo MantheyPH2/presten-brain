@@ -2,7 +2,7 @@
 title: Archive Inactive Teams — Production Execution Authorization Request
 tags: [infrastructure, archive, teams, sentinel, authorization, evo-draw]
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-04-29
 author: FORGE
 status: pre-staged template — fill when dry-run results received
 task: task-2026-04-28-archive-production-execution-template
@@ -28,15 +28,15 @@ task: task-2026-04-28-archive-production-execution-template
 | Dry-run execution date | _[fill when received]_ |
 | Total teams flagged for archive | _[fill — integer count]_ |
 | Threshold classification | _[GREEN / YELLOW / RED]_ |
-| Threshold band | _[fill — e.g., "94 teams — within GREEN 80–150 band"]_ |
+| Threshold band | _[fill — e.g., "161 teams — within GREEN 155–165 band"]_ |
 | Unexpected teams in archive set? | _[YES / NO]_ |
 | Sample review: spot-checked N teams | _[fill — how many reviewed and what was found]_ |
 | Full dry-run output location | _[paste or reference]_ |
 
-**Threshold reference:**
-- GREEN: 80–150 teams — proceed to Section 4 authorization request
-- YELLOW: 50–80 or 150–200 teams — proceed with SENTINEL note; SENTINEL may request expanded spot check before authorizing
-- RED: < 50 or > 200 teams — do NOT file this document; file SENTINEL anomaly queue item instead
+**Threshold reference (corrected per SENTINEL ruling 2026-04-28 — authoritative source: `Infrastructure/Archive Inactive Teams — SQL Fix Verification and Dry-Run Readiness.md`):**
+- GREEN: 155–165 teams — proceed to Section 4 authorization request
+- YELLOW: 140–154 or 166–185 teams — proceed with SENTINEL note; SENTINEL may request expanded spot check before authorizing
+- RED: < 140 or > 185 teams — do NOT file this document; file SENTINEL anomaly queue item instead
 
 > [!caution] RED verdict protocol
 > If dry-run returns RED, FORGE does NOT file this authorization request. FORGE files a SENTINEL queue item (priority: urgent) with the anomaly count and requests guidance. Production archive does not proceed until SENTINEL resolves the anomaly.
