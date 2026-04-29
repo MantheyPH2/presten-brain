@@ -19,12 +19,16 @@ All in `02 - Tiger Tournaments/Projects/Events/Dallas Spring Showcase/Brackets/`
 2. `02 — Bracket Assignments.md` + `02 — Bracket Assignments.csv`
 3. `03 — Flagged Teams for Presten Review.md` + `03 — Flagged Teams.csv`
 
-## Headline numbers
+## Scope
 
-- **513 teams** registered
-- **Coverage:** 357 GREEN (70%) / 79 YELLOW (15%) / 37 RED (7%) / 40 MISSING (8%)
-- **Flagged:** 283 total — 67 move-up, 83 move-down, 133 ranking-uncertain
-- **Unassigned slotted:** 13 of 13 got a suggested division (10 with rating-based confidence, 3 manual due to missing rating). Bracket letter (A/B/C) still needs registrar input.
+**U11 and up only** per Presten clarification 2026-04-28. U6–U10 (217 teams) are excluded from this pass — those age groups are out of scope for bracketing right now.
+
+## Headline numbers (U11+)
+
+- **296 teams** in scope (513 total registered, 217 U6–U10 excluded)
+- **Coverage:** 203 GREEN (69%) / 47 YELLOW (16%) / 25 RED (8%) / 21 MISSING (7%)
+- **Flagged:** 161 total — 41 move-up, 56 move-down, 64 ranking-uncertain
+- **Unassigned slotted:** 5 of 5 got a suggested division. Bracket letter (A/B/C) still needs registrar input.
 
 ## Notable findings during execution
 

@@ -5,25 +5,27 @@ deliverable: Game Coverage Report
 filed_by: FORGE+ELO (run by Claude Code as the night-of executor for the autonomy directive)
 date: 2026-04-28
 status: completed
+scope: U11 and up (per Presten directive 2026-04-28)
 ---
 
-# DSS Game Coverage Report
+# DSS Game Coverage Report — U11+
+
+> **Scope:** Only U11 and up. U6–U10 (217 teams) are excluded from this analysis.
 
 ## Summary
 
 | Status | Definition | Count | % |
 |--------|-----------|-------|---|
-| GREEN  | ≥10 games last 365d AND last game within 60 days | 357 | 69.6 |
-| YELLOW | 5–9 games OR last game 60–180 days ago | 79 | 15.4 |
-| RED    | <5 games OR last game >180 days ago | 37 | 7.2 |
-| MISSING | Team ID not in Evo Draw `teams` table | 40 | 7.8 |
-| **Total** | | **513** | |
+| GREEN  | ≥10 games last 365d AND last game within 60 days | 203 | 68.6 |
+| YELLOW | 5–9 games OR last game 60–180 days ago | 47 | 15.9 |
+| RED    | <5 games OR last game >180 days ago | 25 | 8.4 |
+| MISSING | Team ID not in Evo Draw `teams` table | 21 | 7.1 |
+| **Total** | | **296** | |
 
 ## By Event Age
 
 | Event Age | Total | GREEN | YELLOW | RED | MISSING |
 |-----------|-------|-------|--------|-----|---------|
-| U10 | 75 | 59 | 10 | 5 | 1 |
 | U11 | 74 | 57 | 12 | 3 | 2 |
 | U12 | 53 | 41 | 7 | 2 | 3 |
 | U13 | 57 | 45 | 8 | 3 | 1 |
@@ -33,10 +35,6 @@ status: completed
 | U17 | 16 | 8 | 4 | 1 | 3 |
 | U18 | 4 | 3 | 0 | 0 | 1 |
 | U19 | 6 | 0 | 1 | 0 | 5 |
-| U6 | 12 | 3 | 2 | 0 | 7 |
-| U7 | 29 | 23 | 3 | 1 | 2 |
-| U8 | 53 | 34 | 9 | 4 | 6 |
-| U9 | 48 | 35 | 8 | 2 | 3 |
 
 ## Methodology
 

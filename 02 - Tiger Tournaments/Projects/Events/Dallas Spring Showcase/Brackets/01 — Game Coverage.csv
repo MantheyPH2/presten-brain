@@ -1,255 +1,127 @@
 team_id,team_name,club,event_age,gender,division,bracket,coverage,games_365,distinct_opponents,last_game_date,rating,in_db
 65155,Fever United 15B C. Smith,Fever United,U11,m,Silver II,Bracket B,YELLOW,5,5,2026-01-18,1495.34,yes
 490220,Atletico Dallas Youth Pre ECNL G15- Perez,Atletico Dallas Youth,U12,f,11v11 Silver,Bracket A,GREEN,23,20,2026-04-12,1464.28,yes
-624292,BVB IA 18B Black East Solares,BVB International Academy Texas,U8,m,7v7 18s Silver,Bracket B,GREEN,37,24,2026-05-02,,yes
 518001,BC Elite 10/11G,BC Elite,U16,f,HS 1,Bracket A,GREEN,31,18,2026-05-02,1485.57,yes
-496328,North Texas Elite 19B Pina,North Texas Elite SC,U7,m,Gold 4v4,Bracket A,GREEN,34,26,2026-03-28,1491.36,yes
-296025,Coppell Youth SA LIGHTNING,Coppell Youth SA,U9,m,7v7 Recreational,Bracket A,RED,0,0,,,yes
 647375,Nido Águila 14G Gonzalez,Club America - Tarrant County,U12,f,9v9 Bronze II,Bracket B,GREEN,29,22,2026-04-25,1495.31,yes
 210400,Solar ECNL RL 13B Tremblay,Solar SC,U13,m,11v11 Gold,Bracket A,GREEN,38,35,2026-04-04,1610.27,yes
-523070,ULETE FC 16B Rab,Ulete FC,U10,m,,,GREEN,35,26,2026-04-25,1497.69,yes
 647790,Avanti SA White NPL NTX B11,Avanti Soccer Academy,U15,m,DS Silver,Bracket B,MISSING,3,3,2026-01-25,,no
 127797,Dallas Legacy 12G Olguin,Dallas Legacy,U14,f,11v11 Silver,Bracket A,GREEN,37,22,2026-04-19,1477.03,yes
 352970,BVB 15B PreECNL Elite (Klassen),BVB International Academy Texas,U11,m,DS 9v9 Silver Elite,Bracket A,GREEN,50,36,2026-04-25,1557.62,yes
-209632,NTX Celtic 16B Del Olmo,NTX Celtic FC,U10,m,9v9 Gold,Bracket A,GREEN,58,44,2026-04-19,1602.77,yes
 612676,Dallas Surf 2013G NL TX-N,Dallas Surf,U13,f,11v11 Silver,Bracket A,GREEN,42,30,2026-04-19,1519.69,yes
 646561,Southside Soccer 14B Black,Southside Soccer,U12,m,9v9 Silver Crossover,Bracket A,GREEN,16,14,2026-04-26,1465.03,yes
 274348,Kernow Storm FC G13 API Lynch,Kernow Storm FC,U13,f,11v11 Bronze,Bracket A,GREEN,29,16,2026-05-09,1581.52,yes
-661076,NTX United FC 2018B Balleza,NTX United FC,U8,m,4v4 Bronze,Bracket A,GREEN,16,8,2026-05-02,,yes
-452126,BVB 18B Puma (DeSousa),BVB International Academy Texas,U8,m,7v7 18s Silver,Bracket A,GREEN,41,28,2026-04-26,1541.83,yes
 544815,Athens Futbol Club - 12B Aguilar,Athens Futbol Club,U14,m,11v11 Silver,Bracket A,GREEN,11,6,2026-05-02,1486.45,yes
-577503,FC Dallas Youth 16B Palmisano,FC Dallas Youth,U10,m,9v9 16s Silver,Bracket A,GREEN,32,27,2026-05-02,1549.81,yes
-620522,DKSC 16B RAMOS,DKSC,U10,m,9v9 16s Silver,Bracket A,GREEN,36,34,2026-04-18,1496.94,yes
-564974,Wildcats 18G,Lake Highlands SA,U8,f,4v4 Recreational,Bracket A,MISSING,0,0,,,no
 411364,FC Strikers 11B,Strikers FC( Texas),U15,m,DS Silver,Bracket B,GREEN,30,19,2026-05-06,1518.39,yes
 338205,Juventus Premier FC 14G Black Cantu,Juventus Premier Futbol Club,U12,f,11v11 Silver,Bracket A,YELLOW,36,30,2026-01-18,1524.02,yes
 363837,OK Energy FC 13G ECRL2,Oklahoma Energy FC,U13,f,11v11 Silver,Bracket A,YELLOW,20,17,2025-12-14,1504.50,yes
 385563,NTX United FC 2010B Costello,NTX United FC,U16,m,DS Bronze Crossover,Bracket A,GREEN,45,32,2026-05-06,1496.58,yes
 480477,Atletico Dallas Youth 15G Welge,Atletico Dallas Youth,U11,f,9v9 DS Gold,Bracket B,GREEN,31,31,2026-04-29,1554.59,yes
-263642,FC Dallas Youth Pre ECNL G16 Webb,FC Dallas Youth,U10,f,9v9 DS Gold,Bracket A,GREEN,41,22,2026-04-25,1539.71,yes
 206219,Sting Pre-ECNL G14 Kovacevic,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,GREEN,52,47,2026-05-02,1539.87,yes
 450608,Sting Attack G13 H Pantoja,Sting Soccer Club,U13,f,11v11 Bronze,Bracket B,GREEN,57,42,2026-04-29,1468.41,yes
 515832,Texoma FC 2011 Boys Red,Texoma Football Club,U15,m,DS Silver Elite,Bracket A,GREEN,26,18,2026-05-03,1562.62,yes
 120385,TEXAS UNITED AC 11B ALDAMA,Texas United AC,U15,m,DS Silver Elite,Bracket A,GREEN,25,20,2026-04-28,1569.05,yes
-468764,Sting B17 Lucero,Sting Soccer Club,U10,m,9v9 17s,Bracket B,GREEN,54,33,2026-05-03,,yes
-607909,Blue Dragons Ramirez 20,Mineral Wells Soccer,U6,m,Bronze,Bracket A,MISSING,7,7,2025-05-31,,no
-691814,Atletico Dallas Youth 17G South Gray,Atletico Dallas Youth,U9,f,7v7 Bronze II Crossover,Bracket A,GREEN,17,16,2026-04-18,1426.43,yes
 88917,Solar ECNL RL-NTX 11B Red,Solar SC,U15,m,DS Silver,Bracket A,GREEN,20,17,2026-03-15,1574.94,yes
 122423,NTX Celtic 13B High,NTX Celtic FC,U13,m,11v11 Bronze Crossover,Bracket B,GREEN,35,32,2026-04-18,1498.44,yes
 512002,Fort Worth Vaqueros FC 15 Alonzo,Fort Worth Vaqueros FC,U11,m,9v9 Bronze II,Bracket B,GREEN,15,15,2026-04-12,1549.94,yes
-438739,Texas Warriors FC 2017G,Texas Warriors FC,U9,f,7v7 Bronze II Crossover,Bracket B,GREEN,23,19,2026-04-26,1435.47,yes
-642320,Solar South 19G Guzman,Solar SC,U7,f,4v4 2019s,Bracket A,GREEN,18,14,2026-05-10,,yes
-614141,ISW Academy 16 Oviedo,ISW Academy,U10,m,,,YELLOW,8,5,2026-04-26,,yes
 120670,OTIS F.C,Otis FC,U17,m,Bracket B,Bracket A,GREEN,29,15,2026-05-05,1621.72,yes
-625861,Dallas Surf 17B North Black,Dallas Surf,U9,m,7v7 Bronze Crossover,Bracket B,GREEN,20,18,2026-04-25,1491.30,yes
-404872,Chili Peppers 18G,GLASA,U8,f,4v4 Recreational,Bracket A,GREEN,10,10,2026-04-12,,yes
 625826,Dallas Surf 2013B NL TX-N,Dallas Surf,U13,m,11v11 Bronze II,Bracket B,GREEN,32,21,2026-04-26,1547.90,yes
 475356,North Texas Elite 2015G Pina,North Texas Elite SC,U11,f,9v9 Silver,Bracket A,GREEN,90,55,2026-04-24,1488.20,yes
 387583,Sting Pre ECNL B16 Lucero,Sting Soccer Club,U11,m,DS 9v9 Silver Elite,Bracket A,GREEN,34,28,2026-04-19,1600.99,yes
-639034,Atletico Dallas Youth Central 18B White,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket A,GREEN,19,13,2026-04-25,1456.99,yes
 625812,Dallas Surf 12B Blue,Dallas Surf,U14,m,11v11 Bronze II,Bracket B,GREEN,30,23,2026-04-19,1470.56,yes
 500550,Dallas Surf 11G Black,Dallas Surf,U15,f,Silver,Bracket A,GREEN,41,26,2026-04-29,1539.04,yes
-380066,Solar South 17G Guzman,Solar SC,U10,f,9v9 17s,Bracket A,GREEN,56,39,2026-04-25,1483.95,yes
-590352,FC Dallas Youth 17B Central Mata,FC Dallas Youth,U9,m,7v7 Silver,Bracket A,GREEN,22,21,2026-05-03,1538.97,yes
-686296,FC Dallas Youth 18B Mata Central,FC Dallas Youth,U8,m,4v4 Silver,Bracket A,GREEN,11,10,2026-05-03,1500.96,yes
 91775,Fever United 14G Wright,Fever United,U12,f,9v9 Bronze II,Bracket B,GREEN,28,18,2026-05-02,1428.59,yes
 209911,GLASA Scorpions 12B,GLASA,U14,m,11v11 Bronze II,Bracket A,RED,3,3,2025-12-06,1441.26,yes
 242929,Sting Pre-ECNL G14 H Martinez,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,GREEN,78,55,2026-04-15,1631.25,yes
-582485,GLASA Goal Getters 18B,GLASA,U8,m,4v4 Bronze,Bracket B,RED,3,3,2025-08-24,,yes
 396557,Fever United 12B (Prev. Nido Águila Tarrant 12B Tovar),Fever United,U14,m,11v11 Bronze,Bracket C,GREEN,35,23,2026-04-06,,yes
-299334,Dallas Texans 2018 Girls Dallas,Dallas Texans,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,GREEN,66,49,2026-05-03,1543.87,yes
-124196,Pinnacle Soccer Academy 16B,Independent Teams - NTX,U10,m,9v9 Bronze II Crossover,Bracket C,GREEN,40,36,2026-04-25,1437.53,yes
-205965,TAG 16B Black,TAG Soccer,U10,m,9v9 Bronze,Bracket A,GREEN,40,33,2026-04-26,1491.85,yes
 261287,Texas Spurs FC 13B,Texas Spurs,U13,m,11v11 Silver,Bracket A,GREEN,23,19,2026-04-05,1512.09,yes
 385588,Solar 14B Jenkins,Solar SC,U13,m,11v11 Silver 14s,Bracket A,GREEN,34,29,2026-04-19,1566.42,yes
-534498,Solar 18G Jenkins,Solar SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,GREEN,29,17,2026-05-02,1553.16,yes
-640564,ULETE FC 17G Josh,Ulete FC,U9,f,7v7 Silver,Bracket A,GREEN,23,17,2026-04-18,1498.08,yes
-651878,ULETE FC 18G Jasmine,Ulete FC,U8,f,4v4 Bronze,Bracket A,GREEN,26,21,2026-04-18,1463.15,yes
-588213,Forms Academy 19,Forms Academy,U7,m,Gold 4v4,Bracket B,GREEN,38,30,2026-05-02,1541.01,yes
-651875,ULETE FC 18B Jasmine,Ulete FC,U8,m,4v4 Silver,Bracket A,GREEN,25,15,2026-05-02,1455.25,yes
 390230,Lions Futbol Club 2011B,Lions Futbol Club,U15,m,DS Silver Elite,Bracket A,GREEN,69,50,2026-05-03,1612.86,yes
 612399,Solar West 15B Garcia.S PreECNL,Solar SC,U12,m,9v9 Silver Crossover,Bracket A,GREEN,58,45,2026-04-25,1468.82,yes
 544813,Athens Futbol Club - 15G Gonzalez,Athens Futbol Club,U11,f,9v9 Bronze II,Bracket B,YELLOW,5,5,2026-03-15,,yes
 531954,Thunder United SC 15B Red,Thunder United Soccer Club,U11,m,9v9 Bronze,Bracket A,GREEN,25,22,2026-04-26,1474.45,yes
-537575,GLASA LADYBUGS 17G,GLASA,U9,f,7v7 Bronze II Crossover,Bracket A,RED,3,2,2025-08-24,,yes
-522356,Dallas Texans 2018 Boys South,Dallas Texans,U9,m,18s,Bracket A,GREEN,75,50,2026-05-02,1534.46,yes
-404320,Sting FTW G17 Rey,Sting Soccer Club,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,GREEN,65,47,2026-04-26,1532.39,yes
-441884,Soccerplex United 17B Red,Soccerplex United,U9,m,7v7 Silver,Bracket B,GREEN,26,19,2026-04-18,1452.34,yes
 632643,PSG DFW 09B ORTEGA,Paris Saint-Germain Academy DFW,U17,m,Bracket B,Bracket A,GREEN,26,23,2026-04-20,,yes
 505988,Fever United 12G Schott,Fever United,U14,f,11v11 Bronze Crossover,Bracket B,YELLOW,10,10,2025-11-23,,yes
 85290,Juventus Premier FC 12G,Juventus Premier FC,U14,f,11v11 Silver,Bracket A,GREEN,38,25,2026-05-06,1471.82,yes
 96187,FC Dallas Youth 15G North White,FC Dallas Youth,U11,f,9v9 Silver,Bracket A,GREEN,45,35,2026-04-29,1510.41,yes
 586785,BVB 13G GA,BVB International Academy Texas,U13,f,Dallas Showcase Super Group 13s,Bracket A,GREEN,44,27,2026-05-02,1627.28,yes
 81594,Coppell FC 11G Morales,Coppell Youth SA,U15,f,Silver,Bracket B,GREEN,27,19,2026-05-05,1421.65,yes
-587363,Dallas Texans 2019 Boys Black Dallas,Dallas Texans,U7,m,Gold 4v4,Bracket A,GREEN,39,28,2026-05-03,1541.01,yes
 149444,FC DIVAS XIII,FCD,U13,f,11v11 Silver,Bracket B,GREEN,41,34,2026-04-26,1480.82,yes
 106525,Plano Planets,,U16,m,DS Bronze Crossover,Bracket B,RED,8,7,2025-08-17,1511.38,yes
 65128,Fever United 10B Jacobo,Fever United,U16,m,DS Bronze Crossover,Bracket B,YELLOW,10,10,2025-11-23,1518.32,yes
 524735,Nido Aguila Mt. Pleasant,Club America (TX),U16,m,DS Silver Crossover,Bracket A,GREEN,69,56,2026-05-03,1614.14,yes
-672639,ISW Academy 20 Muñoz,ISW Academy,U6,m,Bronze,Bracket B,GREEN,11,10,2026-05-03,,yes
-642947,FC Dallas Youth 18G Webb,FC Dallas Youth,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,GREEN,42,24,2026-05-02,1596.84,yes
 625830,Dallas Surf 14G White,Dallas Surf,U12,f,11v11 Silver,Bracket A,GREEN,56,42,2026-04-19,1499.62,yes
 96125,FC Dallas Youth 15G Blue,FC Dallas Youth,U11,f,9v9 Silver,Bracket B,GREEN,42,32,2026-04-29,1451.45,yes
-452033,DSA Dallas Blues 19B,,U8,m,4v4 Bronze,Bracket A,YELLOW,18,16,2026-01-03,,yes
-452034,Dallas Blues 19G,,U7,f,4v4 2019s,Bracket A,YELLOW,23,18,2025-11-23,,yes
-505380,BVB 18G Gold (DeWet),BVB International Academy Texas,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,GREEN,53,34,2026-04-18,,yes
 541502,Arl Rodriguez/South Dallas Leon 15B,Arlington SA,U11,m,9v9 Bronze II,Bracket B,YELLOW,12,10,2025-11-09,,yes
-640234,North Texas Elite 2020B Pina,North Texas Elite SC,U6,m,Gold,Bracket A,GREEN,20,16,2026-05-02,,yes
 649980,South Dallas Leon 2014B,Independent Teams - NTX,U12,m,9v9 Bronze,Bracket C,GREEN,27,18,2026-05-03,,yes
 527493,Texas Spurs FC 10B White,Texas Spurs,U16,m,DS Bronze Crossover,Bracket B,GREEN,24,17,2026-04-22,1505.47,yes
 82918,FC Dallas Youth 11G North White,FC Dallas Youth,U15,f,Silver Elite Crossover,Bracket A,GREEN,63,45,2026-04-26,1544.28,yes
 364378,BVB 15B Black (DeSousa),BVB International Academy Texas,U11,m,9v9 Bronze,Bracket C,GREEN,45,39,2026-04-25,1510.41,yes
 547107,ULETE FC 15B Simon,Ulete FC,U11,m,9v9 Bronze,Bracket B,GREEN,33,32,2026-04-26,1460.17,yes
-669148,DSA Dallas Blues 19/18B Dev.,,U8,m,4v4 Bronze,Bracket B,MISSING,3,3,2025-10-26,,no
-631197,Metro West Wolves 16B Rogers,Metro West SC,U10,m,9v9 Bronze II Crossover,Bracket B,GREEN,26,21,2026-05-10,1395.00,yes
 507940,BVB 15B PreECNL White (DeSousa),BVB International Academy Texas,U11,m,9v9 Silver,Bracket B,GREEN,41,30,2026-05-02,1503.15,yes
-365055,DKSC 16/17B DE LA CRUZ BLACK,DKSC,U10,m,9v9 Bronze,Bracket B,RED,13,12,2025-10-26,,yes
-233278,DKSC 16B Pre-ECNL DE LA CRUZ,DKSC,U10,m,9v9 Gold,Bracket A,GREEN,46,36,2026-04-04,1535.33,yes
 298249,Fortress FC 15G,Fortress FC,U11,f,9v9 Bronze II,Bracket A,GREEN,35,31,2026-04-18,1453.91,yes
-703397,BVB 17/18G White East (Solares),BVB International Academy Texas,U9,f,7v7 Bronze II Crossover,Bracket B,YELLOW,8,5,2026-05-03,,yes
 496853,Fever United 12B Morrow,Fever United,U14,m,11v11 Bronze II,Bracket B,GREEN,33,24,2026-04-26,1478.15,yes
 637598,Texoma FC 2010 Girls Red,Texoma Football Club,U16,f,HS 2,Bracket A,GREEN,25,14,2026-05-30,1514.17,yes
-666725,Villarreal NTX 16B,Villarreal NTX,U10,m,9v9 16s Silver Elite,Bracket A,GREEN,27,19,2026-05-03,,yes
 361688,Solar 11G Givens ECNL RL NTX,Solar SC,U15,f,Silver Elite Crossover,Bracket A,GREEN,27,21,2026-04-12,1562.30,yes
 536477,Revolution Premier SC 15G,Revolution Premier SC,U11,f,9v9 Bronze,Bracket A,GREEN,52,43,2026-04-19,1461.75,yes
-454411,Revolution Premier SC 16G Blue,Revolution Premier SC,U10,f,9v9 Bronze II,Bracket B,GREEN,46,27,2026-04-26,1385.16,yes
 688610,Fever United 11B Yellow,Fever United,U15,m,DS Silver Elite,Bracket A,MISSING,0,0,,,no
-532048,Atletico Dallas Youth Central 16B White,Atletico Dallas Youth,U10,m,9v9 Bronze II Crossover,Bracket C,GREEN,28,25,2026-04-26,1429.23,yes
-520052,AlphaForms'16G,Forms Academy,U10,f,9v9 DS Gold,Bracket A,GREEN,69,30,2026-05-09,1582.06,yes
-541887,AlphaForms'17G,Forms Academy,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,GREEN,63,33,2026-05-03,1577.80,yes
 154329,Cobras,Little Elm Youth SA,U11,m,9v9 Bronze II,Bracket C,RED,0,0,,1494.40,yes
 625811,Dallas Surf South 12B Black,Dallas Surf,U14,m,11v11 Bronze II,Bracket C,GREEN,31,22,2026-04-26,1478.61,yes
 623896,FC Dallas Youth 15B Navy,FC Dallas Youth,U11,m,Silver II,Bracket A,GREEN,27,22,2026-05-02,1524.39,yes
-523908,Dallas Texans 2019 Boys White Dallas,Dallas Texans,U7,m,Bronze 4v4,Bracket A,GREEN,16,15,2026-05-02,1484.74,yes
-370310,Sting FTW G17 Kovacevic,Sting Soccer Club,U9,f,7v7 Silver,Bracket A,GREEN,40,39,2026-05-10,1487.95,yes
-387622,Dallas Texans 2018 Boys Red Dallas,Dallas Texans,U8,m,7v7 18s Silver,Bracket B,RED,4,3,2026-04-12,1471.37,yes
 401805,Dutch Lionesses 14G AJAX,Dutch FC,U12,f,11v11 Bronze,Bracket A,YELLOW,8,8,2026-01-25,,yes
 120846,Dallas Cosmos 11G White,Dallas Cosmos Soccer Club,U15,f,Silver,Bracket B,GREEN,34,28,2026-05-05,1432.73,yes
 82916,FC Dallas Youth 11G White,FC Dallas Youth,U15,f,Silver,Bracket B,GREEN,20,11,2026-04-26,1398.80,yes
-386019,FC Dallas Youth Pre ECNL G16 Avant West,FC Dallas Youth,U10,f,9v9 Silver,Bracket B,YELLOW,19,16,2026-01-25,1512.41,yes
 62113,BVB 14G East (Brown),BVB International Academy Texas,U12,f,11v11 Silver,Bracket A,GREEN,26,21,2026-04-26,,yes
-579139,FC Guardians 2016,FC Guardians,U10,m,9v9 Bronze,Bracket A,GREEN,15,15,2026-04-04,1545.98,yes
-494964,FC Guardians 2017,FC Guardians,U9,m,7v7 Bronze Crossover,Bracket B,YELLOW,9,9,2026-03-08,1473.82,yes
-389719,Texas Warriors FC 16G Red,Texas Warriors FC,U10,f,9v9 Bronze II,Bracket A,GREEN,20,15,2026-04-12,1440.09,yes
-233273,DKSC 20B DE LA CRUZ,DKSC,U6,m,Bronze,Bracket B,MISSING,3,3,2025-12-07,,no
 636821,Dallas Surf 15B Black,Dallas Surf,U11,m,9v9 Silver,Bracket C,GREEN,30,21,2026-04-26,1524.04,yes
-122826,Dortmund 17B,Independent Teams - NTX,U9,m,7v7 Bronze II,Bracket A,GREEN,24,22,2026-04-26,1408.92,yes
-122868,Dortmund 18B,Independent Teams - NTX,U8,m,7v7 Bronze,Bracket B,GREEN,26,18,2026-04-11,1494.47,yes
 452458,Thunder United SC 13B Gold,Thunder United Soccer Club,U13,m,11v11 Bronze II,Bracket A,GREEN,20,16,2026-05-02,1450.82,yes
 450821,NTX United FC 2014G Smith,NTX United FC,U13,f,11v11 Bronze,Bracket B,GREEN,30,18,2026-04-12,1534.07,yes
 248284,BVB 11G Black East (Contreras),BVB International Academy Texas,U15,f,Silver,Bracket A,GREEN,26,16,2026-04-29,1439.84,yes
 68358,Fever United 12B Phiri,Fever United,U14,m,11v11 Silver,Bracket A,YELLOW,32,27,2026-01-18,1544.65,yes
-579647,Sting B18 Guess,Sting Soccer Club,U8,m,7v7 18s Silver,Bracket B,GREEN,31,25,2026-04-25,1638.04,yes
 210381,Dallas Hornets 15G (Prev Alpha),Dallas Hornets,U12,f,11v11 DS Gold,Bracket A,GREEN,66,46,2026-04-19,,yes
-624279,BVB 17G Black East Solares,BVB International Academy Texas,U9,f,7v7 Silver,Bracket A,GREEN,26,20,2026-04-25,,yes
 166771,Solar South 15G Adames,Solar SC,U12,f,11v11 DS Gold,Bracket A,GREEN,66,41,2026-05-03,1550.83,yes
 383382,Solar South 16G Adames,Solar SC,U11,f,9v9 DS Gold,Bracket A,GREEN,83,66,2026-04-26,1586.24,yes
 522200,IRVING VELOCITY SC 12 BR,Irving Soccer Association,U14,m,11v11 Bronze II,Bracket B,YELLOW,16,15,2025-12-07,1457.62,yes
 662850,Kernow Storm FC B10 ECNL RL Alexander,Kernow Storm FC,U16,m,DS Silver Crossover,Bracket B,MISSING,3,3,2025-11-23,,no
-659289,Dallas Texans 2020 Boys Red Dallas,Dallas Texans,U7,m,Gold 4v4,Bracket A,GREEN,15,10,2026-05-02,1593.77,yes
 633235,Solar 11G Richardson RL NTX,Solar SC,U15,f,Silver,Bracket A,GREEN,14,10,2026-04-05,1478.99,yes
-441539,Sting Attack 17G D Sarmiento,Sting Soccer Club,U10,f,9v9 DS Gold,Bracket B,GREEN,115,47,2026-05-03,1602.72,yes
-450822,NTX United FC 2017B Costello,NTX United FC,U9,m,7v7 Bronze Crossover,Bracket B,GREEN,30,28,2026-05-03,,yes
-655127,Arl Cruz/JPFC 20B,Arlington SA,U6,m,Bronze,Bracket A,MISSING,0,0,,,no
-538656,NTX United FC 2016B Costello,NTX United FC,U10,m,9v9 Bronze,Bracket B,GREEN,24,23,2026-04-24,1450.77,yes
-647952,NTX United FC 2016B Herrera,NTX United FC,U10,m,9v9 Bronze II Crossover,Bracket A,GREEN,22,22,2026-04-04,,yes
-403434,LCSA Warriors,Lake Cities SA,U8,f,4v4 Bronze,Bracket B,YELLOW,7,6,2026-01-18,,yes
 88993,Sting Royal ECNL RL NTX G13 Brave Oliver,Sting Soccer Club,U13,f,Dallas Showcase Super Group 13s,Bracket A,GREEN,71,48,2026-04-19,1614.03,yes
 107538,DFW United 11G Sutherland,DFW United SC,U15,f,Silver Elite Crossover,Bracket A,GREEN,42,29,2026-04-29,1486.69,yes
 614131,ISW Academy 10G,ISW Academy,U16,f,HS 2,Bracket A,GREEN,40,22,2026-05-30,,yes
 606148,ISW Academy 12G Ramirez,ISW Academy,U14,f,11v11 Bronze Crossover,Bracket A,GREEN,22,16,2026-03-28,1504.35,yes
-354265,DKSC 18B DE LA CRUZ,DKSC,U8,m,4v4 Silver,Bracket A,GREEN,28,18,2026-04-11,1442.49,yes
-643194,Sting Attack B19/20 D Sarmiento,Sting Soccer Club,U7,m,Silver 4v4,Bracket B,MISSING,12,10,2026-05-02,,no
-577109,North Texas Elite 18B Soto,North Texas Elite SC,U8,m,7v7 18s Silver,Bracket A,GREEN,56,41,2026-05-02,1528.34,yes
-657244,Texas Lonestars FC,Texas Lonestars FC,U6,m,Gold,Bracket A,YELLOW,19,11,2025-11-08,,yes
-672503,Texas Lonestars FC 19B,Texas Lonestars FC,U7,m,Bronze 4v4,Bracket A,RED,3,3,2026-02-08,1431.13,yes
 646542,Solar 14G Tremblay Gold,Solar SC,U12,f,11v11 Bronze,Bracket A,GREEN,32,17,2026-04-11,1485.97,yes
-184133,Cannonballs FC 17B,Lake Highlands SA,U9,m,7v7 Recreational,Bracket A,MISSING,0,0,,,no
 637021,DKSC 11B RODRIGUEZ ETX,DKSC,U15,m,DS Silver Elite,Bracket A,GREEN,22,15,2026-04-26,1543.26,yes
-615139,DFW United SC 18G Sutherland,DFW United SC,U8,f,7v7 Silver,Bracket A,GREEN,22,14,2026-05-03,1491.49,yes
 167646,Kernow Storm FC B13 Red River NPL H.Espinosa,Kernow Storm FC,U13,m,11v11 Gold,Bracket A,GREEN,36,23,2026-04-26,1598.09,yes
 139099,Dallas Legacy 15G Arroyo,Dallas Legacy,U11,f,9v9 Bronze,Bracket B,GREEN,52,44,2026-04-12,1460.93,yes
-485179,Dallas Legacy 17B Arroyo,Dallas Legacy,U9,m,7v7 Recreational,Bracket A,GREEN,32,26,2026-04-25,1390.04,yes
-636940,Atletico Dallas Youth 18G Meighen,Atletico Dallas Youth,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,GREEN,39,19,2026-05-02,1580.36,yes
-634194,Solar East 17B Gonzales,Solar SC,U9,m,7v7 Bronze Crossover,Bracket A,GREEN,37,31,2026-05-01,,yes
 534291,Juventus Premier FC 14B Cantu,Juventus Premier Futbol Club,U12,m,9v9 Silver Crossover,Bracket A,GREEN,46,33,2026-04-26,1455.82,yes
-645462,-Juventus Premier FC 2019B,Juventus Premier Futbol Club,U7,m,Bronze 4v4,Bracket B,YELLOW,11,9,2025-11-16,,yes
 641387,Arsenal CF 09B,Independent Teams - NTX,U17,m,DS Silver,Bracket A,GREEN,50,37,2026-05-16,1586.71,yes
-633580,NTX Celtic 19B Monk West,NTX Celtic FC,U7,m,Silver 4v4,Bracket A,GREEN,27,23,2026-05-17,1484.40,yes
-356455,Dallas Surf 17G East Blue,Dallas Surf,U10,f,9v9 17s,Bracket A,GREEN,30,22,2026-04-24,1492.96,yes
 620580,Sting WTX G15 Fernandez,Sting Soccer Club,U11,f,9v9 Bronze,Bracket B,GREEN,33,19,2026-04-26,1484.72,yes
-513849,ETX United 16G - Swiney,East Texas United SC,U10,f,9v9 Silver,Bracket B,GREEN,33,31,2026-04-12,1557.05,yes
-693399,Falls Town FC 17G,Falls Town FC,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,GREEN,11,8,2026-04-26,1498.00,yes
 524255,NTX Celtic 14B Shaffer West,NTX Celtic FC,U12,m,9v9 Bronze,Bracket A,GREEN,34,27,2026-04-25,1490.54,yes
 288181,NTX Celtic FC Pre-ECNL B14 Shaffer,NTX Celtic FC,U13,m,11v11 Silver 14s,Bracket B,YELLOW,27,24,2025-12-14,1663.68,yes
-576833,ULETE FC 17G RAB,Ulete FC,U9,f,7v7 Bronze II Crossover,Bracket A,GREEN,31,25,2026-04-25,1476.04,yes
-260098,Sting FTW G16 Oliver,Sting Soccer Club,U10,f,9v9 Silver,Bracket A,GREEN,35,32,2026-04-26,1482.13,yes
-553844,RPSC 16B Mercado_Blue,Revolution Premier SC,U10,m,9v9 16s Silver Elite,Bracket A,GREEN,50,38,2026-04-26,1555.15,yes
-408758,Atletico Dallas Youth 16Gs Central Pre ECNL Meighan,Atletico Dallas Youth,U10,f,9v9 Silver,Bracket A,GREEN,35,18,2026-05-09,1508.70,yes
-478937,Atletico Dallas Youth Pre-ECNL G16 Meighen,Atletico Dallas Youth,U10,f,9v9 DS Gold,Bracket A,GREEN,64,37,2026-04-25,1647.05,yes
 251738,Sting WTX B14 Fernandez,Sting Soccer Club,U13,m,11v11 Bronze 14s,Bracket A,GREEN,41,30,2026-04-19,1468.50,yes
-683403,Little Gunners - Segura,Heart of Texas Soccer,U6,m,Bronze,Bracket A,YELLOW,9,8,2026-01-03,,yes
-280420,GLASA Raichu 16B,GLASA,U10,m,,,RED,6,5,2025-08-24,,yes
 640464,ULETE FC 13G Chris,Ulete FC,U13,f,11v11 Bronze,Bracket A,GREEN,26,22,2026-05-06,1445.65,yes
-695547,ULETE FC 18B Degrenier,Ulete FC,U8,m,4v4 Bronze,Bracket A,YELLOW,8,7,2026-05-02,,yes
-509792,Solar South 18G Guzman,Solar SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,GREEN,82,50,2026-05-03,1595.84,yes
-547188,ULETE FC 17B Simon,Ulete FC,U9,m,7v7 Bronze Crossover,Bracket A,GREEN,32,28,2026-04-25,1411.10,yes
 529243,ULETE FC 12G Andre,Ulete FC,U14,f,11v11 Silver,Bracket A,GREEN,34,20,2026-04-29,1469.93,yes
 640499,ULETE FC 14G Carlo,Ulete FC,U12,f,9v9 Bronze,Bracket A,GREEN,29,21,2026-04-25,1466.17,yes
-658389,ULETE FC 20B Jordan,Ulete FC,U6,m,Bronze,Bracket B,MISSING,12,11,2026-05-03,,no
-651942,ULETE FC 19B Jordan,Ulete FC,U7,m,Bronze 4v4,Bracket B,GREEN,19,17,2026-04-25,1421.02,yes
-698802,ULETE FC 18/19G Serame,Ulete FC,U8,f,4v4 Bronze,Bracket A,YELLOW,8,7,2026-05-02,,yes
-651871,ULETE FC 20/19G Jordan,Ulete FC,U7,f,4v4 2019s,Bracket A,GREEN,18,13,2026-05-02,1476.15,yes
-695412,ULETE FC 19B Degrenier Blue,Ulete FC,U7,m,Silver 4v4,Bracket B,GREEN,12,8,2026-04-25,1505.82,yes
-697599,ULETE FC 18B Hanibal,Ulete FC,U8,m,4v4 Bronze,Bracket B,YELLOW,8,8,2026-05-03,,yes
 572567,ULETE FC 15G Andre,Ulete FC,U11,f,9v9 DS Gold,Bracket B,GREEN,48,36,2026-04-26,1614.65,yes
-442024,BVB 16B Pre ECNL Brown,BVB International Academy Texas,U10,m,9v9 16s Silver,Bracket A,GREEN,41,37,2026-04-25,1466.88,yes
 123743,Lioness Select 13G,Independent Teams - NTX,U13,f,11v11 Bronze,Bracket B,GREEN,22,19,2026-04-26,1463.62,yes
-330123,Sting WTX B16 Albarado,Sting Soccer Club,U10,m,9v9 Bronze,Bracket A,GREEN,38,27,2026-05-03,1467.62,yes
 704964,Atlético United FC,Atletico United FC,U11,m,Silver II,Bracket B,GREEN,13,10,2026-03-29,1515.09,yes
 330347,TAG Pre ECNL 15B Gold East,TAG Soccer,U11,m,9v9 Silver,Bracket A,YELLOW,10,9,2025-12-06,1472.88,yes
 334798,Atletico Dallas Youth 15G Williams,Atletico Dallas Youth,U11,f,9v9 Bronze,Bracket A,GREEN,30,27,2026-04-18,1461.12,yes
 636127,Dutch Lions 14B Sparta,Dutch FC,U12,m,9v9 Bronze II,Bracket A,GREEN,22,18,2026-05-02,1504.85,yes
-634886,NTX Celtic 16B Monk West,NTX Celtic FC,U10,m,9v9 Bronze II Crossover,Bracket B,GREEN,30,23,2026-05-10,1441.07,yes
 480478,Atletico Dallas Youth 14B Welge,Atletico Dallas Youth,U12,m,9v9 Bronze II,Bracket B,GREEN,30,25,2026-04-26,1530.83,yes
-579421,Dallas Surf 18/19B East,Dallas Surf,U8,m,4v4 Bronze,Bracket B,YELLOW,14,14,2026-01-11,1424.78,yes
-333942,Avanti Pre-Academy 17B Red Cavazos,Avanti Soccer Academy,U10,m,7v7 Gold,Bracket A,GREEN,49,32,2026-04-26,,yes
-287678,Avanti PreAcademy 16B Red Cavazos,Avanti Soccer Academy,U10,m,9v9 16s Silver,Bracket A,GREEN,35,21,2026-04-26,,yes
 405293,StrikerZ DFW 2012B Purple,StrikerZ DFW,U14,m,11v11 Bronze,Bracket C,GREEN,30,27,2026-04-14,1495.04,yes
 516663,StrikerZ DFW 2012G Purple,StrikerZ DFW,U14,f,11v11 Bronze Crossover,Bracket A,GREEN,28,15,2026-04-18,1520.48,yes
 404131,StrikerZ DFW 2013B Purple,StrikerZ DFW,U13,m,11v11 Bronze Crossover,Bracket B,GREEN,31,23,2026-04-09,1517.12,yes
-600249,DKSC 19B GARCIA,DKSC,U7,m,Silver 4v4,Bracket A,GREEN,13,9,2026-04-25,1495.47,yes
 634543,Atletico Dallas Youth Blue ECNL-RL NTX B09,Atletico Dallas Youth,U17,m,Bracket B,Bracket A,YELLOW,16,15,2026-02-08,1520.96,yes
 82976,FC Dallas Youth Red ECNL RL NTX G13,FC Dallas Youth,U13,f,Dallas Showcase Super Group 13s,Bracket A,GREEN,28,23,2026-04-12,,yes
-405579,Juventus Premier FC 16B Sikora,Juventus Premier Futbol Club,U10,m,9v9 16s Silver Elite,Bracket A,YELLOW,28,24,2025-12-07,1527.47,yes
 516598,RPSC 13B Mercado,Revolution Premier SC,U13,m,11v11 Bronze Crossover,Bracket B,GREEN,40,26,2026-04-19,1466.88,yes
-521886,RPSC 17B Mercado,Revolution Premier SC,U9,m,7v7 Bronze II,Bracket A,GREEN,31,23,2026-04-26,,yes
-549269,RPSC 18B Mercado,Revolution Premier SC,U8,m,7v7 Bronze,Bracket A,GREEN,39,31,2026-05-17,1441.39,yes
-638843,RPSC 19B Mercado_White,Revolution Premier SC,U7,m,Bronze 4v4,Bracket A,GREEN,32,26,2026-05-10,1412.06,yes
 693983,Sting WTX G14 Jimenez,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,GREEN,21,12,2026-04-19,1645.33,yes
-639228,Revolution Premier SC 18G Black,Revolution Premier SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,GREEN,52,33,2026-04-25,1581.36,yes
-580876,NTX United FC 2018 Tredway,NTX United FC,U8,m,7v7 Bronze,Bracket A,GREEN,37,28,2026-05-03,1473.79,yes
-661366,South 18G Gold,HTX,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,GREEN,26,23,2026-05-09,1544.34,yes
 520251,Atletico Dallas Youth 09G Clark,Atletico Dallas Youth,U17,f,HS 1,Bracket B,GREEN,23,15,2026-05-09,,yes
-621115,Sting Pre ECNL G16 Robles,Sting Soccer Club,U10,f,9v9 DS Gold,Bracket A,GREEN,30,25,2026-04-24,1553.88,yes
-704595,Pumas SC 19 ZAM,Duncanville SA,U7,m,Silver 4v4,Bracket B,MISSING,10,7,2026-06-13,,no
 488693,BVB 14B PreECNL Yellow (Suffredin),BVB International Academy Texas,U13,m,11v11 Silver 14s,Bracket A,GREEN,53,46,2026-04-26,1528.45,yes
 486124,Dallas Surf 12B South,Dallas Surf,U14,m,11v11 Bronze,Bracket A,GREEN,54,43,2026-04-26,1516.08,yes
-560234,Dallas Texans 2020 Boys Dallas,Dallas Texans,U6,m,Gold,Bracket A,GREEN,44,30,2026-04-18,,yes
-616668,Texas Premier SC 16B,Texas Premier SC,U10,m,9v9 Bronze,Bracket A,GREEN,23,19,2026-04-26,1437.21,yes
 697618,Texas Premier SC U12,Texas Premier SC,U12,m,9v9 Silver Crossover,Bracket A,YELLOW,8,8,2026-04-25,1537.20,yes
 636891,Atletico Dallas Youth 14G Enciso,Atletico Dallas Youth,U12,f,9v9 Bronze II,Bracket A,GREEN,41,32,2026-04-25,1424.62,yes
 396897,Pflugerville Rayados 2015,Mortega Soccer Club Laredo Youth Soccer Academy,U11,m,DS 9v9 Silver Elite,Bracket B,GREEN,29,24,2026-03-08,1551.07,yes
 151633,Rayados MOrtega 2013 Blue,Laredo Youth Soccer Assn,U13,m,11v11 Gold,Bracket A,GREEN,38,32,2026-03-28,1565.07,yes
 516534,Rayados MOrtega 2013 White,Laredo Youth Soccer Assn,U13,m,11v11 Bronze Crossover,Bracket A,GREEN,27,25,2026-03-21,1498.71,yes
-448624,Rayados Pflugerville 16,Mortega Soccer Club Laredo Youth Soccer Academy,U10,m,9v9 Gold,Bracket A,GREEN,27,21,2026-03-08,1588.24,yes
-448477,Rayados Pflugerville 17,Mortega Soccer Club Laredo Youth Soccer Academy,U10,m,9v9 17s,Bracket B,GREEN,25,22,2026-03-08,,yes
 516535,Rayados MOrtega 11/12,Laredo Youth Soccer Assn,U15,m,DS Bronze,Bracket B,GREEN,36,33,2026-03-29,1414.47,yes
-678221,Rayados Pflugerville 2016 White TYPL,Texas Youth Premier League,U10,m,,,GREEN,22,6,2026-04-26,,yes
-570607,Rayados Pflugerville 2018,Mortega Soccer Club Laredo Youth Soccer Academy,U8,m,7v7 18s Silver,Bracket A,GREEN,19,16,2026-03-08,1509.58,yes
-678227,Rayados Pflugerville 2018 White TYPL,Texas Youth Premier League,U8,m,7v7 Bronze,Bracket C,MISSING,22,10,2026-04-26,,no
-369682,17G Nike Volt,RISE Soccer Club,U9,f,7v7 Silver,Bracket A,GREEN,19,16,2026-04-05,1524.84,yes
-364344,Dallas Surf 17G East Black,Dallas Surf,U10,f,9v9 DS Gold,Bracket B,GREEN,57,30,2026-05-10,1582.16,yes
 458924,BVB 15G Yellow (Ibrahimpasic),BVB International Academy Texas,U11,f,9v9 Bronze II,Bracket A,GREEN,24,14,2026-04-11,1503.52,yes
 262107,Premier FA 2008B Green,Premier Futbol Academy of San Antonio,U18,m,DS 08-09,Bracket A,GREEN,22,21,2026-04-19,,yes
 483054,FC Dallas High Plains 2015 Girls Blue,FC Dallas High Plains,U11,f,9v9 Bronze,Bracket A,GREEN,42,26,2026-05-17,1461.52,yes
@@ -258,60 +130,42 @@ team_id,team_name,club,event_age,gender,division,bracket,coverage,games_365,dist
 708343,ULETE FC 14/15 Hanibal,Ulete FC,U12,m,9v9 Bronze II,Bracket B,MISSING,0,0,,,no
 100365,Texas Spurs FC 11B,Texas Spurs,U15,m,DS Silver,Bracket A,GREEN,31,23,2026-04-18,1478.45,yes
 100366,Texas Spurs FC 10B Blue,Texas Spurs,U16,m,DS Bronze Crossover,Bracket A,GREEN,26,16,2026-05-02,1485.17,yes
-146891,DFW United SC 16B - BLUE,DFW United SC,U10,m,9v9 16s Silver Elite,Bracket B,GREEN,48,35,2026-04-26,1558.41,yes
 640216,Rayados MOrtega 2014 White,Laredo Youth Soccer Assn,U12,m,9v9 Bronze,Bracket A,GREEN,23,14,2026-03-28,1464.01,yes
 204390,Dallas Surf 13G White,Dallas Surf,U13,f,11v11 Bronze,Bracket A,GREEN,39,22,2026-04-15,1503.49,yes
 83029,FC Dallas Youth 13G North White,FC Dallas Youth,U13,f,11v11 Silver,Bracket B,GREEN,44,39,2026-04-26,1495.12,yes
-655210,DFW United SC 16B - WHITE,DFW United SC,U10,m,,,GREEN,21,17,2026-04-18,1511.64,yes
 150463,Statik '10 Boys,Statik Futbol Club,U16,m,DS Bronze Crossover,Bracket A,YELLOW,22,18,2025-11-16,1493.31,yes
 450578,NTX Celtic 15B Strange South,NTX Celtic FC,U11,m,9v9 Bronze,Bracket A,GREEN,29,27,2026-04-25,1476.40,yes
-450377,Revolution Premier SC 18G Blue,Revolution Premier SC,U8,f,7v7 Silver,Bracket A,GREEN,51,41,2026-05-02,1451.44,yes
 658982,Atletico Dallas Youth FTW 15B Blue,Atletico Dallas Youth,U11,m,Silver II,Bracket C,GREEN,22,22,2026-04-25,1466.96,yes
-704626,Angels,North Fort Worth Alliance SA,U8,f,4v4 Recreational,Bracket A,MISSING,8,8,2026-05-16,,no
 269607,ATLETICO DALLAS YOUTH NPL NTX 10G HERNANDEZ-WTX,Atletico Dallas Youth,U16,f,HS 2,Bracket A,RED,4,3,2025-05-11,,yes
 253925,OK Energy FC 12B Red,Oklahoma Energy FC,U14,m,11v11 Bronze,Bracket B,GREEN,36,31,2026-05-17,1464.99,yes
 634238,FC Dallas East Texas 2014/15 G - Sabillon - BLUE,FC Dallas ETX,U12,f,9v9 Bronze II,Bracket B,GREEN,21,14,2026-04-25,1440.71,yes
-405813,Atletico Dallas Youth Pre ECNL 16B HERNANDEZ-WTX,Atletico Dallas Youth,U10,m,9v9 16s Silver,Bracket B,MISSING,13,13,2026-01-25,,no
 644733,Titan Warriors 13B,Independent Teams - NTX,U13,m,11v11 Silver,Bracket A,GREEN,14,13,2026-04-12,1562.50,yes
 631678,NTX Celtic 14G Holden,NTX Celtic FC,U12,f,9v9 Bronze II,Bracket B,GREEN,29,24,2026-04-17,1437.55,yes
 635771,Solar 15B Molano PreECNL Red,Solar SC,U11,m,DS 9v9 Silver Elite,Bracket B,GREEN,27,24,2026-04-04,1490.26,yes
 79154,GLASA Roaring Lions 14G,GLASA,U12,f,9v9 Bronze II,Bracket A,RED,2,2,2025-08-23,,yes
-529657,Coppell FC 18G Mobley Red,Coppell FC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,GREEN,41,26,2026-05-02,1552.25,yes
-574776,Coppell FC 18G Mobley White,Coppell FC,U8,f,4v4 Bronze,Bracket A,GREEN,33,24,2026-05-03,1364.92,yes
 77860,Kernow Storm FC WTX B08 Lubbock,Kernow Storm FC,U18,m,DS 08-09,Bracket A,GREEN,16,15,2026-04-05,,yes
 702797,Dallas Deportivo F.C. 15,Dallas Deportivo FC,U11,f,9v9 Bronze II,Bracket A,MISSING,0,0,,,no
 138606,FC LEGENDS UTD 10/11B Red,FC LEGENDS UTD,U16,m,DS Bronze Crossover,Bracket B,GREEN,26,19,2026-04-11,1427.01,yes
 127580,Sting NPL NTX B13 Pitcock/C Rodriguez,Sting Soccer Club,U13,m,11v11 Silver,Bracket A,GREEN,58,50,2026-04-19,1518.90,yes
-647985,Toros FC 2018/2019 Black,El Paso Premier League,U8,m,7v7 18s Silver,Bracket B,GREEN,16,15,2026-05-02,,yes
 717023,Toros FC 2009/2010 Black,El Paso Premier League,U17,m,DS Silver,Bracket A,MISSING,8,7,2026-05-14,,no
 643973,TOROS FC 2014 Black,El Paso Premier League,U12,m,9v9 Bronze,Bracket C,GREEN,17,17,2026-05-07,,yes
-693244,Toros FC 2016 Black,El Paso Premier League,U10,m,,,GREEN,12,12,2026-05-02,,yes
-686963,Toros FC 2017 Black,El Paso Premier League,U9,m,7v7 Silver,Bracket A,GREEN,14,14,2026-05-02,,yes
 720833,Toros FC 2011/2012 Neon,El Paso Premier League,U15,m,DS Bronze,Bracket A,MISSING,8,8,2026-05-13,,no
 10904,Colorado United 2010B Red,Colorado United,U16,m,DS Silver Crossover,Bracket B,YELLOW,7,7,2026-03-01,,yes
-537196,BVB 17/18G Oldham,BVB International Academy Texas,U9,f,7v7 Silver,Bracket A,GREEN,32,27,2026-04-26,1498.10,yes
 709418,Solar North 16G,Solar SC,U11,f,9v9 DS Gold,Bracket A,YELLOW,7,7,2026-04-12,1601.98,yes
 510811,Dallas Surf 14G East Silver,Dallas Surf,U12,f,11v11 Silver,Bracket A,GREEN,35,30,2026-04-12,1486.57,yes
 330126,BVB 15G Black (Oldham),BVB International Academy Texas,U11,f,9v9 Silver,Bracket C,GREEN,38,30,2026-04-25,1514.10,yes
 138605,FC LEGENDS UTD 15B Black,FC LEGENDS UTD,U11,m,9v9 Bronze,Bracket C,GREEN,33,28,2026-04-11,1533.36,yes
 138604,FC LEGENDS UTD 15B Red,FC LEGENDS UTD,U11,m,9v9 Bronze II,Bracket C,GREEN,40,34,2026-05-30,1485.00,yes
 521584,U13 Boys Gold - GO,GFI Academy,U13,m,11v11 Bronze II,Bracket A,GREEN,20,17,2026-03-21,1435.87,yes
-620286,Rayos 19B blue 4v4 A,Rayos FC,U7,m,Gold 4v4,Bracket B,GREEN,27,19,2026-05-03,,yes
-701410,Rayos 2019b Red,Rayos FC,U7,m,Bronze 4v4,Bracket B,YELLOW,8,8,2026-05-03,1509.98,yes
 81641,Coppell FC 14B Williams Red,Coppell Youth SA,U13,m,11v11 Bronze 14s,Bracket A,GREEN,37,29,2026-04-18,,yes
 188365,Olympians SC 14B Red Chadbourn,Olympians SC,U13,m,11v11 Silver 14s,Bracket A,GREEN,54,43,2026-04-25,,yes
-579593,Sting Attack G17 D Sarmiento White,Sting Soccer Club,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,GREEN,34,24,2026-05-02,1598.98,yes
-701441,Solar 18G Carrillo.T,Solar SC,U8,f,4v4 Bronze,Bracket B,MISSING,11,9,2026-05-03,,no
 96642,Dallas Surf 12G Black,Dallas Surf,U14,f,11v11 Bronze Crossover,Bracket B,GREEN,45,30,2026-04-29,1428.34,yes
 521596,U12 Boys Gold - GO,GFI Academy,U12,m,9v9 Bronze,Bracket A,GREEN,25,23,2026-03-22,1453.27,yes
 521605,U11 Boys Gold - GO,GFI Academy,U11,m,9v9 Bronze,Bracket A,GREEN,24,18,2026-03-14,1420.58,yes
 362201,Dallas Texans ECNL RL NTX G13,Dallas Texans,U13,f,11v11 Silver,Bracket B,YELLOW,27,24,2026-01-18,1470.38,yes
-486146,Dallas Surf 17G South,Dallas Surf,U9,f,7v7 Bronze II Crossover,Bracket B,GREEN,28,23,2026-05-03,1435.70,yes
 151346,Dutch Lions 12B PSV,Dutch FC,U14,m,11v11 Bronze,Bracket A,GREEN,32,22,2026-05-03,1559.57,yes
 147249,Dutch Lions 13B PSV,Dutch FC,U13,m,11v11 Bronze II,Bracket A,GREEN,27,18,2026-05-02,1478.54,yes
 79663,Sting G14 Fuentes,Sting Soccer Club,U12,f,9v9 Bronze,Bracket A,GREEN,17,12,2026-04-11,1430.65,yes
-581666,Coerver United 17B Garcia,GLASA LEAGUE TEAM,U9,m,7v7 Silver,Bracket B,GREEN,27,18,2026-04-19,1498.69,yes
-702031,Atletico Dallas Youth 18B North,Atletico Dallas Youth,U8,m,4v4 Silver,Bracket A,MISSING,0,0,,,no
 482778,Atletico Dallas Youth NPL NTX 13B GARCIA-WTX,Atletico Dallas Youth,U13,m,11v11 Bronze Crossover,Bracket A,MISSING,3,3,2025-08-31,,no
 729468,Shiloh FC 11B,Shiloh FC,U15,m,DS Silver,Bracket B,MISSING,0,0,,,no
 511449,Sting ECNL RL NTX B12 Pitcock,Sting Soccer Club,U14,m,11v11 Bronze II,Bracket A,GREEN,50,43,2026-04-25,1449.33,yes
@@ -321,36 +175,21 @@ team_id,team_name,club,event_age,gender,division,bracket,coverage,games_365,dist
 58684,Houstonians FC STXCL ECNL-RL G07,Houstonians FC,U19,f,Gold,Bracket B,MISSING,4,4,2025-12-14,,no
 354518,Inter Dallas SC 09G,Dallas Inter Soccer Club,U17,f,HS 1,Bracket A,GREEN,22,14,2026-04-26,1469.93,yes
 134104,Coppell FC 15G Campanella White,Coppell Youth SA,U11,f,9v9 Bronze II,Bracket A,GREEN,36,28,2026-04-25,1422.54,yes
-602391,DKSC 20B ROJAS,DKSC,U6,m,Gold,Bracket A,MISSING,26,16,2026-05-02,,no
 622312,BVB 14B Black East (Fritz),BVB International Academy Texas,U12,m,9v9 Bronze II,Bracket A,GREEN,22,16,2026-04-26,1550.84,yes
 269189,Amarillo Rush 14G,Amarillo Rush SC,U12,f,11v11 Bronze,Bracket A,GREEN,35,17,2026-04-25,1570.07,yes
-526703,Sting B18 Lucero,Sting Soccer Club,U9,m,18s,Bracket A,GREEN,43,26,2026-04-18,1587.65,yes
-363894,NOKC 2017 Boys White,North OKC SC,U9,m,7v7 Silver,Bracket B,MISSING,23,17,2026-05-13,,no
-646179,Sting B17 Ortiz,Sting Soccer Club,U10,m,9v9 17s,Bracket B,GREEN,51,41,2026-05-02,1602.42,yes
 166090,15G Moon,Evolution,U11,f,9v9 Silver,Bracket B,GREEN,19,13,2026-04-12,1497.10,yes
-501618,FC LEGENDS UTD 16B Black,FC LEGENDS UTD,U10,m,9v9 Bronze II Crossover,Bracket B,GREEN,23,21,2026-04-24,1555.58,yes
-392513,FC LEGENDS UTD 16B Red,FC LEGENDS UTD,U10,m,9v9 Bronze,Bracket B,GREEN,21,20,2026-04-26,1454.11,yes
-329562,FC LEGENDS UTD 17B Red,FC LEGENDS UTD,U9,m,7v7 Silver,Bracket A,GREEN,32,29,2026-04-19,1503.97,yes
-661305,Solar West 19G Richie,Solar SC,U7,f,4v4 2019s,Bracket A,GREEN,10,8,2026-04-26,,yes
 516424,Extreme FC 12G Reyes,Extreme FC,U14,f,11v11 Bronze Crossover,Bracket A,YELLOW,8,5,2026-04-11,1539.28,yes
 508168,NTX Celtic FC Pre-ECNL B14 Brice,NTX Celtic FC,U13,m,11v11 Silver 14s,Bracket A,YELLOW,16,15,2026-01-25,,yes
-510567,FC LEGENDS UTD 18B Red,FC LEGENDS UTD,U8,m,7v7 Bronze,Bracket C,RED,4,3,2026-03-08,,yes
-510864,FC Dallas Youth 17B Barrera,FC Dallas Youth,U9,m,7v7 Silver,Bracket B,GREEN,27,26,2026-04-25,1475.73,yes
 488204,Texas Warriors FC 15B Salas,Texas Warriors FC,U11,m,9v9 Silver,Bracket B,GREEN,27,24,2026-04-18,1486.75,yes
 385944,FC Dallas Youth 14G West,FC Dallas Youth,U12,f,11v11 Bronze,Bracket A,YELLOW,7,4,2026-05-02,1462.84,yes
-658373,ISW Academy 18 Munoz,ISW Academy,U8,m,7v7 Bronze,Bracket B,GREEN,11,8,2026-05-02,1636.94,yes
-711810,Solar SW 20B Garcia S.,Solar SC,U6,m,Bronze,Bracket A,MISSING,0,0,,,no
 612677,Dallas Surf 15G North,Dallas Surf,U11,f,9v9 Silver,Bracket B,YELLOW,9,7,2026-04-03,1515.50,yes
 514002,Texas LoneStars 14B,Texas LoneStars Soccer Club,U12,m,9v9 Bronze,Bracket C,GREEN,26,25,2026-04-14,1552.81,yes
 277190,Texas LoneStars 12B,Texas LoneStars Soccer Club,U14,m,11v11 Bronze,Bracket B,RED,0,0,,1514.15,yes
 535016,Pumas SC- 2013 Zam,Pumas SC NTX,U13,m,11v11 Gold,Bracket A,GREEN,41,28,2026-04-25,1572.96,yes
 129045,Atletico Dallas Youth 13B Reyes Central,Atletico Dallas Youth,U13,m,11v11 Bronze Crossover,Bracket B,GREEN,14,10,2026-03-26,1492.56,yes
 152293,Texas Spurs FC 12B,Texas Spurs,U14,m,11v11 Bronze II,Bracket C,YELLOW,5,3,2026-03-15,,yes
-661810,Atletico Dallas Youth Central 18G Welge,Atletico Dallas Youth,U8,f,7v7 Silver,Bracket A,GREEN,14,10,2026-04-25,1455.01,yes
 148428,13B McMillian,Evolution,U14,m,11v11 Silver,Bracket A,GREEN,25,19,2026-02-28,,yes
 628945,FC Dallas Youth 15G Navy,FC Dallas Youth,U11,f,9v9 Silver,Bracket C,GREEN,28,24,2026-04-25,1513.09,yes
-333895,GLASA CHEETAHS 16G,GLASA,U10,f,9v9 Bronze II,Bracket B,RED,10,8,2025-08-24,1547.99,yes
-272284,Coppell FC 16B Reeck Red,Coppell Youth SA,U10,m,9v9 Gold,Bracket A,GREEN,25,18,2026-04-26,1492.73,yes
 390669,Atletico Dallas Youth FDL 09B Reyes,Atletico Dallas Youth,U17,m,DS Silver,Bracket A,GREEN,17,12,2026-04-26,1456.29,yes
 262456,Elite Premier FC 2010,Elite Premier FC,U16,m,DS Silver Crossover,Bracket A,YELLOW,9,5,2026-04-26,,yes
 614628,Elite Premier FC 2014G,Elite Premier FC,U12,f,9v9 Bronze,Bracket A,YELLOW,9,6,2026-04-18,,yes
@@ -359,31 +198,18 @@ team_id,team_name,club,event_age,gender,division,bracket,coverage,games_365,dist
 634544,Barça Academy Austin 14B Red,Legends FC - San Antonio,U12,m,9v9 Silver Crossover,Bracket A,GREEN,22,15,2026-04-25,1491.05,yes
 634545,Barça Academy Austin 14B Black,Legends FC - San Antonio,U12,m,9v9 Bronze,Bracket B,GREEN,27,25,2026-04-19,1479.46,yes
 406242,Barca Academy Austin 15/16B Blue,Hill Country FC / Barca Academy Austin,U11,m,Silver II,Bracket B,GREEN,27,25,2026-04-19,1480.07,yes
-645858,Coppell FC 19B Shabout Red,Coppell FC,U7,m,Silver 4v4,Bracket B,GREEN,16,14,2026-05-03,,yes
 105799,NTX Celtic FC ECNL RL NTX G09,NTX Celtic FC,U17,f,HS 1,Bracket A,RED,0,0,,1532.97,yes
-630965,Sting G16 Brady,Sting Soccer Club,U10,f,9v9 Bronze II,Bracket A,RED,4,4,2026-01-25,,yes
 631035,Elite Premier FC 2015B,Elite Premier FC,U11,m,9v9 Bronze II,Bracket A,GREEN,20,19,2026-04-26,1533.29,yes
-452635,Dallas Texans 2018 Girls Red Dallas,Dallas Texans,U8,f,7v7 Silver,Bracket B,GREEN,22,17,2026-05-03,1490.24,yes
 491040,Solar Pre ECNL G15 Naizer,Solar SC,U11,f,9v9 Silver,Bracket A,GREEN,12,8,2026-04-24,1468.03,yes
-484573,Atletico Dallas Youth G17 Meighen,Atletico Dallas Youth,U10,f,9v9 17s,Bracket A,GREEN,69,38,2026-05-02,1638.31,yes
 265071,FC Hurst United 09G,Hurst United SA,U19,f,Gold,Bracket B,MISSING,5,4,2026-03-28,,no
-654833,BVB 16B White (Kennedy),BVB International Academy Texas,U10,m,9v9 16s Silver,Bracket B,GREEN,26,18,2026-05-03,1579.07,yes
-645859,Coppell FC 19B Robicheaux White,Coppell FC,U7,m,Silver 4v4,Bracket A,GREEN,16,12,2026-05-03,,yes
-643624,OKC 405 FC 2016 G - Elite,OKC 405 FC,U10,f,9v9 DS Gold,Bracket B,YELLOW,9,5,2026-05-16,1604.88,yes
-584552,Atletico Dallas Youth Dallas 18B O Rodriguez,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket C,YELLOW,5,4,2026-04-11,,yes
 326480,Dutch Lions 12B Feyenoord,Dutch FC,U14,m,11v11 Bronze II,Bracket A,RED,2,2,2026-04-14,,yes
-656212,Sharks FC,Independent Teams - NTX,U9,m,7v7 Bronze II,Bracket B,YELLOW,8,4,2026-04-24,1434.05,yes
 151489,FC Dallas El Paso 2011,El Paso Premier League,U15,m,DS Silver,Bracket A,YELLOW,7,4,2026-05-02,1479.32,yes
 492976,Solar South 11G Cameron,Solar SC,U15,f,Silver Elite Crossover,Bracket A,YELLOW,13,9,2026-02-14,1477.33,yes
-685328,FC Dallas 2017 Pre MLS Academy,,U10,m,9v9 Gold,Bracket A,YELLOW,11,10,2026-01-25,,yes
-698904,FC Dallas North Academy 2017,FC Dallas,U10,m,9v9 17s,Bracket A,YELLOW,7,6,2026-01-25,,yes
 691655,NTX United FC 2015/16B Guibert,NTX United FC,U11,m,Silver II,Bracket A,YELLOW,8,8,2026-04-18,,yes
-644115,NTX United FC 2019B Guibert,NTX United FC,U7,m,Bronze 4v4,Bracket B,GREEN,22,18,2026-04-25,,yes
 654209,Solar South 12G Cameron RLNTX,Solar SC,U14,f,11v11 Silver,Bracket A,YELLOW,20,18,2026-02-15,1484.96,yes
 81616,Coppell FC 13B Shirazi White,Coppell Youth SA,U13,m,11v11 Bronze II,Bracket B,GREEN,34,26,2026-04-12,1526.69,yes
 206710,ETX United 12G,East Texas United SC,U14,f,11v11 Silver,Bracket A,RED,9,7,2025-08-17,,yes
 494025,Atletico Dallas Youth 15B Brandt,Atletico Dallas Youth,U11,m,9v9 Silver,Bracket C,GREEN,30,27,2026-04-18,1489.55,yes
-635332,FC Dallas Youth 17G Niehoff,FC Dallas Youth,U10,f,9v9 17s,Bracket A,GREEN,13,5,2026-04-25,,yes
 567395,NTX United FC 2011B Paice,NTX United FC,U15,m,DS Silver,Bracket B,GREEN,31,22,2026-04-03,1534.09,yes
 383332,FC Dallas Youth Pre-ECNL 15G Avant West,FC Dallas Youth,U11,f,9v9 Bronze,Bracket B,RED,5,4,2025-09-21,,yes
 517375,SPD FC 14B Black,SPD FC,U12,m,9v9 Bronze,Bracket B,GREEN,16,11,2026-04-19,1527.34,yes
@@ -393,11 +219,8 @@ team_id,team_name,club,event_age,gender,division,bracket,coverage,games_365,dist
 517372,SPD FC 13B Red,SPD FC,U13,m,11v11 Bronze II,Bracket B,GREEN,15,11,2026-03-24,1444.65,yes
 383586,Atletico Dallas Youth 07/08G Clark,Atletico Dallas Youth,U19,f,Gold,Bracket A,MISSING,16,13,2026-05-02,,no
 415277,FCD ETX Palestine 15/16B,FC Dallas ETX,U11,m,9v9 Silver,Bracket B,GREEN,21,19,2026-04-25,1534.21,yes
-543663,Solar 16G Tremblay,Solar SC,U10,f,9v9 Silver,Bracket A,GREEN,11,7,2026-05-02,1483.98,yes
 268555,Athens Futbol Club 12B,Athens Futbol Club,U14,m,11v11 Silver,Bracket A,YELLOW,6,4,2026-04-04,,yes
 99024,FC LEGENDS UTD 13B Red,FC LEGENDS UTD,U13,m,11v11 Gold,Bracket A,GREEN,17,13,2026-03-25,1558.45,yes
-496326,North Texas Elite 18B Flores,North Texas Elite SC,U9,m,18s,Bracket A,YELLOW,8,6,2026-05-02,,yes
-511727,Solar 17B Tremblay,Solar SC,U9,m,7v7 Bronze II,Bracket B,YELLOW,8,7,2026-05-02,,yes
 655787,The Hive,The Hive,U11,f,9v9 Bronze,Bracket A,GREEN,20,9,2026-04-18,1543.83,yes
 538511,Texas Warriors FC 10B - NPL NTX Foster,Texas Warriors FC,U16,m,DS Silver Crossover,Bracket A,RED,2,2,2025-12-13,,yes
 633473,Pegasus Futbol 2013G,Pegasus Futbol,U13,f,11v11 Bronze,Bracket C,RED,3,2,2025-11-16,,yes
@@ -405,95 +228,56 @@ team_id,team_name,club,event_age,gender,division,bracket,coverage,games_365,dist
 626056,Pegasus Futbol 2013,Pegasus Futbol,U13,m,11v11 Bronze Crossover,Bracket A,GREEN,13,11,2026-04-12,1564.21,yes
 492975,Solar South 10G Cameron,Solar SC,U16,f,HS 1,Bracket A,GREEN,30,15,2026-05-06,1471.68,yes
 209098,Dallas Cosmos 13G Red,Dallas Cosmos Soccer Club,U13,f,11v11 Bronze,Bracket C,GREEN,10,6,2026-02-28,1457.89,yes
-410175,Dallas Cosmos 16G Black,Dallas Cosmos Soccer Club,U10,f,9v9 Bronze II,Bracket B,YELLOW,8,5,2026-05-09,1534.05,yes
-293968,Dallas Cosmos 16B White,Dallas Cosmos Soccer Club,U10,m,9v9 16s Silver,Bracket B,GREEN,40,32,2026-04-25,1510.18,yes
 164899,12B Giurgila,Evolution,U14,m,11v11 Bronze II,Bracket C,RED,3,3,2025-09-27,,yes
 163527,13B Giurgila,Evolution,U13,m,11v11 Bronze II,Bracket B,GREEN,41,28,2026-04-06,1467.38,yes
-419884,17B McGregor (Black),Evolution,U9,m,7v7 Bronze II,Bracket A,GREEN,15,13,2026-04-12,1496.84,yes
 451850,Fever United 11B Jacobo,Fever United,U15,m,DS Bronze,Bracket A,GREEN,13,10,2026-04-11,,yes
 107876,Solar 09G Megli,Solar SC,U17,f,HS 1,Bracket A,YELLOW,6,3,2026-04-29,1421.33,yes
 612374,Texas Warriors FC 15G - Salas,Texas Warriors FC,U11,f,9v9 Silver,Bracket C,GREEN,18,13,2026-03-29,1500.66,yes
 193618,Texas Warriors FC 15B Black,Texas Warriors FC,U11,m,9v9 Bronze,Bracket B,GREEN,18,18,2026-04-11,1622.93,yes
 77672,Midlothian Premier FC 2012 Girls,Midlothian Premier FC,U14,f,11v11 Bronze Crossover,Bracket B,GREEN,12,6,2026-04-25,1469.90,yes
-279157,Metro West Wolves 16B Thiem,Metro West SC,U10,m,9v9 16s Silver Elite,Bracket B,GREEN,22,19,2026-04-19,1512.23,yes
 499346,OK Energy FC 14B White,Oklahoma Energy FC,U13,m,11v11 Silver 14s,Bracket B,GREEN,22,20,2026-05-23,1532.91,yes
 528941,Legacy United FC 12B - Mininni,Legacy United FC,U14,m,11v11 Bronze,Bracket A,YELLOW,5,3,2026-03-25,1600.33,yes
 518517,Solar 10G Megli GCL,Solar SC,U16,f,HS 2,Bracket A,GREEN,16,10,2026-04-26,,yes
-550627,Liverpool FC Dallas 2016B,Liverpool FC Texas,U10,m,9v9 Bronze II Crossover,Bracket A,GREEN,19,17,2026-04-25,1467.90,yes
-657201,Trinity FC - Castillo 17/18,Independent Teams - NTX,U9,m,7v7 Bronze II,Bracket A,GREEN,20,19,2026-05-17,,yes
-582558,Current Elite 19G,Current Elite 2019G,U8,f,4v4 Bronze,Bracket B,GREEN,18,12,2026-04-12,,yes
-644075,Soccerplex United 19/20B,Soccerplex United,U7,m,Gold 4v4,Bracket B,GREEN,19,18,2026-05-02,1515.96,yes
-441885,Soccerplex United 16B,Soccerplex United,U10,m,9v9 16s Silver,Bracket B,GREEN,17,15,2026-05-03,1473.32,yes
 647555,ETFC 07G Muhr,East Texas Football Club,U19,f,Gold,Bracket A,MISSING,13,8,2025-11-30,,no
-687693,Valley Academy Green,Mt. Pleasant Youth Soccer Association,U6,m,Bronze,Bracket B,MISSING,3,3,2025-11-08,,no
 152149,Royal Peak FC 2015 White,Royal Peak FC,U11,m,Silver II,Bracket C,GREEN,18,17,2026-04-26,1450.45,yes
-296905,Dallas Texans 2018 Boys Dallas Rojas,Dallas Texans,U9,m,18s,Bracket A,GREEN,29,20,2026-04-26,,yes
-333287,Dallas Texans 2017 Boys Dallas Rojas,Dallas Texans,U10,m,9v9 17s,Bracket A,GREEN,63,45,2026-04-26,,yes
 65147,Fever United 14B Mee,Fever United,U13,m,11v11 Bronze 14s,Bracket A,GREEN,22,18,2026-04-25,,yes
 81643,Coppell FC 14B Gee White,Coppell Youth SA,U12,m,9v9 Bronze II,Bracket A,GREEN,29,19,2026-06-07,,yes
 513133,Coppell FC 11B Gee Grey,Coppell Youth SA,U15,m,DS Bronze,Bracket A,GREEN,26,25,2026-05-30,1502.76,yes
-521835,Kernow Storm FC G16 Pre-ECNL Nelson,Kernow Storm FC,U10,f,9v9 DS Gold,Bracket B,GREEN,11,11,2026-04-12,1510.31,yes
 83004,FC Dallas Youth North NPL NTX B10,FC Dallas Youth,U16,m,DS Bronze Crossover,Bracket A,RED,1,1,2025-05-11,,yes
 388334,FC Dallas Youth North NPL NTX B12,FC Dallas Youth,U14,m,11v11 Bronze,Bracket C,RED,1,1,2025-11-09,,yes
 679949,Solar 08B Volkan RLNTX,Solar SC,U18,m,DS 08-09,Bracket A,MISSING,3,3,2026-04-05,,no
 334941,Dallas Cosmos 15G White,Dallas Cosmos Soccer Club,U11,f,9v9 Bronze,Bracket B,GREEN,19,15,2026-04-26,1434.93,yes
 410178,Dallas Cosmos 14G Red,Dallas Cosmos Soccer Club,U12,f,9v9 Bronze II,Bracket A,GREEN,10,7,2026-04-08,1542.29,yes
 729412,Dallas Cosmos 15G Red,Dallas Cosmos Soccer Club,U11,f,9v9 Bronze II,Bracket B,MISSING,0,0,,,no
-293967,Dallas Cosmos 16B Black,Dallas Cosmos Soccer Club,U10,m,9v9 16s Silver Elite,Bracket B,GREEN,35,23,2026-04-26,1523.18,yes
 293964,Dallas Cosmos 15B Black,Dallas Cosmos Soccer Club,U11,m,9v9 Silver,Bracket A,GREEN,38,29,2026-04-25,1506.24,yes
 293304,Dallas Cosmos 14G White,Dallas Cosmos Soccer Club,U12,f,9v9 Bronze,Bracket A,YELLOW,5,4,2026-04-22,1481.95,yes
-410384,Dallas Cosmos 17B Black,Dallas Cosmos Soccer Club,U9,m,7v7 Silver,Bracket A,GREEN,22,18,2026-04-18,1500.72,yes
 159269,Avanti Soccer Academy 13B Blue,Avanti Soccer Academy,U13,m,11v11 Bronze Crossover,Bracket A,GREEN,24,22,2026-03-15,,yes
-276187,Dallas Legends Panthers 17B,Dallas Legends,U9,m,7v7 Bronze II,Bracket B,YELLOW,7,7,2026-04-18,1420.69,yes
 79069,GLASA Thunderbirds 14B,GLASA,U12,m,9v9 Bronze II,Bracket A,RED,3,3,2025-08-23,,yes
-552488,Solar 17G Jenkins,Solar SC,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,GREEN,16,11,2026-04-25,1464.97,yes
-409517,GLASA Fireballs 17B,GLASA,U9,m,7v7 Recreational,Bracket A,MISSING,0,0,,,no
 70461,Victory SC 2010 Girls Black,Victory SC,U16,f,HS 1,Bracket A,GREEN,10,5,2026-05-02,1452.82,yes
 54442,FC Dallas-High Plains 2013 Girls Red,FC Dallas High Plains,U13,f,Dallas Showcase Super Group 13s,Bracket A,YELLOW,19,15,2025-11-09,,yes
 631542,Coppell FC 15B Williams White,Coppell Youth SA,U11,m,9v9 Bronze II,Bracket A,GREEN,21,21,2026-04-11,1572.31,yes
-585645,IRVING SPIRIT 18 GR,Irving Soccer Association,U8,f,4v4 Recreational,Bracket A,YELLOW,10,9,2025-11-16,,yes
-707563,Atletico Dallas Youth 17/18B Central,Atletico Dallas Youth,U9,m,7v7 Bronze II,Bracket B,YELLOW,8,5,2026-04-18,,yes
-661697,Atletico Dallas Youth 18B Blue,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket B,YELLOW,5,4,2026-03-21,,yes
-583341,Dallas Texans 2020 Girls Dallas,Dallas Texans,U7,f,4v4 2019s,Bracket A,GREEN,16,11,2026-05-03,,yes
-564769,Real Madrid,Cooke County SA,U10,m,,,RED,0,0,,1472.47,yes
-634732,Sting G16 Doan,Sting Soccer Club,U10,f,9v9 Bronze II,Bracket A,YELLOW,8,8,2026-05-02,,yes
 643062,Solar 11B Volkan NPLNTX,Solar SC,U15,m,DS Bronze,Bracket B,RED,3,3,2025-12-14,,yes
-523885,Dallas Texans 2017 Boys South,Dallas Texans,U10,m,9v9 17s,Bracket A,GREEN,49,36,2026-04-17,1512.96,yes
-523891,Dallas Texans 2017 Boys Red South,Dallas Texans,U10,m,9v9 Bronze II Crossover,Bracket A,GREEN,66,52,2026-05-02,1549.81,yes
 633260,FC Forney 2014B,FC Forney,U12,m,9v9 Bronze II,Bracket B,GREEN,22,17,2026-04-28,1503.61,yes
 94680,10B Scannell,Evolution,U16,m,DS Silver Crossover,Bracket B,RED,3,3,2026-04-22,,yes
 161859,14B Sinnott,Evolution,U13,m,11v11 Bronze 14s,Bracket A,GREEN,19,19,2026-04-11,,yes
 166772,15B Sinnott,Evolution,U11,m,9v9 Bronze II,Bracket C,GREEN,22,19,2026-04-12,1481.85,yes
-297208,Fever United 16B Tovar,Fever United,U10,m,9v9 Bronze,Bracket B,GREEN,19,18,2026-04-26,,yes
-456819,GLASA Jaguars 18B,GLASA,U8,m,4v4 Bronze,Bracket A,RED,3,3,2025-08-24,,yes
-634179,FC Dallas Youth 19G / 20G - Frayre,FC Dallas Youth,U7,f,4v4 2019s,Bracket A,GREEN,17,13,2026-04-12,,yes
 489195,Solar SW 15B Garcia.S White,Solar SC,U11,m,9v9 Bronze II,Bracket A,GREEN,21,18,2026-05-14,1515.77,yes
 538015,FCP Dynamos 12B,FCP Dynamos,U14,m,11v11 Bronze,Bracket B,RED,4,4,2026-03-14,,yes
-567225,GLASA Lake City Elite 16B,GLASA,U10,m,,,YELLOW,10,9,2025-11-16,1452.04,yes
-552600,American Tornadoes,American Tornadoes,U7,m,Bronze 4v4,Bracket A,GREEN,20,13,2026-04-25,1491.81,yes
 636126,Dutch Lions 14B AZ,Dutch FC,U12,m,9v9 Bronze II,Bracket B,MISSING,0,0,,,no
 385933,FC Dallas Youth Pre ECNL B15 Malik,FC Dallas Youth,U11,m,9v9 Silver,Bracket C,RED,1,1,2025-05-17,,yes
-530905,Soccerplex United 16/17G Red,Soccerplex United,U10,f,9v9 Silver,Bracket B,YELLOW,7,7,2026-04-11,1428.42,yes
-645936,Dallas Texans 2019 Girls East,Dallas Texans,U8,f,7v7 Silver,Bracket B,GREEN,33,27,2026-04-25,1456.32,yes
 508863,LC United 15B White Lyle,LC United,U11,m,9v9 Bronze,Bracket C,YELLOW,9,9,2026-05-03,1442.59,yes
-703183,Dallas Texans 2019 Girls Red East,Dallas Texans,U7,f,4v4 2019s,Bracket A,GREEN,11,10,2026-04-25,,yes
 283774,Tyler FC 15B,Tyler FC,U11,m,DS 9v9 Silver Elite,Bracket B,GREEN,48,32,2026-04-18,1456.82,yes
-407081,Tyler FC 18B,Tyler FC,U9,m,18s,Bracket A,GREEN,58,34,2026-04-25,1508.09,yes
-536481,Tyler FC 19B,Tyler FC,U8,m,7v7 18s Silver,Bracket A,GREEN,19,14,2026-04-18,1530.97,yes
 638734,Frisco Fusion 13G Red,Frisco Fusion,U13,f,11v11 Bronze,Bracket C,GREEN,21,11,2026-03-31,1470.80,yes
 148172,Southern Soccer 14B,Southern Soccer,U12,m,9v9 Bronze,Bracket A,GREEN,24,17,2026-04-18,1507.28,yes
 385932,FC Dallas Youth Pre ECNL B15,FC Dallas Youth,U11,m,9v9 Silver,Bracket A,YELLOW,9,8,2026-01-25,,yes
 204509,FC Dallas Pre ECNL B15 Raine,FC Dallas Youth,U11,m,DS 9v9 Silver Elite,Bracket A,YELLOW,12,10,2026-01-25,,yes
 96926,Coppell FC 09G Sansom,Coppell Youth SA,U17,f,HS 1,Bracket B,GREEN,14,9,2026-04-25,1468.65,yes
 625815,Dallas Surf 13G Central,Dallas Surf,U13,f,11v11 Silver,Bracket A,RED,1,1,2025-09-21,1568.93,yes
-576495,FC Dallas Youth 18G Herrera,FC Dallas Youth,U8,f,7v7 Silver,Bracket B,GREEN,33,23,2026-04-25,1505.70,yes
 625834,Dallas Surf 15G Black,Dallas Surf,U11,f,9v9 Bronze II,Bracket B,GREEN,12,11,2026-04-17,1438.06,yes
 121665,Bravos Academy 10B (Garcia),FC JUAREZ DALLAS,U17,m,DS Silver,Bracket A,YELLOW,8,8,2026-04-13,,yes
 116698,Dallas Legacy 08B Arroyo,Dallas Legacy,U18,m,DS 08-09,Bracket A,GREEN,33,24,2026-04-18,1596.91,yes
 116701,Dallas Legacy 09G Arroyo,Dallas Legacy,U17,f,HS 1,Bracket B,GREEN,11,6,2026-03-28,1440.62,yes
-656517,Sting B19 Guess,Sting Soccer Club,U7,m,Silver 4v4,Bracket A,GREEN,14,8,2026-05-02,,yes
 111354,Steel United TX MSA 08G Elite,Steel United Texas,U19,f,Gold,Bracket B,YELLOW,9,8,2026-05-09,,yes
-444455,Coppell FC 16B Williams White,Coppell Youth SA,U10,m,9v9 Bronze II Crossover,Bracket C,GREEN,18,15,2026-04-11,,yes
 500576,Dallas Surf 14G East Wave,Dallas Surf,U12,f,9v9 Bronze II,Bracket A,MISSING,0,0,,,no
 336332,GLASA Hulk Smash 15B,GLASA,U11,m,,,YELLOW,7,7,2025-12-07,1486.57,yes
 77208,TAG 09B Black,TAG Soccer,U17,m,Bracket B,Bracket A,YELLOW,9,6,2026-04-20,,yes
@@ -502,7 +286,6 @@ team_id,team_name,club,event_age,gender,division,bracket,coverage,games_365,dist
 261335,FC Dallas Youth Pre ECNL B14 Bailey,FC Dallas Youth,U13,m,11v11 Silver 14s,Bracket B,RED,0,0,,,yes
 131542,IRVING TEXAS HEAT 14 GR,Irving Soccer Association,U12,f,,,YELLOW,6,4,2025-11-23,,yes
 631113,Solar SW 14B Gallegos PreECNL,Solar SC,U13,m,11v11 Silver 14s,Bracket B,YELLOW,14,12,2026-01-18,,yes
-526884,Legacy United FC 17B,Legacy United FC,U9,m,7v7 Bronze Crossover,Bracket A,YELLOW,7,7,2026-04-25,1458.77,yes
 489179,Legacy United FC 14B - Juarez,Legacy United FC,U12,m,9v9 Bronze,Bracket B,GREEN,16,10,2026-04-16,1581.68,yes
 130687,Legacy United FC 13B,Legacy United FC,U13,m,11v11 Bronze II,Bracket A,GREEN,11,8,2026-03-25,1538.51,yes
 521491,Atlético Dallas youth NPL NTX 12B HERNANDEZ-WTX,Atletico Dallas Youth,U15,m,DS Bronze,Bracket B,RED,3,3,2025-08-30,,yes
