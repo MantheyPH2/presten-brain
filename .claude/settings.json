@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /Users/p/Documents/Obsidian\\ Vault && git add -A && git diff --cached --quiet || (git commit -m \"auto-commit $(date +%Y-%m-%d-%H%M)\" && git push) 2>/dev/null; true"
+          }
+        ]
+      }
+    ]
+  }
+}
