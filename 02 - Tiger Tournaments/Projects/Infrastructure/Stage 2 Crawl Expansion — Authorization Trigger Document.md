@@ -2,10 +2,11 @@
 title: Stage 2 Crawl Expansion — Authorization Trigger Document
 tags: [infrastructure, gotsport, stage2, crawl-expansion, authorization, evo-draw, forge]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-04-29
 author: FORGE
-status: template — fill after May 1 first run and 3-day monitoring window (target: May 5)
+status: pre-populated-pending-may4-actuals
 task: task-2026-04-26-stage2-authorization-trigger-document
+pre_population_date: 2026-04-29
 ---
 
 # Stage 2 Crawl Expansion — Authorization Trigger Document
