@@ -22,51 +22,51 @@ status: ready-for-scheduler
 
 **Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Coppell FC 11B Gee Grey | Coppell Youth SA | Torres Gee |
-| 2 | Toros FC 2011/2012 Neon | El Paso Premier League | Jose Aleman |
-| 3 | Fever United 11B Jacobo | Fever United | Julio Jacobo-Martinez |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Coppell FC 11B Gee Grey | Coppell Youth SA | Torres Gee | — | rating |
+| 2 | Toros FC 2011/2012 Neon | El Paso Premier League | Jose Aleman | — | rating |
+| 3 | Fever United 11B Jacobo | Fever United | Julio Jacobo-Martinez | — | rating |
 
 **Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Rayados MOrtega 11/12 | Laredo Youth Soccer Assn | Roberto Rojas |
-| 2 | Solar 11B Volkan NPLNTX | Solar SC | Kasim Ozcomert |
-| 3 | Atlético Dallas youth NPL NTX 12B HERNANDEZ-WTX | Atletico Dallas Youth | Victor Hernandez |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Rayados MOrtega 11/12 | Laredo Youth Soccer Assn | Roberto Rojas | — | rating |
+| 2 | Solar 11B Volkan NPLNTX | Solar SC | Kasim Ozcomert | — | rating |
+| 3 | Atlético Dallas youth NPL NTX 12B HERNANDEZ-WTX | Atletico Dallas Youth | Victor Hernandez | — | rating |
 
 ### DS Silver
 
 **Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Solar ECNL RL-NTX 11B Red | Solar SC | Roland Ackmann |
-| 2 | FC Dallas El Paso 2011 | El Paso Premier League | Juan Medina |
-| 3 | Texas Spurs FC 11B | Texas Spurs | Nazeem Bartman |
-| 4 | Villarreal NTX 11B Yellow Vargas | Villarreal NTX | Jesus Vargas |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Solar ECNL RL-NTX 11B Red | Solar SC | Roland Ackmann | — | rating |
+| 2 | FC Dallas El Paso 2011 | El Paso Premier League | Juan Medina | — | rating |
+| 3 | Texas Spurs FC 11B | Texas Spurs | Nazeem Bartman | — | rating |
+| 4 | Villarreal NTX 11B Yellow Vargas | Villarreal NTX | Jesus Vargas | — | rating |
 
 **Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Avanti SA White NPL NTX B11 | Avanti Soccer Academy | John Roland |
-| 2 | NTX United FC 2011B Paice | NTX United FC | Malcolm Paice |
-| 3 | FC Strikers 11B | Strikers FC( Texas) | Barry Ferran |
-| 4 | Shiloh FC 11B | Shiloh FC | Clinton Hollingworth |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Avanti SA White NPL NTX B11 | Avanti Soccer Academy | John Roland | — | rating |
+| 2 | NTX United FC 2011B Paice | NTX United FC | Malcolm Paice | — | rating |
+| 3 | FC Strikers 11B | Strikers FC( Texas) | Barry Ferran | — | rating |
+| 4 | Shiloh FC 11B | Shiloh FC | Clinton Hollingworth | — | rating |
 
 ### DS Silver Elite
 
 **Bracket A** _(5 teams)_ — Round robin (4 games each), then semifinals, then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Lions Futbol Club 2011B | Lions Futbol Club | MARIO Hurley-Zuniga |
-| 2 | TEXAS UNITED AC 11B ALDAMA | Texas United AC | Carlos Aldama |
-| 3 | Texoma FC 2011 Boys Red | Texoma Football Club | Leopoldo Guerrero |
-| 4 | DKSC 11B RODRIGUEZ ETX | DKSC | Arturo Rodriguez |
-| 5 | Fever United 11B Yellow | Fever United | Constance Smith |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | TEXAS UNITED AC 11B ALDAMA | Texas United AC | Carlos Aldama | 1W-0L-1D (3-2) | H2H |
+| 2 | Lions Futbol Club 2011B | Lions Futbol Club | MARIO Hurley-Zuniga | 0W-1L-1D (2-3) | H2H |
+| 3 | Texoma FC 2011 Boys Red | Texoma Football Club | Leopoldo Guerrero | — | rating |
+| 4 | DKSC 11B RODRIGUEZ ETX | DKSC | Arturo Rodriguez | — | rating |
+| 5 | Fever United 11B Yellow | Fever United | Constance Smith | — | rating |
 
 ## U15 Girls _(10 teams)_
 
@@ -74,30 +74,30 @@ status: ready-for-scheduler
 
 **Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Dallas Surf 11G Black | Dallas Surf | Kenneth Spinks |
-| 2 | Solar 11G Richardson RL NTX | Solar SC | Gilbert Richardson |
-| 3 | BVB 11G Black East (Contreras) | BVB International Academy Texas | Jose Contreras |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Dallas Surf 11G Black | Dallas Surf | Kenneth Spinks | 1W-0L-1D (3-2) | H2H |
+| 2 | BVB 11G Black East (Contreras) | BVB International Academy Texas | Jose Contreras | 0W-1L-1D (2-3) | H2H |
+| 3 | Solar 11G Richardson RL NTX | Solar SC | Gilbert Richardson | — | rating |
 
 **Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Dallas Cosmos 11G White | Dallas Cosmos Soccer Club | Juan Miranda Martinez |
-| 2 | Coppell FC 11G Morales | Coppell Youth SA | Meghan Morales |
-| 3 | FC Dallas Youth 11G White | FC Dallas Youth | Eduardo Marin |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Coppell FC 11G Morales | Coppell Youth SA | Meghan Morales | 1W-0L (4-0) | H2H |
+| 2 | Dallas Cosmos 11G White | Dallas Cosmos Soccer Club | Juan Miranda Martinez | — | rating |
+| 3 | FC Dallas Youth 11G White | FC Dallas Youth | Eduardo Marin | 0W-1L (0-4) | H2H |
 
 ### Silver Elite Crossover
 
 **Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Solar 11G Givens ECNL RL NTX | Solar SC | Markus Givens |
-| 2 | FC Dallas Youth 11G North White | FC Dallas Youth | Eduardo Marin |
-| 3 | DFW United 11G Sutherland | DFW United SC | Christopher Sutherland |
-| 4 | Solar South 11G Cameron | Solar SC | Christopher Cameron |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Solar South 11G Cameron | Solar SC | Christopher Cameron | 3W-3L-1D (10-11) | H2H |
+| 2 | DFW United 11G Sutherland | DFW United SC | Christopher Sutherland | 3W-1L (6-3) | H2H |
+| 3 | FC Dallas Youth 11G North White | FC Dallas Youth | Eduardo Marin | 2W-2L (6-5) | H2H |
+| 4 | Solar 11G Givens ECNL RL NTX | Solar SC | Markus Givens | 1W-3L-1D (6-9) | H2H |
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
@@ -219,12 +219,12 @@ Opponents played by 2+ U15 DSS teams (not attending DSS), last 24 months. Readin
 | | Dallas Surf 11G Black | 0W-0L-1D | 2-2 (2025-09-27) |
 | | FC Dallas Youth 11G White | 0W-1L | 0-2 (2025-03-01) |
 | | Solar 11G Givens ECNL RL NTX | 0W-0L-1D | 0-0 (2025-01-05) |
-| **Tyler FC 12/11G - LD** _(6 DSS teams played)_ | Solar 11G Richardson RL NTX | 0W-2L | 1-4 (2025-12-14) |
-| | BVB 11G Black East (Contreras) | 0W-2L | 0-4 (2026-03-29) |
+| **Tyler FC 12/11G - LD** _(6 DSS teams played)_ | BVB 11G Black East (Contreras) | 0W-2L | 0-4 (2026-03-29) |
+| | Solar 11G Richardson RL NTX | 0W-2L | 1-4 (2025-12-14) |
 | | FC Dallas Youth 11G North White | 0W-2L | 0-3 (2026-03-22) |
 | | Dallas Surf 11G Black | 0W-1L | 1-4 (2025-09-14) |
-| | Solar 11G Givens ECNL RL NTX | 0W-1L | 3-6 (2025-12-13) |
 | | DFW United 11G Sutherland | 0W-1L | 2-3 (2025-11-02) |
+| | Solar 11G Givens ECNL RL NTX | 0W-1L | 3-6 (2025-12-13) |
 | **Solar SW 11G Cancel** _(5 DSS teams played)_ | Dallas Surf 11G Black | 1W-2L-1D | 0-2 (2025-11-15) |
 | | Coppell FC 11G Morales | 0W-3L | 0-1 (2026-03-21) |
 | | Dallas Cosmos 11G White | 0W-1L | 0-3 (2025-05-10) |
@@ -235,16 +235,16 @@ Opponents played by 2+ U15 DSS teams (not attending DSS), last 24 months. Readin
 | | DFW United 11G Sutherland | 2W-0L | 2-1 (2025-11-15) |
 | | Dallas Cosmos 11G White | 0W-1L | 0-2 (2025-12-07) |
 | | FC Dallas Youth 11G North White | 1W-0L | 4-0 (2025-09-17) |
-| **Dallas Surf 2011G NL TX-N** _(5 DSS teams played)_ | FC Dallas Youth 11G North White | 0W-2L-1D | 1-2 (2026-03-25) |
-| | DFW United 11G Sutherland | 1W-2L | 1-3 (2026-03-31) |
+| **Dallas Surf 2011G NL TX-N** _(5 DSS teams played)_ | DFW United 11G Sutherland | 1W-2L | 1-3 (2026-03-31) |
+| | FC Dallas Youth 11G North White | 0W-2L-1D | 1-2 (2026-03-25) |
 | | Dallas Surf 11G Black | 0W-1L | 0-4 (2025-10-08) |
 | | BVB 11G Black East (Contreras) | 0W-1L | 0-5 (2025-10-01) |
 | | FC Dallas Youth 11G White | 0W-1L | 0-7 (2025-04-23) |
-| **Sting One ECNL RL NTX G11 Hart** _(5 DSS teams played)_ | FC Dallas Youth 11G North White | 1W-0L-1D | 2-0 (2025-05-17) |
-| | Solar South 11G Cameron | 0W-1L-1D | 1-1 (2025-11-22) |
+| **Sting One ECNL RL NTX G11 Hart** _(5 DSS teams played)_ | Solar South 11G Cameron | 0W-1L-1D | 1-1 (2025-11-22) |
+| | FC Dallas Youth 11G North White | 1W-0L-1D | 2-0 (2025-05-17) |
 | | FC Dallas Youth 11G White | 1W-0L | 1-0 (2025-02-02) |
-| | Solar 11G Givens ECNL RL NTX | 1W-0L | 2-0 (2025-11-22) |
 | | DFW United 11G Sutherland | 1W-0L | 2-0 (2025-04-02) |
+| | Solar 11G Givens ECNL RL NTX | 1W-0L | 2-0 (2025-11-22) |
 | **Falls Town FC 11B Anguiano** _(4 DSS teams played)_ | FC Strikers 11B | 1W-1L | 2-3 (2025-09-20) |
 | | Lions Futbol Club 2011B | 1W-0L-1D | 7-1 (2026-03-29) |
 | | NTX United FC 2011B Paice | 1W-0L | 8-0 (2025-09-28) |
@@ -258,8 +258,8 @@ Opponents played by 2+ U15 DSS teams (not attending DSS), last 24 months. Readin
 | | Solar ECNL RL-NTX 11B Red | 1W-0L | 2-0 (2026-03-15) |
 | | Texoma FC 2011 Boys Red | 1W-0L | 5-0 (2025-01-24) |
 | **Waco Premier F.C. Brujos** _(4 DSS teams played)_ | FC Strikers 11B | 1W-1L | 2-3 (2025-11-16) |
-| | Lions Futbol Club 2011B | 1W-0L | 5-1 (2025-10-19) |
 | | TEXAS UNITED AC 11B ALDAMA | 1W-0L | 9-1 (2025-10-04) |
+| | Lions Futbol Club 2011B | 1W-0L | 5-1 (2025-10-19) |
 | | Texoma FC 2011 Boys Red | 0W-1L | 0-5 (2026-03-28) |
 | **Chelsea East 11B Barrios** _(4 DSS teams played)_ | Texas Spurs FC 11B | 1W-2L | 1-4 (2025-08-20) |
 | | TEXAS UNITED AC 11B ALDAMA | 2W-0L-1D | 3-2 (2026-03-21) |
@@ -267,8 +267,8 @@ Opponents played by 2+ U15 DSS teams (not attending DSS), last 24 months. Readin
 | | Lions Futbol Club 2011B | 0W-1L | 0-2 (2025-05-18) |
 | **Solar Black ECNL NTX** _(4 DSS teams played)_ | Dallas Surf 11G Black | 1W-2L | 2-1 (2026-01-18) |
 | | BVB 11G Black East (Contreras) | 0W-1L | 1-2 (2025-04-26) |
-| | Solar 11G Givens ECNL RL NTX | 1W-0L | 3-0 (2025-01-04) |
 | | Solar South 11G Cameron | 1W-0L | 1-0 (2025-08-03) |
+| | Solar 11G Givens ECNL RL NTX | 1W-0L | 3-0 (2025-01-04) |
 | **FC Dallas Texoma 11G** _(4 DSS teams played)_ | FC Dallas Youth 11G White | 0W-2L | 1-5 (2026-04-11) |
 | | Dallas Surf 11G Black | 0W-1L | 0-2 (2025-11-16) |
 | | Coppell FC 11G Morales | 0W-1L | 1-2 (2025-10-19) |
@@ -287,12 +287,12 @@ Opponents played by 2+ U15 DSS teams (not attending DSS), last 24 months. Readin
 | | Coppell FC 11G Morales | 0W-1L | 2-4 (2025-10-04) |
 | **NTX Celtic 11G Gambaro** _(4 DSS teams played)_ | Coppell FC 11G Morales | 2W-0L-1D | 2-1 (2026-04-08) |
 | | FC Dallas Youth 11G White | 0W-1L | 0-2 (2025-09-24) |
-| | Solar 11G Givens ECNL RL NTX | 1W-0L | 4-0 (2025-05-24) |
 | | Solar South 11G Cameron | 1W-0L | 11-1 (2025-08-01) |
+| | Solar 11G Givens ECNL RL NTX | 1W-0L | 4-0 (2025-05-24) |
 | **Sting G11 Rey** _(4 DSS teams played)_ | FC Dallas Youth 11G North White | 0W-1L-1D | 1-2 (2025-02-15) |
 | | FC Dallas Youth 11G White | 0W-1L | 1-4 (2025-04-09) |
-| | Solar 11G Givens ECNL RL NTX | 0W-1L | 0-1 (2025-05-09) |
 | | DFW United 11G Sutherland | 1W-0L | 3-0 (2025-04-15) |
+| | Solar 11G Givens ECNL RL NTX | 0W-1L | 0-1 (2025-05-09) |
 | **FC LEGENDS UTD 11B Red** _(3 DSS teams played)_ | NTX United FC 2011B Paice | 2W-1L | 4-0 (2026-04-03) |
 | | Fever United 11B Jacobo | 3W-0L | 4-2 (2026-04-11) |
 | | Lions Futbol Club 2011B | 1W-0L | 5-1 (2025-10-05) |
@@ -348,8 +348,8 @@ Opponents played by 2+ U15 DSS teams (not attending DSS), last 24 months. Readin
 | | Coppell FC 11B Gee Grey | 0W-1L | 1-2 (2026-01-18) |
 | | Fever United 11B Jacobo | 1W-0L | 5-1 (2025-09-13) |
 | **Texas Spurs FC 11G ** _(3 DSS teams played)_ | Dallas Surf 11G Black | 1W-1L-1D | 3-0 (2025-05-10) |
-| | Dallas Cosmos 11G White | 0W-1L | 0-1 (2025-05-10) |
 | | Coppell FC 11G Morales | 0W-1L | 0-2 (2025-03-23) |
+| | Dallas Cosmos 11G White | 0W-1L | 0-1 (2025-05-10) |
 | **Animo FC 11G (Main Account)** _(3 DSS teams played)_ | Dallas Surf 11G Black | 0W-1L | 0-5 (2025-02-09) |
 | | Coppell FC 11G Morales | 0W-1L | 0-3 (2025-03-29) |
 | | DFW United 11G Sutherland | 1W-0L | 3-2 (2025-05-25) |

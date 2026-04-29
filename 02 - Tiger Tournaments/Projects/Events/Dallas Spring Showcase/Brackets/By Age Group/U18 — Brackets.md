@@ -22,12 +22,12 @@ status: ready-for-scheduler
 
 **Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Dallas Legacy 08B Arroyo | Dallas Legacy | Miguel Arroyo |
-| 2 | Premier FA 2008B Green | Premier Futbol Academy of San Antonio | Edward Gonzales |
-| 3 | Kernow Storm FC WTX B08 Lubbock | Kernow Storm FC | Daniel Cervantez |
-| 4 | Solar 08B Volkan RLNTX | Solar SC | Kasim Ozcomert |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Kernow Storm FC WTX B08 Lubbock | Kernow Storm FC | Daniel Cervantez | 1W-0L (1-0) | H2H |
+| 2 | Dallas Legacy 08B Arroyo | Dallas Legacy | Miguel Arroyo | — | rating |
+| 3 | Solar 08B Volkan RLNTX | Solar SC | Kasim Ozcomert | — | rating |
+| 4 | Premier FA 2008B Green | Premier Futbol Academy of San Antonio | Edward Gonzales | 0W-1L (0-1) | H2H |
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
@@ -67,7 +67,7 @@ Opponents played by 2+ U18 DSS teams (not attending DSS), last 24 months. Readin
 
 | Shared opponent | DSS team | Record | Last |
 |-----------------|----------|--------|------|
-| **Chelsea East 08B Elite Espinosa** _(2 DSS teams played)_ | Dallas Legacy 08B Arroyo | 1W-0L-1D | 3-2 (2026-03-22) |
-| | Kernow Storm FC WTX B08 Lubbock | 0W-1L | 1-2 (2025-05-17) |
-| **Neutral - Lions 2008 Red** _(2 DSS teams played)_ | Premier FA 2008B Green | 0W-0L-2D | 1-1 (2025-09-21) |
+| **Lions 2008 Red** _(2 DSS teams played)_ | Premier FA 2008B Green | 0W-0L-2D | 1-1 (2025-09-21) |
 | | Kernow Storm FC WTX B08 Lubbock | 0W-0L-1D | 0-0 (2025-11-15) |
+| **Chelsea East 08B Elite** _(2 DSS teams played)_ | Dallas Legacy 08B Arroyo | 1W-0L-1D | 3-2 (2026-03-22) |
+| | Kernow Storm FC WTX B08 Lubbock | 0W-1L | 1-2 (2025-05-17) |

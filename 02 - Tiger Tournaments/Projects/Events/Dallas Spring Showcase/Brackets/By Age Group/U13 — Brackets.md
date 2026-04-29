@@ -22,96 +22,96 @@ status: ready-for-scheduler
 
 **Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Sting WTX B14 Fernandez | Sting Soccer Club | Darío Fernández |
-| 2 | Coppell FC 14B Williams Red | Coppell Youth SA | George Williams |
-| 3 | Fever United 14B Mee | Fever United | Preston Mee |
-| 4 | 14B Sinnott | Evolution | Jack Havard |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | 14B Sinnott | Evolution | Jack Havard | 2W-0L (4-2) | H2H |
+| 2 | Sting WTX B14 Fernandez | Sting Soccer Club | Darío Fernández | — | rating |
+| 3 | Fever United 14B Mee | Fever United | Preston Mee | — | rating |
+| 4 | Coppell FC 14B Williams Red | Coppell Youth SA | George Williams | 0W-2L (2-4) | H2H |
 
 ### 11v11 Bronze Crossover
 
 **Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Pegasus Futbol 2013 | Pegasus Futbol | Borja Barbero Barcenilla |
-| 2 | Rayados MOrtega 2013 White | Laredo Youth Soccer Assn | Jose Montealvo |
-| 3 | Atletico Dallas Youth NPL NTX 13B GARCIA-WTX | Atletico Dallas Youth | Daniel Lopez |
-| 4 | Avanti Soccer Academy 13B Blue | Avanti Soccer Academy | Juan Lopez |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Pegasus Futbol 2013 | Pegasus Futbol | Borja Barbero Barcenilla | — | rating |
+| 2 | Rayados MOrtega 2013 White | Laredo Youth Soccer Assn | Jose Montealvo | — | rating |
+| 3 | Atletico Dallas Youth NPL NTX 13B GARCIA-WTX | Atletico Dallas Youth | Daniel Lopez | — | rating |
+| 4 | Avanti Soccer Academy 13B Blue | Avanti Soccer Academy | Juan Lopez | — | rating |
 
 **Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | StrikerZ DFW 2013B Purple | StrikerZ DFW | Antonio Ramos |
-| 2 | NTX Celtic 13B High | NTX Celtic FC | Ian High |
-| 3 | Atletico Dallas Youth 13B Reyes Central | Atletico Dallas Youth | Dominik Reyes |
-| 4 | RPSC 13B Mercado | Revolution Premier SC | Jose Rangel |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | StrikerZ DFW 2013B Purple | StrikerZ DFW | Antonio Ramos | 2W-0L (5-1) | H2H |
+| 2 | NTX Celtic 13B High | NTX Celtic FC | Ian High | — | rating |
+| 3 | RPSC 13B Mercado | Revolution Premier SC | Jose Rangel | — | rating |
+| 4 | Atletico Dallas Youth 13B Reyes Central | Atletico Dallas Youth | Dominik Reyes | 0W-2L (1-5) | H2H |
 
 ### 11v11 Bronze II
 
 **Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Legacy United FC 13B | Legacy United FC | Juan Juarez |
-| 2 | Dutch Lions 13B PSV | Dutch FC | Eleazar Villanueva |
-| 3 | Thunder United SC 13B Gold | Thunder United Soccer Club | Franck Mbemba |
-| 4 | U13 Boys Gold - GO | GFI Academy | Rudolph Lawrence |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Legacy United FC 13B | Legacy United FC | Juan Juarez | — | rating |
+| 2 | Dutch Lions 13B PSV | Dutch FC | Eleazar Villanueva | — | rating |
+| 3 | Thunder United SC 13B Gold | Thunder United Soccer Club | Franck Mbemba | — | rating |
+| 4 | U13 Boys Gold - GO | GFI Academy | Rudolph Lawrence | — | rating |
 
 **Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Dallas Surf 2013B NL TX-N | Dallas Surf | Faustino Castillo |
-| 2 | Coppell FC 13B Shirazi White | Coppell Youth SA | DAVID SHIRAZI |
-| 3 | 13B Giurgila | Evolution | Alexandru Giurgila |
-| 4 | SPD FC 13B Red | SPD FC | Alexander Haney |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Dallas Surf 2013B NL TX-N | Dallas Surf | Faustino Castillo | — | rating |
+| 2 | Coppell FC 13B Shirazi White | Coppell Youth SA | DAVID SHIRAZI | — | rating |
+| 3 | 13B Giurgila | Evolution | Alexandru Giurgila | — | rating |
+| 4 | SPD FC 13B Red | SPD FC | Alexander Haney | — | rating |
 
 ### 11v11 Gold
 
 **Bracket A** _(5 teams)_ — Round robin (4 games each), then semifinals, then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Solar ECNL RL 13B Tremblay | Solar SC | Eugene Tremblay |
-| 2 | Kernow Storm FC B13 Red River NPL H.Espinosa | Kernow Storm FC | Jenny Ochoa |
-| 3 | Pumas SC- 2013 Zam | Pumas SC NTX | GERARDO ZAMUDIO |
-| 4 | Rayados MOrtega 2013 Blue | Laredo Youth Soccer Assn | Miguel Ortega |
-| 5 | FC LEGENDS UTD 13B Red | FC LEGENDS UTD | Benson Dube |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Pumas SC- 2013 Zam | Pumas SC NTX | GERARDO ZAMUDIO | 1W-0L (3-1) | H2H |
+| 2 | Solar ECNL RL 13B Tremblay | Solar SC | Eugene Tremblay | — | rating |
+| 3 | Kernow Storm FC B13 Red River NPL H.Espinosa | Kernow Storm FC | Jenny Ochoa | — | rating |
+| 4 | Rayados MOrtega 2013 Blue | Laredo Youth Soccer Assn | Miguel Ortega | — | rating |
+| 5 | FC LEGENDS UTD 13B Red | FC LEGENDS UTD | Benson Dube | 0W-1L (1-3) | H2H |
 
 ### 11v11 Silver
 
 **Bracket A** _(5 teams)_ — Round robin (4 games each), then semifinals, then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Titan Warriors 13B | Independent Teams - NTX | Noe Segovia |
-| 2 | Avanti SA ECNL RL B13 | Avanti Soccer Academy | Juan Lopez |
-| 3 | Sting NPL NTX B13 Pitcock/C Rodriguez | Sting Soccer Club | Matthew Pitcock |
-| 4 | Texas Spurs FC 13B | Texas Spurs | Cannon Braggs |
-| 5 | FC Dallas Youth Navy ECNL RL NTX B13 | FC Dallas Youth | Justin Bailey |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Sting NPL NTX B13 Pitcock/C Rodriguez | Sting Soccer Club | Matthew Pitcock | 1W-0L (3-2) | H2H |
+| 2 | Titan Warriors 13B | Independent Teams - NTX | Noe Segovia | — | rating |
+| 3 | Avanti SA ECNL RL B13 | Avanti Soccer Academy | Juan Lopez | — | rating |
+| 4 | Texas Spurs FC 13B | Texas Spurs | Cannon Braggs | — | rating |
+| 5 | FC Dallas Youth Navy ECNL RL NTX B13 | FC Dallas Youth | Justin Bailey | 0W-1L (2-3) | H2H |
 
 ### 11v11 Silver 14s
 
 **Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Solar 14B Jenkins | Solar SC | Joseph Jenkins |
-| 2 | BVB 14B PreECNL Yellow (Suffredin) | BVB International Academy Texas | Nicholas Suffredin |
-| 3 | Olympians SC 14B Red Chadbourn | Olympians SC | Daniel Chadbourn |
-| 4 | NTX Celtic FC Pre-ECNL B14 Brice | NTX Celtic FC | Clinton Brice |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Olympians SC 14B Red Chadbourn | Olympians SC | Daniel Chadbourn | 2W-0L (4-1) | H2H |
+| 2 | Solar 14B Jenkins | Solar SC | Joseph Jenkins | 1W-1L-1D (6-5) | H2H |
+| 3 | BVB 14B PreECNL Yellow (Suffredin) | BVB International Academy Texas | Nicholas Suffredin | 0W-2L-1D (5-9) | H2H |
+| 4 | NTX Celtic FC Pre-ECNL B14 Brice | NTX Celtic FC | Clinton Brice | — | rating |
 
 **Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | NTX Celtic FC Pre-ECNL B14 Shaffer | NTX Celtic FC | Justin Shaffer |
-| 2 | OK Energy FC 14B White | Oklahoma Energy FC | Nour Bensaoud |
-| 3 | FC Dallas Youth Pre ECNL B14 Bailey | FC Dallas Youth | Ana Carolina Gurman |
-| 4 | Solar SW 14B Gallegos PreECNL | Solar SC | Israel Gallegos |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | NTX Celtic FC Pre-ECNL B14 Shaffer | NTX Celtic FC | Justin Shaffer | 0W-0L-1D (2-2) | H2H |
+| 2 | Solar SW 14B Gallegos PreECNL | Solar SC | Israel Gallegos | 0W-0L-1D (2-2) | H2H |
+| 3 | OK Energy FC 14B White | Oklahoma Energy FC | Nour Bensaoud | — | rating |
+| 4 | FC Dallas Youth Pre ECNL B14 Bailey | FC Dallas Youth | Ana Carolina Gurman | — | rating |
 
 ## U13 Girls _(19 teams)_
 
@@ -119,56 +119,56 @@ status: ready-for-scheduler
 
 **Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Kernow Storm FC G13 API Lynch | Kernow Storm FC | Wesley Lynch |
-| 2 | Dallas Surf 13G White | Dallas Surf | Ivan Flores |
-| 3 | ULETE FC 13G Chris | Ulete FC | Christopher Avila |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | ULETE FC 13G Chris | Ulete FC | Christopher Avila | 1W-0L (2-0) | H2H |
+| 2 | Kernow Storm FC G13 API Lynch | Kernow Storm FC | Wesley Lynch | — | rating |
+| 3 | Dallas Surf 13G White | Dallas Surf | Ivan Flores | 0W-1L (0-2) | H2H |
 
 **Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | NTX United FC 2014G Smith | NTX United FC | Natalie Smith |
-| 2 | Sting Attack G13 H Pantoja | Sting Soccer Club | Hector Pantoja |
-| 3 | Lioness Select 13G | Independent Teams - NTX | Jeremie Piette |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Sting Attack G13 H Pantoja | Sting Soccer Club | Hector Pantoja | 2W-0L-1D (7-1) | H2H |
+| 2 | Lioness Select 13G | Independent Teams - NTX | Jeremie Piette | 0W-0L-1D (0-0) | H2H |
+| 3 | NTX United FC 2014G Smith | NTX United FC | Natalie Smith | 0W-2L (1-7) | H2H |
 
 **Bracket C** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Frisco Fusion 13G Red | Frisco Fusion | Mouhamed Dabo |
-| 2 | Dallas Cosmos 13G Red | Dallas Cosmos Soccer Club | Juan Miranda Martinez |
-| 3 | Pegasus Futbol 2013G | Pegasus Futbol | Martin Prats |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Frisco Fusion 13G Red | Frisco Fusion | Mouhamed Dabo | — | rating |
+| 2 | Dallas Cosmos 13G Red | Dallas Cosmos Soccer Club | Juan Miranda Martinez | — | rating |
+| 3 | Pegasus Futbol 2013G | Pegasus Futbol | Martin Prats | — | rating |
 
 ### 11v11 Silver
 
 **Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Dallas Surf 13G Central | Dallas Surf | Alan Rovira |
-| 2 | Dallas Surf 2013G NL TX-N | Dallas Surf | Danielle Caro |
-| 3 | OK Energy FC 13G ECRL2 | Oklahoma Energy FC | Bryan Byars |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Dallas Surf 13G Central | Dallas Surf | Alan Rovira | — | rating |
+| 2 | Dallas Surf 2013G NL TX-N | Dallas Surf | Danielle Caro | — | rating |
+| 3 | OK Energy FC 13G ECRL2 | Oklahoma Energy FC | Bryan Byars | — | rating |
 
 **Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | FC Dallas Youth 13G North White | FC Dallas Youth | Kathy Webb |
-| 2 | FC DIVAS XIII | FCD | Jose Segovia |
-| 3 | Dallas Texans ECNL RL NTX G13 | Dallas Texans | Jon Hopkins |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | FC DIVAS XIII | FCD | Jose Segovia | 1W-1L-1D (6-3) | H2H |
+| 2 | Dallas Texans ECNL RL NTX G13 | Dallas Texans | Jon Hopkins | 1W-1L-1D (3-6) | H2H |
+| 3 | FC Dallas Youth 13G North White | FC Dallas Youth | Kathy Webb | — | rating |
 
 ### Dallas Showcase Super Group 13s
 
 **Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | BVB 13G GA | BVB International Academy Texas | Enrique Bravo |
-| 2 | Sting Royal ECNL RL NTX G13 Brave Oliver | Sting Soccer Club | Donavan Oliver |
-| 3 | FC Dallas Youth Red ECNL RL NTX G13 | FC Dallas Youth | Maria Gonzalez |
-| 4 | FC Dallas-High Plains 2013 Girls Red | FC Dallas High Plains | Bryan Chaffin |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | BVB 13G GA | BVB International Academy Texas | Enrique Bravo | — | rating |
+| 2 | Sting Royal ECNL RL NTX G13 Brave Oliver | Sting Soccer Club | Donavan Oliver | — | rating |
+| 3 | FC Dallas Youth Red ECNL RL NTX G13 | FC Dallas Youth | Maria Gonzalez | — | rating |
+| 4 | FC Dallas-High Plains 2013 Girls Red | FC Dallas High Plains | Bryan Chaffin | — | rating |
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
@@ -366,18 +366,18 @@ Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Readin
 | | SPD FC 13B Red | 0W-1L | 0-3 (2025-08-09) |
 | | Thunder United SC 13B Gold | 0W-1L | 1-6 (2025-02-16) |
 | | Titan Warriors 13B | 1W-0L | 5-1 (2025-09-06) |
+| **DKSC 13B ESQUIBEL** _(6 DSS teams played)_ | Dallas Surf 2013B NL TX-N | 0W-1L-1D | 1-2 (2026-03-28) |
+| | Sting NPL NTX B13 Pitcock/C Rodriguez | 1W-0L-1D | 0-0 (2025-11-09) |
+| | Pumas SC- 2013 Zam | 1W-0L | 8-1 (2025-08-31) |
+| | Solar ECNL RL 13B Tremblay | 0W-1L | 2-6 (2025-02-22) |
+| | Coppell FC 13B Shirazi White | 0W-0L-1D | 1-1 (2025-03-01) |
+| | SPD FC 13B Red | 0W-1L | 1-4 (2026-01-17) |
 | **BVB 13B Black East Vincent** _(6 DSS teams played)_ | StrikerZ DFW 2013B Purple | 0W-2L | 2-5 (2026-03-29) |
 | | Coppell FC 13B Shirazi White | 0W-2L | 2-6 (2025-04-26) |
 | | FC Dallas Youth Navy ECNL RL NTX B13 | 0W-2L | 0-1 (2025-08-17) |
 | | Solar ECNL RL 13B Tremblay | 1W-0L | 4-0 (2025-03-01) |
 | | Texas Spurs FC 13B | 1W-0L | 4-3 (2025-02-15) |
 | | Solar 14B Jenkins | 0W-1L | 2-6 (2025-08-08) |
-| **DKSC 13B ESQUIBEL** _(6 DSS teams played)_ | Dallas Surf 2013B NL TX-N | 0W-1L-1D | 1-2 (2026-03-28) |
-| | Sting NPL NTX B13 Pitcock/C Rodriguez | 1W-0L-1D | 0-0 (2025-11-09) |
-| | Solar ECNL RL 13B Tremblay | 0W-1L | 2-6 (2025-02-22) |
-| | Pumas SC- 2013 Zam | 1W-0L | 8-1 (2025-08-31) |
-| | Coppell FC 13B Shirazi White | 0W-0L-1D | 1-1 (2025-03-01) |
-| | SPD FC 13B Red | 0W-1L | 1-4 (2026-01-17) |
 | **Diversity FC 13B Black** _(6 DSS teams played)_ | FC LEGENDS UTD 13B Red | 1W-1L | 4-0 (2026-03-25) |
 | | StrikerZ DFW 2013B Purple | 0W-1L-1D | 3-3 (2026-03-24) |
 | | Atletico Dallas Youth 13B Reyes Central | 0W-2L | 0-3 (2026-03-21) |
@@ -390,18 +390,8 @@ Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Readin
 | | Coppell FC 13B Shirazi White | 1W-0L | 6-3 (2025-10-18) |
 | | Legacy United FC 13B | 1W-0L | 3-1 (2025-09-27) |
 | | Titan Warriors 13B | 1W-0L | 9-4 (2025-11-04) |
-| **Renegades 13B North Luna** _(5 DSS teams played)_ | Sting WTX B14 Fernandez | 0W-2L | 0-7 (2025-10-18) |
-| | Solar ECNL RL 13B Tremblay | 1W-0L | 4-2 (2025-02-01) |
-| | StrikerZ DFW 2013B Purple | 0W-0L-1D | 0-0 (2025-11-09) |
-| | Coppell FC 13B Shirazi White | 1W-0L | 2-0 (2025-02-08) |
-| | 13B Giurgila | 1W-0L | 5-3 (2025-11-08) |
-| **Juventus Premier FC 2013B Villalobos** _(5 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 1W-0L | 6-1 (2025-09-20) |
-| | NTX Celtic 13B High | 0W-1L | 0-2 (2025-04-12) |
-| | Atletico Dallas Youth 13B Reyes Central | 0W-1L | 0-4 (2025-11-15) |
-| | Coppell FC 13B Shirazi White | 0W-1L | 2-3 (2025-01-25) |
-| | Texas Spurs FC 13B | 0W-0L-1D | 1-1 (2025-11-16) |
-| **FC Dallas - Texoma 13B Pride** _(5 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 1W-0L | 5-1 (2025-05-17) |
-| | Pumas SC- 2013 Zam | 1W-0L | 5-3 (2025-09-20) |
+| **FC Dallas - Texoma 13B Pride** _(5 DSS teams played)_ | Pumas SC- 2013 Zam | 1W-0L | 5-3 (2025-09-20) |
+| | Kernow Storm FC B13 Red River NPL H.Espinosa | 1W-0L | 5-1 (2025-05-17) |
 | | Coppell FC 13B Shirazi White | 0W-0L-1D | 0-0 (2025-12-13) |
 | | 13B Giurgila | 0W-0L-1D | 1-1 (2025-12-13) |
 | | Solar 14B Jenkins | 0W-0L-1D | 3-3 (2025-03-02) |
@@ -415,6 +405,16 @@ Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Readin
 | | SPD FC 13B Red | 0W-1L | 1-3 (2025-09-13) |
 | | Titan Warriors 13B | 1W-0L | 5-3 (2025-08-10) |
 | | Texas Spurs FC 13B | 1W-0L | 3-0 (2025-11-23) |
+| **Renegades 13B North Luna** _(5 DSS teams played)_ | Sting WTX B14 Fernandez | 0W-2L | 0-7 (2025-10-18) |
+| | Solar ECNL RL 13B Tremblay | 1W-0L | 4-2 (2025-02-01) |
+| | StrikerZ DFW 2013B Purple | 0W-0L-1D | 0-0 (2025-11-09) |
+| | Coppell FC 13B Shirazi White | 1W-0L | 2-0 (2025-02-08) |
+| | 13B Giurgila | 1W-0L | 5-3 (2025-11-08) |
+| **Juventus Premier FC 2013B Villalobos** _(5 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 1W-0L | 6-1 (2025-09-20) |
+| | NTX Celtic 13B High | 0W-1L | 0-2 (2025-04-12) |
+| | Atletico Dallas Youth 13B Reyes Central | 0W-1L | 0-4 (2025-11-15) |
+| | Coppell FC 13B Shirazi White | 0W-1L | 2-3 (2025-01-25) |
+| | Texas Spurs FC 13B | 0W-0L-1D | 1-1 (2025-11-16) |
 | **SPD FC 13B Black** _(5 DSS teams played)_ | FC LEGENDS UTD 13B Red | 1W-1L | 0-2 (2026-02-28) |
 | | StrikerZ DFW 2013B Purple | 1W-0L-1D | 2-0 (2026-02-21) |
 | | Atletico Dallas Youth 13B Reyes Central | 0W-2L | 1-3 (2026-02-24) |
@@ -465,16 +465,11 @@ Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Readin
 | | Dallas Surf 13G White | 0W-1L | 1-3 (2026-02-07) |
 | | Sting Royal ECNL RL NTX G13 Brave Oliver | 1W-0L | 9-0 (2026-03-30) |
 | | FC Dallas Youth Red ECNL RL NTX G13 | 0W-0L-1D | 0-0 (2025-05-09) |
-| **Frisco Fusion 13G White** _(5 DSS teams played)_ | FC DIVAS XIII | 2W-0L | 5-1 (2026-03-21) |
+| **Frisco Fusion 13G NPL NTX Blue** _(5 DSS teams played)_ | FC DIVAS XIII | 2W-0L | 5-1 (2026-03-21) |
 | | Sting Attack G13 H Pantoja | 1W-0L-1D | 2-0 (2026-02-22) |
 | | FC Dallas Youth 13G North White | 1W-0L | 3-0 (2025-03-25) |
 | | ULETE FC 13G Chris | 0W-1L | 0-2 (2025-11-12) |
 | | Lioness Select 13G | 1W-0L | 4-1 (2026-02-08) |
-| **Sting G13 Hubbard** _(5 DSS teams played)_ | FC Dallas Youth 13G North White | 1W-0L | 3-0 (2025-02-08) |
-| | FC DIVAS XIII | 1W-0L | 3-2 (2025-11-08) |
-| | ULETE FC 13G Chris | 1W-0L | 3-1 (2026-02-24) |
-| | Sting Attack G13 H Pantoja | 1W-0L | 9-0 (2025-09-07) |
-| | Lioness Select 13G | 1W-0L | 3-1 (2026-04-11) |
 | **LC United 13G Evans** _(5 DSS teams played)_ | FC DIVAS XIII | 2W-0L-1D | 3-3 (2025-05-10) |
 | | Kernow Storm FC G13 API Lynch | 1W-1L | 1-2 (2025-01-26) |
 | | Sting Attack G13 H Pantoja | 1W-1L | 2-0 (2025-11-09) |
@@ -482,9 +477,14 @@ Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Readin
 | | Lioness Select 13G | 0W-0L-1D | 2-2 (2025-10-18) |
 | **Sting G13 E Rodriguez 100** _(5 DSS teams played)_ | Sting Attack G13 H Pantoja | 2W-0L-1D | 3-2 (2026-03-28) |
 | | FC DIVAS XIII | 0W-1L-1D | 1-1 (2025-11-01) |
-| | Dallas Surf 13G White | 0W-0L-1D | 2-2 (2025-11-22) |
 | | ULETE FC 13G Chris | 0W-1L | 1-4 (2026-02-22) |
+| | Dallas Surf 13G White | 0W-0L-1D | 2-2 (2025-11-22) |
 | | Lioness Select 13G | 0W-0L-1D | 2-2 (2025-08-23) |
+| **Sting G13 Hubbard** _(5 DSS teams played)_ | FC DIVAS XIII | 1W-0L | 3-2 (2025-11-08) |
+| | FC Dallas Youth 13G North White | 1W-0L | 3-0 (2025-02-08) |
+| | ULETE FC 13G Chris | 1W-0L | 3-1 (2026-02-24) |
+| | Sting Attack G13 H Pantoja | 1W-0L | 9-0 (2025-09-07) |
+| | Lioness Select 13G | 1W-0L | 3-1 (2026-04-11) |
 | **Sting G13 McNeal** _(5 DSS teams played)_ | Dallas Surf 13G White | 1W-0L-1D | 1-0 (2026-02-08) |
 | | FC DIVAS XIII | 1W-0L | 2-1 (2025-10-18) |
 | | ULETE FC 13G Chris | 0W-1L | 0-1 (2026-03-01) |
@@ -500,6 +500,14 @@ Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Readin
 | | ULETE FC 13G Chris | 0W-1L | 0-1 (2025-08-27) |
 | | Sting Attack G13 H Pantoja | 1W-0L | 1-0 (2026-02-08) |
 | | Lioness Select 13G | 1W-0L | 3-0 (2026-04-01) |
+| **Fire FC 14B Lopez** _(4 DSS teams played)_ | Olympians SC 14B Red Chadbourn | 1W-1L | 1-2 (2025-11-22) |
+| | Pumas SC- 2013 Zam | 1W-0L | 1-0 (2025-03-01) |
+| | BVB 14B PreECNL Yellow (Suffredin) | 0W-1L | 3-4 (2025-05-09) |
+| | NTX Celtic FC Pre-ECNL B14 Shaffer | 1W-0L | 2-1 (2025-11-23) |
+| **Dallas Texans 2013 Boys Red Dallas ** _(4 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 2W-1L | 0-6 (2025-08-24) |
+| | Pumas SC- 2013 Zam | 0W-2L | 0-2 (2025-05-11) |
+| | Texas Spurs FC 13B | 0W-2L | 0-4 (2026-04-05) |
+| | Rayados MOrtega 2013 Blue | 0W-0L-1D | 0-0 (2025-08-16) |
 | **DKSC 13B SINAR** _(4 DSS teams played)_ | Solar ECNL RL 13B Tremblay | 0W-1L | 0-3 (2025-04-26) |
 | | RPSC 13B Mercado | 0W-0L-1D | 1-1 (2025-05-23) |
 | | Avanti Soccer Academy 13B Blue | 0W-1L | 0-5 (2026-02-04) |
@@ -520,14 +528,6 @@ Opponents played by 2+ U13 DSS teams (not attending DSS), last 24 months. Readin
 | | Atletico Dallas Youth 13B Reyes Central | 0W-1L | 0-2 (2025-05-24) |
 | | 13B Giurgila | 0W-1L | 3-6 (2025-02-15) |
 | | Dutch Lions 13B PSV | 0W-1L | 0-4 (2025-04-16) |
-| **Dallas Texans Red ECNL RL NTX B13** _(4 DSS teams played)_ | Kernow Storm FC B13 Red River NPL H.Espinosa | 2W-1L | 0-6 (2025-08-24) |
-| | Pumas SC- 2013 Zam | 0W-2L | 0-2 (2025-05-11) |
-| | Texas Spurs FC 13B | 0W-2L | 0-4 (2026-04-05) |
-| | Rayados MOrtega 2013 Blue | 0W-0L-1D | 0-0 (2025-08-16) |
-| **Fire FC 14B Lopez** _(4 DSS teams played)_ | Olympians SC 14B Red Chadbourn | 1W-1L | 1-2 (2025-11-22) |
-| | Pumas SC- 2013 Zam | 1W-0L | 1-0 (2025-03-01) |
-| | BVB 14B PreECNL Yellow (Suffredin) | 0W-1L | 3-4 (2025-05-09) |
-| | NTX Celtic FC Pre-ECNL B14 Shaffer | 1W-0L | 2-1 (2025-11-23) |
 | **Animo FC 13B Flores (prev: Dutch Lions Ajax)** _(4 DSS teams played)_ | FC LEGENDS UTD 13B Red | 0W-1L | 2-8 (2025-02-02) |
 | | RPSC 13B Mercado | 0W-1L | 1-9 (2025-08-09) |
 | | Avanti Soccer Academy 13B Blue | 0W-1L | 1-4 (2025-09-24) |

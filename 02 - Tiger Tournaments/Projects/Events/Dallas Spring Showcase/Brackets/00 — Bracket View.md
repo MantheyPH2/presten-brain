@@ -50,9 +50,9 @@ _No past meetings between these teams in the last 24 months._
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | NTX Celtic 15B Strange South | NTX Celtic FC | 1476 | GREEN |  |
-| 2 | Thunder United SC 15B Red | Thunder United Soccer Club | 1474 | GREEN |  |
-| 3 | U11 Boys Gold - GO | GFI Academy | 1421 | GREEN |  |
+| 1 | Thunder United SC 15B Red | Thunder United Soccer Club | 1474 | GREEN |  |
+| 2 | U11 Boys Gold - GO | GFI Academy | 1421 | GREEN |  |
+| 3 | NTX Celtic 15B Strange South | NTX Celtic FC | 1476 | GREEN |  |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -64,11 +64,11 @@ _No past meetings between these teams in the last 24 months._
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Wise United FC - 2015 / 2016 | 1W-0L (last 6-0) | 1W-0L (last 10-2) | — |
-|  SPAIN FW All Stars 15B | 1W-1L (last 3-2) | 2W-0L (last 3-2) | — |
-| Texas Premier SC 15B | 0W-1L (last 0-4) | 1W-0L (last 3-1) | — |
+| FW All Stars 2015 Montes  | 2W-0L (last 3-2) | — | 1W-1L (last 3-2) |
+| Texas Premier SC 15B | 1W-0L (last 3-1) | — | 0W-1L (last 0-4) |
+| Wise United FC - 2015 / 2016 | 1W-0L (last 10-2) | — | 1W-0L (last 6-0) |
 
-_Legend:_ **S1** = NTX Celtic 15B Strange South · **S2** = Thunder United SC 15B Red · **S3** = U11 Boys Gold - GO
+_Legend:_ **S1** = Thunder United SC 15B Red · **S2** = U11 Boys Gold - GO · **S3** = NTX Celtic 15B Strange South
 
 #### 9v9 Bronze — Bracket B _(3 teams)_
 
@@ -189,8 +189,8 @@ _Legend:_ **S1** = Dallas Cosmos 15B Black · **S2** = TAG Pre ECNL 15B Gold Eas
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | FCD ETX Palestine 15/16B | FC Dallas ETX | 1534 | GREEN | ⬆ → Silver II |
-| 2 | BVB 15B PreECNL White (DeSousa) | BVB International Academy Texas | 1503 | GREEN |  |
+| 1 | BVB 15B PreECNL White (DeSousa) | BVB International Academy Texas | 1503 | GREEN |  |
+| 2 | FCD ETX Palestine 15/16B | FC Dallas ETX | 1534 | GREEN | ⬆ → Silver II |
 | 3 | Texas Warriors FC 15B Salas | Texas Warriors FC | 1487 | GREEN | ⬇ → 9v9 Bronze II |
 
 **Past meetings _(1 games, last 24 months)_:**
@@ -203,11 +203,11 @@ _Legend:_ **S1** = Dallas Cosmos 15B Black · **S2** = TAG Pre ECNL 15B Gold Eas
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| FC Dallas Youth 15B Central Blue | 1W-0L (last 5-0) | — | 0W-1L (last 2-3) |
-| Evolution 15B McGregor | — | 0W-1L (last 0-1) | 1W-1L (last 1-0) |
-| MP Elite 15B | — | 0W-0L-1D (last 2-2) | 0W-1L (last 1-3) |
+| Evolution 15B McGregor | 0W-1L (last 0-1) | — | 1W-1L (last 1-0) |
+| MP Elite 15B | 0W-0L-1D (last 2-2) | — | 0W-1L (last 1-3) |
+| FC Dallas Youth 15B Central Blue | — | 1W-0L (last 5-0) | 0W-1L (last 2-3) |
 
-_Legend:_ **S1** = FCD ETX Palestine 15/16B · **S2** = BVB 15B PreECNL White (DeSousa) · **S3** = Texas Warriors FC 15B Salas
+_Legend:_ **S1** = BVB 15B PreECNL White (DeSousa) · **S2** = FCD ETX Palestine 15/16B · **S3** = Texas Warriors FC 15B Salas
 
 #### 9v9 Silver — Bracket C _(3 teams)_
 
@@ -235,9 +235,9 @@ _Legend:_ **S1** = Dallas Surf 15B Black · **S2** = Atletico Dallas Youth 15B B
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Sting Pre ECNL B16 Lucero | Sting Soccer Club | 1601 | GREEN | ⬆ → 9v9 DS Gold |
-| 2 | BVB 15B PreECNL Elite (Klassen) | BVB International Academy Texas | 1558 | GREEN |  |
-| 3 | FC Dallas Pre ECNL B15 Raine | FC Dallas Youth | — | YELLOW | ? uncertain |
+| 1 | BVB 15B PreECNL Elite (Klassen) | BVB International Academy Texas | 1558 | GREEN |  |
+| 2 | FC Dallas Pre ECNL B15 Raine | FC Dallas Youth | — | YELLOW | ? uncertain |
+| 3 | Sting Pre ECNL B16 Lucero | Sting Soccer Club | 1601 | GREEN | ⬆ → 9v9 DS Gold |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -249,13 +249,13 @@ _Legend:_ **S1** = Dallas Surf 15B Black · **S2** = Atletico Dallas Youth 15B B
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| TAG Pre ECNL 15B Gold East 62 | 1W-0L (last 2-1) | 1W-0L (last 2-0) | — |
-| Waco United 2015B Elite 39 | 1W-0L (last 3-2) | 1W-0L (last 4-3) | — |
-| AYSES 15B Gold | — | 1W-0L (last 3-0) | 0W-0L-1D (last 4-4) |
-| Dallas Hornets 15B Alpha Pre-MLS | — | 1W-0L (last 2-1) | 1W-0L (last 4-0) |
-| Dallas Texans Pre ECNL B15 Juliao | — | 1W-0L (last 3-1) | 0W-0L-1D (last 0-0) |
+| AYSES 15B Gold | 1W-0L (last 3-0) | 0W-0L-1D (last 4-4) | — |
+| Dallas Hornets 15B Alpha Pre-MLS | 1W-0L (last 2-1) | 1W-0L (last 4-0) | — |
+| Waco United 2015B Elite 39 | 1W-0L (last 4-3) | — | 1W-0L (last 3-2) |
+| TAG Pre ECNL 15B Gold East 62 | 1W-0L (last 2-0) | — | 1W-0L (last 2-1) |
+| Dallas Texans Pre ECNL B15 Juliao | 1W-0L (last 3-1) | 0W-0L-1D (last 0-0) | — |
 
-_Legend:_ **S1** = Sting Pre ECNL B16 Lucero · **S2** = BVB 15B PreECNL Elite (Klassen) · **S3** = FC Dallas Pre ECNL B15 Raine
+_Legend:_ **S1** = BVB 15B PreECNL Elite (Klassen) · **S2** = FC Dallas Pre ECNL B15 Raine · **S3** = Sting Pre ECNL B16 Lucero
 
 #### DS 9v9 Silver Elite — Bracket B _(3 teams)_
 
@@ -347,10 +347,10 @@ _No past meetings between these teams in the last 24 months._
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | The Hive | The Hive | 1544 | GREEN | ⬆ → 9v9 Bronze II |
-| 2 | Revolution Premier SC 15G | Revolution Premier SC | 1462 | GREEN |  |
+| 1 | Atletico Dallas Youth 15G Williams | Atletico Dallas Youth | 1461 | GREEN |  |
+| 2 | The Hive | The Hive | 1544 | GREEN | ⬆ → 9v9 Bronze II |
 | 3 | FC Dallas High Plains 2015 Girls Blue | FC Dallas High Plains | 1462 | GREEN |  |
-| 4 | Atletico Dallas Youth 15G Williams | Atletico Dallas Youth | 1461 | GREEN |  |
+| 4 | Revolution Premier SC 15G | Revolution Premier SC | 1462 | GREEN |  |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -362,34 +362,34 @@ _No past meetings between these teams in the last 24 months._
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Dallas Surf 15G White 125 | 0W-1L (last 1-2) | 1W-0L (last 2-1) | — | 1W-0L (last 1-0) |
-| Southside Juventus 15G | 1W-0L-1D (last 4-2) | — | 1W-0L (last 2-1) | 0W-1L (last 0-3) |
-| Dallas Surf 15G Central | 1W-1L (last 2-3) | 1W-0L (last 1-0) | — | 1W-0L (last 4-0) |
-| Sharks 16G - Mayer | 1W-0L (last 10-1) | 1W-0L (last 6-0) | — | — |
-| Athens Futbol Club - 15G Gonzalez 217 | 1W-0L (last 7-3) | — | 1W-0L (last 4-0) | — |
-| FC Dallas Youth 15G North White | — | 0W-1L (last 0-4) | — | 1W-0L (last 3-1) |
-| Coppell FC 15G Campanella White 125 | — | 2W-0L (last 4-1) | — | 2W-0L (last 1-0) |
-| Dallas Cosmos 15G White 150 | — | 1W-1L (last 4-0) | — | 1W-0L (last 1-0) |
-| 15G Moon | — | 0W-0L-2D (last 1-1) | — | 0W-1L-1D (last 2-3) |
-| Falls Town FC 15G | — | 1W-1L (last 2-1) | — | 1W-0L-1D (last 2-0) |
-| Dallas Texans 2015 Girls FW | — | 0W-3L (last 1-4) | — | 0W-1L (last 0-3) |
-| Dallas Legacy 15G Arroyo | — | 0W-1L (last 2-5) | — | 2W-0L (last 4-2) |
-| Texas Warriors FC 15G | — | 1W-0L (last 9-0) | — | 1W-0L (last 6-2) |
-| Atletico Dallas Youth Blue Pre ECNL G15 Blanton | — | 1W-0L-1D (last 3-0) | — | 1W-0L (last 4-0) |
-| Atletico Dallas Youth 15G Welge | — | 0W-1L (last 2-5) | — | 0W-1L (last 0-6) |
+| Juventus 15G | 0W-1L (last 0-3) | 1W-0L-1D (last 4-2) | 1W-0L (last 2-1) | — |
+| Dallas Surf 15G White | 1W-0L (last 1-0) | 0W-1L (last 1-2) | — | 1W-0L (last 2-1) |
+| Dallas Surf 15G Central | 1W-0L (last 4-0) | 1W-1L (last 2-3) | — | 1W-0L (last 1-0) |
+| Texas Warriors FC 15G | 1W-0L (last 6-2) | — | — | 1W-0L (last 9-0) |
+| Texas Warriors FC 15G - Salas | 0W-1L (last 3-7) | — | — | 1W-0L-1D (last 1-1) |
+| Coppell FC 15G Campanella White 179 | 2W-0L (last 1-0) | — | — | 2W-0L (last 4-1) |
+| Dallas Texans 2015 Girls FW | 0W-1L (last 0-3) | — | — | 0W-3L (last 1-4) |
+| Dallas Cosmos 15G White | 1W-0L (last 1-0) | — | — | 1W-1L (last 4-0) |
+| Falls Town FC 15G - LD | 1W-0L-1D (last 2-0) | — | — | 1W-1L (last 2-1) |
+| Dallas Surf 15G Black | 1W-0L (last 3-0) | — | — | 1W-0L (last 3-1) |
+| FC Dallas Youth 15G North White | 1W-0L (last 3-1) | — | — | 0W-1L (last 0-4) |
+| Atletico Dallas Youth 15G Welge | 0W-1L (last 0-6) | — | — | 0W-1L (last 2-5) |
+| Atletico Dallas Youth Blue Pre ECNL G15 Blanton | 1W-0L (last 4-0) | — | — | 1W-0L-1D (last 3-0) |
+| Dallas Legacy 15G Arroyo | 2W-0L (last 4-2) | — | — | 0W-1L (last 2-5) |
+| FC Dallas Youth 15G Navy | 0W-0L-1D (last 1-1) | — | — | 0W-1L-1D (last 1-4) |
 
 _4 more shared opponents not shown._
 
-_Legend:_ **S1** = The Hive · **S2** = Revolution Premier SC 15G · **S3** = FC Dallas High Plains 2015 Girls Blue · **S4** = Atletico Dallas Youth 15G Williams
+_Legend:_ **S1** = Atletico Dallas Youth 15G Williams · **S2** = The Hive · **S3** = FC Dallas High Plains 2015 Girls Blue · **S4** = Revolution Premier SC 15G
 
 #### 9v9 Bronze — Bracket B _(4 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Sting WTX G15 Fernandez | Sting Soccer Club | 1485 | GREEN |  |
-| 2 | Dallas Legacy 15G Arroyo | Dallas Legacy | 1461 | GREEN |  |
-| 3 | Dallas Cosmos 15G White | Dallas Cosmos Soccer Club | 1435 | GREEN |  |
-| 4 | FC Dallas Youth Pre-ECNL 15G Avant West | FC Dallas Youth | — | RED | ? uncertain |
+| 1 | Dallas Legacy 15G Arroyo | Dallas Legacy | 1461 | GREEN |  |
+| 2 | Sting WTX G15 Fernandez | Sting Soccer Club | 1485 | GREEN |  |
+| 3 | FC Dallas Youth Pre-ECNL 15G Avant West | FC Dallas Youth | — | RED | ? uncertain |
+| 4 | Dallas Cosmos 15G White | Dallas Cosmos Soccer Club | 1435 | GREEN |  |
 
 **Past meetings _(2 games, last 24 months)_:**
 
@@ -402,29 +402,29 @@ _Legend:_ **S1** = The Hive · **S2** = Revolution Premier SC 15G · **S3** = FC
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Atletico Dallas Youth Blue Pre ECNL G15 Blanton | 0W-0L-1D (last 3-3) | 1W-1L (last 4-0) | 0W-1L (last 1-2) | — |
-| Southside Juventus 15G | 0W-0L-1D (last 1-1) | 0W-0L-1D (last 1-1) | — | — |
-| Warren Park Dragons 2015 Girls | 0W-1L (last 4-5) | 0W-0L-1D (last 2-2) | — | — |
-| Dallas Surf 15G Central | 0W-2L-1D (last 0-5) | 0W-2L (last 0-5) | — | — |
-| FC Dallas Youth 15G Marin 81 | — | 2W-1L-1D (last 2-2) | 0W-2L (last 1-6) | — |
-| Solar East 16G Campos White | — | 0W-0L-1D (last 2-2) | 0W-0L-1D (last 3-3) | — |
-| Coppell FC 15G Campanella White | — | 1W-0L (last 6-1) | 1W-2L (last 2-0) | — |
-| Revolution Premier SC 15G | — | 1W-0L (last 5-2) | 1W-1L (last 0-4) | — |
-| FC Dallas Youth 15G Navy | — | 0W-0L-1D (last 3-3) | 0W-1L (last 0-7) | — |
-| Atletico Dallas Youth 15G Welge | — | 1W-0L (last 6-2) | 0W-1L (last 0-2) | — |
-| Atletico Dallas Youth 15G Williams | — | 0W-2L (last 2-4) | 0W-1L (last 0-1) | — |
-| Avanti SA 15G West | — | — | 0W-0L-1D (last 5-5) | 1W-0L (last 16-0) |
+| Atletico Dallas Youth Blue Pre ECNL G15 Blanton | 1W-1L (last 4-0) | 0W-0L-1D (last 3-3) | — | 0W-1L (last 1-2) |
+| FC Dallas Youth 15G Marin 81 | 2W-1L-1D (last 2-2) | — | — | 0W-2L (last 1-6) |
+| Warren Park Dragons 2015 Girls | 0W-0L-1D (last 2-2) | 0W-1L (last 4-5) | — | — |
+| Solar East 16G Campos White | 0W-0L-1D (last 2-2) | — | — | 0W-0L-1D (last 3-3) |
+| Dallas Surf 15G Central | 0W-2L (last 0-5) | 0W-2L-1D (last 0-5) | — | — |
+| Coppell FC 15G Campanella White | 1W-0L (last 6-1) | — | — | 1W-2L (last 2-0) |
+| Revolution Premier SC 15G | 1W-0L (last 5-2) | — | — | 1W-1L (last 0-4) |
+| FC Dallas Youth 15G Navy | 0W-0L-1D (last 3-3) | — | — | 0W-1L (last 0-7) |
+| Atletico Dallas Youth 15G Welge | 1W-0L (last 6-2) | — | — | 0W-1L (last 0-2) |
+| Atletico Dallas Youth 15G Williams | 0W-2L (last 2-4) | — | — | 0W-1L (last 0-1) |
+| Juventus 15G | 0W-0L-1D (last 1-1) | 0W-0L-1D (last 1-1) | — | — |
+| Avanti SA 15G West | — | — | 1W-0L (last 16-0) | 0W-0L-1D (last 5-5) |
 
-_Legend:_ **S1** = Sting WTX G15 Fernandez · **S2** = Dallas Legacy 15G Arroyo · **S3** = Dallas Cosmos 15G White · **S4** = FC Dallas Youth Pre-ECNL 15G Avant West
+_Legend:_ **S1** = Dallas Legacy 15G Arroyo · **S2** = Sting WTX G15 Fernandez · **S3** = FC Dallas Youth Pre-ECNL 15G Avant West · **S4** = Dallas Cosmos 15G White
 
 #### 9v9 Bronze II — Bracket A _(4 teams)_
 
-| Seed | Team                            | Club                            | Rating | Coverage | Flag           |
-| ---- | ------------------------------- | ------------------------------- | ------ | -------- | -------------- |
-| 1    | BVB 15G Yellow (Ibrahimpasic)   | BVB International Academy Texas | 1504   | GREEN    | ⬆ → 9v9 Silver |
-| 2    | Fortress FC 15G                 | Fortress FC                     | 1454   | GREEN    | ⬇ → 9v9 Bronze |
-| 3    | Coppell FC 15G Campanella White | Coppell Youth SA                | 1423   | GREEN    | ⬇ → 9v9 Bronze |
-| 4    | Dallas Deportivo F.C. 15        | Dallas Deportivo FC             | —      | MISSING  |                |
+| Seed | Team | Club | Rating | Coverage | Flag |
+|------|------|------|--------|----------|------|
+| 1 | Coppell FC 15G Campanella White | Coppell Youth SA | 1423 | GREEN | ⬇ → 9v9 Bronze |
+| 2 | Fortress FC 15G | Fortress FC | 1454 | GREEN | ⬇ → 9v9 Bronze |
+| 3 | Dallas Deportivo F.C. 15 | Dallas Deportivo FC | — | MISSING |  |
+| 4 | BVB 15G Yellow (Ibrahimpasic) | BVB International Academy Texas | 1504 | GREEN | ⬆ → 9v9 Silver |
 
 **Past meetings _(2 games, last 24 months)_:**
 
@@ -437,25 +437,25 @@ _Legend:_ **S1** = Sting WTX G15 Fernandez · **S2** = Dallas Legacy 15G Arroyo 
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Dallas Surf 15G White | 0W-1L (last 0-5) | 0W-0L-1D (last 2-2) | 0W-2L (last 0-4) | — |
-| FC Hurst United 15G | 1W-1L (last 1-2) | 1W-1L (last 2-3) | — | — |
-| CMS- Thundercats 15G | 1W-0L (last 2-1) | — | 0W-1L (last 1-3) | — |
-| 15G Green | 0W-1L (last 0-1) | — | 1W-0L (last 2-0) | — |
-| Dallas Surf 15G Central | — | 0W-0L-1D (last 0-0) | 1W-0L (last 3-1) | — |
-| Dallas Texans 2015 Girls FW | — | 0W-2L (last 0-5) | 0W-1L (last 1-5) | — |
-| Dallas Cosmos 15G White | — | 1W-0L (last 5-1) | 2W-1L (last 0-2) | — |
-| Texas Warriors FC 15G | — | 0W-0L-1D (last 4-4) | 1W-0L (last 2-1) | — |
-| Atletico Dallas Youth 15G Welge | — | 0W-1L (last 1-4) | 0W-2L (last 1-9) | — |
-| FC Dallas Youth 15G North White | — | 0W-2L (last 3-6) | 0W-1L (last 2-5) | — |
-| Texas Warriors FC 15G - Salas | — | 0W-1L (last 0-5) | 0W-1L (last 1-3) | — |
-| Falls Town FC 15G - LD | — | 2W-0L (last 3-0) | 1W-0L (last 1-0) | — |
-| Atletico Dallas Youth 15G Moreno | — | 1W-0L (last 3-0) | 0W-0L-1D (last 2-2) | — |
-| Revolution Premier SC 15G | — | 0W-1L (last 1-2) | 0W-2L (last 1-4) | — |
-| 15G Moon | — | 0W-1L (last 1-3) | 0W-2L (last 2-10) | — |
+| Dallas Surf 15G White | 0W-2L (last 0-4) | 0W-0L-1D (last 2-2) | — | 0W-1L (last 0-5) |
+| Revolution Premier SC 15G 149 | 0W-2L (last 1-4) | 0W-1L (last 1-2) | — | — |
+| Dallas Cosmos 15G White | 2W-1L (last 0-2) | 1W-0L (last 5-1) | — | — |
+| 903FC - 15G Silos | 0W-1L (last 1-3) | — | — | 1W-0L (last 2-1) |
+| 15G Moon | 0W-2L (last 2-10) | 0W-1L (last 1-3) | — | — |
+| FW All Stars FC 2015 G | 0W-1L (last 1-6) | 0W-1L (last 3-6) | — | — |
+| Renegades 15G Welge | 0W-2L (last 1-9) | 0W-1L (last 1-4) | — | — |
+| Dallas Surf 15G Black 167 | 0W-0L-2D (last 3-3) | 0W-0L-1D (last 1-1) | — | — |
+| FC Dallas Youth 15G North White | 0W-1L (last 2-5) | 0W-2L (last 3-6) | — | — |
+| Dallas Surf 15G Central | 1W-0L (last 3-1) | 0W-0L-1D (last 0-0) | — | — |
+| Atletico Dallas Youth 15G Moreno | 0W-0L-1D (last 2-2) | 1W-0L (last 3-0) | — | — |
+| Texas Warriors FC 15G | 1W-0L (last 2-1) | 0W-0L-1D (last 4-4) | — | — |
+| Falls Town FC 15G - LD | 1W-0L (last 1-0) | 2W-0L (last 3-0) | — | — |
+| Dallas Texans 2015 Girls FW | 0W-1L (last 1-5) | 0W-2L (last 0-5) | — | — |
+| Atletico Dallas Youth Blue Pre ECNL G15 Blanton | 0W-1L (last 0-2) | 0W-1L (last 0-3) | — | — |
 
 _3 more shared opponents not shown._
 
-_Legend:_ **S1** = BVB 15G Yellow (Ibrahimpasic) · **S2** = Fortress FC 15G · **S3** = Coppell FC 15G Campanella White · **S4** = Dallas Deportivo F.C. 15
+_Legend:_ **S1** = Coppell FC 15G Campanella White · **S2** = Fortress FC 15G · **S3** = Dallas Deportivo F.C. 15 · **S4** = BVB 15G Yellow (Ibrahimpasic)
 
 #### 9v9 Bronze II — Bracket B _(4 teams)_
 
@@ -481,9 +481,9 @@ _Legend:_ **S1** = Frisco Fusion 15G Blue · **S2** = Dallas Surf 15G Black · *
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Solar North 16G | Solar SC | 1602 | YELLOW |  |
-| 2 | FC Dallas High Plains 2015 Girls Red | FC Dallas High Plains | 1590 | GREEN |  |
-| 3 | Solar South 16G Adames | Solar SC | 1586 | GREEN |  |
+| 1 | FC Dallas High Plains 2015 Girls Red | FC Dallas High Plains | 1590 | GREEN |  |
+| 2 | Solar South 16G Adames | Solar SC | 1586 | GREEN |  |
+| 3 | Solar North 16G | Solar SC | 1602 | YELLOW |  |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -495,11 +495,11 @@ _Legend:_ **S1** = Frisco Fusion 15G Blue · **S2** = Dallas Surf 15G Black · *
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Sting Pre-ECNL G15 Rey | 1W-0L (last 3-0) | — | 1W-0L (last 2-0) |
-| Solar 15G Mabry | — | 0W-1L (last 1-4) | 2W-1L (last 5-0) |
-| Texas Warriors FC 15G - Salas | — | 1W-0L (last 5-1) | 2W-0L (last 4-0) |
+| Solar 15G Mabry | 0W-1L (last 1-4) | 2W-1L (last 5-0) | — |
+| Texas Warriors FC 15G - Salas | 1W-0L (last 5-1) | 2W-0L (last 4-0) | — |
+| Sting Pre-ECNL G15 Rey | — | 1W-0L (last 2-0) | 1W-0L (last 3-0) |
 
-_Legend:_ **S1** = Solar North 16G · **S2** = FC Dallas High Plains 2015 Girls Red · **S3** = Solar South 16G Adames
+_Legend:_ **S1** = FC Dallas High Plains 2015 Girls Red · **S2** = Solar South 16G Adames · **S3** = Solar North 16G
 
 #### 9v9 DS Gold — Bracket B _(2 teams)_
 
@@ -540,9 +540,9 @@ _Legend:_ **S1** = ULETE FC 15G Andre · **S2** = Atletico Dallas Youth 15G Welg
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | FC Dallas Youth 15G North White | FC Dallas Youth | 1510 | GREEN |  |
+| 1 | Solar Pre ECNL G15 Naizer | Solar SC | 1468 | GREEN | ⬇ → 9v9 Bronze II |
 | 2 | North Texas Elite 2015G Pina | North Texas Elite SC | 1488 | GREEN | ⬇ → 9v9 Bronze II |
-| 3 | Solar Pre ECNL G15 Naizer | Solar SC | 1468 | GREEN | ⬇ → 9v9 Bronze II |
+| 3 | FC Dallas Youth 15G North White | FC Dallas Youth | 1510 | GREEN |  |
 
 **Past meetings _(2 games, last 24 months)_:**
 
@@ -555,25 +555,25 @@ _Legend:_ **S1** = ULETE FC 15G Andre · **S2** = Atletico Dallas Youth 15G Welg
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Sting Pre-ECNL G15 Hadwick Brave | 1W-1L (last 1-0) | 2W-0L (last 4-2) | — |
-| Sting Pre-ECNL G15 M Lara | 0W-3L (last 4-5) | 1W-0L (last 1-0) | — |
-| ULETE FC 15G Andre | 0W-1L (last 0-6) | 0W-1L (last 0-2) | — |
-| DKSC Pre-ECNL G15 Esquivel | 1W-0L (last 4-1) | 1W-0L (last 2-1) | — |
-| Sting G15 Powell | 1W-0L (last 5-1) | 2W-0L (last 4-0) | — |
-| Villarreal NTX 2015G | 1W-0L (last 2-1) | 2W-0L (last 2-1) | — |
-| Texas Warriors FC 15G - Salas | 0W-2L (last 3-5) | 1W-1L (last 2-1) | — |
-| BVB 15G Black (Kaasa)  | 1W-0L (last 2-1) | 1W-1L (last 4-0) | — |
-| STG Squad 2016G  | 0W-1L (last 2-4) | 1W-0L (last 2-0) | — |
-| 15G Moon | 1W-0L (last 3-2) | 1W-0L (last 3-1) | — |
-| Solar East 16G Campos White | 1W-0L (last 2-1) | 1W-0L (last 1-0) | — |
-| Royals El Paso Girls 2015 | 0W-1L (last 2-4) | 0W-1L (last 1-5) | — |
-| Dallas Surf 15G Caro | 1W-0L (last 3-2) | 0W-3L (last 0-2) | — |
-| FC DALLAS HIGH PLAINS 2015G RED | 1W-0L (last 3-1) | 0W-1L (last 0-3) | — |
-| Reign SC 15G | — | 0W-4L (last 0-4) | 0W-2L (last 0-2) |
+| FC Dallas Youth 15G Blue | 1W-1L (last 2-0) | 1W-1L (last 0-1) | — |
+| Solar South 16G Adames | 0W-3L (last 0-7) | 0W-1L (last 2-4) | — |
+| Solar South 15 Adames Red | 0W-1L (last 0-5) | 0W-1L (last 0-3) | — |
+| REIGN SC 15G II | 0W-2L (last 0-2) | 0W-4L (last 0-4) | — |
+| Sting G15 T Powell | — | 2W-0L (last 4-0) | 1W-0L (last 5-1) |
+| DKSC Pre-ECNL G15 Esquivel | — | 1W-0L (last 2-1) | 1W-0L (last 4-1) |
+| Texas Warriors FC 15G - Salas | — | 1W-1L (last 2-1) | 0W-2L (last 3-5) |
+| BVB 15G Black (Kaasa)  | — | 1W-1L (last 4-0) | 1W-0L (last 2-1) |
+| Villarreal NTX 2015G | — | 2W-0L (last 2-1) | 1W-0L (last 2-1) |
+| 15G Moon | — | 1W-0L (last 3-1) | 1W-0L (last 3-2) |
+| Sting Pre-ECNL G15 Richardson Brave | — | 2W-0L (last 4-2) | 1W-1L (last 1-0) |
+| ULETE FC 15G Andre | — | 0W-1L (last 0-2) | 0W-1L (last 0-6) |
+| FC DALLAS HIGH PLAINS 2015G RED | — | 0W-1L (last 0-3) | 1W-0L (last 3-1) |
+| STG Squad 2016G  | — | 1W-0L (last 2-0) | 0W-1L (last 2-4) |
+| Dallas Surf 15G North | — | 0W-3L (last 0-2) | 1W-0L (last 3-2) |
 
 _3 more shared opponents not shown._
 
-_Legend:_ **S1** = FC Dallas Youth 15G North White · **S2** = North Texas Elite 2015G Pina · **S3** = Solar Pre ECNL G15 Naizer
+_Legend:_ **S1** = Solar Pre ECNL G15 Naizer · **S2** = North Texas Elite 2015G Pina · **S3** = FC Dallas Youth 15G North White
 
 #### 9v9 Silver — Bracket B _(3 teams)_
 
@@ -607,9 +607,9 @@ _Legend:_ **S1** = Dallas Surf 15G North · **S2** = 15G Moon · **S3** = FC Dal
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | BVB 15G Black (Oldham) | BVB International Academy Texas | 1514 | GREEN |  |
-| 2 | FC Dallas Youth 15G Navy | FC Dallas Youth | 1513 | GREEN |  |
-| 3 | Texas Warriors FC 15G - Salas | Texas Warriors FC | 1501 | GREEN |  |
+| 1 | FC Dallas Youth 15G Navy | FC Dallas Youth | 1513 | GREEN |  |
+| 2 | Texas Warriors FC 15G - Salas | Texas Warriors FC | 1501 | GREEN |  |
+| 3 | BVB 15G Black (Oldham) | BVB International Academy Texas | 1514 | GREEN |  |
 
 **Past meetings _(3 games, last 24 months)_:**
 
@@ -623,19 +623,19 @@ _Legend:_ **S1** = Dallas Surf 15G North · **S2** = 15G Moon · **S3** = FC Dal
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| FC Dallas Youth 15G Marin | 0W-1L (last 1-2) | 1W-1L (last 2-3) | 2W-0L (last 5-3) |
-| Revolution Premier SC 15G 145 | 0W-1L (last 1-2) | 1W-0L-1D (last 4-1) | 0W-1L-1D (last 1-1) |
-| North Texas Elite 2015G Pina  | 1W-1L (last 0-4) | — | 1W-1L (last 1-2) |
-| Dallas Cosmos 15G White | 2W-0L (last 2-0) | 1W-0L (last 7-0) | — |
-| GT United Academy Girls 15 | 0W-0L-1D (last 0-0) | 1W-0L (last 4-0) | — |
-| Dallas Surf 15G Central | 1W-0L (last 1-0) | 1W-0L (last 4-0) | — |
-| ULETE FC 15G Andre | 0W-1L (last 0-4) | — | 0W-1L (last 1-3) |
-| Dallas Legacy 15G Arroyo | — | 0W-0L-1D (last 3-3) | 1W-0L (last 4-0) |
-| Atletico Dallas Youth 15G Williams | — | 0W-0L-1D (last 1-1) | 1W-0L (last 7-3) |
-| Atletico Dallas Youth 15G Welge | — | 0W-1L (last 1-3) | 0W-1L (last 4-6) |
-| Fortress FC 15G - LD | — | 1W-0L (last 5-1) | 1W-0L (last 5-0) |
+| FC Dallas Youth 15G North White | 1W-1L (last 2-3) | 2W-0L (last 5-3) | 0W-1L (last 1-2) |
+| Revolution Premier SC 15G | 1W-0L-1D (last 4-1) | 0W-1L-1D (last 1-1) | 0W-1L (last 1-2) |
+| Dallas Legacy 15G Arroyo | 0W-0L-1D (last 3-3) | 1W-0L (last 4-0) | — |
+| Dallas Surf 15G Central | 1W-0L (last 4-0) | — | 1W-0L (last 1-0) |
+| Atletico Dallas Youth 15G Williams | 0W-0L-1D (last 1-1) | 1W-0L (last 7-3) | — |
+| Atletico Dallas Youth 15G Welge | 0W-1L (last 1-3) | 0W-1L (last 4-6) | — |
+| Dallas Cosmos 15G White | 1W-0L (last 7-0) | — | 2W-0L (last 2-0) |
+| Fortress FC 15G - LD | 1W-0L (last 5-1) | 1W-0L (last 5-0) | — |
+| GT United Academy Girls 15 | 1W-0L (last 4-0) | — | 0W-0L-1D (last 0-0) |
+| North Texas Elite 2015G Pina | — | 1W-1L (last 1-2) | 1W-1L (last 0-4) |
+| ULETE FC 15G Andre 22 | — | 0W-1L (last 1-3) | 0W-1L (last 0-4) |
 
-_Legend:_ **S1** = BVB 15G Black (Oldham) · **S2** = FC Dallas Youth 15G Navy · **S3** = Texas Warriors FC 15G - Salas
+_Legend:_ **S1** = FC Dallas Youth 15G Navy · **S2** = Texas Warriors FC 15G - Salas · **S3** = BVB 15G Black (Oldham)
 
 ---
 
@@ -699,10 +699,10 @@ _Legend:_ **S1** = Texas LoneStars 14B · **S2** = Bulverde YSA Relentless SC '1
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | BVB 14B Black East (Fritz) | BVB International Academy Texas | 1551 | GREEN |  |
-| 2 | Dutch Lions 14B Sparta | Dutch FC | 1505 | GREEN |  |
-| 3 | Coppell FC 14B Gee White | Coppell Youth SA | — | GREEN | ? uncertain |
-| 4 | GLASA Thunderbirds 14B | GLASA | — | RED | ? uncertain |
+| 1 | Dutch Lions 14B Sparta | Dutch FC | 1505 | GREEN |  |
+| 2 | Coppell FC 14B Gee White | Coppell Youth SA | — | GREEN | ? uncertain |
+| 3 | GLASA Thunderbirds 14B | GLASA | — | RED | ? uncertain |
+| 4 | BVB 14B Black East (Fritz) | BVB International Academy Texas | 1551 | GREEN |  |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -714,16 +714,16 @@ _Legend:_ **S1** = Texas LoneStars 14B · **S2** = Bulverde YSA Relentless SC '1
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| North Texas Storm FC 14B | 2W-0L (last 11-0) | 1W-0L (last 13-0) | — | — |
-| Dallas Hornets 14B Pre-MLS - Castro (prev MLS Next JNRS) | 1W-0L (last 2-0) | 1W-0L (last 6-1) | — | — |
-| Rose City Chaos FC - Mendez 14B | 0W-1L (last 0-3) | 0W-2L (last 1-9) | — | — |
-| Solar 14B Reni Castro | 1W-0L (last 2-1) | 0W-1L (last 2-5) | — | — |
-| Texoma FC 2014 Boys White Melissa | 2W-0L (last 6-1) | 1W-0L (last 7-5) | — | — |
-| Solar White 14B Jaime | 0W-2L (last 2-10) | 0W-1L (last 4-5) | — | — |
-| World Sport FC 14B | 1W-0L (last 3-2) | 1W-0L (last 8-4) | — | — |
-| Vyper Academy 14B - Bolivar | 0W-1L (last 4-5) | 0W-0L-1D (last 3-3) | — | — |
+| Solar White 14B Jaime | 0W-1L (last 4-5) | — | — | 0W-2L (last 2-10) |
+| North Texas Storm FC 14B | 1W-0L (last 13-0) | — | — | 2W-0L (last 11-0) |
+| Dallas Hornets 14B Pre-MLS - Castro (prev MLS Next JNRS) | 1W-0L (last 6-1) | — | — | 1W-0L (last 2-0) |
+| Solar 14B Reni Castro | 0W-1L (last 2-5) | — | — | 1W-0L (last 2-1) |
+| Vyper Academy 14B - Bolivar | 0W-0L-1D (last 3-3) | — | — | 0W-1L (last 4-5) |
+| Rose City Chaos FC - Mendez 14B | 0W-2L (last 1-9) | — | — | 0W-1L (last 0-3) |
+| Texoma FC 2014 Boys White Melissa | 1W-0L (last 7-5) | — | — | 2W-0L (last 6-1) |
+| World Sport FC 14B | 1W-0L (last 8-4) | — | — | 1W-0L (last 3-2) |
 
-_Legend:_ **S1** = BVB 14B Black East (Fritz) · **S2** = Dutch Lions 14B Sparta · **S3** = Coppell FC 14B Gee White · **S4** = GLASA Thunderbirds 14B
+_Legend:_ **S1** = Dutch Lions 14B Sparta · **S2** = Coppell FC 14B Gee White · **S3** = GLASA Thunderbirds 14B · **S4** = BVB 14B Black East (Fritz)
 
 #### 9v9 Bronze II — Bracket B _(4 teams)_
 
@@ -751,11 +751,11 @@ _Legend:_ **S1** = Atletico Dallas Youth 14B Welge · **S2** = FC Forney 2014B �
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Texas Premier SC U12 | Texas Premier SC | 1537 | YELLOW | ⬆ → 9v9 Bronze |
-| 2 | Barça Academy Austin 14B Red | Legends FC - San Antonio | 1491 | GREEN | ⬆ → 9v9 Bronze |
-| 3 | Solar West 15B Garcia.S PreECNL | Solar SC | 1469 | GREEN |  |
+| 1 | Juventus Premier FC 14B Cantu | Juventus Premier Futbol Club | 1456 | GREEN |  |
+| 2 | Texas Premier SC U12 | Texas Premier SC | 1537 | YELLOW | ⬆ → 9v9 Bronze |
+| 3 | Barça Academy Austin 14B Red | Legends FC - San Antonio | 1491 | GREEN | ⬆ → 9v9 Bronze |
 | 4 | Southside Soccer 14B Black | Southside Soccer | 1465 | GREEN |  |
-| 5 | Juventus Premier FC 14B Cantu | Juventus Premier Futbol Club | 1456 | GREEN |  |
+| 5 | Solar West 15B Garcia.S PreECNL | Solar SC | 1469 | GREEN |  |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -767,12 +767,12 @@ _Legend:_ **S1** = Atletico Dallas Youth 14B Welge · **S2** = FC Forney 2014B �
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| Juventus Premier FC 15B Sikora | — | — | 1W-0L (last 2-1) | 0W-1L (last 2-3) | — |
-| Texas Lightning 15 Boys TX2 - Christe | — | — | 0W-1L (last 1-3) | — | 1W-0L (last 3-0) |
-| Outkast FC Brownwood 15B | — | — | 0W-1L (last 0-3) | — | 0W-1L (last 1-2) |
-| Kernow Storm FC B15 Pre-ECNL Bradford | — | — | 0W-1L (last 1-2) | — | 1W-0L (last 2-0) |
+| Texas Lightning 15B Black Christe | 1W-0L (last 3-0) | — | — | — | 0W-1L (last 1-3) |
+| Outkast FC Brownwood 15B | 0W-1L (last 1-2) | — | — | — | 0W-1L (last 0-3) |
+| Kernow Storm FC B15 Pre-ECNL Bradford | 1W-0L (last 2-0) | — | — | — | 0W-1L (last 1-2) |
+| Juventus Premier FC 14/15B Cantu | — | — | — | 0W-1L (last 2-3) | 1W-0L (last 2-1) |
 
-_Legend:_ **S1** = Texas Premier SC U12 · **S2** = Barça Academy Austin 14B Red · **S3** = Solar West 15B Garcia.S PreECNL · **S4** = Southside Soccer 14B Black · **S5** = Juventus Premier FC 14B Cantu
+_Legend:_ **S1** = Juventus Premier FC 14B Cantu · **S2** = Texas Premier SC U12 · **S3** = Barça Academy Austin 14B Red · **S4** = Southside Soccer 14B Black · **S5** = Solar West 15B Garcia.S PreECNL
 
 ### U12 Girls
 
@@ -788,11 +788,11 @@ _No past meetings between these teams in the last 24 months._
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Amarillo Rush 14G | Amarillo Rush SC | 1570 | GREEN | ⬆ → 11v11 Silver |
-| 2 | Solar 14G Tremblay Gold | Solar SC | 1486 | GREEN |  |
-| 3 | FC Dallas Youth 14G West | FC Dallas Youth | 1463 | YELLOW | ⬇ → 9v9 Bronze |
-| 4 | 14G McGregor | Evolution | 1462 | GREEN | ⬇ → 9v9 Bronze |
-| 5 | Dutch Lionesses 14G AJAX | Dutch FC | — | YELLOW | ? uncertain |
+| 1 | FC Dallas Youth 14G West | FC Dallas Youth | 1463 | YELLOW | ⬇ → 9v9 Bronze |
+| 2 | Amarillo Rush 14G | Amarillo Rush SC | 1570 | GREEN | ⬆ → 11v11 Silver |
+| 3 | Solar 14G Tremblay Gold | Solar SC | 1486 | GREEN |  |
+| 4 | Dutch Lionesses 14G AJAX | Dutch FC | — | YELLOW | ? uncertain |
+| 5 | 14G McGregor | Evolution | 1462 | GREEN | ⬇ → 9v9 Bronze |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -804,28 +804,28 @@ _No past meetings between these teams in the last 24 months._
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| PAYD FC 14G | 0W-1L (last 0-2) | — | — | — | 0W-1L (last 0-6) |
-| FC Dallas Youth 14G Black | 0W-0L-1D (last 2-2) | — | — | 0W-0L-1D (last 2-2) | — |
-| Solar South 14G Dickerson | 0W-1L (last 3-6) | — | — | 0W-1L (last 0-7) | — |
-| Dallas Surf 14G White | — | 0W-0L-1D (last 2-2) | — | 0W-1L (last 0-1) | — |
-| StrikerZ DFW 2014G Purple | — | 1W-1L-1D (last 0-1) | — | — | 0W-1L (last 2-3) |
-| FC Dallas Youth Pre ECNL G14 McAnally | — | 0W-2L (last 0-6) | — | 0W-1L (last 0-3) | — |
-| Revolution Premier SC 14G Blue | — | 0W-1L (last 0-1) | — | 0W-0L-1D (last 1-1) | — |
-| Panthers 14G | — | 0W-1L (last 0-6) | — | 1W-1L-1D (last 4-1) | — |
-| Sting G14 T Powell | — | — | 1W-0L (last 3-1) | 0W-1L (last 0-1) | — |
-| FC Dallas Youth 14G Gold | — | — | — | 1W-0L (last 2-0) | 0W-1L (last 0-2) |
+| Sting G14 T Powell | 1W-0L (last 3-1) | — | — | — | 0W-1L (last 0-1) |
+| PAYD FC 14G | — | 0W-1L (last 0-2) | — | 0W-1L (last 0-6) | — |
+| FC Dallas Youth 14G Black | — | 0W-0L-1D (last 2-2) | — | — | 0W-0L-1D (last 2-2) |
+| Solar South 14G Dickerson | — | 0W-1L (last 3-6) | — | — | 0W-1L (last 0-7) |
+| Dallas Surf 14G White | — | — | 0W-0L-1D (last 2-2) | — | 0W-1L (last 0-1) |
+| StrikerZ DFW 2014G Purple | — | — | 1W-1L-1D (last 0-1) | 0W-1L (last 2-3) | — |
+| FC Dallas Youth Pre ECNL G14 McAnally | — | — | 0W-2L (last 0-6) | — | 0W-1L (last 0-3) |
+| Revolution Premier SC 14G Blue | — | — | 0W-1L (last 0-1) | — | 0W-0L-1D (last 1-1) |
+| Panthers 14G | — | — | 0W-1L (last 0-6) | — | 1W-1L-1D (last 4-1) |
+| FC Dallas Youth 14G Gold | — | — | — | 0W-1L (last 0-2) | 1W-0L (last 2-0) |
 
-_Legend:_ **S1** = Amarillo Rush 14G · **S2** = Solar 14G Tremblay Gold · **S3** = FC Dallas Youth 14G West · **S4** = 14G McGregor · **S5** = Dutch Lionesses 14G AJAX
+_Legend:_ **S1** = FC Dallas Youth 14G West · **S2** = Amarillo Rush 14G · **S3** = Solar 14G Tremblay Gold · **S4** = Dutch Lionesses 14G AJAX · **S5** = 14G McGregor
 
 #### 11v11 DS Gold — Bracket A _(5 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Sting WTX G14 Jimenez | Sting Soccer Club | 1645 | GREEN |  |
-| 2 | Sting Pre-ECNL G14 H Martinez | Sting Soccer Club | 1631 | GREEN |  |
-| 3 | Solar South 15G Adames | Solar SC | 1551 | GREEN |  |
-| 4 | Sting Pre-ECNL G14 Kovacevic | Sting Soccer Club | 1540 | GREEN |  |
-| 5 | Dallas Hornets 15G (Prev Alpha) | Dallas Hornets | — | GREEN | ? uncertain |
+| 1 | Solar South 15G Adames | Solar SC | 1551 | GREEN |  |
+| 2 | Dallas Hornets 15G (Prev Alpha) | Dallas Hornets | — | GREEN | ? uncertain |
+| 3 | Sting Pre-ECNL G14 H Martinez | Sting Soccer Club | 1631 | GREEN |  |
+| 4 | Sting WTX G14 Jimenez | Sting Soccer Club | 1645 | GREEN |  |
+| 5 | Sting Pre-ECNL G14 Kovacevic | Sting Soccer Club | 1540 | GREEN |  |
 
 **Past meetings _(6 games, last 24 months)_:**
 
@@ -842,35 +842,35 @@ _Legend:_ **S1** = Amarillo Rush 14G · **S2** = Solar 14G Tremblay Gold · **S3
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| Dallas Surf 14G East Navy | 0W-1L (last 1-2) | 1W-0L (last 2-0) | 1W-0L (last 2-0) | — | — |
-| DKSC Pre ECNL G15 CHAVEZ 4 | — | 2W-0L-1D (last 2-2) | 1W-0L-1D (last 1-0) | — | 1W-1L (last 1-5) |
-| Dallas Surf 14G White | 1W-0L (last 5-1) | — | — | 1W-0L (last 1-0) | — |
-| FC Dallas ETX 2014G | 3W-0L (last 3-2) | 1W-0L (last 4-1) | — | — | — |
-| 903 FC - 14G Silos | 2W-0L (last 5-0) | — | — | 1W-0L (last 5-0) | — |
-| Sting Pre-ECNL G14 Asher | 0W-1L (last 0-4) | — | — | 0W-1L (last 0-3) | — |
-| Juventus Premier FC 14G Black Cantu | — | 1W-0L (last 8-0) | — | 2W-0L (last 4-1) | — |
-| FC Dallas Youth Pre ECNL G14 Garcia | — | 1W-0L (last 6-1) | — | 0W-0L-1D (last 2-2) | — |
-| Coppell FC 14G Carr | — | 1W-0L (last 7-0) | 1W-0L (last 6-0) | — | — |
-| Solar East 14G Campos | — | 1W-0L (last 3-0) | 1W-0L (last 2-0) | — | — |
-| PAYD FC 14G 34 | — | 2W-0L (last 3-1) | — | 0W-0L-1D (last 0-0) | — |
-| Sting G13 Robles - NL | — | 2W-0L (last 4-2) | — | 0W-1L (last 1-6) | — |
-| Solar 14G Maloney | — | 3W-0L (last 2-1) | — | 1W-0L (last 2-1) | — |
-| HTX 14 City Select 1 | — | 0W-2L (last 1-3) | — | 0W-1L (last 0-4) | — |
-| FC Dallas Youth 15G Webb | — | — | 3W-0L (last 7-0) | — | 1W-0L (last 3-0) |
+| DKSC Pre ECNL G15 Chavez | 1W-0L-1D (last 1-0) | 1W-1L (last 1-5) | 2W-0L-1D (last 2-2) | — | — |
+| Dallas Surf 14G East Laredo | 1W-0L (last 2-0) | — | 1W-0L (last 2-0) | 0W-1L (last 1-2) | — |
+| FC Dallas Youth 15G Webb | 3W-0L (last 7-0) | 1W-0L (last 3-0) | — | — | — |
+| Sting Pre-ECNL G15 Prokof | 1W-1L-1D (last 2-0) | 2W-0L-1D (last 4-1) | — | — | — |
+| NTX Celtic 14G Bravo South | 1W-0L (last 2-0) | — | — | — | 1W-0L (last 2-1) |
+| Coppell FC 14G Carr | 1W-0L (last 6-0) | — | 1W-0L (last 7-0) | — | — |
+| Oklahoma Celtic G15 North | 2W-0L (last 8-0) | 2W-0L (last 3-0) | — | — | — |
+| Dutch Lionesses 15G Ajax | 1W-0L (last 4-1) | 2W-0L (last 3-1) | — | — | — |
+| DKSC 15G Zaldivar ETX | 3W-2L (last 7-3) | 1W-1L-1D (last 3-4) | — | — | — |
+| FC Dallas Youth Pre ECNL G15 Lovegrove | 1W-1L-1D (last 2-1) | 1W-2L (last 1-2) | — | — | — |
+| Sting Pre-ECNL G15 Lomax | 0W-3L (last 1-2) | 2W-1L (last 2-1) | — | — | — |
+| Solar 15G Bates Red | 0W-2L (last 3-4) | 2W-1L (last 4-3) | — | — | — |
+| Rayos 15G Villanueva | 2W-0L (last 7-0) | 1W-0L (last 1-0) | — | — | — |
+| Royals El Paso Girls 2015 | 1W-0L (last 4-2) | 1W-0L (last 4-2) | — | — | — |
+| Dallas Surf 15G North | 1W-0L (last 5-0) | 1W-0L (last 5-0) | — | — | — |
 
 _14 more shared opponents not shown._
 
-_Legend:_ **S1** = Sting WTX G14 Jimenez · **S2** = Sting Pre-ECNL G14 H Martinez · **S3** = Solar South 15G Adames · **S4** = Sting Pre-ECNL G14 Kovacevic · **S5** = Dallas Hornets 15G (Prev Alpha)
+_Legend:_ **S1** = Solar South 15G Adames · **S2** = Dallas Hornets 15G (Prev Alpha) · **S3** = Sting Pre-ECNL G14 H Martinez · **S4** = Sting WTX G14 Jimenez · **S5** = Sting Pre-ECNL G14 Kovacevic
 
 #### 11v11 Silver — Bracket A _(5 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Juventus Premier FC 14G Black Cantu | Juventus Premier Futbol Club | 1524 | YELLOW | ⬆ → 9v9 Bronze II |
-| 2 | Dallas Surf 14G White | Dallas Surf | 1500 | GREEN |  |
+| 1 | Dallas Surf 14G White | Dallas Surf | 1500 | GREEN |  |
+| 2 | Juventus Premier FC 14G Black Cantu | Juventus Premier Futbol Club | 1524 | YELLOW | ⬆ → 9v9 Bronze II |
 | 3 | Dallas Surf 14G East Silver | Dallas Surf | 1487 | GREEN |  |
-| 4 | Atletico Dallas Youth Pre ECNL G15- Perez | Atletico Dallas Youth | 1464 | GREEN | ⬇ → 11v11 Bronze |
-| 5 | BVB 14G East (Brown) | BVB International Academy Texas | — | GREEN | ? uncertain |
+| 4 | BVB 14G East (Brown) | BVB International Academy Texas | — | GREEN | ? uncertain |
+| 5 | Atletico Dallas Youth Pre ECNL G15- Perez | Atletico Dallas Youth | 1464 | GREEN | ⬇ → 11v11 Bronze |
 
 **Past meetings _(2 games, last 24 months)_:**
 
@@ -883,25 +883,25 @@ _Legend:_ **S1** = Sting WTX G14 Jimenez · **S2** = Sting Pre-ECNL G14 H Martin
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| NTX Celtic 14G McCallum | 0W-1L-1D (last 0-0) | 0W-1L (last 0-2) | 0W-1L (last 0-2) | — | — |
-| Sting G14 Fuentes | 0W-1L (last 0-1) | — | 1W-0L (last 2-0) | — | 1W-0L (last 2-1) |
-| Sting Pre-ECNL G14 Lomax | 0W-0L-1D (last 1-1) | 0W-0L-1D (last 1-1) | — | — | 0W-0L-1D (last 1-1) |
-| Sting G14 J Salazar | — | 0W-1L (last 1-3) | 0W-1L (last 1-5) | — | 1W-0L (last 4-1) |
-| Solar 14G Carrillo.E | 1W-0L (last 5-2) | — | 0W-1L (last 1-5) | — | — |
-| FC Dallas Youth 14G Black | 1W-0L (last 2-0) | — | 1W-1L (last 2-0) | — | — |
-| Dallas Surf 15G Pre-GA 25 | 1W-0L-1D (last 5-0) | — | — | — | 0W-3L (last 1-4) |
-| Dallas Surf 14G Silver 228 | 1W-0L (last 4-0) | 1W-0L (last 4-0) | — | — | — |
-| Sting Pre ECNL G14 Kovacevic | 0W-2L (last 1-4) | 0W-1L (last 0-1) | — | — | — |
-| Solar West 14G Pappas | 0W-1L (last 2-4) | — | — | — | 0W-1L (last 0-1) |
-| Renegades 14G Pre ECNL Orange North | 1W-0L (last 4-2) | — | — | — | 1W-0L (last 2-0) |
-| Shreveport United 2014G Blue | 1W-0L (last 4-0) | — | — | — | 1W-0L (last 8-1) |
-| FW All Stars FC 2014G | 2W-0L (last 4-1) | — | 0W-0L-2D (last 1-1) | — | — |
-| Sting Pre ECNL G14 Asher | 0W-1L (last 1-4) | 0W-2L (last 0-2) | — | — | — |
-| Solar South 14G Dickerson | 0W-1L (last 2-5) | 0W-1L-1D (last 0-0) | — | — | — |
+| Sting Pre-ECNL G14 Zambrano | 0W-0L-1D (last 1-1) | 0W-0L-1D (last 1-1) | — | 0W-0L-1D (last 1-1) | — |
+| NTX Celtic FC Pre-ECNL G14 McCallum | 0W-1L (last 0-2) | 0W-1L-1D (last 0-0) | 0W-1L (last 0-2) | — | — |
+| Sting G14 J Salazar | 0W-1L (last 1-3) | — | 0W-1L (last 1-5) | 1W-0L (last 4-1) | — |
+| Sting G14 Fuentes | — | 0W-1L (last 0-1) | 1W-0L (last 2-0) | 1W-0L (last 2-1) | — |
+| Revolution Premier SC 14G Blue | 1W-0L-1D (last 1-0) | — | — | — | 0W-1L (last 0-3) |
+| Sting Pre-ECNL G14 Richardson | 0W-2L (last 0-2) | 0W-1L (last 1-4) | — | — | — |
+| Solar South 14G Dickerson* 60 | 0W-1L-1D (last 0-0) | 0W-1L (last 2-5) | — | — | — |
+| Solar 14G Tremblay Gold | 0W-0L-1D (last 2-2) | — | — | — | 0W-1L (last 0-3) |
+| Waco Texans 2014 Girls Andrade- 80 | 0W-0L-1D (last 1-1) | — | 0W-1L (last 1-6) | — | — |
+| Atletico Dallas Youth 14G Enciso | 1W-0L (last 5-0) | — | 0W-0L-1D (last 3-3) | — | — |
+| Dallas Surf 14G Silver | 1W-0L (last 4-0) | 1W-0L (last 4-0) | — | — | — |
+| FC Dallas Youth Pre ECNL G14 Avant West | 0W-1L (last 0-4) | 0W-2L (last 0-5) | — | — | — |
+| Dallas Surf 14G Pre-GA | 1W-0L-1D (last 2-0) | 0W-1L (last 0-2) | — | — | — |
+| Sting WTX G14 Jimenez | 0W-1L (last 1-5) | — | — | 0W-0L-1D (last 2-2) | — |
+| Texoma FC 2014 Girls Red | 1W-0L (last 3-0) | — | — | 1W-0L (last 2-1) | — |
 
 _16 more shared opponents not shown._
 
-_Legend:_ **S1** = Juventus Premier FC 14G Black Cantu · **S2** = Dallas Surf 14G White · **S3** = Dallas Surf 14G East Silver · **S4** = Atletico Dallas Youth Pre ECNL G15- Perez · **S5** = BVB 14G East (Brown)
+_Legend:_ **S1** = Dallas Surf 14G White · **S2** = Juventus Premier FC 14G Black Cantu · **S3** = Dallas Surf 14G East Silver · **S4** = BVB 14G East (Brown) · **S5** = Atletico Dallas Youth Pre ECNL G15- Perez
 
 #### 9v9 Bronze — Bracket A _(4 teams)_
 
@@ -930,10 +930,10 @@ _Legend:_ **S1** = Dallas Cosmos 14G White · **S2** = ULETE FC 14G Carlo · **S
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Dallas Cosmos 14G Red | Dallas Cosmos Soccer Club | 1542 | GREEN |  |
-| 2 | Atletico Dallas Youth 14G Enciso | Atletico Dallas Youth | 1425 | GREEN | ⬇ → 11v11 Silver |
-| 3 | GLASA Roaring Lions 14G | GLASA | — | RED | ? uncertain |
-| 4 | Dallas Surf 14G East Wave | Dallas Surf | — | MISSING |  |
+| 1 | Atletico Dallas Youth 14G Enciso | Atletico Dallas Youth | 1425 | GREEN | ⬇ → 11v11 Silver |
+| 2 | GLASA Roaring Lions 14G | GLASA | — | RED | ? uncertain |
+| 3 | Dallas Surf 14G East Wave | Dallas Surf | — | MISSING |  |
+| 4 | Dallas Cosmos 14G Red | Dallas Cosmos Soccer Club | 1542 | GREEN |  |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -945,9 +945,9 @@ _Legend:_ **S1** = Dallas Cosmos 14G White · **S2** = ULETE FC 14G Carlo · **S
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| 14G McGregor | 0W-1L (last 0-3) | 0W-3L (last 0-5) | — | — |
+| 14G McGregor | 0W-3L (last 0-5) | — | — | 0W-1L (last 0-3) |
 
-_Legend:_ **S1** = Dallas Cosmos 14G Red · **S2** = Atletico Dallas Youth 14G Enciso · **S3** = GLASA Roaring Lions 14G · **S4** = Dallas Surf 14G East Wave
+_Legend:_ **S1** = Atletico Dallas Youth 14G Enciso · **S2** = GLASA Roaring Lions 14G · **S3** = Dallas Surf 14G East Wave · **S4** = Dallas Cosmos 14G Red
 
 #### 9v9 Bronze II — Bracket B _(4 teams)_
 
@@ -955,8 +955,8 @@ _Legend:_ **S1** = Dallas Cosmos 14G Red · **S2** = Atletico Dallas Youth 14G E
 |------|------|------|--------|----------|------|
 | 1 | Nido Águila 14G Gonzalez | Club America - Tarrant County | 1495 | GREEN | ⬇ → 11v11 Silver |
 | 2 | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | FC Dallas ETX | 1441 | GREEN | ⬇ → 11v11 Silver |
-| 3 | NTX Celtic 14G Holden | NTX Celtic FC | 1438 | GREEN | ⬇ → 11v11 Silver |
-| 4 | Fever United 14G Wright | Fever United | 1429 | GREEN | ⬇ → 11v11 Silver |
+| 3 | Fever United 14G Wright | Fever United | 1429 | GREEN | ⬇ → 11v11 Silver |
+| 4 | NTX Celtic 14G Holden | NTX Celtic FC | 1438 | GREEN | ⬇ → 11v11 Silver |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -968,21 +968,21 @@ _Legend:_ **S1** = Dallas Cosmos 14G Red · **S2** = Atletico Dallas Youth 14G E
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Solar West 14G Pappas | 0W-2L (last 1-11) | 0W-1L (last 0-5) | 0W-1L (last 0-4) | — |
-| Sting G14 J Salazar | — | 0W-1L (last 1-6) | 0W-1L (last 0-8) | 1W-0L (last 2-0) |
-| Dallas Cosmos 14G Red | 2W-0L (last 2-1) | — | 0W-1L (last 0-1) | — |
-| Victory SC 2014 Girls Fort Worth | 1W-0L (last 3-1) | — | 1W-0L (last 2-0) | — |
+| Solar West 14G Pappas | 0W-2L (last 1-11) | 0W-1L (last 0-5) | — | 0W-1L (last 0-4) |
+| Sting G14 J Salazar | — | 0W-1L (last 1-6) | 1W-0L (last 2-0) | 0W-1L (last 0-8) |
+| Dallas Cosmos 14G Red | 2W-0L (last 2-1) | — | — | 0W-1L (last 0-1) |
+| Victory SC 2014 Girls Fort Worth | 1W-0L (last 3-1) | — | — | 1W-0L (last 2-0) |
 | ToKa FC 2014G | 1W-0L (last 4-3) | 0W-1L (last 1-3) | — | — |
 | Villarreal NTX 2015G | 1W-0L (last 4-1) | 0W-1L (last 2-5) | — | — |
 | Solar 14/15G Carrillo.T | 1W-0L (last 3-0) | 3W-0L-1D (last 2-2) | — | — |
 | Juventus Premier FC 14G Maroon | 0W-0L-1D (last 0-0) | 0W-1L (last 0-2) | — | — |
 | Atletico Dallas Youth 14G Chavez (CTX) | 0W-1L (last 1-3) | 0W-1L (last 0-5) | — | — |
-| Panthers 14G | 0W-1L (last 0-3) | — | 0W-1L (last 0-5) | — |
-| Sting Pre-ECNL G14 Robles | — | 0W-1L (last 0-4) | 0W-1L (last 0-6) | — |
-| Sting G14 Wong | — | 0W-1L (last 0-6) | 0W-1L (last 0-5) | — |
-| Solar 14G Tremblay Gold | — | — | 0W-2L-1D (last 1-2) | 0W-1L (last 0-2) |
+| Panthers 14G | 0W-1L (last 0-3) | — | — | 0W-1L (last 0-5) |
+| Sting Pre-ECNL G14 Robles | — | 0W-1L (last 0-4) | — | 0W-1L (last 0-6) |
+| Sting G14 Wong | — | 0W-1L (last 0-6) | — | 0W-1L (last 0-5) |
+| Solar 14G Tremblay Gold | — | — | 0W-1L (last 0-2) | 0W-2L-1D (last 1-2) |
 
-_Legend:_ **S1** = Nido Águila 14G Gonzalez · **S2** = FC Dallas East Texas 2014/15 G - Sabillon - BLUE · **S3** = NTX Celtic 14G Holden · **S4** = Fever United 14G Wright
+_Legend:_ **S1** = Nido Águila 14G Gonzalez · **S2** = FC Dallas East Texas 2014/15 G - Sabillon - BLUE · **S3** = Fever United 14G Wright · **S4** = NTX Celtic 14G Holden
 
 ---
 
@@ -994,10 +994,10 @@ _Legend:_ **S1** = Nido Águila 14G Gonzalez · **S2** = FC Dallas East Texas 20
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Sting WTX B14 Fernandez | Sting Soccer Club | 1469 | GREEN |  |
-| 2 | Coppell FC 14B Williams Red | Coppell Youth SA | — | GREEN | ? uncertain |
+| 1 | 14B Sinnott | Evolution | — | GREEN | ? uncertain |
+| 2 | Sting WTX B14 Fernandez | Sting Soccer Club | 1469 | GREEN |  |
 | 3 | Fever United 14B Mee | Fever United | — | GREEN | ? uncertain |
-| 4 | 14B Sinnott | Evolution | — | GREEN | ? uncertain |
+| 4 | Coppell FC 14B Williams Red | Coppell Youth SA | — | GREEN | ? uncertain |
 
 **Past meetings _(2 games, last 24 months)_:**
 
@@ -1010,17 +1010,17 @@ _Legend:_ **S1** = Nido Águila 14G Gonzalez · **S2** = FC Dallas East Texas 20
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| FW International Futbol Club 14B Castro | 0W-0L-1D (last 4-4) | 0W-1L (last 1-2) | — | — |
-| Dallas Hornets 14B Beta | 1W-0L (last 2-0) | 1W-0L (last 3-2) | — | — |
-| SPD FC 14B Black  | 0W-1L (last 0-2) | 0W-1L (last 0-1) | — | — |
-| FC ALLEN 2014 BLUE | — | 1W-1L (last 1-3) | — | 1W-0L (last 2-1) |
-| F.C. Cheetahs 14B | — | 2W-0L-1D (last 4-0) | — | 1W-0L-1D (last 4-3) |
-| LC United 14B Dobson | — | 0W-1L (last 1-3) | — | 0W-1L (last 1-2) |
-| Chelsea East 2014B | — | 1W-0L (last 2-1) | — | 1W-1L (last 1-3) |
-| Hawks United SC 14B | — | 1W-0L (last 5-2) | — | 1W-0L (last 5-0) |
-| Frisco Fusion 14B White | — | 1W-1L (last 2-0) | — | 0W-1L (last 1-3) |
+| FC ALLEN 2014 BLUE | 1W-0L (last 2-1) | — | — | 1W-1L (last 1-3) |
+| F.C. Cheetahs 14B | 1W-0L-1D (last 4-3) | — | — | 2W-0L-1D (last 4-0) |
+| Chelsea East 2014B | 1W-1L (last 1-3) | — | — | 1W-0L (last 2-1) |
+| Hawks United SC 14B | 1W-0L (last 5-0) | — | — | 1W-0L (last 5-2) |
+| Frisco Fusion 14B White | 0W-1L (last 1-3) | — | — | 1W-1L (last 2-0) |
+| LC United 14B Red Dobson | 0W-1L (last 1-2) | — | — | 0W-1L (last 1-3) |
+| FW International Futbol Club 14B Castro | — | 0W-0L-1D (last 4-4) | — | 0W-1L (last 1-2) |
+| Dallas Hornets 14B Beta | — | 1W-0L (last 2-0) | — | 1W-0L (last 3-2) |
+| SPD FC 14B Black  | — | 0W-1L (last 0-2) | — | 0W-1L (last 0-1) |
 
-_Legend:_ **S1** = Sting WTX B14 Fernandez · **S2** = Coppell FC 14B Williams Red · **S3** = Fever United 14B Mee · **S4** = 14B Sinnott
+_Legend:_ **S1** = 14B Sinnott · **S2** = Sting WTX B14 Fernandez · **S3** = Fever United 14B Mee · **S4** = Coppell FC 14B Williams Red
 
 #### 11v11 Bronze Crossover — Bracket A _(4 teams)_
 
@@ -1047,8 +1047,8 @@ _Legend:_ **S1** = Pegasus Futbol 2013 · **S2** = Rayados MOrtega 2013 White ·
 |------|------|------|--------|----------|------|
 | 1 | StrikerZ DFW 2013B Purple | StrikerZ DFW | 1517 | GREEN | ⬆ → 11v11 Silver |
 | 2 | NTX Celtic 13B High | NTX Celtic FC | 1498 | GREEN |  |
-| 3 | Atletico Dallas Youth 13B Reyes Central | Atletico Dallas Youth | 1493 | GREEN |  |
-| 4 | RPSC 13B Mercado | Revolution Premier SC | 1467 | GREEN | ⬇ → 11v11 Bronze II |
+| 3 | RPSC 13B Mercado | Revolution Premier SC | 1467 | GREEN | ⬇ → 11v11 Bronze II |
+| 4 | Atletico Dallas Youth 13B Reyes Central | Atletico Dallas Youth | 1493 | GREEN |  |
 
 **Past meetings _(2 games, last 24 months)_:**
 
@@ -1061,15 +1061,15 @@ _Legend:_ **S1** = Pegasus Futbol 2013 · **S2** = Rayados MOrtega 2013 White ·
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| FC Dallas Youth 13B Central Blue | 2W-0L (last 3-0) | 0W-1L (last 1-4) | 1W-1L (last 2-1) | — |
-| Diversity FC 13B Black | 0W-1L-1D (last 3-3) | — | 0W-2L (last 0-3) | — |
-| SPD FC 13B Black | 1W-0L-1D (last 2-0) | — | 0W-2L (last 1-3) | — |
-| Evolution 13B Giurgila | 1W-0L (last 5-2) | — | — | 2W-1L (last 1-0) |
-| Frisco Fusion 13B Blue | 1W-0L (last 5-0) | — | 1W-0L (last 2-0) | — |
-| Juventus Premier FC 2013B Villalobos | — | 0W-1L (last 0-2) | 0W-1L (last 0-4) | — |
-| Sting WTX B13 Pitcock/C Rodriguez | — | 1W-0L (last 7-2) | 0W-0L-1D (last 0-0) | — |
+| FC Dallas Youth 13B Central Blue | 2W-0L (last 3-0) | 0W-1L (last 1-4) | — | 1W-1L (last 2-1) |
+| Diversity FC 13B Black | 0W-1L-1D (last 3-3) | — | — | 0W-2L (last 0-3) |
+| SPD FC 13B Black | 1W-0L-1D (last 2-0) | — | — | 0W-2L (last 1-3) |
+| Evolution 13B Giurgila | 1W-0L (last 5-2) | — | 2W-1L (last 1-0) | — |
+| Frisco Fusion 13B Blue | 1W-0L (last 5-0) | — | — | 1W-0L (last 2-0) |
+| Juventus Premier FC 2013B Villalobos | — | 0W-1L (last 0-2) | — | 0W-1L (last 0-4) |
+| Sting WTX B13 Pitcock/C Rodriguez | — | 1W-0L (last 7-2) | — | 0W-0L-1D (last 0-0) |
 
-_Legend:_ **S1** = StrikerZ DFW 2013B Purple · **S2** = NTX Celtic 13B High · **S3** = Atletico Dallas Youth 13B Reyes Central · **S4** = RPSC 13B Mercado
+_Legend:_ **S1** = StrikerZ DFW 2013B Purple · **S2** = NTX Celtic 13B High · **S3** = RPSC 13B Mercado · **S4** = Atletico Dallas Youth 13B Reyes Central
 
 #### 11v11 Bronze II — Bracket A _(4 teams)_
 
@@ -1131,9 +1131,9 @@ _Legend:_ **S1** = Dallas Surf 2013B NL TX-N · **S2** = Coppell FC 13B Shirazi 
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Solar ECNL RL 13B Tremblay | Solar SC | 1610 | GREEN |  |
-| 2 | Kernow Storm FC B13 Red River NPL H.Espinosa | Kernow Storm FC | 1598 | GREEN |  |
-| 3 | Pumas SC- 2013 Zam | Pumas SC NTX | 1573 | GREEN |  |
+| 1 | Pumas SC- 2013 Zam | Pumas SC NTX | 1573 | GREEN |  |
+| 2 | Solar ECNL RL 13B Tremblay | Solar SC | 1610 | GREEN |  |
+| 3 | Kernow Storm FC B13 Red River NPL H.Espinosa | Kernow Storm FC | 1598 | GREEN |  |
 | 4 | Rayados MOrtega 2013 Blue | Laredo Youth Soccer Assn | 1565 | GREEN | ⬇ → 11v11 Silver 14s |
 | 5 | FC LEGENDS UTD 13B Red | FC LEGENDS UTD | 1558 | GREEN | ⬇ → 11v11 Silver 14s |
 
@@ -1147,30 +1147,30 @@ _Legend:_ **S1** = Dallas Surf 2013B NL TX-N · **S2** = Coppell FC 13B Shirazi 
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| DKSC 13B MORENO | 1W-0L (last 3-0) | 0W-1L-1D (last 2-2) | 0W-2L (last 0-2) | — | — |
-| Dallas Texans Red ECNL RL NTX B13 | — | 2W-1L (last 0-6) | 0W-2L (last 0-2) | 0W-0L-1D (last 0-0) | — |
-| FCDY 13B White Reyes | 0W-1L (last 1-5) | — | — | — | 0W-1L (last 4-6) |
-| DKSC 13B ESQUIBEL | 0W-1L (last 2-6) | — | 1W-0L (last 8-1) | — | — |
-| Rayos 13B Hernandez | 1W-0L (last 6-0) | — | 0W-0L-1D (last 0-0) | — | — |
-| Dallas Legends Bobcats 13B Woodberry | 1W-0L (last 4-2) | — | — | — | 0W-1L (last 2-7) |
-| Sting B13 Oliver | 1W-0L (last 1-0) | — | — | 0W-1L (last 0-1) | — |
-| DKSC 13B Pre-ECNL Camargo | 1W-0L (last 3-2) | — | — | 0W-1L (last 0-2) | — |
-| Midlothian Premier FC 2013 Boys Blue | — | 2W-0L (last 8-3) | 3W-0L (last 4-0) | — | — |
-| DKSC 13B Medina ETX  | — | 0W-2L (last 0-1) | 0W-1L-2D (last 1-5) | — | — |
-| ETX Elite FC 13B | — | 0W-1L (last 0-3) | 0W-1L (last 3-4) | — | — |
-| FC Dallas - Texoma 13B Pride | — | 1W-0L (last 5-1) | 1W-0L (last 5-3) | — | — |
-| FC Dallas Youth Red ECNL RL NTX  | — | — | 0W-0L-1D (last 1-1) | 1W-0L (last 2-1) | — |
-| FC Dallas Youth Pre ECNL B13 Paige  | — | — | 1W-0L (last 4-1) | — | 0W-0L-1D (last 1-1) |
+| DKSC 13B MORENO | 0W-2L (last 0-2) | 1W-0L (last 3-0) | 0W-1L-1D (last 2-2) | — | — |
+| Dallas Texans 2013 Boys Red Dallas  | 0W-2L (last 0-2) | — | 2W-1L (last 0-6) | 0W-0L-1D (last 0-0) | — |
+| Midlothian Premier FC 2013 Boys Blue | 3W-0L (last 4-0) | — | 2W-0L (last 8-3) | — | — |
+| FC Dallas - Texoma 13B Pride | 1W-0L (last 5-3) | — | 1W-0L (last 5-1) | — | — |
+| DKSC 13B MEDINA ETX | 0W-1L-2D (last 1-5) | — | 0W-2L (last 0-1) | — | — |
+| FC Dallas Youth Red ECNL RL NTX  | 0W-0L-1D (last 1-1) | — | — | 1W-0L (last 2-1) | — |
+| FC Dallas Youth Pre ECNL B13 Paige  | 1W-0L (last 4-1) | — | — | — | 0W-0L-1D (last 1-1) |
+| ETX Elite FC 13B | 0W-1L (last 3-4) | — | 0W-1L (last 0-3) | — | — |
+| DKSC 13B ESQUIBEL | 1W-0L (last 8-1) | 0W-1L (last 2-6) | — | — | — |
+| Rayos 13B Hernandez | 0W-0L-1D (last 0-0) | 1W-0L (last 6-0) | — | — | — |
+| FCDY 13B White Reyes | — | 0W-1L (last 1-5) | — | — | 0W-1L (last 4-6) |
+| Dallas Legends Bobcats 13B Woodberry | — | 1W-0L (last 4-2) | — | — | 0W-1L (last 2-7) |
+| Sting B13 Oliver | — | 1W-0L (last 1-0) | — | 0W-1L (last 0-1) | — |
+| DKSC 13B Pre-ECNL Camargo | — | 1W-0L (last 3-2) | — | 0W-1L (last 0-2) | — |
 
-_Legend:_ **S1** = Solar ECNL RL 13B Tremblay · **S2** = Kernow Storm FC B13 Red River NPL H.Espinosa · **S3** = Pumas SC- 2013 Zam · **S4** = Rayados MOrtega 2013 Blue · **S5** = FC LEGENDS UTD 13B Red
+_Legend:_ **S1** = Pumas SC- 2013 Zam · **S2** = Solar ECNL RL 13B Tremblay · **S3** = Kernow Storm FC B13 Red River NPL H.Espinosa · **S4** = Rayados MOrtega 2013 Blue · **S5** = FC LEGENDS UTD 13B Red
 
 #### 11v11 Silver — Bracket A _(5 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Titan Warriors 13B | Independent Teams - NTX | 1563 | GREEN |  |
-| 2 | Avanti SA ECNL RL B13 | Avanti Soccer Academy | 1538 | YELLOW |  |
-| 3 | Sting NPL NTX B13 Pitcock/C Rodriguez | Sting Soccer Club | 1519 | GREEN |  |
+| 1 | Sting NPL NTX B13 Pitcock/C Rodriguez | Sting Soccer Club | 1519 | GREEN |  |
+| 2 | Titan Warriors 13B | Independent Teams - NTX | 1563 | GREEN |  |
+| 3 | Avanti SA ECNL RL B13 | Avanti Soccer Academy | 1538 | YELLOW |  |
 | 4 | Texas Spurs FC 13B | Texas Spurs | 1512 | GREEN |  |
 | 5 | FC Dallas Youth Navy ECNL RL NTX B13 | FC Dallas Youth | 1508 | YELLOW |  |
 
@@ -1184,24 +1184,24 @@ _Legend:_ **S1** = Solar ECNL RL 13B Tremblay · **S2** = Kernow Storm FC B13 Re
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| SPD FC 13B Black | 1W-0L (last 3-0) | — | — | 1W-0L (last 4-0) | — |
-| LC United 13B Santamaria | 1W-0L (last 5-3) | — | — | 1W-0L (last 3-0) | — |
-| Solar ECNL RL 13B Tremblay | — | 0W-1L (last 0-1) | — | — | 1W-0L (last 4-1) |
-| Solar Pre ECNL 13B Martinez  | — | — | 1W-1L (last 3-6) | — | 1W-0L (last 3-1) |
-| FC Dallas Youth Black NPL NTX B13 | — | — | 1W-0L (last 4-0) | 1W-0L (last 3-0) | — |
-| JBS 13B Black | — | — | 1W-0L (last 9-3) | 0W-0L-1D (last 0-0) | — |
+| Solar Pre ECNL 13B Martinez  | 1W-1L (last 3-6) | — | — | — | 1W-0L (last 3-1) |
+| FC Dallas Youth Black NPL NTX B13 | 1W-0L (last 4-0) | — | — | 1W-0L (last 3-0) | — |
+| JBS 13B Black | 1W-0L (last 9-3) | — | — | 0W-0L-1D (last 0-0) | — |
+| SPD FC 13B Black | — | 1W-0L (last 3-0) | — | 1W-0L (last 4-0) | — |
+| LC United 13B Santamaria | — | 1W-0L (last 5-3) | — | 1W-0L (last 3-0) | — |
+| Solar ECNL RL 13B Tremblay | — | — | 0W-1L (last 0-1) | — | 1W-0L (last 4-1) |
 | FC Hurst United 13B | — | — | — | 1W-1L (last 3-0) | 1W-0L (last 4-2) |
 | BVB 13B Black East (Vincent) | — | — | — | 1W-0L (last 4-3) | 0W-2L (last 0-1) |
 
-_Legend:_ **S1** = Titan Warriors 13B · **S2** = Avanti SA ECNL RL B13 · **S3** = Sting NPL NTX B13 Pitcock/C Rodriguez · **S4** = Texas Spurs FC 13B · **S5** = FC Dallas Youth Navy ECNL RL NTX B13
+_Legend:_ **S1** = Sting NPL NTX B13 Pitcock/C Rodriguez · **S2** = Titan Warriors 13B · **S3** = Avanti SA ECNL RL B13 · **S4** = Texas Spurs FC 13B · **S5** = FC Dallas Youth Navy ECNL RL NTX B13
 
 #### 11v11 Silver 14s — Bracket A _(4 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Solar 14B Jenkins | Solar SC | 1566 | GREEN |  |
-| 2 | BVB 14B PreECNL Yellow (Suffredin) | BVB International Academy Texas | 1528 | GREEN |  |
-| 3 | Olympians SC 14B Red Chadbourn | Olympians SC | — | GREEN | ? uncertain |
+| 1 | Olympians SC 14B Red Chadbourn | Olympians SC | — | GREEN | ? uncertain |
+| 2 | Solar 14B Jenkins | Solar SC | 1566 | GREEN |  |
+| 3 | BVB 14B PreECNL Yellow (Suffredin) | BVB International Academy Texas | 1528 | GREEN |  |
 | 4 | NTX Celtic FC Pre-ECNL B14 Brice | NTX Celtic FC | — | YELLOW | ? uncertain |
 
 **Past meetings _(4 games, last 24 months)_:**
@@ -1217,34 +1217,34 @@ _Legend:_ **S1** = Titan Warriors 13B · **S2** = Avanti SA ECNL RL B13 · **S3*
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| RSA Titans 14BC | 1W-0L (last 3-1) | 2W-0L (last 5-0) | 1W-0L (last 5-2) | — |
-| Pines Futsal Association 2014B | 0W-1L (last 5-6) | 0W-1L (last 1-2) | — | — |
-| FC Dallas Youth West NPL NTX B13 | 1W-0L (last 5-1) | — | — | 1W-0L (last 3-2) |
-| Solar Pre-ECNL 15B Rodriguez | 0W-2L (last 3-5) | — | 0W-2L (last 3-6) | — |
-| FC Dallas East White 15B Garcia | 1W-0L (last 6-0) | 1W-2L (last 0-4) | — | — |
-| Solar South 14B Dickerson | 0W-0L-1D (last 0-0) | — | 1W-0L (last 2-1) | — |
-| NTX Celtic FC Pre-ECNL B14 Shaffer | — | 1W-0L (last 1-0) | 0W-1L (last 1-7) | — |
-| Solar East 14B Hedges | — | 0W-2L (last 1-3) | 0W-0L-1D (last 2-2) | — |
-| Solar Red 14B Jaime | — | 1W-1L (last 3-2) | 1W-2L (last 3-2) | — |
-| Renegades 14B Krone | — | 0W-1L (last 0-3) | 0W-1L (last 0-2) | — |
-| ISW Academy 14 Oviedo 97 | — | 0W-1L (last 0-3) | 0W-1L (last 0-1) | — |
-| Renegades 14B PRE ECNL RL NTX - Central | — | 0W-0L-1D (last 3-3) | 1W-0L (last 2-1) | — |
-| Fire FC 14B Lopez | — | 0W-1L (last 3-4) | 1W-1L (last 1-2) | — |
-| Revolution 14B | — | 1W-0L (last 3-1) | 1W-0L (last 2-1) | — |
-| Dallas Texans Pre ECNL B14 Salazar | — | 0W-1L (last 0-7) | 0W-1L (last 0-6) | — |
+| Titans Academy FC 2014 | 1W-0L (last 5-2) | 1W-0L (last 3-1) | 2W-0L (last 5-0) | — |
+| Solar Pre-ECNL 15B Rodriguez | 0W-2L (last 3-6) | 0W-2L (last 3-5) | — | — |
+| Solar East 14B Hedges | 0W-0L-1D (last 2-2) | — | 0W-2L (last 1-3) | — |
+| Renegades 14B Krone | 0W-1L (last 0-2) | — | 0W-1L (last 0-3) | — |
+| ISW 14B Oviedo  | 0W-1L (last 0-1) | — | 0W-1L (last 0-3) | — |
+| Revolution Premier SC 14B | 1W-0L (last 3-0) | — | 0W-0L-1D (last 2-2) | — |
+| Dallas Texans Pre ECNL B14 Salazar | 0W-1L (last 0-6) | — | 0W-1L (last 0-7) | — |
+| Thunder United SC 14B Blue | 0W-0L-1D (last 1-1) | — | 0W-1L (last 0-5) | — |
+| Solar Pre-ECNL 14B Duke | 1W-0L (last 3-0) | — | 1W-1L (last 0-4) | — |
+| Solar 2014B Jaime | 1W-2L (last 3-2) | — | 1W-1L (last 3-2) | — |
+| Avanti SA 14B Red (Prev Fire FC 14B Lopez) | 1W-1L (last 1-2) | — | 0W-1L (last 3-4) | — |
+| NTX Celtic FC Pre-ECNL B14 Shaffer | 0W-1L (last 1-7) | — | 1W-0L (last 1-0) | — |
+| Texas Premier SC 14B | 0W-1L (last 3-5) | — | 0W-1L (last 2-4) | — |
+| Solar South 14B Dickerson | 1W-0L (last 2-1) | 0W-0L-1D (last 0-0) | — | — |
+| Atletico 14B Ostergren (Prev. Rengades Central) | 1W-0L (last 2-1) | — | 0W-0L-1D (last 3-3) | — |
 
 _4 more shared opponents not shown._
 
-_Legend:_ **S1** = Solar 14B Jenkins · **S2** = BVB 14B PreECNL Yellow (Suffredin) · **S3** = Olympians SC 14B Red Chadbourn · **S4** = NTX Celtic FC Pre-ECNL B14 Brice
+_Legend:_ **S1** = Olympians SC 14B Red Chadbourn · **S2** = Solar 14B Jenkins · **S3** = BVB 14B PreECNL Yellow (Suffredin) · **S4** = NTX Celtic FC Pre-ECNL B14 Brice
 
 #### 11v11 Silver 14s — Bracket B _(4 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
 | 1 | NTX Celtic FC Pre-ECNL B14 Shaffer | NTX Celtic FC | 1664 | YELLOW | ⬆ → 11v11 Gold |
-| 2 | OK Energy FC 14B White | Oklahoma Energy FC | 1533 | GREEN |  |
-| 3 | FC Dallas Youth Pre ECNL B14 Bailey | FC Dallas Youth | — | RED | ? uncertain |
-| 4 | Solar SW 14B Gallegos PreECNL | Solar SC | — | YELLOW | ? uncertain |
+| 2 | Solar SW 14B Gallegos PreECNL | Solar SC | — | YELLOW | ? uncertain |
+| 3 | OK Energy FC 14B White | Oklahoma Energy FC | 1533 | GREEN |  |
+| 4 | FC Dallas Youth Pre ECNL B14 Bailey | FC Dallas Youth | — | RED | ? uncertain |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -1256,11 +1256,11 @@ _Legend:_ **S1** = Solar 14B Jenkins · **S2** = BVB 14B PreECNL Yellow (Suffred
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Solar 15B Molano PreECNL Red | 2W-0L (last 3-2) | — | — | 0W-1L (last 2-4) |
-| Pines Futsal Association 2014B | 1W-0L (last 4-2) | — | — | 1W-0L (last 4-0) |
-| FC Dallas High Plains 2014 Boys Blue | — | 0W-1L (last 1-2) | — | 0W-1L (last 0-4) |
+| Solar 15B Molano PreECNL Red | 2W-0L (last 3-2) | 0W-1L (last 2-4) | — | — |
+| Pines Futsal Association 2014B | 1W-0L (last 4-2) | 1W-0L (last 4-0) | — | — |
+| FC Dallas High Plains 2014 Boys Blue | — | 0W-1L (last 0-4) | 0W-1L (last 1-2) | — |
 
-_Legend:_ **S1** = NTX Celtic FC Pre-ECNL B14 Shaffer · **S2** = OK Energy FC 14B White · **S3** = FC Dallas Youth Pre ECNL B14 Bailey · **S4** = Solar SW 14B Gallegos PreECNL
+_Legend:_ **S1** = NTX Celtic FC Pre-ECNL B14 Shaffer · **S2** = Solar SW 14B Gallegos PreECNL · **S3** = OK Energy FC 14B White · **S4** = FC Dallas Youth Pre ECNL B14 Bailey
 
 ### U13 Girls
 
@@ -1268,9 +1268,9 @@ _Legend:_ **S1** = NTX Celtic FC Pre-ECNL B14 Shaffer · **S2** = OK Energy FC 1
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Kernow Storm FC G13 API Lynch | Kernow Storm FC | 1582 | GREEN | ⬆ → 11v11 Bronze II |
-| 2 | Dallas Surf 13G White | Dallas Surf | 1503 | GREEN | ⬆ → 11v11 Bronze II |
-| 3 | ULETE FC 13G Chris | Ulete FC | 1446 | GREEN | ⬇ → 11v11 Bronze 14s |
+| 1 | ULETE FC 13G Chris | Ulete FC | 1446 | GREEN | ⬇ → 11v11 Bronze 14s |
+| 2 | Kernow Storm FC G13 API Lynch | Kernow Storm FC | 1582 | GREEN | ⬆ → 11v11 Bronze II |
+| 3 | Dallas Surf 13G White | Dallas Surf | 1503 | GREEN | ⬆ → 11v11 Bronze II |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -1282,24 +1282,24 @@ _Legend:_ **S1** = NTX Celtic FC Pre-ECNL B14 Shaffer · **S2** = OK Energy FC 1
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Sting Attack G13 H Pantoja Black | 1W-0L (last 3-0) | 1W-0L (last 2-0) | 0W-1L (last 0-3) |
-| LC United 13G Evans | 1W-1L (last 1-2) | — | 0W-1L (last 1-3) |
-| FC Hurst United 13G | 1W-0L (last 1-0) | 3W-1L (last 4-0) | — |
-| Panthers Black 13G | — | 0W-3L-1D (last 0-0) | 0W-1L (last 0-1) |
-| Coppell FC 13G Oland White | — | 3W-1L (last 2-0) | 1W-0L (last 2-0) |
-| Sting G13 E Rodriguez 102 | — | 0W-0L-1D (last 2-2) | 0W-1L (last 1-4) |
-| Sting G13 McNeal | — | 1W-0L-1D (last 1-0) | 0W-1L (last 0-1) |
-| NTX Celtic FC ECNL RL NTX G13 | — | 1W-0L (last 2-1) | 0W-2L (last 1-4) |
+| Sting Attack G13 H Pantoja | 0W-1L (last 0-3) | 1W-0L (last 3-0) | 1W-0L (last 2-0) |
+| NTX Celtic FC ECNL RL NTX G13 | 0W-2L (last 1-4) | — | 1W-0L (last 2-1) |
+| Coppell FC 13G Oland White | 1W-0L (last 2-0) | — | 3W-1L (last 2-0) |
+| Sting G13 McNeal | 0W-1L (last 0-1) | — | 1W-0L-1D (last 1-0) |
+| Sting G13 E Rodriguez | 0W-1L (last 1-4) | — | 0W-0L-1D (last 2-2) |
+| LC United 13G Evans | 0W-1L (last 1-3) | 1W-1L (last 1-2) | — |
+| Panthers Black 13G | 0W-1L (last 0-1) | — | 0W-3L-1D (last 0-0) |
+| FC Hurst United 13G | — | 1W-0L (last 1-0) | 3W-1L (last 4-0) |
 
-_Legend:_ **S1** = Kernow Storm FC G13 API Lynch · **S2** = Dallas Surf 13G White · **S3** = ULETE FC 13G Chris
+_Legend:_ **S1** = ULETE FC 13G Chris · **S2** = Kernow Storm FC G13 API Lynch · **S3** = Dallas Surf 13G White
 
 #### 11v11 Bronze — Bracket B _(3 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | NTX United FC 2014G Smith | NTX United FC | 1534 | GREEN | ⬆ → 11v11 Bronze II |
-| 2 | Sting Attack G13 H Pantoja | Sting Soccer Club | 1468 | GREEN | ⬇ → 11v11 Bronze 14s |
-| 3 | Lioness Select 13G | Independent Teams - NTX | 1464 | GREEN | ⬇ → 11v11 Bronze 14s |
+| 1 | Sting Attack G13 H Pantoja | Sting Soccer Club | 1468 | GREEN | ⬇ → 11v11 Bronze 14s |
+| 2 | Lioness Select 13G | Independent Teams - NTX | 1464 | GREEN | ⬇ → 11v11 Bronze 14s |
+| 3 | NTX United FC 2014G Smith | NTX United FC | 1534 | GREEN | ⬆ → 11v11 Bronze II |
 
 **Past meetings _(3 games, last 24 months)_:**
 
@@ -1313,25 +1313,25 @@ _Legend:_ **S1** = Kernow Storm FC G13 API Lynch · **S2** = Dallas Surf 13G Whi
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Drifters FC 13G Herrera | 2W-0L-2D (last 3-1) | 0W-0L-1D (last 0-0) | — |
-| Frisco Fusion 13g Red | 3W-0L (last 4-0) | 2W-0L (last 9-0) | — |
-| Texas Warriors FC 13G | 1W-0L (last 4-1) | 1W-0L (last 8-0) | — |
-| Renegades 14G Central | 0W-0L-1D (last 2-2) | — | 1W-0L (last 8-0) |
-| 13G Watson | 1W-2L (last 1-0) | 1W-0L (last 4-0) | — |
-| Atletico Dallas Youth 13G Curiel | 1W-0L (last 1-0) | 1W-0L (last 3-0) | — |
-| Sting G13 E Rodriguez | — | 2W-0L-1D (last 3-2) | 0W-0L-1D (last 2-2) |
-| LC United 13G Evans | — | 1W-1L (last 2-0) | 0W-0L-1D (last 2-2) |
-| Dallas Cosmos 13G Red  | — | 2W-1L (last 3-0) | 1W-0L-1D (last 0-0) |
-| Frisco Fusion 13G White | — | 1W-0L-1D (last 2-0) | 1W-0L (last 4-1) |
-| Coppell FC 13G Oland Red | — | 0W-2L (last 0-1) | 0W-1L (last 1-3) |
-| FCD-ETX '13G Premier - LD | — | 0W-2L (last 0-1) | 1W-0L (last 2-0) |
-| Oklahoma Cosmos ECNL RL G13 | — | 1W-0L (last 2-1) | 0W-0L-1D (last 1-1) |
-| Atletico Dallas Youth Pre ECNL 14G - Whitworth* 56 | — | 1W-0L (last 5-1) | 0W-1L (last 0-1) |
-| Sting G13 Hubbard | — | 1W-0L (last 9-0) | 1W-0L (last 3-1) |
+| Drifters FC 13G Herrera | 0W-0L-1D (last 0-0) | — | 2W-0L-2D (last 3-1) |
+| Frisco Fusion 13g Red | 2W-0L (last 9-0) | — | 3W-0L (last 4-0) |
+| Texas Warriors FC 13G | 1W-0L (last 8-0) | — | 1W-0L (last 4-1) |
+| Sting G13 E Rodriguez | 2W-0L-1D (last 3-2) | 0W-0L-1D (last 2-2) | — |
+| LC United 13G Evans | 1W-1L (last 2-0) | 0W-0L-1D (last 2-2) | — |
+| Evolution 13G Green | 1W-0L (last 4-0) | — | 1W-2L (last 1-0) |
+| Dallas Cosmos 13G Red  | 2W-1L (last 3-0) | 1W-0L-1D (last 0-0) | — |
+| Frisco Fusion 13G White | 1W-0L-1D (last 2-0) | 1W-0L (last 4-1) | — |
+| Coppell FC 13G Oland Red | 0W-2L (last 0-1) | 0W-1L (last 1-3) | — |
+| FCD-ETX '13G Premier - LD | 0W-2L (last 0-1) | 1W-0L (last 2-0) | — |
+| Oklahoma Cosmos ECNL RL G13 | 1W-0L (last 2-1) | 0W-0L-1D (last 1-1) | — |
+| Atletico Dallas Youth Pre ECNL 14G - Whitworth* 56 | 1W-0L (last 5-1) | 0W-1L (last 0-1) | — |
+| Sting G13 Hubbard | 1W-0L (last 9-0) | 1W-0L (last 3-1) | — |
+| FC Dallas Youth 13G White | 1W-0L (last 6-0) | 1W-0L (last 3-2) | — |
+| FC DIVAS XIII | 0W-1L (last 1-2) | 0W-1L (last 0-1) | — |
 
 _6 more shared opponents not shown._
 
-_Legend:_ **S1** = NTX United FC 2014G Smith · **S2** = Sting Attack G13 H Pantoja · **S3** = Lioness Select 13G
+_Legend:_ **S1** = Sting Attack G13 H Pantoja · **S2** = Lioness Select 13G · **S3** = NTX United FC 2014G Smith
 
 #### 11v11 Bronze — Bracket C _(3 teams)_
 
@@ -1376,9 +1376,9 @@ _Legend:_ **S1** = Dallas Surf 13G Central · **S2** = Dallas Surf 2013G NL TX-N
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | FC Dallas Youth 13G North White | FC Dallas Youth | 1495 | GREEN | ⬇ → 11v11 Bronze Crossover |
-| 2 | FC DIVAS XIII | FCD | 1481 | GREEN | ⬇ → 11v11 Bronze Crossover |
-| 3 | Dallas Texans ECNL RL NTX G13 | Dallas Texans | 1470 | YELLOW | ⬇ → 11v11 Bronze Crossover |
+| 1 | FC DIVAS XIII | FCD | 1481 | GREEN | ⬇ → 11v11 Bronze Crossover |
+| 2 | Dallas Texans ECNL RL NTX G13 | Dallas Texans | 1470 | YELLOW | ⬇ → 11v11 Bronze Crossover |
+| 3 | FC Dallas Youth 13G North White | FC Dallas Youth | 1495 | GREEN | ⬇ → 11v11 Bronze Crossover |
 
 **Past meetings _(3 games, last 24 months)_:**
 
@@ -1392,21 +1392,21 @@ _Legend:_ **S1** = Dallas Surf 13G Central · **S2** = Dallas Surf 2013G NL TX-N
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Dallas Cosmos 13G White | 0W-1L (last 1-2) | 1W-0L (last 4-1) | 1W-1L (last 4-2) |
-| AYSES 13G Gold | 1W-1L (last 2-6) | — | 1W-0L (last 3-0) |
-| Frisco Fusion 13G White | 1W-0L (last 3-0) | 2W-0L (last 5-1) | — |
-| ETX United Vana 13G - LD | 1W-1L (last 0-1) | — | 0W-1L (last 1-2) |
-| Sting Attack G13 Gonzalez | 1W-0L (last 1-0) | — | 0W-0L-1D (last 2-2) |
-| Sting G13 Hubbard | 1W-0L (last 3-0) | 1W-0L (last 3-2) | — |
-| Dallas Legends Lady Bobcats 13G | 0W-1L (last 1-2) | 1W-0L-1D (last 6-3) | — |
-| ULETE FC 13G Chris | — | 1W-0L (last 4-2) | 1W-0L (last 5-0) |
-| FC Hurst United 13G | — | 1W-0L (last 3-0) | 1W-0L (last 2-0) |
-| Atletico Dallas Youth NPL NTX 13G Lopez | — | 0W-1L (last 2-5) | 0W-1L (last 1-2) |
-| Kernow Storm FC G13 TCSL Valdez | — | 1W-0L (last 4-0) | 1W-0L (last 4-1) |
-| Avanti Soccer Academy 13G Green Espino | — | 1W-0L (last 3-1) | 1W-0L (last 2-0) |
-| Victory SC 2013 Girls Fort Worth | — | 1W-0L (last 2-1) | 1W-0L (last 3-1) |
+| Dallas Cosmos 13G White | 1W-0L (last 4-1) | 1W-1L (last 4-2) | 0W-1L (last 1-2) |
+| ULETE FC 13G Chris | 1W-0L (last 4-2) | 1W-0L (last 5-0) | — |
+| Frisco Fusion 13G NPL NTX Blue | 2W-0L (last 5-1) | — | 1W-0L (last 3-0) |
+| FC Hurst United 13G | 1W-0L (last 3-0) | 1W-0L (last 2-0) | — |
+| Atletico Dallas Youth NPL NTX 13G Lopez | 0W-1L (last 2-5) | 0W-1L (last 1-2) | — |
+| Lady Bobcats 13G | 1W-0L-1D (last 6-3) | — | 0W-1L (last 1-2) |
+| Kernow Storm FC G13 TCSL Valdez | 1W-0L (last 4-0) | 1W-0L (last 4-1) | — |
+| Avanti Soccer Academy 13G Green Espino | 1W-0L (last 3-1) | 1W-0L (last 2-0) | — |
+| Sting G13 Hubbard | 1W-0L (last 3-2) | — | 1W-0L (last 3-0) |
+| Victory SC 2013 Girls Fort Worth | 1W-0L (last 2-1) | 1W-0L (last 3-1) | — |
+| TAG 13G Gold | — | 1W-0L (last 3-0) | 1W-1L (last 2-6) |
+| Sting Attack G13 Gonzalez | — | 0W-0L-1D (last 2-2) | 1W-0L (last 1-0) |
+| ETX United Vana 13G 98 | — | 0W-1L (last 1-2) | 1W-1L (last 0-1) |
 
-_Legend:_ **S1** = FC Dallas Youth 13G North White · **S2** = FC DIVAS XIII · **S3** = Dallas Texans ECNL RL NTX G13
+_Legend:_ **S1** = FC DIVAS XIII · **S2** = Dallas Texans ECNL RL NTX G13 · **S3** = FC Dallas Youth 13G North White
 
 #### Dallas Showcase Super Group 13s — Bracket A _(4 teams)_
 
@@ -1586,8 +1586,8 @@ _No past meetings between these teams in the last 24 months._
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Extreme FC 12G Reyes | Extreme FC | 1539 | YELLOW | ⬆ → 11v11 Bronze |
-| 2 | StrikerZ DFW 2012G Purple | StrikerZ DFW | 1520 | GREEN | ⬆ → 11v11 Bronze |
+| 1 | StrikerZ DFW 2012G Purple | StrikerZ DFW | 1520 | GREEN | ⬆ → 11v11 Bronze |
+| 2 | Extreme FC 12G Reyes | Extreme FC | 1539 | YELLOW | ⬆ → 11v11 Bronze |
 | 3 | ISW Academy 12G Ramirez | ISW Academy | 1504 | GREEN |  |
 
 **Past meetings _(2 games, last 24 months)_:**
@@ -1601,22 +1601,22 @@ _No past meetings between these teams in the last 24 months._
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Fc Dallas ETX U13 Girls  | 1W-1L (last 4-1) | — | 0W-1L (last 1-4) |
-| Texas LoneStars 12G | — | 2W-1L-1D (last 1-1) | 0W-2L (last 0-7) |
-| Steel United TX MSA 12G Premier | — | 4W-0L (last 5-0) | 0W-2L (last 3-6) |
-| Texas Spurs FC 12G Blue ETX | — | 2W-0L-1D (last 0-0) | 0W-2L (last 1-3) |
-| Atletico Dallas Youth 12G Clark | — | 1W-0L (last 3-0) | 0W-1L (last 0-1) |
-| 12G McMillian | — | 2W-0L (last 4-0) | 0W-3L (last 0-3) |
+| Texas LoneStars 12G | 2W-1L-1D (last 1-1) | — | 0W-2L (last 0-7) |
+| Steel United TX MSA 12G Premier | 4W-0L (last 5-0) | — | 0W-2L (last 3-6) |
+| Texas Spurs FC 12G Blue ETX | 2W-0L-1D (last 0-0) | — | 0W-2L (last 1-3) |
+| Atletico Dallas Youth 12G Clark | 1W-0L (last 3-0) | — | 0W-1L (last 0-1) |
+| 12G McMillian | 2W-0L (last 4-0) | — | 0W-3L (last 0-3) |
+| Fc Dallas ETX U13 Girls  | — | 1W-1L (last 4-1) | 0W-1L (last 1-4) |
 
-_Legend:_ **S1** = Extreme FC 12G Reyes · **S2** = StrikerZ DFW 2012G Purple · **S3** = ISW Academy 12G Ramirez
+_Legend:_ **S1** = StrikerZ DFW 2012G Purple · **S2** = Extreme FC 12G Reyes · **S3** = ISW Academy 12G Ramirez
 
 #### 11v11 Bronze Crossover — Bracket B _(3 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Midlothian Premier FC 2012 Girls | Midlothian Premier FC | 1470 | GREEN | ⬇ → 11v11 Silver |
+| 1 | Fever United 12G Schott | Fever United | — | YELLOW | ? uncertain |
 | 2 | Dallas Surf 12G Black | Dallas Surf | 1428 | GREEN | ⬇ → 11v11 Silver |
-| 3 | Fever United 12G Schott | Fever United | — | YELLOW | ? uncertain |
+| 3 | Midlothian Premier FC 2012 Girls | Midlothian Premier FC | 1470 | GREEN | ⬇ → 11v11 Silver |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -1628,32 +1628,32 @@ _Legend:_ **S1** = Extreme FC 12G Reyes · **S2** = StrikerZ DFW 2012G Purple ·
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| FC Dallas ETX 2013G - San Juan | 0W-1L (last 1-2) | — | 2W-0L (last 2-1) |
-| StrikerZ DFW 2012G Purple | 1W-0L-1D (last 1-1) | — | 1W-0L (last 3-0) |
-| Boerne Soccer Club 12G Red 115 | — | 2W-0L (last 3-1) | 0W-0L-1D (last 2-2) |
-| Dallas Surf 12/13G East 241 | — | 1W-0L (last 5-1) | 1W-0L (last 3-0) |
-| 12G McMillian 214 | — | 1W-0L (last 3-1) | 1W-0L (last 3-0) |
-| BVB 12G Yellow Texoma - T | — | 1W-0L (last 4-3) | 1W-0L (last 4-0) |
+| FC Dallas ETX 2013G - San Juan | 2W-0L (last 2-1) | — | 0W-1L (last 1-2) |
+| BVB 12G Yellow Texoma (Lopez) | 1W-0L (last 4-0) | 1W-0L (last 4-3) | — |
+| StrikerZ DFW 2012G Purple | 1W-0L (last 3-0) | — | 1W-0L-1D (last 1-1) |
+| Boerne Soccer Club 12G Red 115 | 0W-0L-1D (last 2-2) | 2W-0L (last 3-1) | — |
+| Dallas Surf 12/13G East 241 | 1W-0L (last 3-0) | 1W-0L (last 5-1) | — |
+| 12G McMillian | 1W-0L (last 3-0) | 1W-0L (last 3-1) | — |
 
-_Legend:_ **S1** = Midlothian Premier FC 2012 Girls · **S2** = Dallas Surf 12G Black · **S3** = Fever United 12G Schott
+_Legend:_ **S1** = Fever United 12G Schott · **S2** = Dallas Surf 12G Black · **S3** = Midlothian Premier FC 2012 Girls
 
 #### 11v11 Silver — Bracket A _(5 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Solar South 12G Cameron RLNTX | Solar SC | 1485 | YELLOW |  |
-| 2 | Dallas Legacy 12G Olguin | Dallas Legacy | 1477 | GREEN |  |
-| 3 | Juventus Premier FC 12G | Juventus Premier FC | 1472 | GREEN |  |
-| 4 | ULETE FC 12G Andre | Ulete FC | 1470 | GREEN | ⬇ → 11v11 Bronze II |
-| 5 | ETX United 12G | East Texas United SC | — | RED | ? uncertain |
+| 1 | ULETE FC 12G Andre | Ulete FC | 1470 | GREEN | ⬇ → 11v11 Bronze II |
+| 2 | ETX United 12G | East Texas United SC | — | RED | ? uncertain |
+| 3 | Dallas Legacy 12G Olguin | Dallas Legacy | 1477 | GREEN |  |
+| 4 | Solar South 12G Cameron RLNTX | Solar SC | 1485 | YELLOW |  |
+| 5 | Juventus Premier FC 12G | Juventus Premier FC | 1472 | GREEN |  |
 
 **Past meetings _(6 games, last 24 months)_:**
 
 | Date | Home | Score | Away | Event |
 |------|------|-------|------|-------|
+| 2025-08-16 | ETX United 12G 30 | 3–1 | ULETE FC 12G Andre 86 | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
 | 2025-08-16 | Dallas Legacy 12G Olguin 78 | 2–1 | ULETE FC 12G Andre 86 | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
 | 2025-08-16 | Dallas Legacy 12G Olguin 78 | 1–3 | ETX United 12G 30 | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
-| 2025-08-16 | ETX United 12G 30 | 3–1 | ULETE FC 12G Andre 86 | BOB WISEMAN MEMORIAL - JUNIORS CUP QUALIFIER |
 | 2025-05-11 | ULETE FC 12G Andre | 6–2 | ETX United Stonger 12G | 2025 Carey Invitational |
 | 2025-05-11 | ULETE FC 12G Andre | 4–3 | ETX United Stonger 12G | 2025 Carey Invitational |
 | 2025-04-26 | ULETE FC 2012 G | 4–0 | Juventus PFC 12G | Girls Classic League 2024-25 |
@@ -1662,25 +1662,25 @@ _Legend:_ **S1** = Midlothian Premier FC 2012 Girls · **S2** = Dallas Surf 12G 
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| BSC Texas 12G | 1W-0L (last 3-1) | — | 1W-0L (last 2-0) | 1W-0L (last 4-0) | — |
-| FC Dallas Youth 12G North White | 1W-0L (last 4-2) | 1W-0L (last 3-2) | — | 1W-0L (last 4-2) | — |
-| Steel United TX MSA 12G Elite | — | 1W-0L (last 7-1) | 2W-1L (last 1-3) | 2W-0L (last 4-2) | — |
-| Frisco Fusion 12G Navy | 0W-1L (last 0-3) | 0W-2L (last 1-5) | — | — | — |
-| Solar ECNL 13G Bardon | 0W-1L (last 0-10) | 0W-1L (last 0-6) | — | — | — |
-| Dallas Surf 12G Black | 1W-0L (last 2-0) | — | — | 0W-0L-1D (last 2-2) | — |
-| Dallas Surf 2012G NL TX-N | 0W-1L (last 0-3) | 1W-2L (last 1-2) | — | — | — |
-| Coppell FC 12G Davies | 0W-2L (last 0-7) | 0W-1L (last 0-7) | — | — | — |
-| Dallas Texans 2012G ECNL-RL | — | 0W-1L (last 0-2) | — | 0W-1L (last 0-2) | — |
-| DFW United SC 12g Sutherland | — | 0W-0L-2D (last 2-2) | — | 3W-0L (last 2-0) | — |
-| Solar 12G Volkan | — | 1W-0L (last 4-0) | — | 0W-1L (last 0-4) | — |
-| LTFC 12G Premier | — | — | 1W-0L (last 1-0) | 0W-1L (last 1-3) | — |
-| Sting Royal ECNL RL NTX G12 Brave Gotcher | — | — | 0W-1L (last 0-3) | — | 0W-1L (last 0-1) |
-| Solar East 12G Hedges 118 | — | — | 0W-2L (last 0-1) | 1W-2L-1D (last 1-0) | — |
-| Americas FC '12G Laughley | — | — | 0W-0L-1D (last 2-2) | 1W-1L (last 0-1) | — |
+| BSC Texas 2012G | 1W-0L (last 4-0) | — | — | 1W-0L (last 3-1) | 1W-0L (last 2-0) |
+| Steel United TX MSA 12G Elite | 2W-0L (last 4-2) | — | 1W-0L (last 7-1) | — | 2W-1L (last 1-3) |
+| FC Dallas Youth 12G North White | 1W-0L (last 4-2) | — | 1W-0L (last 3-2) | 1W-0L (last 4-2) | — |
+| LTFC 12G Premier | 0W-1L (last 1-3) | — | — | — | 1W-0L (last 1-0) |
+| Solar 12G Volkan 107 | 0W-1L (last 0-4) | — | 1W-0L (last 4-0) | — | — |
+| FC Blitz 2012-1 | 1W-0L (last 3-1) | — | — | — | 0W-0L-2D (last 1-1) |
+| Elite Premier FC 2012/2013G Garcia | 1W-0L-1D (last 2-0) | — | — | — | 0W-0L-1D (last 1-1) |
+| Solar East 12G Hedges | 1W-2L-1D (last 1-0) | — | — | — | 0W-2L (last 0-1) |
+| Dallas Texans 2012G ECNL-RL | 0W-1L (last 0-2) | — | 0W-1L (last 0-2) | — | — |
+| Frisco Fusion 12G White | 0W-0L-1D (last 1-1) | — | — | — | 2W-1L (last 2-1) |
+| Sting G12 Gotcher | 0W-1L (last 0-3) | — | — | — | 0W-1L (last 0-5) |
+| Triumph Futbol Club 12G Cancelo | 1W-0L (last 3-1) | — | — | — | 1W-1L-1D (last 0-0) |
+| Americas FC '12G Laughley - LD | 1W-1L (last 0-1) | — | — | — | 0W-0L-1D (last 2-2) |
+| DFW United SC 12g Sutherland | 3W-0L (last 2-0) | — | 0W-0L-2D (last 2-2) | — | — |
+| Dallas Surf 12G Black | 0W-0L-1D (last 2-2) | — | — | 1W-0L (last 2-0) | — |
 
 _5 more shared opponents not shown._
 
-_Legend:_ **S1** = Solar South 12G Cameron RLNTX · **S2** = Dallas Legacy 12G Olguin · **S3** = Juventus Premier FC 12G · **S4** = ULETE FC 12G Andre · **S5** = ETX United 12G
+_Legend:_ **S1** = ULETE FC 12G Andre · **S2** = ETX United 12G · **S3** = Dallas Legacy 12G Olguin · **S4** = Solar South 12G Cameron RLNTX · **S5** = Juventus Premier FC 12G
 
 ---
 
@@ -1775,8 +1775,8 @@ _Legend:_ **S1** = Avanti SA White NPL NTX B11 · **S2** = NTX United FC 2011B P
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Lions Futbol Club 2011B | Lions Futbol Club | 1613 | GREEN |  |
-| 2 | TEXAS UNITED AC 11B ALDAMA | Texas United AC | 1569 | GREEN |  |
+| 1 | TEXAS UNITED AC 11B ALDAMA | Texas United AC | 1569 | GREEN |  |
+| 2 | Lions Futbol Club 2011B | Lions Futbol Club | 1613 | GREEN |  |
 | 3 | Texoma FC 2011 Boys Red | Texoma Football Club | 1563 | GREEN |  |
 | 4 | DKSC 11B RODRIGUEZ ETX | DKSC | 1543 | GREEN | ⬇ → Silver Elite Crossover |
 | 5 | Fever United 11B Yellow | Fever United | — | MISSING |  |
@@ -1792,25 +1792,25 @@ _Legend:_ **S1** = Avanti SA White NPL NTX B11 · **S2** = NTX United FC 2011B P
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| FCP Dynamos 11B | 2W-0L (last 4-1) | 1W-0L (last 7-2) | 1W-0L (last 4-0) | — | — |
-| Waco Premier F.C. Brujos | 1W-0L (last 5-1) | 1W-0L (last 9-1) | 0W-1L (last 0-5) | — | — |
-| Bayern Munich 11B Saba | 2W-0L (last 7-0) | — | 1W-0L (last 5-0) | — | — |
-| Puede 11B Gonzalez | 0W-0L-1D (last 1-1) | — | — | 1W-0L (last 5-4) | — |
-| Wichita Falls Premier FC | 1W-1L (last 3-2) | — | 0W-1L (last 0-6) | — | — |
-| Texas Spurs FC 11B | 1W-0L (last 1-0) | 1W-0L-1D (last 1-1) | — | — | — |
-| Sporting Oklahoma 11B White | 0W-1L-1D (last 0-1) | — | — | 0W-1L (last 2-4) | — |
-| WF ROADRUNNERS FC 11B RODRIGUEZ | 1W-0L (last 1-0) | — | 0W-0L-1D (last 2-2) | — | — |
-| Dutch Lions 11B PSV | 1W-0L (last 9-0) | — | 2W-0L (last 5-0) | — | — |
-| Frisco Fusion 11B Blue | 1W-0L (last 7-0) | — | 1W-0L (last 6-0) | — | — |
-| Solar East 11B Gonzales.R | 1W-0L (last 1-0) | — | 1W-0L (last 2-1) | — | — |
-| Chelsea East 11B Barrios | 0W-1L (last 0-2) | 2W-0L-1D (last 3-2) | — | — | — |
-| Coppell FC 11B Stricker Red | 0W-2L-1D (last 2-3) | — | — | 1W-0L-1D (last 2-1) | — |
-| Chelsea East 11B - Plano | 0W-1L (last 2-3) | — | — | 0W-1L (last 2-3) | — |
-| FC Strikers 11B | 1W-0L (last 4-1) | 2W-0L (last 5-2) | — | — | — |
+| FCP Dynamos 11B | 1W-0L (last 7-2) | 2W-0L (last 4-1) | 1W-0L (last 4-0) | — | — |
+| Waco Premier F.C. Brujos | 1W-0L (last 9-1) | 1W-0L (last 5-1) | 0W-1L (last 0-5) | — | — |
+| FC Strikers 11B | 2W-0L (last 5-2) | 1W-0L (last 4-1) | — | — | — |
+| Texas Spurs FC 11B Braggs | 1W-0L-1D (last 1-1) | 1W-0L (last 1-0) | — | — | — |
+| Kernow Storm FC 11B  Barrios Cruz (Prev. Chelsea East) | 2W-0L-1D (last 3-2) | 0W-1L (last 0-2) | — | — | — |
+| FC Blue Boys 11B Balleza Red | 1W-0L (last 5-1) | — | — | 1W-1L (last 1-2) | — |
+| Bayern Munich 11B Saba | — | 2W-0L (last 7-0) | 1W-0L (last 5-0) | — | — |
+| Puede 11B Gonzalez | — | 0W-0L-1D (last 1-1) | — | 1W-0L (last 5-4) | — |
+| Wichita Falls Premier FC | — | 1W-1L (last 3-2) | 0W-1L (last 0-6) | — | — |
+| Sporting Oklahoma 11B White | — | 0W-1L-1D (last 0-1) | — | 0W-1L (last 2-4) | — |
+| WF ROADRUNNERS FC 11B RODRIGUEZ | — | 1W-0L (last 1-0) | 0W-0L-1D (last 2-2) | — | — |
+| Dutch Lions 11B PSV | — | 1W-0L (last 9-0) | 2W-0L (last 5-0) | — | — |
+| Frisco Fusion 11B Blue | — | 1W-0L (last 7-0) | 1W-0L (last 6-0) | — | — |
+| Solar East 11B Gonzales.R | — | 1W-0L (last 1-0) | 1W-0L (last 2-1) | — | — |
+| Coppell FC 11B Stricker Red | — | 0W-2L-1D (last 2-3) | — | 1W-0L-1D (last 2-1) | — |
 
 _5 more shared opponents not shown._
 
-_Legend:_ **S1** = Lions Futbol Club 2011B · **S2** = TEXAS UNITED AC 11B ALDAMA · **S3** = Texoma FC 2011 Boys Red · **S4** = DKSC 11B RODRIGUEZ ETX · **S5** = Fever United 11B Yellow
+_Legend:_ **S1** = TEXAS UNITED AC 11B ALDAMA · **S2** = Lions Futbol Club 2011B · **S3** = Texoma FC 2011 Boys Red · **S4** = DKSC 11B RODRIGUEZ ETX · **S5** = Fever United 11B Yellow
 
 ### U15 Girls
 
@@ -1819,8 +1819,8 @@ _Legend:_ **S1** = Lions Futbol Club 2011B · **S2** = TEXAS UNITED AC 11B ALDAM
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
 | 1 | Dallas Surf 11G Black | Dallas Surf | 1539 | GREEN | ⬆ → DS Bronze |
-| 2 | Solar 11G Richardson RL NTX | Solar SC | 1479 | GREEN |  |
-| 3 | BVB 11G Black East (Contreras) | BVB International Academy Texas | 1440 | GREEN |  |
+| 2 | BVB 11G Black East (Contreras) | BVB International Academy Texas | 1440 | GREEN |  |
+| 3 | Solar 11G Richardson RL NTX | Solar SC | 1479 | GREEN |  |
 
 **Past meetings _(2 games, last 24 months)_:**
 
@@ -1833,29 +1833,29 @@ _Legend:_ **S1** = Lions Futbol Club 2011B · **S2** = TEXAS UNITED AC 11B ALDAM
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| DFW United 11G Sutherland | 0W-1L (last 1-6) | 0W-1L (last 1-5) | 0W-1L (last 1-2) |
-| Tyler FC 12/11G - LD | 0W-1L (last 1-4) | 0W-2L (last 1-4) | 0W-2L (last 0-4) |
-| Solar 11G Givens ECNL RL NTX | 0W-1L (last 0-5) | 0W-1L (last 0-4) | — |
-| Solar Black ECNL NTX | 1W-2L (last 2-1) | — | 0W-1L (last 1-2) |
-| Dallas Cosmos 11G White | 1W-0L (last 2-0) | — | 0W-0L-1D (last 0-0) |
-| Avanti SA 11G Cangas (Prev Fire FC 11G Cangas) | 0W-0L-1D (last 2-2) | — | 0W-0L-2D (last 1-1) |
-| FCD-ETX '11G Premier Red | 1W-0L (last 3-2) | — | 1W-0L (last 2-1) |
-| Hurricanes FC 2011G | 0W-1L (last 0-4) | — | 0W-1L (last 0-4) |
-| The 956 United 11G Red DPL | 0W-1L (last 0-4) | — | 0W-0L-1D (last 0-0) |
-| Dallas Cosmos 11G Black | 2W-0L (last 2-0) | — | 1W-1L (last 0-1) |
-| FC Dallas ETX 11G Haskins - LD - NL | 0W-1L (last 1-5) | — | 0W-1L-1D (last 1-5) |
-| FC Dallas Youth 11G North White | 1W-1L (last 2-1) | — | 0W-1L (last 0-4) |
-| Dallas Surf 2011G NL TX-N | 0W-1L (last 0-4) | — | 0W-1L (last 0-5) |
-| Frisco Fusion 11G Navy - NL | 0W-1L (last 0-1) | — | 0W-3L (last 0-4) |
+| DFW United 11G Sutherland | 0W-1L (last 1-6) | 0W-1L (last 1-2) | 0W-1L (last 1-5) |
+| Tyler FC 12/11G - LD | 0W-1L (last 1-4) | 0W-2L (last 0-4) | 0W-2L (last 1-4) |
+| Solar 11G Givens ECNL RL NTX | 0W-1L (last 0-5) | — | 0W-1L (last 0-4) |
+| Solar Black ECNL NTX | 1W-2L (last 2-1) | 0W-1L (last 1-2) | — |
+| Dallas Cosmos 11G White | 1W-0L (last 2-0) | 0W-0L-1D (last 0-0) | — |
+| Avanti SA 11G Cangas (Prev Fire FC 11G Cangas) | 0W-0L-1D (last 2-2) | 0W-0L-2D (last 1-1) | — |
+| FCD-ETX '11G Premier Red | 1W-0L (last 3-2) | 1W-0L (last 2-1) | — |
+| Hurricanes FC 2011G | 0W-1L (last 0-4) | 0W-1L (last 0-4) | — |
+| The 956 United 11G Red DPL | 0W-1L (last 0-4) | 0W-0L-1D (last 0-0) | — |
+| Dallas Cosmos 11G Black | 2W-0L (last 2-0) | 1W-1L (last 0-1) | — |
+| FC Dallas ETX 11G Haskins - LD - NL | 0W-1L (last 1-5) | 0W-1L-1D (last 1-5) | — |
+| FC Dallas Youth 11G North White | 1W-1L (last 2-1) | 0W-1L (last 0-4) | — |
+| Dallas Surf 2011G NL TX-N | 0W-1L (last 0-4) | 0W-1L (last 0-5) | — |
+| Frisco Fusion 11G Navy - NL | 0W-1L (last 0-1) | 0W-3L (last 0-4) | — |
 
-_Legend:_ **S1** = Dallas Surf 11G Black · **S2** = Solar 11G Richardson RL NTX · **S3** = BVB 11G Black East (Contreras)
+_Legend:_ **S1** = Dallas Surf 11G Black · **S2** = BVB 11G Black East (Contreras) · **S3** = Solar 11G Richardson RL NTX
 
 #### Silver — Bracket B _(3 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Dallas Cosmos 11G White | Dallas Cosmos Soccer Club | 1433 | GREEN |  |
-| 2 | Coppell FC 11G Morales | Coppell Youth SA | 1422 | GREEN |  |
+| 1 | Coppell FC 11G Morales | Coppell Youth SA | 1422 | GREEN |  |
+| 2 | Dallas Cosmos 11G White | Dallas Cosmos Soccer Club | 1433 | GREEN |  |
 | 3 | FC Dallas Youth 11G White | FC Dallas Youth | 1399 | GREEN |  |
 
 **Past meetings _(1 games, last 24 months)_:**
@@ -1868,31 +1868,31 @@ _Legend:_ **S1** = Dallas Surf 11G Black · **S2** = Solar 11G Richardson RL NTX
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Solar SW 11G Cancel  | 0W-1L (last 0-3) | 0W-3L (last 0-1) | 0W-1L (last 0-1) |
-| ETX United D’Spain 11G | 0W-1L (last 0-2) | 0W-1L-1D (last 0-2) | — |
-| Comets FC 2011G | 0W-1L (last 0-1) | 1W-0L (last 1-0) | — |
-| Dallas Surf 11G Black  | 0W-1L (last 0-2) | 0W-1L (last 0-3) | — |
-| Texas Spurs FC 11G  | 0W-1L (last 0-1) | 0W-1L (last 0-2) | — |
+| Solar SW 11G Cancel | 0W-3L (last 0-1) | 0W-1L (last 0-3) | 0W-1L (last 0-1) |
+| NTX Celtic 11G Gambaro | 2W-0L-1D (last 2-1) | — | 0W-1L (last 0-2) |
+| Dallas Surf 11G Black | 0W-1L (last 0-3) | 0W-1L (last 0-2) | — |
 | Drifters FC 11G Lopez | 0W-1L (last 0-1) | 0W-1L (last 0-1) | — |
-| Americas FC '11 Girls - LD | 0W-1L (last 0-2) | 1W-0L (last 1-0) | — |
-| NTX Celtic 11G Gambaro | — | 2W-0L-1D (last 2-1) | 0W-1L (last 0-2) |
-| WTX Lightning SC '11G | — | 0W-1L (last 1-6) | 0W-1L (last 0-2) |
-| Frisco Fusion 11G NPL-NTX Blue | — | 2W-0L (last 2-0) | 1W-0L-1D (last 1-1) |
-| Sting NPL NTX Premier G11 Wong | — | 0W-1L (last 2-4) | 0W-1L-1D (last 0-7) |
-| FC Dallas Texoma 11G - LD | — | 0W-1L (last 1-2) | 0W-2L (last 1-5) |
-| Revolution Premier SC 11G Blue Zuazua | — | 1W-0L (last 2-0) | 0W-2L (last 1-6) |
-| LC United 11G Red Wagner | — | 1W-0L (last 2-0) | 1W-0L (last 4-1) |
+| Comets FC 2011G | 1W-0L (last 1-0) | 0W-1L (last 0-1) | — |
+| Americas FC '11 Girls - LD | 1W-0L (last 1-0) | 0W-1L (last 0-2) | — |
+| ETX United D’Spain 11G - LD | 0W-1L-1D (last 0-2) | 0W-1L (last 0-2) | — |
+| Texas Spurs FC 11G | 0W-1L (last 0-2) | 0W-1L (last 0-1) | — |
+| WTX Lightning SC '11G | 0W-1L (last 1-6) | — | 0W-1L (last 0-2) |
+| Frisco Fusion 11G NPL-NTX Blue | 2W-0L (last 2-0) | — | 1W-0L-1D (last 1-1) |
+| Sting NPL NTX Premier G11 Wong | 0W-1L (last 2-4) | — | 0W-1L-1D (last 0-7) |
+| FC Dallas Texoma 11G - LD | 0W-1L (last 1-2) | — | 0W-2L (last 1-5) |
+| Revolution Premier SC 11G Blue Zuazua | 1W-0L (last 2-0) | — | 0W-2L (last 1-6) |
+| LC United 11G Red Wagner | 1W-0L (last 2-0) | — | 1W-0L (last 4-1) |
 
-_Legend:_ **S1** = Dallas Cosmos 11G White · **S2** = Coppell FC 11G Morales · **S3** = FC Dallas Youth 11G White
+_Legend:_ **S1** = Coppell FC 11G Morales · **S2** = Dallas Cosmos 11G White · **S3** = FC Dallas Youth 11G White
 
 #### Silver Elite Crossover — Bracket A _(4 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Solar 11G Givens ECNL RL NTX | Solar SC | 1562 | GREEN |  |
-| 2 | FC Dallas Youth 11G North White | FC Dallas Youth | 1544 | GREEN |  |
-| 3 | DFW United 11G Sutherland | DFW United SC | 1487 | GREEN | ⬇ → DS Silver |
-| 4 | Solar South 11G Cameron | Solar SC | 1477 | YELLOW | ⬇ → DS Silver |
+| 1 | Solar South 11G Cameron | Solar SC | 1477 | YELLOW | ⬇ → DS Silver |
+| 2 | DFW United 11G Sutherland | DFW United SC | 1487 | GREEN | ⬇ → DS Silver |
+| 3 | FC Dallas Youth 11G North White | FC Dallas Youth | 1544 | GREEN |  |
+| 4 | Solar 11G Givens ECNL RL NTX | Solar SC | 1562 | GREEN |  |
 
 **Past meetings _(10 games, last 24 months)_:**
 
@@ -1902,8 +1902,8 @@ _Legend:_ **S1** = Dallas Cosmos 11G White · **S2** = Coppell FC 11G Morales ·
 | 2025-11-23 | Solar 11G Givens ECNL RL NTX | 3–0 | Solar South 11G Cameron | League Challenge Cup Fall 2025 |
 | 2025-11-23 | Solar 11G Givens ECNL RL NTX | 1–1 | Solar South 11G Cameron | League Challenge Cup Fall 2025 |
 | 2025-11-11 | FC Dallas Youth 11G North White | 2–0 | DFW United 11G Sutherland | Girls Classic League 2025-26 |
-| 2025-05-25 | Solar 11G Givens ECNL RL NTX | 2–5 | Solar South 11G Cameron | 2025 NTX Celtic Summer Classic |
 | 2025-05-25 | DFW United 11G Sutherland | 2–0 | Solar South 11G Cameron | 2025 NTX Celtic Summer Classic |
+| 2025-05-25 | Solar 11G Givens ECNL RL NTX | 2–5 | Solar South 11G Cameron | 2025 NTX Celtic Summer Classic |
 | 2025-05-24 | Solar 11G Givens ECNL RL NTX | 0–1 | DFW United 11G Sutherland | 2025 NTX Celtic Summer Classic |
 | 2025-05-02 | FC Dallas Youth 11G North White | 0–2 | Solar South 11G Cameron | Texas State Cup 2025 |
 | 2025-03-16 | Solar South 11G Cameron | 2–0 | Solar 11G Givens ECNL RL NTX | 2025 Dallas St. Paddy's Day Invitational |
@@ -1913,25 +1913,25 @@ _Legend:_ **S1** = Dallas Cosmos 11G White · **S2** = Coppell FC 11G Morales ·
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Sting Black ECNL RL NTX G11 Hart | 1W-0L (last 2-0) | 1W-0L-1D (last 2-0) | 1W-0L (last 2-0) | 0W-1L-1D (last 1-1) |
-| Fire FC 11G Cangas | 0W-0L-1D (last 0-0) | 0W-2L (last 2-3) | 2W-1L (last 7-1) | — |
-| Tyler FC 12/11G | 0W-1L (last 3-6) | 0W-2L (last 0-3) | 0W-1L (last 2-3) | — |
-| Sting G11 Rey  | 0W-1L (last 0-1) | 0W-1L-1D (last 1-2) | 1W-0L (last 3-0) | — |
-| DKSC 11G ECNL RL 75 | 0W-1L (last 1-3) | 0W-1L (last 1-3) | 1W-0L (last 5-1) | — |
-| Dallas Surf 11G Black | 1W-0L (last 5-0) | 1W-1L (last 1-2) | 1W-0L (last 6-1) | — |
-| Atletico Dallas Youth Blue ECNL RL NTX G11 | 1W-1L (last 1-2) | 1W-2L (last 0-1) | — | — |
-| Solar 11G Richardson RL NTX | 1W-0L (last 4-0) | — | 1W-0L (last 5-1) | — |
-| NTX Celtic FC Gambaro 11G | 1W-0L (last 4-0) | — | — | 1W-0L (last 11-1) |
-| BVB 11G GA | 0W-1L (last 1-3) | 1W-0L (last 3-1) | — | — |
-| Dallas Texans ECRL G11 | 0W-1L (last 0-5) | 0W-1L (last 1-4) | — | — |
-| FIERCE 11-12G NL  | 0W-0L-1D (last 2-2) | — | 1W-0L (last 5-0) | — |
-| Solar SW 12/11G Ramirez | 1W-0L (last 3-0) | — | — | 1W-0L (last 1-0) |
-| FC Dallas ETX 11G Haskins - LD - NL | — | 2W-1L (last 2-0) | 0W-0L-1D (last 1-1) | — |
-| Cosmos FC ECNL RL STXCL G11. | — | 0W-1L (last 0-7) | 0W-1L (last 1-2) | — |
+| Sting Black ECNL RL NTX G11 Hart | 0W-1L-1D (last 1-1) | 1W-0L (last 2-0) | 1W-0L-1D (last 2-0) | 1W-0L (last 2-0) |
+| Avanti SA 11G Cangas (Prev Fire FC 11G Cangas) | — | 2W-1L (last 7-1) | 0W-2L (last 2-3) | 0W-0L-1D (last 0-0) |
+| Sting G11 Rey | — | 1W-0L (last 3-0) | 0W-1L-1D (last 1-2) | 0W-1L (last 0-1) |
+| DKSC 11G ECNL RL 75 | — | 1W-0L (last 5-1) | 0W-1L (last 1-3) | 0W-1L (last 1-3) |
+| Dallas Surf 11G Black - NL | — | 1W-0L (last 6-1) | 1W-1L (last 1-2) | 1W-0L (last 5-0) |
+| Tyler FC 12/11G - LD | — | 0W-1L (last 2-3) | 0W-2L (last 0-3) | 0W-1L (last 3-6) |
+| Solar Black ECNL NTX | 1W-0L (last 1-0) | — | — | 1W-0L (last 3-0) |
+| Lonestar SC USC TX RL G11 | 1W-0L (last 2-0) | — | 0W-0L-1D (last 0-0) | — |
+| NTX Celtic 11G Gambaro | 1W-0L (last 11-1) | — | — | 1W-0L (last 4-0) |
+| Cosmos FC ECNL RL STXCL G11. | — | 0W-1L (last 1-2) | 0W-1L (last 0-7) | — |
+| Solar 11G Richardson RL NTX | — | 1W-0L (last 5-1) | — | 1W-0L (last 4-0) |
+| Frisco Fusion 11G Navy | — | 1W-2L (last 1-0) | 1W-0L (last 2-1) | — |
+| Dallas Cosmos 11G Black 123 | — | 2W-0L (last 2-1) | 1W-0L (last 4-0) | — |
+| FIERCE G11 | — | 1W-0L (last 5-0) | — | 0W-0L-1D (last 2-2) |
+| DKSC 11G EVANS FDL - FL | — | 1W-2L (last 1-3) | 0W-2L-1D (last 1-2) | — |
 
 _8 more shared opponents not shown._
 
-_Legend:_ **S1** = Solar 11G Givens ECNL RL NTX · **S2** = FC Dallas Youth 11G North White · **S3** = DFW United 11G Sutherland · **S4** = Solar South 11G Cameron
+_Legend:_ **S1** = Solar South 11G Cameron · **S2** = DFW United 11G Sutherland · **S3** = FC Dallas Youth 11G North White · **S4** = Solar 11G Givens ECNL RL NTX
 
 ---
 
@@ -1973,10 +1973,10 @@ _Legend:_ **S1** = NTX United FC 2010B Costello · **S2** = Statik '10 Boys · *
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Fever United 10B Jacobo | Fever United | 1518 | YELLOW | ⬆ → HS 2 |
+| 1 | Texas Spurs FC 10B White | Texas Spurs | 1505 | GREEN |  |
 | 2 | Plano Planets |  | 1511 | RED |  |
-| 3 | Texas Spurs FC 10B White | Texas Spurs | 1505 | GREEN |  |
-| 4 | FC LEGENDS UTD 10/11B Red | FC LEGENDS UTD | 1427 | GREEN | ⬇ → HS 1 |
+| 3 | FC LEGENDS UTD 10/11B Red | FC LEGENDS UTD | 1427 | GREEN | ⬇ → HS 1 |
+| 4 | Fever United 10B Jacobo | Fever United | 1518 | YELLOW | ⬆ → HS 2 |
 
 **Past meetings _(2 games, last 24 months)_:**
 
@@ -1989,14 +1989,14 @@ _Legend:_ **S1** = NTX United FC 2010B Costello · **S2** = Statik '10 Boys · *
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Shreveport United 2010B Blue | 0W-1L (last 2-6) | — | 1W-1L (last 2-1) | — |
-| CHALLENGE UNITED 2010 EAST | 1W-0L (last 2-0) | — | 1W-0L (last 2-0) | — |
-| Olympians SC 10B Red Chadbourn | 1W-0L (last 3-2) | — | 0W-1L-1D (last 0-0) | — |
-| TrypCityFC 10B | 0W-0L-1D (last 0-0) | — | 0W-2L (last 0-2) | — |
-| DS Stars 10B Maroon | 1W-0L (last 13-0) | — | 1W-0L (last 10-0) | — |
-| Cavalry 2010 Red | 1W-0L (last 6-3) | — | 0W-1L (last 0-1) | — |
+| Olympians SC 10B Red Chadbourn | 0W-1L-1D (last 0-0) | — | — | 1W-0L (last 3-2) |
+| TrypCityFC 10B Johnson | 0W-2L (last 0-2) | — | — | 0W-0L-1D (last 0-0) |
+| CHALLENGE UNITED 2010 EAST | 1W-0L (last 2-0) | — | — | 1W-0L (last 2-0) |
+| Shreveport United 2010B Blue | 1W-1L (last 2-1) | — | — | 0W-1L (last 2-6) |
+| DS Stars 10B Maroon | 1W-0L (last 10-0) | — | — | 1W-0L (last 13-0) |
+| Cavalry 2010 Red | 0W-1L (last 0-1) | — | — | 1W-0L (last 6-3) |
 
-_Legend:_ **S1** = Fever United 10B Jacobo · **S2** = Plano Planets · **S3** = Texas Spurs FC 10B White · **S4** = FC LEGENDS UTD 10/11B Red
+_Legend:_ **S1** = Texas Spurs FC 10B White · **S2** = Plano Planets · **S3** = FC LEGENDS UTD 10/11B Red · **S4** = Fever United 10B Jacobo
 
 #### DS Silver Crossover — Bracket A _(3 teams)_
 
@@ -2041,10 +2041,10 @@ _No common opponents shared by 2+ teams in this bracket._
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | BC Elite 10/11G | BC Elite | 1486 | GREEN |  |
+| 1 | Victory SC 2010 Girls Black | Victory SC | 1453 | GREEN |  |
 | 2 | Solar South 10G Cameron | Solar SC | 1472 | GREEN |  |
-| 3 | Victory SC 2010 Girls Black | Victory SC | 1453 | GREEN |  |
-| 4 | FC Dallas Youth White ECNL RL NTX G10 | FC Dallas Youth | — | YELLOW | ? uncertain |
+| 3 | FC Dallas Youth White ECNL RL NTX G10 | FC Dallas Youth | — | YELLOW | ? uncertain |
+| 4 | BC Elite 10/11G | BC Elite | 1486 | GREEN |  |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -2056,23 +2056,23 @@ _No common opponents shared by 2+ teams in this bracket._
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Renegades 10G Duffy | 2W-0L-1D (last 1-0) | — | 2W-0L (last 6-0) | — |
-| Renegades 10G Parker | 2W-1L (last 4-0) | — | 4W-0L (last 4-1) | — |
-| Texas Spurs FC 10G | 0W-0L-1D (last 2-2) | — | 0W-1L (last 1-3) | — |
-| Kernow Storm FC G10 Classic Williams | 2W-0L (last 6-1) | — | 1W-0L (last 6-1) | — |
-| FC Dallas - Texoma 10G Pride - LD | 0W-1L (last 1-2) | — | 2W-0L (last 4-1) | — |
-| Solar SC RL 11G Adames | — | 0W-1L (last 1-3) | — | 0W-1L (last 0-1) |
-| Frisco Fusion 10G Navy - NL | — | 1W-1L-1D (last 3-1) | 0W-1L (last 1-9) | — |
-| Solar 10G Megli White | — | 1W-0L (last 4-1) | 0W-0L-1D (last 0-0) | — |
+| Renegades 10G Duffy | 2W-0L (last 6-0) | — | — | 2W-0L-1D (last 1-0) |
+| Solar 10G Megli White | 0W-0L-1D (last 0-0) | 1W-0L (last 4-1) | — | — |
+| Texas Spurs FC 10G | 0W-1L (last 1-3) | — | — | 0W-0L-1D (last 2-2) |
+| Renegades 10G Parker | 4W-0L (last 4-1) | — | — | 2W-1L (last 4-0) |
+| Frisco Fusion 10G Navy ~ | 0W-1L (last 1-9) | 1W-1L-1D (last 3-1) | — | — |
+| FC Dallas - Texoma 10G Pride - LD | 2W-0L (last 4-1) | — | — | 0W-1L (last 1-2) |
+| Kernow Storm FC G10 Classic Williams | 1W-0L (last 6-1) | — | — | 2W-0L (last 6-1) |
+| Solar SC RL 11G Adames | — | 0W-1L (last 1-3) | 0W-1L (last 0-1) | — |
 
-_Legend:_ **S1** = BC Elite 10/11G · **S2** = Solar South 10G Cameron · **S3** = Victory SC 2010 Girls Black · **S4** = FC Dallas Youth White ECNL RL NTX G10
+_Legend:_ **S1** = Victory SC 2010 Girls Black · **S2** = Solar South 10G Cameron · **S3** = FC Dallas Youth White ECNL RL NTX G10 · **S4** = BC Elite 10/11G
 
 #### HS 2 — Bracket A _(4 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Texoma FC 2010 Girls Red | Texoma Football Club | 1514 | GREEN |  |
-| 2 | ISW Academy 10G | ISW Academy | — | GREEN | ? uncertain |
+| 1 | ISW Academy 10G | ISW Academy | — | GREEN | ? uncertain |
+| 2 | Texoma FC 2010 Girls Red | Texoma Football Club | 1514 | GREEN |  |
 | 3 | ATLETICO DALLAS YOUTH NPL NTX 10G HERNANDEZ-WTX | Atletico Dallas Youth | — | RED | ? uncertain |
 | 4 | Solar 10G Megli GCL | Solar SC | — | GREEN | ? uncertain |
 
@@ -2088,17 +2088,17 @@ _Legend:_ **S1** = BC Elite 10/11G · **S2** = Solar South 10G Cameron · **S3**
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| World Sport FC 10G (prev Renegades) | 1W-0L (last 2-1) | 0W-1L (last 0-4) | — | 0W-0L-2D (last 0-0) |
-| FC Bayern Dallas South 10G Saba | 3W-0L (last 3-0) | 1W-1L (last 5-0) | — | — |
-| Victory SC 2010 Girls Green | 1W-0L (last 3-1) | 2W-0L (last 5-1) | — | — |
-| Real Madrid 10G-White | 2W-0L (last 7-0) | 2W-0L (last 8-0) | — | — |
-| FC Forney 10G | 2W-0L (last 3-2) | 2W-0L-2D (last 3-1) | — | — |
-| FC Dallas Youth 10G North Red | 0W-0L-2D (last 4-4) | 1W-1L (last 3-2) | — | — |
-| GLASA Lady Lions 10G | 1W-0L (last 9-0) | 1W-0L (last 3-0) | — | — |
-| BC Elite 11G 121 | — | 1W-0L (last 6-1) | — | 2W-0L (last 5-3) |
-| Steel United TX MSA 11G Elite | — | 0W-1L (last 3-5) | 1W-0L-1D (last 2-0) | — |
+| World Sport FC 10G (prev Renegades) | 0W-1L (last 0-4) | 1W-0L (last 2-1) | — | 0W-0L-2D (last 0-0) |
+| Victory SC 2010 Girls Green | 2W-0L (last 5-1) | 1W-0L (last 3-1) | — | — |
+| FC Forney 10G | 2W-0L-2D (last 3-1) | 2W-0L (last 3-2) | — | — |
+| FC Dallas Youth 10G North Red | 1W-1L (last 3-2) | 0W-0L-2D (last 4-4) | — | — |
+| Real Madrid 10G-White | 2W-0L (last 8-0) | 2W-0L (last 7-0) | — | — |
+| FC Bayern Dallas South 10G Saba | 1W-1L (last 5-0) | 3W-0L (last 3-0) | — | — |
+| BC Elite 11G 121 | 1W-0L (last 6-1) | — | — | 2W-0L (last 5-3) |
+| Steel United TX MSA 11G Elite | 0W-1L (last 3-5) | — | 1W-0L-1D (last 2-0) | — |
+| GLASA Lady Lions 10G | 1W-0L (last 3-0) | 1W-0L (last 9-0) | — | — |
 
-_Legend:_ **S1** = Texoma FC 2010 Girls Red · **S2** = ISW Academy 10G · **S3** = ATLETICO DALLAS YOUTH NPL NTX 10G HERNANDEZ-WTX · **S4** = Solar 10G Megli GCL
+_Legend:_ **S1** = ISW Academy 10G · **S2** = Texoma FC 2010 Girls Red · **S3** = ATLETICO DALLAS YOUTH NPL NTX 10G HERNANDEZ-WTX · **S4** = Solar 10G Megli GCL
 
 ---
 
@@ -2118,11 +2118,11 @@ _No past meetings between these teams in the last 24 months._
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | OTIS F.C | Otis FC | 1622 | GREEN |  |
-| 2 | Atletico Dallas Youth Blue ECNL-RL NTX B09 | Atletico Dallas Youth | 1521 | YELLOW | ⬇ → DS Silver |
-| 3 | PSG DFW 09B ORTEGA | Paris Saint-Germain Academy DFW | — | GREEN | ? uncertain |
+| 1 | PSG DFW 09B ORTEGA | Paris Saint-Germain Academy DFW | — | GREEN | ? uncertain |
+| 2 | OTIS F.C | Otis FC | 1622 | GREEN |  |
+| 3 | TAG 09B Black | TAG Soccer | — | YELLOW | ? uncertain |
 | 4 | Solar East 09B Spear | Solar SC | — | MISSING |  |
-| 5 | TAG 09B Black | TAG Soccer | — | YELLOW | ? uncertain |
+| 5 | Atletico Dallas Youth Blue ECNL-RL NTX B09 | Atletico Dallas Youth | 1521 | YELLOW | ⬇ → DS Silver |
 
 **Past meetings _(3 games, last 24 months)_:**
 
@@ -2136,24 +2136,24 @@ _No past meetings between these teams in the last 24 months._
 
 | Opponent | S1 | S2 | S3 | S4 | S5 |
 |----------|------|------|------|------|------|
-| Evolution 09B McMillian | 1W-0L (last 3-1) | 0W-0L-1D (last 2-2) | — | — | — |
-| Dallas Texans ETX Ruiz 09/10B | 2W-1L (last 1-0) | 0W-0L-1D (last 1-1) | — | — | — |
-| Frisco Fusion 09B Blue | 0W-2L (last 0-3) | — | 2W-0L (last 4-1) | — | — |
-| FCD-ETX '09B Schubert | — | 0W-1L (last 1-3) | 1W-0L (last 1-0) | — | — |
-| Sting 09B Barrientos | — | — | 1W-0L (last 2-1) | — | 2W-0L (last 2-1) |
-| Atletico Dallas FC 09B Torres | — | — | 1W-0L (last 2-0) | — | 1W-1L (last 2-4) |
-| AC River 09 Boys - UPSL  | — | — | 1W-0L (last 2-0) | — | 0W-0L-1D (last 0-0) |
+| Sting 09B Barrientos | 1W-0L (last 2-1) | — | 2W-0L (last 2-1) | — | — |
+| Atletico Dallas FC 09B Torres | 1W-0L (last 2-0) | — | 1W-1L (last 2-4) | — | — |
+| AC River 09 Boys - UPSL  | 1W-0L (last 2-0) | — | 0W-0L-1D (last 0-0) | — | — |
+| FCD ETX 09B Schubert - T | 1W-0L (last 1-0) | — | — | — | 0W-1L (last 1-3) |
+| Frisco Fusion 09B Blue | 2W-0L (last 4-1) | 0W-2L (last 0-3) | — | — | — |
+| Evolution 09B McMillian | — | 1W-0L (last 3-1) | — | — | 0W-0L-1D (last 2-2) |
+| Dallas Texans ETX Ruiz 09/10B | — | 2W-1L (last 1-0) | — | — | 0W-0L-1D (last 1-1) |
 
-_Legend:_ **S1** = OTIS F.C · **S2** = Atletico Dallas Youth Blue ECNL-RL NTX B09 · **S3** = PSG DFW 09B ORTEGA · **S4** = Solar East 09B Spear · **S5** = TAG 09B Black
+_Legend:_ **S1** = PSG DFW 09B ORTEGA · **S2** = OTIS F.C · **S3** = TAG 09B Black · **S4** = Solar East 09B Spear · **S5** = Atletico Dallas Youth Blue ECNL-RL NTX B09
 
 #### DS Silver — Bracket A _(4 teams)_
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
 | 1 | Arsenal CF 09B | Independent Teams - NTX | 1587 | GREEN |  |
-| 2 | Atletico Dallas Youth FDL 09B Reyes | Atletico Dallas Youth | 1456 | GREEN | ⬇ → HS 1 |
-| 3 | Toros FC 2009/2010 Black | El Paso Premier League | — | MISSING |  |
-| 4 | Bravos Academy 10B (Garcia) | FC JUAREZ DALLAS | — | YELLOW | ? uncertain |
+| 2 | Toros FC 2009/2010 Black | El Paso Premier League | — | MISSING |  |
+| 3 | Bravos Academy 10B (Garcia) | FC JUAREZ DALLAS | — | YELLOW | ? uncertain |
+| 4 | Atletico Dallas Youth FDL 09B Reyes | Atletico Dallas Youth | 1456 | GREEN | ⬇ → HS 1 |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -2165,9 +2165,9 @@ _Legend:_ **S1** = OTIS F.C · **S2** = Atletico Dallas Youth Blue ECNL-RL NTX B
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| FC Dallas Youth North NPL NTX B09 | 1W-0L (last 3-0) | 0W-0L-1D (last 2-2) | — | — |
+| FC Dallas Youth North NPL NTX B09 | 1W-0L (last 3-0) | — | — | 0W-0L-1D (last 2-2) |
 
-_Legend:_ **S1** = Arsenal CF 09B · **S2** = Atletico Dallas Youth FDL 09B Reyes · **S3** = Toros FC 2009/2010 Black · **S4** = Bravos Academy 10B (Garcia)
+_Legend:_ **S1** = Arsenal CF 09B · **S2** = Toros FC 2009/2010 Black · **S3** = Bravos Academy 10B (Garcia) · **S4** = Atletico Dallas Youth FDL 09B Reyes
 
 ### U17 Girls
 
@@ -2175,8 +2175,8 @@ _Legend:_ **S1** = Arsenal CF 09B · **S2** = Atletico Dallas Youth FDL 09B Reye
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | NTX Celtic FC ECNL RL NTX G09 | NTX Celtic FC | 1533 | RED | ? uncertain |
-| 2 | Inter Dallas SC 09G | Dallas Inter Soccer Club | 1470 | GREEN |  |
+| 1 | Inter Dallas SC 09G | Dallas Inter Soccer Club | 1470 | GREEN |  |
+| 2 | NTX Celtic FC ECNL RL NTX G09 | NTX Celtic FC | 1533 | RED | ? uncertain |
 | 3 | Solar 09G Megli | Solar SC | 1421 | YELLOW |  |
 
 **Past meetings _(1 games, last 24 months)_:**
@@ -2189,10 +2189,10 @@ _Legend:_ **S1** = Arsenal CF 09B · **S2** = Atletico Dallas Youth FDL 09B Reye
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Atletico Dallas Youth 09G Clark 116 | — | 0W-3L (last 1-7) | 0W-1L-1D (last 0-0) |
-| Dallas Surf 09G Black | — | 0W-2L (last 1-3) | 0W-0L-2D (last 2-2) |
+| Atletico Dallas Youth 09G Clark 116 | 0W-3L (last 1-7) | — | 0W-1L-1D (last 0-0) |
+| Dallas Surf 09G Black | 0W-2L (last 1-3) | — | 0W-0L-2D (last 2-2) |
 
-_Legend:_ **S1** = NTX Celtic FC ECNL RL NTX G09 · **S2** = Inter Dallas SC 09G · **S3** = Solar 09G Megli
+_Legend:_ **S1** = Inter Dallas SC 09G · **S2** = NTX Celtic FC ECNL RL NTX G09 · **S3** = Solar 09G Megli
 
 #### HS 1 — Bracket B _(3 teams)_
 
@@ -2227,10 +2227,10 @@ _Legend:_ **S1** = Coppell FC 09G Sansom · **S2** = Dallas Legacy 09G Arroyo ·
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | Dallas Legacy 08B Arroyo | Dallas Legacy | 1597 | GREEN |  |
-| 2 | Premier FA 2008B Green | Premier Futbol Academy of San Antonio | — | GREEN | ? uncertain |
-| 3 | Kernow Storm FC WTX B08 Lubbock | Kernow Storm FC | — | GREEN | ? uncertain |
-| 4 | Solar 08B Volkan RLNTX | Solar SC | — | MISSING |  |
+| 1 | Kernow Storm FC WTX B08 Lubbock | Kernow Storm FC | — | GREEN | ? uncertain |
+| 2 | Dallas Legacy 08B Arroyo | Dallas Legacy | 1597 | GREEN |  |
+| 3 | Solar 08B Volkan RLNTX | Solar SC | — | MISSING |  |
+| 4 | Premier FA 2008B Green | Premier Futbol Academy of San Antonio | — | GREEN | ? uncertain |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -2242,10 +2242,10 @@ _Legend:_ **S1** = Coppell FC 09G Sansom · **S2** = Dallas Legacy 09G Arroyo ·
 
 | Opponent | S1 | S2 | S3 | S4 |
 |----------|------|------|------|------|
-| Chelsea East 08B Elite Espinosa | 1W-0L-1D (last 3-2) | — | 0W-1L (last 1-2) | — |
-| Neutral - Lions 2008 Red | — | 0W-0L-2D (last 1-1) | 0W-0L-1D (last 0-0) | — |
+| Lions 2008 Red | 0W-0L-1D (last 0-0) | — | — | 0W-0L-2D (last 1-1) |
+| Chelsea East 08B Elite | 0W-1L (last 1-2) | 1W-0L-1D (last 3-2) | — | — |
 
-_Legend:_ **S1** = Dallas Legacy 08B Arroyo · **S2** = Premier FA 2008B Green · **S3** = Kernow Storm FC WTX B08 Lubbock · **S4** = Solar 08B Volkan RLNTX
+_Legend:_ **S1** = Kernow Storm FC WTX B08 Lubbock · **S2** = Dallas Legacy 08B Arroyo · **S3** = Solar 08B Volkan RLNTX · **S4** = Premier FA 2008B Green
 
 ---
 
@@ -2257,9 +2257,9 @@ _Legend:_ **S1** = Dallas Legacy 08B Arroyo · **S2** = Premier FA 2008B Green �
 
 | Seed | Team | Club | Rating | Coverage | Flag |
 |------|------|------|--------|----------|------|
-| 1 | ETFC 07G Muhr | East Texas Football Club | 1545 | MISSING |  |
-| 2 | Atletico Dallas Youth 07/08G Clark | Atletico Dallas Youth | — | MISSING |  |
-| 3 | 07G GARCIA (TXN) | DKSC | — | MISSING |  |
+| 1 | 07G GARCIA (TXN) | DKSC | — | MISSING |  |
+| 2 | ETFC 07G Muhr | East Texas Football Club | 1545 | MISSING |  |
+| 3 | Atletico Dallas Youth 07/08G Clark | Atletico Dallas Youth | — | MISSING |  |
 
 **Past meetings _(1 games, last 24 months)_:**
 
@@ -2271,10 +2271,10 @@ _Legend:_ **S1** = Dallas Legacy 08B Arroyo · **S2** = Premier FA 2008B Green �
 
 | Opponent | S1 | S2 | S3 |
 |----------|------|------|------|
-| Revolution Premier SC U19G Gold Zuazua | — | 1W-0L (last 1-0) | 0W-2L (last 1-3) |
-| Villarreal NTX 08G - FL | — | 0W-2L (last 1-3) | 0W-2L (last 0-3) |
+| Revolution Premier SC U19G Gold Zuazua | 0W-2L (last 1-3) | — | 1W-0L (last 1-0) |
+| Villarreal NTX 07/08G - NL | 0W-2L (last 0-3) | — | 0W-2L (last 1-3) |
 
-_Legend:_ **S1** = ETFC 07G Muhr · **S2** = Atletico Dallas Youth 07/08G Clark · **S3** = 07G GARCIA (TXN)
+_Legend:_ **S1** = 07G GARCIA (TXN) · **S2** = ETFC 07G Muhr · **S3** = Atletico Dallas Youth 07/08G Clark
 
 #### Gold — Bracket B _(3 teams)_
 

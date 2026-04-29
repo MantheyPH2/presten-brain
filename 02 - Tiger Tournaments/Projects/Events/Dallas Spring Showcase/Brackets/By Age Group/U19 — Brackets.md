@@ -22,19 +22,19 @@ status: ready-for-scheduler
 
 **Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | ETFC 07G Muhr | East Texas Football Club | Mark Muhr |
-| 2 | Atletico Dallas Youth 07/08G Clark | Atletico Dallas Youth | Adam Clark |
-| 3 | 07G GARCIA (TXN) | DKSC | Diego Garcia Munoz |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | 07G GARCIA (TXN) | DKSC | Diego Garcia Munoz | 1W-0L (2-0) | H2H |
+| 2 | ETFC 07G Muhr | East Texas Football Club | Mark Muhr | — | rating |
+| 3 | Atletico Dallas Youth 07/08G Clark | Atletico Dallas Youth | Adam Clark | 0W-1L (0-2) | H2H |
 
 **Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-| Seed | Team | Club | Coach |
-|------|------|------|-------|
-| 1 | Houstonians FC STXCL ECNL-RL G07 | Houstonians FC | Quentin Colvin |
-| 2 | FC Hurst United 09G | Hurst United SA | Christopher Graham |
-| 3 | Steel United TX MSA 08G Elite | Steel United Texas | Lucio Gonzales |
+| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
+|------|------|------|-------|----------------|-------------|
+| 1 | Houstonians FC STXCL ECNL-RL G07 | Houstonians FC | Quentin Colvin | — | rating |
+| 2 | FC Hurst United 09G | Hurst United SA | Christopher Graham | — | rating |
+| 3 | Steel United TX MSA 08G Elite | Steel United Texas | Lucio Gonzales | — | rating |
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
@@ -76,8 +76,8 @@ Opponents played by 2+ U19 DSS teams (not attending DSS), last 24 months. Readin
 
 | Shared opponent | DSS team | Record | Last |
 |-----------------|----------|--------|------|
-| **Villarreal NTX 07/08G** _(3 DSS teams played)_ | Atletico Dallas Youth 07/08G Clark | 0W-2L | 1-3 (2026-04-19) |
-| | 07G GARCIA (TXN) | 0W-2L | 0-3 (2026-02-22) |
+| **Villarreal NTX 07/08G** _(3 DSS teams played)_ | 07G GARCIA (TXN) | 0W-2L | 0-3 (2026-02-22) |
+| | Atletico Dallas Youth 07/08G Clark | 0W-2L | 1-3 (2026-04-19) |
 | | Steel United TX MSA 08G Elite | 0W-1L | 1-3 (2025-09-21) |
 | **M&P Academy 2009G** _(2 DSS teams played)_ | FC Hurst United 09G | 1W-0L | 1-0 (2026-03-28) |
 | | Steel United TX MSA 08G Elite | 1W-0L | 12-0 (2026-04-19) |
