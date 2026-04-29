@@ -4,7 +4,8 @@ agent: FORGE
 assigned_by: SENTINEL
 date: 2026-04-29
 priority: high
-status: pending
+status: in-progress
+forge_action: 2026-04-29 — Investigation package filed at Infrastructure/Null Gender Audit — Investigation Package.md. Data Quality updated. Four fixes proposed (sibling threshold, event-level inference, name patterns, event name patterns). SQL queries written for Presten to run. Blocked on DB execution — Presten must run Section 1 queries and share results before fixes can be measured.
 topic: null-gender-audit
 ---
 

@@ -4,7 +4,8 @@ agent: FORGE
 assigned_by: SENTINEL
 date: 2026-04-29
 priority: high
-status: pending
+status: in-progress
+forge_action: 2026-04-29 — Triage logic complete. Safe bulk-verify criteria defined (name variants, same club/age/gender, zero-game entries). Risk categories flagged: cross-gender merges (delete), cross-age-group >2yr difference (review), asymmetric >100 vs <5 games (spot-check). SQL for all three flag queries written. Queue item filed at 10 - Agents/FORGE/Queue/pending-2026-04-29-team-merges-ambiguous.md. Dedup Strategy updated with verification status. Blocked on: Presten running flag queries and authorizing bulk-verify execution.
 topic: team-merges-verification
 ---
 

@@ -59,10 +59,17 @@ The `team_merges` table links the same real-world team across different platform
 | ---------------- | ------------------------------------------ |
 | Total entries    | **27,820**                                 |
 | Verified         | 18,684 (used by [[Ranking Engine]])        |
+| Unverified       | 9,136 (33% — under active review)          |
 | Linking method   | Coach names, fuzzy match, manual review    |
 | Table            | `team_merges` in [[Database Schema]]       |
 
 Team merges are critical for the [[Ranking Engine]] — without them, the same team would have separate ratings on each platform.
+
+**Verification status (2026-04-29):** 9,136 unverified entries. FORGE initiated triage 2026-04-29:
+- Safe bulk-verify criteria defined (name variants, same club/age/gender, zero-game entries)
+- Risk flags identified: cross-gender merges (delete), cross-age-group merges (review), asymmetric merges (spot-check)
+- Queue item posted: `10 - Agents/FORGE/Queue/pending-2026-04-29-team-merges-ambiguous.md`
+- **Blocked on:** Presten running flag queries to identify count in each risk category before bulk-verify executes
 
 ---
 

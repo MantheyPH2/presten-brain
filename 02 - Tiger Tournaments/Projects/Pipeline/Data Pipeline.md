@@ -47,12 +47,13 @@ The Evo Draw data pipeline transforms raw scraped data into ranked, deduplicated
 - API data sometimes lacks explicit gender markers
 - Uses team name patterns and event context to infer
 
-### Step 5.5: archive-inactive-teams.js *(schema migration required — see [[Archive Workflow]])*
+### Step 5.5: archive-inactive-teams.js *(awaiting first production run — see [[Archive Workflow]])*
 - Identifies teams where last game >180 days ago AND event ended >90 days ago AND no sync activity in 30 days
 - Safety guard: excludes teams with any game in the last 90 days across any event
 - Sets `archived_at = NOW()` on confirmed candidates; outputs a candidate log before any UPDATE runs
-- Requires `archived_at TIMESTAMP NULL` column on `teams` table (`ALTER TABLE teams ADD COLUMN archived_at TIMESTAMP NULL DEFAULT NULL`)
-- Authorization to run migration granted 2026-04-22 — awaiting execution on production
+- Schema migration (`archived_at TIMESTAMP NULL`) **executed on production 2026-04-22** — column exists and indexed
+- GROUP BY bug (duplicate team rows) fixed in spec 2026-04-27 — fix must be applied to script before first dry-run
+- Script runs via `ARCHIVE_STEP=true bash run-pipeline.sh` (off by default; run weekly during season)
 - Runs BEFORE dedup so archived teams are excluded from dedup pass and team merges loader (Phase 1 ranking engine)
 
 ### Step 6: dedup-and-link-teams.js

@@ -33,6 +33,9 @@ Current completeness metrics from `audit-data.js` (Step 9 of [[Data Pipeline]]).
 - `fix-api-gender.js` (Pipeline Step 5) addresses many cases
 - Remaining nulls are events with ambiguous naming (e.g., "U14 Division 1" with no gender indicator)
 - [[Parsing Rules|Sibling inference]] catches some but not all
+- **Audit initiated 2026-04-29** — See `Infrastructure/Null Gender Audit — Investigation Package.md`
+- Proposed fixes: lower sibling inference threshold (95% → 90%), event-level gender inference, expanded name patterns
+- **DB execution pending** — FORGE needs Presten to run investigation queries before fixes can be measured and deployed
 
 ### ~5.6K Null Age Group (1.5%)
 - Events with non-standard division naming

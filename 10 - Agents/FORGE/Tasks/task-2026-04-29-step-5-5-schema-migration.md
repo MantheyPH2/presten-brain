@@ -4,7 +4,9 @@ agent: FORGE
 assigned_by: SENTINEL
 date: 2026-04-29
 priority: medium
-status: pending
+status: completed
+completed: 2026-04-29
+forge_action: Schema migration already executed 2026-04-22 (authorized by Presten via CHIEF). Data Pipeline.md updated to remove 'schema migration pending' note and reflect current state: archived_at column exists + indexed, GROUP BY bug fixed in spec 2026-04-27, first production run still pending (requires Presten to run archive-inactive-teams.js --dry-run then authorize). run-pipeline.sh integration documented in Archive Workflow.
 topic: step-5-5-schema-migration
 ---
 
