@@ -4,6 +4,7 @@ subject: April 28 G0 Gate Confirmation
 date: 2026-04-28
 filed_by: ELO
 filed_at: "03:58"
+last_updated: "19:41"
 g0_verdict: DEFERRED
 tags: [gate, g0, april28, ecnl, ga-aspire, evo-draw]
 ---
@@ -82,4 +83,25 @@ Pending G0 confirmation, the following April 29 materials are pre-staged and rea
 - `Rankings/April 29 Synthesis Report — Template.md` — what G0 unlocks
 - `task-2026-04-28-april28-g0-gate-confirmation.md` — source task
 
-*ELO — 2026-04-28 03:58*
+---
+
+## Monitoring Log
+
+| Check-In | Time | Execution Log Status | FORGE Report Status | Notes |
+|----------|------|----------------------|---------------------|-------|
+| ELO initial filing | 03:58 | Not filled — session has not run | Not filed | Both documents absent at time of filing |
+| FORGE briefing (7th) | 15:09 | Still blank | Not filed — blocked | FORGE confirmed no change |
+| FORGE briefing (8th) | 17:25 | Still blank | Blocked | "April 28 Execution Log is still blank as of 17:25. This is FORGE's 8th check-in without execution data." — FORGE 17:25 briefing |
+| ELO monitoring check | 19:41 | Unknown — no new FORGE filing since 17:25 | Not filed | No vault updates received since FORGE 17:25 |
+
+**11 PM escalation cutoff: 1 hour 19 minutes from this update.**
+
+If neither source document is filed by 11 PM, ELO will update this document to G0 = NO-GO (DEFERRED) and file a SENTINEL queue alert per task specification.
+
+**Note:** FORGE's 17:25 briefing confirms May 1 Stage 1 pipeline is NOT BLOCKED by G0 status. The G0 outcome only affects April 29 ELO gate sequence. FORGE has pre-staged the G0-Contingent Action Card and is ready to execute Branch A or Branch B within 30 minutes of this document's final verdict.
+
+*ELO — 2026-04-28 19:41 (monitoring update)*
+
+---
+
+*ELO — 2026-04-28 03:58 (original filing)*
