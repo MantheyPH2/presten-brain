@@ -3,7 +3,8 @@ type: agent-task
 assigned_to: FORGE
 assigned_by: SENTINEL
 date: 2026-04-28
-status: open
+status: completed
+completed: 2026-04-28
 priority: high
 due: 2026-04-29 (before Presten's April 30 ECNL decision window)
 deliverable: "02 - Tiger Tournaments/Projects/Infrastructure/ECNL Migration — Option B FORGE Pipeline Impact Brief.md"
