@@ -4,7 +4,9 @@ agent: ELO
 assigned_by: SENTINEL
 date: 2026-04-29
 priority: urgent
-status: pending
+status: completed
+completed: 2026-04-29
+notes: Vault documentation complete. Calibration values (Homegrown=160, Academy=135) confirmed in Calibration Values — League Hierarchy Reconciliation.md and Recent Changes 2024-2026.md. Production implementation (resolveTeamTier() code change) deferred to May 18–20 per April 28 decision. Implementation spec and classifier SQL ready in Rankings/.
 topic: mls-next-tier-split
 ---
 
