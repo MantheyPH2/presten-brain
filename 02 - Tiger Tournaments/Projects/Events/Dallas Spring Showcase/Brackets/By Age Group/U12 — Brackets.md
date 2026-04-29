@@ -16,145 +16,129 @@ status: ready-for-scheduler
 
 ---
 
-## U12 Boys _(25 teams)_
+## U12 Boys _(25 teams · 16 with H2H · 9 without)_
 
-### 9v9 Bronze
+### H2H-Ranked Brackets _(U12 Boys)_
 
-**Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
+Teams ranked by head-to-head record against other U12 Boys DSS attendees, then split into brackets of ~4–6.
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Southern Soccer 14B | Southern Soccer | Taoufik Attahar | — | rating |
-| 2 | NTX Celtic 14B Shaffer West | NTX Celtic FC | Justin Shaffer | — | rating |
-| 3 | Rayados MOrtega 2014 White | Laredo Youth Soccer Assn | Pedro Archundia | — | rating |
-| 4 | U12 Boys Gold - GO | GFI Academy | Rudolph Lawrence | — | rating |
+#### Bracket A _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-**Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Barça Academy Austin 14B Red | Legends FC - San Antonio | David Cots | 3W-0L (3 games) | 13–2 | 9 |
+| 2 | Barça Academy Austin 14B Black | Legends FC - San Antonio | Juan Bocanegra | 2W-0L-1D (3 games) | 12–4 | 7 |
+| 3 | Bulverde YSA Relentless SC '14 | Bulverde YSA | Matthew Humphress | 2W-2L (4 games) | 10–9 | 6 |
+| 4 | NTX Celtic 14B Shaffer West | NTX Celtic FC | Justin Shaffer | 1W-0L-1D (2 games) | 5–2 | 4 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Legacy United FC 14B - Juarez | Legacy United FC | Juan Juarez | — | rating |
-| 2 | SPD FC 14B Black | SPD FC | Alexander Haney | — | rating |
-| 3 | Barça Academy Austin 14B Black | Legends FC - San Antonio | Juan Bocanegra | — | rating |
-| 4 | Dutch Lions 14B PSV | Dutch FC | Danny Sarria | — | rating |
+#### Bracket B _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-**Bracket C** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Juventus Premier FC 14B Cantu | Juventus Premier Futbol Club | Joanna Blanco | 1W-0L-1D (2 games) | 3–2 | 4 |
+| 2 | Legacy United FC 14B - Juarez | Legacy United FC | Juan Juarez | 1W-1L (2 games) | 6–3 | 3 |
+| 3 | Dutch Lions 14B PSV | Dutch FC | Danny Sarria | 1W-1L (2 games) | 5–2 | 3 |
+| 4 | Texas Premier SC U12 | Texas Premier SC | Cristian Martinez | 1W-0L (1 games) | 5–3 | 3 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Texas LoneStars 14B | Texas LoneStars Soccer Club | Patrick Mandefu | — | rating |
-| 2 | Bulverde YSA Relentless SC '14 | Bulverde YSA | Matthew Humphress | — | rating |
-| 3 | South Dallas Leon 2014B | Independent Teams - NTX | Eduardo Rodriguez | — | rating |
-| 4 | TOROS FC 2014 Black | El Paso Premier League | Jose Aleman | — | rating |
+#### Bracket C _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-### 9v9 Bronze II
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Texas LoneStars 14B | Texas LoneStars Soccer Club | Patrick Mandefu | 1W-0L (1 games) | 4–2 | 3 |
+| 2 | Dutch Lions 14B Sparta | Dutch FC | Danny Sarria | 1W-0L (1 games) | 3–1 | 3 |
+| 3 | Coppell FC 14B Gee White | Coppell Youth SA | Torres Gee | 1W-1L (2 games) | 4–5 | 3 |
+| 4 | Atletico Dallas Youth 14B Welge | Atletico Dallas Youth | Jw Welge | 1W-4L (5 games) | 8–21 | 3 |
 
-**Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
+#### Bracket D _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Dutch Lions 14B Sparta | Dutch FC | Danny Sarria | 1W-0L (3-1) | H2H |
-| 2 | Coppell FC 14B Gee White | Coppell Youth SA | Torres Gee | — | rating |
-| 3 | GLASA Thunderbirds 14B | GLASA | Allan Baker | — | rating |
-| 4 | BVB 14B Black East (Fritz) | BVB International Academy Texas | Robert Fritz | 0W-1L (1-3) | H2H |
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Rayados MOrtega 2014 White | Laredo Youth Soccer Assn | Pedro Archundia | 1W-5L (6 games) | 7–23 | 3 |
+| 2 | Southside Soccer 14B Black | Southside Soccer | Mario Rivas | 0W-1L-1D (2 games) | 2–5 | 1 |
+| 3 | Solar West 15B Garcia.S PreECNL | Solar SC | Samuel Garcia | 0W-1L (1 games) | 1–2 | 0 |
+| 4 | BVB 14B Black East (Fritz) | BVB International Academy Texas | Robert Fritz | 0W-1L (1 games) | 1–3 | 0 |
 
-**Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
+### U12 Boys — No H2H Data _(9 teams)_
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Atletico Dallas Youth 14B Welge | Atletico Dallas Youth | Jw Welge | — | rating |
-| 2 | FC Forney 2014B | FC Forney | Skylar Nicholson | — | rating |
-| 3 | ULETE FC 14/15 Hanibal | Ulete FC | Hanibal Abraha | — | rating |
-| 4 | Dutch Lions 14B AZ | Dutch FC | Danny Sarria | — | rating |
+These teams haven't played any other U12 Boys DSS attendees in the last 24 months, so they can't be H2H-ranked. Their registrar-preferred Division and Bracket are shown — they need either manual seeding or grouping with H2H-ranked teams of similar level.
 
-### 9v9 Silver Crossover
+| Team | Club | Coach | Preferred Division | Preferred Bracket |
+|------|------|-------|--------------------|-------------------|
+| Southern Soccer 14B | Southern Soccer | Taoufik Attahar | 9v9 Bronze | Bracket A |
+| U12 Boys Gold - GO | GFI Academy | Rudolph Lawrence | 9v9 Bronze | Bracket A |
+| SPD FC 14B Black | SPD FC | Alexander Haney | 9v9 Bronze | Bracket B |
+| South Dallas Leon 2014B | Independent Teams - NTX | Eduardo Rodriguez | 9v9 Bronze | Bracket C |
+| TOROS FC 2014 Black | El Paso Premier League | Jose Aleman | 9v9 Bronze | Bracket C |
+| GLASA Thunderbirds 14B | GLASA | Allan Baker | 9v9 Bronze II | Bracket A |
+| Dutch Lions 14B AZ | Dutch FC | Danny Sarria | 9v9 Bronze II | Bracket B |
+| FC Forney 2014B | FC Forney | Skylar Nicholson | 9v9 Bronze II | Bracket B |
+| ULETE FC 14/15 Hanibal | Ulete FC | Hanibal Abraha | 9v9 Bronze II | Bracket B |
 
-**Bracket A** _(5 teams)_ — Round robin (4 games each), then semifinals, then final
+## U12 Girls _(28 teams · 23 with H2H · 5 without)_
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Juventus Premier FC 14B Cantu | Juventus Premier Futbol Club | Joanna Blanco | 1W-0L (2-1) | H2H |
-| 2 | Texas Premier SC U12 | Texas Premier SC | Cristian Martinez | — | rating |
-| 3 | Barça Academy Austin 14B Red | Legends FC - San Antonio | David Cots | — | rating |
-| 4 | Southside Soccer 14B Black | Southside Soccer | Mario Rivas | — | rating |
-| 5 | Solar West 15B Garcia.S PreECNL | Solar SC | Samuel Garcia | 0W-1L (1-2) | H2H |
+### H2H-Ranked Brackets _(U12 Girls)_
 
-## U12 Girls _(28 teams)_
+Teams ranked by head-to-head record against other U12 Girls DSS attendees, then split into brackets of ~4–6.
 
-### (no division — unassigned)
+#### Bracket A _(5 teams)_ — Round robin (4 games each), then semifinals, then final
 
-**(no bracket — unassigned)** _(1 teams)_ — Round robin (1 teams) — too small for knockout
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | 14G McGregor | Evolution | Lewis Mcgregor | 7W-4L-2D (13 games) | 23–11 | 23 |
+| 2 | Dallas Surf 14G White | Dallas Surf | Aaron Proctor | 5W-2L-2D (9 games) | 23–12 | 17 |
+| 3 | Solar 14G Tremblay Gold | Solar SC | Marcus Walther | 4W-0L-2D (6 games) | 13–4 | 14 |
+| 4 | Sting WTX G14 Jimenez | Sting Soccer Club | Victor Jimenez | 3W-1L-1D (5 games) | 16–7 | 10 |
+| 5 | Sting Pre-ECNL G14 H Martinez | Sting Soccer Club | Homero Martinez | 3W-0L (3 games) | 17–1 | 9 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | IRVING TEXAS HEAT 14 GR | Irving Soccer Association | Alejaime Miranda | — | rating |
+#### Bracket B _(5 teams)_ — Round robin (4 games each), then semifinals, then final
 
-### 11v11 Bronze
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Sting Pre-ECNL G14 Kovacevic | Sting Soccer Club | Ivan Kovacevic | 3W-1L (4 games) | 9–5 | 9 |
+| 2 | Nido Águila 14G Gonzalez | Club America - Tarrant County | Carlos Gonzalez | 3W-1L (4 games) | 14–11 | 9 |
+| 3 | Elite Premier FC 2014G | Elite Premier FC | Juan Cedillo | 3W-1L (4 games) | 8–8 | 9 |
+| 4 | BVB 14G East (Brown) | BVB International Academy Texas | Cameron Brown | 2W-1L-2D (5 games) | 15–6 | 8 |
+| 5 | Solar South 15G Adames | Solar SC | Gabriel Adames | 2W-1L-2D (5 games) | 15–12 | 8 |
 
-**Bracket A** _(5 teams)_ — Round robin (4 games each), then semifinals, then final
+#### Bracket C _(5 teams)_ — Round robin (4 games each), then semifinals, then final
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | FC Dallas Youth 14G West | FC Dallas Youth | Kasey Perea | 1W-0L (2-1) | H2H |
-| 2 | Amarillo Rush 14G | Amarillo Rush SC | Jose Chavez | — | rating |
-| 3 | Solar 14G Tremblay Gold | Solar SC | Marcus Walther | — | rating |
-| 4 | Dutch Lionesses 14G AJAX | Dutch FC | Allison Murphy-Palisch | — | rating |
-| 5 | 14G McGregor | Evolution | Lewis Mcgregor | 0W-1L (1-2) | H2H |
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Atletico Dallas Youth 14G Enciso | Atletico Dallas Youth | Reynaldo Enciso | 2W-5L-2D (9 games) | 17–26 | 8 |
+| 2 | Dallas Surf 14G East Silver | Dallas Surf | Ramon Laredo | 1W-1L-3D (5 games) | 6–5 | 6 |
+| 3 | FC Dallas Youth 14G West | FC Dallas Youth | Kasey Perea | 1W-0L-3D (4 games) | 2–1 | 6 |
+| 4 | ULETE FC 14G Carlo | Ulete FC | Christopher Sortini | 2W-5L (7 games) | 12–22 | 6 |
+| 5 | Dallas Hornets 15G (Prev Alpha) | Dallas Hornets | Ana Luiza Ribeiro Bruni | 1W-2L-2D (5 games) | 12–15 | 5 |
 
-### 11v11 DS Gold
+#### Bracket D _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-**Bracket A** _(5 teams)_ — Round robin (4 games each), then semifinals, then final
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Juventus Premier FC 14G Black Cantu | Juventus Premier Futbol Club | Joanna Blanco | 1W-4L-1D (6 games) | 8–19 | 4 |
+| 2 | Fever United 14G Wright | Fever United | Casey Wright | 1W-1L (2 games) | 2–3 | 3 |
+| 3 | Dallas Cosmos 14G White | Dallas Cosmos Soccer Club | Cesar Texeira | 0W-2L-3D (5 games) | 3–10 | 3 |
+| 4 | Dallas Cosmos 14G Red | Dallas Cosmos Soccer Club | Olivia Severson | 1W-4L (5 games) | 2–11 | 3 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Solar South 15G Adames | Solar SC | Gabriel Adames | 2W-1L-2D (15-12) | H2H |
-| 2 | Dallas Hornets 15G (Prev Alpha) | Dallas Hornets | Ana Luiza Ribeiro Bruni | 1W-2L-2D (12-15) | H2H |
-| 3 | Sting Pre-ECNL G14 H Martinez | Sting Soccer Club | Homero Martinez | 1W-0L (2-1) | H2H |
-| 4 | Sting WTX G14 Jimenez | Sting Soccer Club | Victor Jimenez | — | rating |
-| 5 | Sting Pre-ECNL G14 Kovacevic | Sting Soccer Club | Ivan Kovacevic | 0W-1L (1-2) | H2H |
+#### Bracket E _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-### 11v11 Silver
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Sting G14 Fuentes | Sting Soccer Club | Mallory Burgess | 1W-3L (4 games) | 2–11 | 3 |
+| 2 | NTX Celtic 14G Holden | NTX Celtic FC | Rachel Holden | 0W-4L-1D (5 games) | 2–14 | 1 |
+| 3 | Amarillo Rush 14G | Amarillo Rush SC | Jose Chavez | 0W-1L (1 games) | 1–3 | 0 |
+| 4 | Atletico Dallas Youth Pre ECNL G15- Perez | Atletico Dallas Youth | Alberto Perez | 0W-2L (2 games) | 0–5 | 0 |
 
-**Bracket A** _(5 teams)_ — Round robin (4 games each), then semifinals, then final
+### U12 Girls — No H2H Data _(5 teams)_
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Dallas Surf 14G White | Dallas Surf | Aaron Proctor | 1W-0L-1D (4-2) | H2H |
-| 2 | Juventus Premier FC 14G Black Cantu | Juventus Premier Futbol Club | Joanna Blanco | 0W-0L-1D (2-2) | H2H |
-| 3 | Dallas Surf 14G East Silver | Dallas Surf | Ramon Laredo | — | rating |
-| 4 | BVB 14G East (Brown) | BVB International Academy Texas | Cameron Brown | — | rating |
-| 5 | Atletico Dallas Youth Pre ECNL G15- Perez | Atletico Dallas Youth | Alberto Perez | 0W-1L (0-2) | H2H |
+These teams haven't played any other U12 Girls DSS attendees in the last 24 months, so they can't be H2H-ranked. Their registrar-preferred Division and Bracket are shown — they need either manual seeding or grouping with H2H-ranked teams of similar level.
 
-### 9v9 Bronze
-
-**Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Dallas Cosmos 14G White | Dallas Cosmos Soccer Club | Cesar Texeira | — | rating |
-| 2 | ULETE FC 14G Carlo | Ulete FC | Christopher Sortini | — | rating |
-| 3 | Sting G14 Fuentes | Sting Soccer Club | Mallory Burgess | — | rating |
-| 4 | Elite Premier FC 2014G | Elite Premier FC | Juan Cedillo | — | rating |
-
-### 9v9 Bronze II
-
-**Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Atletico Dallas Youth 14G Enciso | Atletico Dallas Youth | Reynaldo Enciso | 1W-0L (2-0) | H2H |
-| 2 | GLASA Roaring Lions 14G | GLASA | David Yonis | — | rating |
-| 3 | Dallas Surf 14G East Wave | Dallas Surf | Quarishi Willis | — | rating |
-| 4 | Dallas Cosmos 14G Red | Dallas Cosmos Soccer Club | Olivia Severson | 0W-1L (0-2) | H2H |
-
-**Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Nido Águila 14G Gonzalez | Club America - Tarrant County | Carlos Gonzalez | 1W-0L (7-0) | H2H |
-| 2 | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | FC Dallas ETX | Celso Castro | — | rating |
-| 3 | Fever United 14G Wright | Fever United | Casey Wright | — | rating |
-| 4 | NTX Celtic 14G Holden | NTX Celtic FC | Rachel Holden | 0W-1L (0-7) | H2H |
+| Team | Club | Coach | Preferred Division | Preferred Bracket |
+|------|------|-------|--------------------|-------------------|
+| IRVING TEXAS HEAT 14 GR | Irving Soccer Association | Alejaime Miranda | _(none)_ | _(none)_ |
+| Dutch Lionesses 14G AJAX | Dutch FC | Allison Murphy-Palisch | 11v11 Bronze | Bracket A |
+| Dallas Surf 14G East Wave | Dallas Surf | Quarishi Willis | 9v9 Bronze II | Bracket A |
+| GLASA Roaring Lions 14G | GLASA | David Yonis | 9v9 Bronze II | Bracket A |
+| FC Dallas East Texas 2014/15 G - Sabillon - BLUE | FC Dallas ETX | Celso Castro | 9v9 Bronze II | Bracket B |
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
@@ -321,14 +305,6 @@ Opponents played by 2+ U12 DSS teams (not attending DSS), last 24 months. Readin
 
 | Shared opponent | DSS team | Record | Last |
 |-----------------|----------|--------|------|
-| **Sting G14 J Salazar** _(8 DSS teams played)_ | Dallas Surf 14G White | 0W-1L | 1-3 (2026-03-14) |
-| | Dallas Surf 14G East Silver | 0W-1L | 1-5 (2025-09-28) |
-| | BVB 14G East (Brown) | 1W-0L | 4-1 (2025-03-02) |
-| | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | 0W-1L | 1-6 (2025-10-11) |
-| | Fever United 14G Wright | 1W-0L | 2-0 (2025-02-16) |
-| | NTX Celtic 14G Holden | 0W-1L | 0-8 (2026-03-08) |
-| | Sting Pre-ECNL G14 Kovacevic | 1W-0L | 3-0 (2025-05-09) |
-| | 14G McGregor | 0W-1L | 1-2 (2025-03-22) |
 | **Solar West 14G Pappas** _(8 DSS teams played)_ | Nido Águila 14G Gonzalez | 0W-2L | 1-11 (2025-10-11) |
 | | Sting Pre-ECNL G14 Kovacevic | 2W-0L | 4-1 (2025-05-11) |
 | | 14G McGregor | 2W-0L | 3-0 (2026-04-12) |
@@ -337,6 +313,14 @@ Opponents played by 2+ U12 DSS teams (not attending DSS), last 24 months. Readin
 | | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | 0W-1L | 0-5 (2025-11-16) |
 | | NTX Celtic 14G Holden | 0W-1L | 0-4 (2026-03-29) |
 | | Solar South 15G Adames | 1W-0L | 5-0 (2026-01-10) |
+| **Sting G14 J Salazar** _(8 DSS teams played)_ | Dallas Surf 14G White | 0W-1L | 1-3 (2026-03-14) |
+| | BVB 14G East (Brown) | 1W-0L | 4-1 (2025-03-02) |
+| | Dallas Surf 14G East Silver | 0W-1L | 1-5 (2025-09-28) |
+| | Fever United 14G Wright | 1W-0L | 2-0 (2025-02-16) |
+| | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | 0W-1L | 1-6 (2025-10-11) |
+| | NTX Celtic 14G Holden | 0W-1L | 0-8 (2026-03-08) |
+| | Sting Pre-ECNL G14 Kovacevic | 1W-0L | 3-0 (2025-05-09) |
+| | 14G McGregor | 0W-1L | 1-2 (2025-03-22) |
 | **Solar 14G Tremblay** _(6 DSS teams played)_ | Dallas Surf 14G White | 0W-1L-1D | 0-0 (2026-03-01) |
 | | Nido Águila 14G Gonzalez | 1W-0L | 1-0 (2025-11-16) |
 | | Atletico Dallas Youth 14G Enciso | 0W-0L-1D | 1-1 (2025-09-27) |
@@ -360,71 +344,79 @@ Opponents played by 2+ U12 DSS teams (not attending DSS), last 24 months. Readin
 | | Fever United 14G Wright | 0W-1L | 0-1 (2025-12-06) |
 | | Solar 14G Tremblay Gold | 0W-1L | 0-1 (2026-04-11) |
 | | 14G McGregor | 0W-0L-1D | 1-1 (2025-08-17) |
-| **Sting Pre-ECNL G14 Richardson** _(5 DSS teams played)_ | Dallas Surf 14G White | 0W-2L | 0-2 (2026-04-05) |
+| **FC Dallas Youth 14G Black** _(5 DSS teams played)_ | Dallas Surf 14G East Silver | 1W-1L | 2-0 (2026-03-01) |
+| | Juventus Premier FC 14G Black Cantu | 1W-0L | 2-0 (2025-12-13) |
+| | 14G McGregor | 0W-0L-1D | 2-2 (2025-11-22) |
+| | Amarillo Rush 14G | 0W-0L-1D | 2-2 (2025-12-14) |
+| | ULETE FC 14G Carlo | 1W-0L | 3-1 (2025-11-22) |
+| **NTX Celtic 14G McCallum** _(5 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 0W-1L-1D | 0-0 (2025-10-10) |
+| | 14G McGregor | 0W-1L-1D | 0-0 (2025-03-02) |
+| | Dallas Surf 14G White | 0W-1L | 0-2 (2025-09-07) |
+| | Dallas Surf 14G East Silver | 0W-1L | 0-2 (2026-02-07) |
+| | Sting Pre-ECNL G14 H Martinez | 1W-0L | 12-0 (2025-08-09) |
+| **Sting Pre ECNL G14 Asher** _(5 DSS teams played)_ | Dallas Surf 14G White | 0W-2L | 0-2 (2026-04-05) |
 | | Juventus Premier FC 14G Black Cantu | 0W-1L | 1-4 (2025-04-06) |
-| | Sting WTX G14 Jimenez | 0W-1L | 0-4 (2026-01-18) |
 | | Sting Pre-ECNL G14 Kovacevic | 0W-1L | 0-3 (2025-05-17) |
+| | Sting WTX G14 Jimenez | 0W-1L | 0-4 (2026-01-18) |
 | | 14G McGregor | 0W-1L | 0-8 (2026-01-18) |
-| **Sting Pre-ECNL G14 Zambrano** _(5 DSS teams played)_ | Dallas Surf 14G White | 0W-0L-1D | 1-1 (2026-04-04) |
-| | Juventus Premier FC 14G Black Cantu | 0W-0L-1D | 1-1 (2026-01-18) |
+| **DKSC 15G CHAVEZ** _(5 DSS teams played)_ | Sting Pre-ECNL G14 H Martinez | 2W-0L-1D | 2-2 (2025-03-15) |
+| | Dallas Hornets 15G (Prev Alpha) | 1W-1L | 1-5 (2026-04-03) |
+| | Solar South 15G Adames | 1W-0L-1D | 1-0 (2026-04-11) |
+| | Juventus Premier FC 14G Black Cantu | 0W-1L | 2-3 (2025-01-05) |
+| | Dutch Lionesses 14G AJAX | 0W-1L | 0-12 (2025-06-07) |
+| **Sting Pre-ECNL G14 Lomax** _(5 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 0W-0L-1D | 1-1 (2026-01-18) |
+| | Dallas Surf 14G White | 0W-0L-1D | 1-1 (2026-04-04) |
 | | BVB 14G East (Brown) | 0W-0L-1D | 1-1 (2025-05-09) |
 | | Atletico Dallas Youth 14G Enciso | 0W-1L | 3-5 (2026-04-03) |
 | | Sting Pre-ECNL G14 Kovacevic | 0W-1L | 0-3 (2025-08-16) |
-| **Solar South 14G Dickerson* 60** _(5 DSS teams played)_ | Dallas Surf 14G White | 0W-1L-1D | 0-0 (2025-11-22) |
+| **Solar South 14G Dickerson** _(5 DSS teams played)_ | Dallas Surf 14G White | 0W-1L-1D | 0-0 (2025-11-22) |
 | | Juventus Premier FC 14G Black Cantu | 0W-1L | 2-5 (2025-11-08) |
 | | Sting Pre-ECNL G14 H Martinez | 1W-0L | 6-0 (2025-08-16) |
-| | Amarillo Rush 14G | 0W-1L | 3-6 (2025-06-07) |
 | | 14G McGregor | 0W-1L | 0-7 (2026-04-10) |
+| | Amarillo Rush 14G | 0W-1L | 3-6 (2025-06-07) |
 | **Sting G14 Wong** _(5 DSS teams played)_ | 14G McGregor | 0W-3L-1D | 0-2 (2025-08-24) |
 | | Dallas Surf 14G White | 0W-1L | 0-1 (2026-02-04) |
 | | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | 0W-1L | 0-6 (2025-11-01) |
 | | NTX Celtic 14G Holden | 0W-1L | 0-5 (2026-03-01) |
 | | ULETE FC 14G Carlo | 0W-1L | 1-2 (2025-09-13) |
-| **NTX Celtic FC Pre-ECNL G14 McCallum** _(5 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 0W-1L-1D | 0-0 (2025-10-10) |
-| | 14G McGregor | 0W-1L-1D | 0-0 (2025-03-02) |
-| | Dallas Surf 14G White | 0W-1L | 0-2 (2025-09-07) |
-| | Dallas Surf 14G East Silver | 0W-1L | 0-2 (2026-02-07) |
-| | Sting Pre-ECNL G14 H Martinez | 1W-0L | 12-0 (2025-08-09) |
-| **FC Dallas Youth 14G Black** _(5 DSS teams played)_ | Dallas Surf 14G East Silver | 1W-1L | 2-0 (2026-03-01) |
-| | Juventus Premier FC 14G Black Cantu | 1W-0L | 2-0 (2025-12-13) |
-| | Amarillo Rush 14G | 0W-0L-1D | 2-2 (2025-12-14) |
-| | 14G McGregor | 0W-0L-1D | 2-2 (2025-11-22) |
-| | ULETE FC 14G Carlo | 1W-0L | 3-1 (2025-11-22) |
-| **DKSC 15G CHAVEZ** _(5 DSS teams played)_ | Sting Pre-ECNL G14 H Martinez | 2W-0L-1D | 2-2 (2025-03-15) |
-| | Solar South 15G Adames | 1W-0L-1D | 1-0 (2026-04-11) |
-| | Dallas Hornets 15G (Prev Alpha) | 1W-1L | 1-5 (2026-04-03) |
-| | Juventus Premier FC 14G Black Cantu | 0W-1L | 2-3 (2025-01-05) |
-| | Dutch Lionesses 14G AJAX | 0W-1L | 0-12 (2025-06-07) |
 | **FC Dallas ETX 2014G** _(5 DSS teams played)_ | Sting WTX G14 Jimenez | 3W-0L | 3-2 (2026-03-01) |
 | | BVB 14G East (Brown) | 1W-0L-1D | 1-0 (2026-03-29) |
 | | Fever United 14G Wright | 0W-2L | 0-3 (2025-04-13) |
 | | Dallas Surf 14G East Silver | 0W-1L | 0-2 (2025-12-14) |
 | | Sting Pre-ECNL G14 H Martinez | 1W-0L | 4-1 (2025-01-18) |
-| **ToKa FC 2014G** _(5 DSS teams played)_ | Dallas Surf 14G East Silver | 0W-0L-1D | 1-1 (2025-08-10) |
-| | Nido Águila 14G Gonzalez | 1W-0L | 4-3 (2026-04-11) |
-| | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | 0W-1L | 1-3 (2025-11-15) |
-| | Atletico Dallas Youth 14G Enciso | 0W-1L | 1-3 (2026-02-08) |
-| | ULETE FC 14G Carlo | 0W-1L | 3-5 (2026-02-07) |
 | **Dallas Surf 14G Laredo** _(5 DSS teams played)_ | BVB 14G East (Brown) | 0W-1L | 1-2 (2025-04-01) |
-| | Solar South 15G Adames | 1W-0L | 2-0 (2025-08-03) |
 | | Sting Pre-ECNL G14 H Martinez | 1W-0L | 2-0 (2025-07-12) |
+| | Solar South 15G Adames | 1W-0L | 2-0 (2025-08-03) |
 | | Sting WTX G14 Jimenez | 0W-1L | 1-2 (2026-01-17) |
 | | Amarillo Rush 14G | 1W-0L | 1-0 (2025-08-16) |
 | **PAYD FC 14G** _(5 DSS teams played)_ | Sting Pre-ECNL G14 H Martinez | 2W-0L | 3-1 (2025-04-17) |
 | | BVB 14G East (Brown) | 0W-0L-1D | 0-0 (2025-02-08) |
 | | Sting Pre-ECNL G14 Kovacevic | 0W-0L-1D | 0-0 (2025-04-18) |
-| | Amarillo Rush 14G | 0W-1L | 0-2 (2025-08-16) |
 | | Dutch Lionesses 14G AJAX | 0W-1L | 0-6 (2025-03-15) |
+| | Amarillo Rush 14G | 0W-1L | 0-2 (2025-08-16) |
+| **ToKa FC 2014G** _(5 DSS teams played)_ | Dallas Surf 14G East Silver | 0W-0L-1D | 1-1 (2025-08-10) |
+| | Nido Águila 14G Gonzalez | 1W-0L | 4-3 (2026-04-11) |
+| | FC Dallas East Texas 2014/15 G - Sabillon - BLUE | 0W-1L | 1-3 (2025-11-15) |
+| | Atletico Dallas Youth 14G Enciso | 0W-1L | 1-3 (2026-02-08) |
+| | ULETE FC 14G Carlo | 0W-1L | 3-5 (2026-02-07) |
 | **Solar White 14B Jaime** _(5 DSS teams played)_ | NTX Celtic 14B Shaffer West | 1W-1L | 2-1 (2025-11-02) |
 | | BVB 14B Black East (Fritz) | 0W-2L | 2-10 (2026-03-28) |
 | | Southside Soccer 14B Black | 0W-1L | 3-4 (2025-10-12) |
 | | SPD FC 14B Black | 0W-1L | 2-5 (2025-12-06) |
 | | Dutch Lions 14B Sparta | 0W-1L | 4-5 (2025-10-18) |
-| **SGA 2014B Nationals** _(5 DSS teams played)_ | South Dallas Leon 2014B | 0W-1L-1D | 0-0 (2025-08-17) |
+| **SGA 14b Nationals** _(5 DSS teams played)_ | South Dallas Leon 2014B | 0W-1L-1D | 0-0 (2025-08-17) |
 | | Texas LoneStars 14B | 0W-0L-1D | 3-3 (2025-12-06) |
 | | Rayados MOrtega 2014 White | 0W-1L | 2-6 (2026-01-17) |
 | | Barça Academy Austin 14B Black | 0W-1L | 1-4 (2026-01-19) |
 | | Atletico Dallas Youth 14B Welge | 0W-1L | 1-11 (2026-01-17) |
+| **Solar 14G Carrillo.E** _(4 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 1W-0L | 5-2 (2025-12-14) |
+| | Dallas Surf 14G East Silver | 0W-1L | 1-5 (2025-11-12) |
+| | Solar South 15G Adames | 1W-0L | 6-0 (2025-08-01) |
+| | Amarillo Rush 14G | 1W-0L | 3-2 (2025-12-13) |
+| **Shreveport United 2014G Blue** _(4 DSS teams played)_ | Sting WTX G14 Jimenez | 1W-0L-1D | 2-1 (2026-03-14) |
+| | Juventus Premier FC 14G Black Cantu | 1W-0L | 4-0 (2025-05-10) |
+| | BVB 14G East (Brown) | 1W-0L | 8-1 (2026-02-28) |
+| | Solar 14G Tremblay Gold | 0W-0L-1D | 3-3 (2025-11-09) |
 | **Waco Texans 2014 Girls Andrade- 80** _(4 DSS teams played)_ | Dallas Surf 14G White | 0W-0L-1D | 1-1 (2025-08-31) |
 | | Dallas Surf 14G East Silver | 0W-1L | 1-6 (2025-11-08) |
 | | Sting Pre-ECNL G14 H Martinez | 1W-0L | 1-0 (2025-03-23) |
@@ -441,14 +433,6 @@ Opponents played by 2+ U12 DSS teams (not attending DSS), last 24 months. Readin
 | | Dallas Surf 14G White | 1W-0L | 3-0 (2025-09-07) |
 | | BVB 14G East (Brown) | 1W-0L | 2-1 (2025-11-07) |
 | | Atletico Dallas Youth 14G Enciso | 0W-1L | 2-3 (2025-08-24) |
-| **Solar 14G Carrillo.E** _(4 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 1W-0L | 5-2 (2025-12-14) |
-| | Dallas Surf 14G East Silver | 0W-1L | 1-5 (2025-11-12) |
-| | Solar South 15G Adames | 1W-0L | 6-0 (2025-08-01) |
-| | Amarillo Rush 14G | 1W-0L | 3-2 (2025-12-13) |
-| **Shreveport United 2014G Blue** _(4 DSS teams played)_ | Sting WTX G14 Jimenez | 1W-0L-1D | 2-1 (2026-03-14) |
-| | Juventus Premier FC 14G Black Cantu | 1W-0L | 4-0 (2025-05-10) |
-| | BVB 14G East (Brown) | 1W-0L | 8-1 (2026-02-28) |
-| | Solar 14G Tremblay Gold | 0W-0L-1D | 3-3 (2025-11-09) |
 | **Revolution Premier SC 14G Gold** _(4 DSS teams played)_ | Sting Pre-ECNL G14 Kovacevic | 1W-0L-1D | 1-0 (2025-11-30) |
 | | BVB 14G East (Brown) | 1W-0L | 1-0 (2025-03-23) |
 | | Solar South 15G Adames | 1W-0L | 3-0 (2026-01-11) |
@@ -481,26 +465,26 @@ Opponents played by 2+ U12 DSS teams (not attending DSS), last 24 months. Readin
 | | Texas LoneStars 14B | 1W-0L | 4-0 (2025-04-08) |
 | | NTX Celtic 14B Shaffer West | 1W-0L | 3-0 (2025-11-22) |
 | | Dutch Lions 14B Sparta | 1W-0L | 8-2 (2026-01-18) |
-| **Frisco Fusion 14G Blue** _(3 DSS teams played)_ | 14G McGregor | 2W-1L-1D | 0-0 (2026-01-16) |
-| | Dallas Surf 14G White | 2W-0L-1D | 1-0 (2026-02-22) |
-| | ULETE FC 14G Carlo | 1W-0L-1D | 1-1 (2026-03-01) |
-| **NTX Celtic 14G Gambaro** _(3 DSS teams played)_ | Solar 14G Tremblay Gold | 0W-1L-1D | 0-2 (2026-03-28) |
-| | Dallas Surf 14G White | 1W-0L | 1-0 (2025-08-16) |
-| | Atletico Dallas Youth 14G Enciso | 1W-0L | 5-3 (2025-12-14) |
-| **HPSA Scots 14G - LD** _(3 DSS teams played)_ | Dallas Surf 14G White | 1W-0L | 7-0 (2025-09-27) |
-| | Atletico Dallas Youth 14G Enciso | 1W-0L | 1-0 (2025-09-20) |
-| | ULETE FC 14G Carlo | 1W-0L | 4-0 (2026-03-29) |
-| **Dallas Surf 14G Silver** _(3 DSS teams played)_ | Dallas Surf 14G White | 1W-0L | 4-0 (2025-09-20) |
-| | Juventus Premier FC 14G Black Cantu | 1W-0L | 4-0 (2025-11-22) |
+| **Dallas Legacy 15G Arroyo ** _(3 DSS teams played)_ | Atletico Dallas Youth Pre ECNL G15- Perez | 0W-1L | 2-3 (2025-05-11) |
+| | Dutch Lionesses 14G AJAX | 0W-0L-1D | 2-2 (2025-06-07) |
+| | IRVING TEXAS HEAT 14 GR | 0W-1L | 2-6 (2025-11-22) |
+| **Dallas Surf 14G East White 83** _(3 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 2W-0L | 1-0 (2025-11-23) |
+| | Solar South 15G Adames | 1W-0L | 6-1 (2025-08-03) |
+| | 14G McGregor | 0W-1L | 0-1 (2025-05-10) |
+| **Dallas Surf 14G Silver 228** _(3 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 1W-0L | 4-0 (2025-11-22) |
+| | Dallas Surf 14G White | 1W-0L | 4-0 (2025-09-20) |
 | | Atletico Dallas Youth 14G Enciso | 1W-0L | 2-0 (2025-09-13) |
-| **FC Dallas Youth Pre ECNL G14 Avant West** _(3 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 0W-2L | 0-5 (2025-11-08) |
-| | Dallas Surf 14G White | 0W-1L | 0-4 (2025-09-21) |
-| | Sting G14 Fuentes | 0W-1L | 0-3 (2025-05-10) |
-| **Dallas Surf 14G Pre-GA** _(3 DSS teams played)_ | Dallas Surf 14G White | 1W-0L-1D | 2-0 (2025-11-07) |
-| | Fever United 14G Wright | 0W-2L | 1-4 (2025-04-26) |
-| | Juventus Premier FC 14G Black Cantu | 0W-1L | 0-2 (2025-09-14) |
-| **REIGN SC 15G** _(3 DSS teams played)_ | Dallas Surf 14G White | 0W-1L-1D | 1-1 (2025-08-17) |
-| | Nido Águila 14G Gonzalez | 0W-1L | 0-5 (2026-01-17) |
-| | Atletico Dallas Youth 14G Enciso | 0W-1L | 1-2 (2026-01-18) |
+| **Solar East 14G Campos** _(3 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 0W-1L | 1-3 (2025-06-07) |
+| | Sting Pre-ECNL G14 H Martinez | 1W-0L | 3-0 (2025-02-05) |
+| | Solar South 15G Adames | 1W-0L | 2-0 (2025-08-02) |
+| **Dallas Surf 14G East Pre-ECNL** _(3 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 0W-1L-2D | 2-2 (2025-06-06) |
+| | Sting Pre-ECNL G14 Kovacevic | 0W-3L | 1-2 (2025-06-08) |
+| | NTX Celtic 14G Holden | 0W-1L | 0-7 (2026-04-11) |
+| **Renegades 14G Pre ECNL Orange North** _(3 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 1W-0L | 4-2 (2025-05-10) |
+| | BVB 14G East (Brown) | 1W-0L | 2-0 (2025-02-22) |
+| | Sting Pre-ECNL G14 H Martinez | 1W-0L | 2-0 (2025-02-08) |
+| **FW All Stars FC 2014G** _(3 DSS teams played)_ | Juventus Premier FC 14G Black Cantu | 2W-0L | 4-1 (2025-05-09) |
+| | Dallas Surf 14G East Silver | 0W-0L-2D | 1-1 (2025-12-13) |
+| | Nido Águila 14G Gonzalez | 0W-2L | 2-4 (2025-11-09) |
 
 _161 more shared opponents not shown — see master `00 — Bracket View.md` for full per-bracket detail._

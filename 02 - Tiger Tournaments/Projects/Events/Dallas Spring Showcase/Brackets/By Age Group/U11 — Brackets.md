@@ -16,230 +16,180 @@ status: ready-for-scheduler
 
 ---
 
-## U11 Boys _(43 teams)_
+## U11 Boys _(43 teams · 34 with H2H · 9 without)_
 
-### (no division — unassigned)
+### H2H-Ranked Brackets _(U11 Boys)_
 
-**(no bracket — unassigned)** _(1 teams)_ — Round robin (1 teams) — too small for knockout
+Teams ranked by head-to-head record against other U11 Boys DSS attendees, then split into brackets of ~4–6.
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | GLASA Hulk Smash 15B | GLASA | Christopher Gage | — | rating |
+#### Bracket A _(5 teams)_ — Round robin (4 games each), then semifinals, then final
 
-### 9v9 Bronze
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | BVB 15B PreECNL Elite (Klassen) | BVB International Academy Texas | Joseph Klassen | 7W-3L (10 games) | 37–19 | 21 |
+| 2 | Dallas Cosmos 15B Black | Dallas Cosmos Soccer Club | Carlos Perez | 5W-3L (8 games) | 18–9 | 15 |
+| 3 | Texas Warriors FC 15B Salas | Texas Warriors FC | Juan Salas | 4W-2L (6 games) | 12–7 | 12 |
+| 4 | Dallas Surf 15B Black | Dallas Surf | Victor Corral | 4W-2L (6 games) | 17–17 | 12 |
+| 5 | BVB 15B PreECNL White (DeSousa) | BVB International Academy Texas | Luiz De Sousa | 4W-5L (9 games) | 12–23 | 12 |
 
-**Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+#### Bracket B _(5 teams)_ — Round robin (4 games each), then semifinals, then final
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Thunder United SC 15B Red | Thunder United Soccer Club | Jason Gaglione | 1W-0L (2-1) | H2H |
-| 2 | U11 Boys Gold - GO | GFI Academy | Uros Rosic | — | rating |
-| 3 | NTX Celtic 15B Strange South | NTX Celtic FC | Michael Strange | 0W-1L (1-2) | H2H |
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | FC Dallas Pre ECNL B15 Raine | FC Dallas Youth | Michael Raine | 3W-0L (3 games) | 16–3 | 9 |
+| 2 | Tyler FC 15B | Tyler FC | Killian Pallone | 3W-1L (4 games) | 16–7 | 9 |
+| 3 | 15B McGregor | Evolution | Lewis Mcgregor | 3W-3L (6 games) | 9–13 | 9 |
+| 4 | Atletico Dallas Youth 15B Brandt | Atletico Dallas Youth | Aerial Brandt | 3W-5L (8 games) | 10–15 | 9 |
+| 5 | FC LEGENDS UTD 15B Red | FC LEGENDS UTD | Mathania Dube | 2W-1L-1D (4 games) | 11–6 | 7 |
 
-**Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+#### Bracket C _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Texas Warriors FC 15B Black | Texas Warriors FC | Jason Foster | — | rating |
-| 2 | Pegasus Futbol 2015 | Pegasus Futbol | Martin Prats | — | rating |
-| 3 | ULETE FC 15B Simon | Ulete FC | Simon Da-Silva | — | rating |
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Texas Warriors FC 15B Black | Texas Warriors FC | Jason Foster | 2W-1L-1D (4 games) | 11–8 | 7 |
+| 2 | Thunder United SC 15B Red | Thunder United Soccer Club | Jason Gaglione | 2W-1L-1D (4 games) | 9–8 | 7 |
+| 3 | Frisco Fusion 15B Blue | Frisco Fusion | Mark Axon | 2W-0L (2 games) | 10–1 | 6 |
+| 4 | ULETE FC 15B Simon | Ulete FC | Simon Da-Silva | 2W-1L (3 games) | 12–7 | 6 |
 
-**Bracket C** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+#### Bracket D _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | FC LEGENDS UTD 15B Black | FC LEGENDS UTD | Mesen Dube | — | rating |
-| 2 | BVB 15B Black (DeSousa) | BVB International Academy Texas | Luiz De Sousa | — | rating |
-| 3 | LC United 15B White Lyle | LC United | Edmund Lyle | — | rating |
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Solar 15B Molano PreECNL Red | Solar SC | Alexander Molano | 2W-0L (2 games) | 5–1 | 6 |
+| 2 | Sting Pre ECNL B16 Lucero | Sting Soccer Club | Jonathan Lucero | 2W-1L (3 games) | 9–6 | 6 |
+| 3 | Fort Worth Vaqueros FC 15 Alonzo | Fort Worth Vaqueros FC | Paul Alonzo | 2W-1L (3 games) | 7–7 | 6 |
+| 4 | FC LEGENDS UTD 15B Black | FC LEGENDS UTD | Mesen Dube | 2W-4L (6 games) | 9–16 | 6 |
 
-### 9v9 Bronze II
+#### Bracket E _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-**Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | FC Dallas Youth 15B Navy | FC Dallas Youth | Michael Raine | 1W-0L-1D (2 games) | 7–4 | 4 |
+| 2 | BVB 15B PreECNL Black East (Contreras) | BVB International Academy Texas | Jose Contreras | 1W-1L-1D (3 games) | 6–4 | 4 |
+| 3 | Pflugerville Rayados 2015 | Mortega Soccer Club Laredo Youth Soccer Academy | Miguel Ortega | 1W-0L (1 games) | 4–0 | 3 |
+| 4 | Atletico Dallas Youth FTW 15B Blue | Atletico Dallas Youth | Matt Alford | 1W-3L (4 games) | 8–5 | 3 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Coppell FC 15B Williams White | Coppell Youth SA | Greg Williams | — | rating |
-| 2 | Elite Premier FC 2015B | Elite Premier FC | Daniel Ramos | — | rating |
-| 3 | Solar SW 15B Garcia.S White | Solar SC | Samuel Garcia | — | rating |
+#### Bracket F _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-**Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | FC Dallas Youth Pre ECNL B15 | FC Dallas Youth | Justin Bailey | 1W-1L (2 games) | 8–6 | 3 |
+| 2 | BVB 15B Black (DeSousa) | BVB International Academy Texas | Luiz De Sousa | 1W-2L (3 games) | 2–6 | 3 |
+| 3 | NTX Celtic 15B Strange South | NTX Celtic FC | Michael Strange | 1W-3L (4 games) | 3–10 | 3 |
+| 4 | TAG Pre ECNL 15B Gold East | TAG Soccer | Joseph Guerra | 0W-3L-1D (4 games) | 1–8 | 1 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Fort Worth Vaqueros FC 15 Alonzo | Fort Worth Vaqueros FC | Paul Alonzo | — | rating |
-| 2 | 15B McGregor | Evolution | Lewis Mcgregor | — | rating |
-| 3 | Arl Rodriguez/South Dallas Leon 15B | Arlington SA | Eduardo Rodriguez | — | rating |
+#### Bracket G _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-**Bracket C** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Solar SW 15B Garcia.S White | Solar SC | Samuel Garcia | 0W-1L (1 games) | 2–3 | 0 |
+| 2 | Fever United 15B C. Smith | Fever United | Constance Smith | 0W-1L (1 games) | 1–4 | 0 |
+| 3 | Barca Academy Austin 15/16B Blue | Hill Country FC / Barca Academy Austin | David Cots | 0W-3L (3 games) | 4–10 | 0 |
+| 4 | Coppell FC 15B Williams White | Coppell Youth SA | Greg Williams | 0W-2L (2 games) | 2–9 | 0 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Cobras | Little Elm Youth SA | Craig Sherrane | — | rating |
-| 2 | FC LEGENDS UTD 15B Red | FC LEGENDS UTD | Mathania Dube | — | rating |
-| 3 | 15B Sinnott | Evolution | Jack Havard | — | rating |
+#### Bracket H _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-### 9v9 Silver
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | FCD ETX Palestine 15/16B | FC Dallas ETX | Phillip Presley | 0W-1L (1 games) | 0–7 | 0 |
+| 2 | 15B Sinnott | Evolution | Jack Havard | 0W-3L (3 games) | 2–11 | 0 |
+| 3 | Royal Peak FC 2015 White | Royal Peak FC | Felix Lopez | 0W-1L (1 games) | 0–9 | 0 |
+| 4 | LC United 15B White Lyle | LC United | Edmund Lyle | 0W-2L (2 games) | 1–12 | 0 |
 
-**Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+### U11 Boys — No H2H Data _(9 teams)_
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Dallas Cosmos 15B Black | Dallas Cosmos Soccer Club | Carlos Perez | — | rating |
-| 2 | TAG Pre ECNL 15B Gold East | TAG Soccer | Joseph Guerra | — | rating |
-| 3 | FC Dallas Youth Pre ECNL B15 | FC Dallas Youth | Justin Bailey | — | rating |
+These teams haven't played any other U11 Boys DSS attendees in the last 24 months, so they can't be H2H-ranked. Their registrar-preferred Division and Bracket are shown — they need either manual seeding or grouping with H2H-ranked teams of similar level.
 
-**Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+| Team | Club | Coach | Preferred Division | Preferred Bracket |
+|------|------|-------|--------------------|-------------------|
+| GLASA Hulk Smash 15B | GLASA | Christopher Gage | _(none)_ | _(none)_ |
+| U11 Boys Gold - GO | GFI Academy | Uros Rosic | 9v9 Bronze | Bracket A |
+| Pegasus Futbol 2015 | Pegasus Futbol | Martin Prats | 9v9 Bronze | Bracket B |
+| Elite Premier FC 2015B | Elite Premier FC | Daniel Ramos | 9v9 Bronze II | Bracket A |
+| Arl Rodriguez/South Dallas Leon 15B | Arlington SA | Eduardo Rodriguez | 9v9 Bronze II | Bracket B |
+| Cobras | Little Elm Youth SA | Craig Sherrane | 9v9 Bronze II | Bracket C |
+| FC Dallas Youth Pre ECNL B15 Malik | FC Dallas Youth | Usman Malik | 9v9 Silver | Bracket C |
+| NTX United FC 2015/16B Guibert | NTX United FC | Anthony Guibert | Silver II | Bracket A |
+| Atlético United FC | Atletico United FC | Eliseo Madera | Silver II | Bracket B |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | BVB 15B PreECNL White (DeSousa) | BVB International Academy Texas | Luiz De Sousa | 1W-0L (2-1) | H2H |
-| 2 | FCD ETX Palestine 15/16B | FC Dallas ETX | Phillip Presley | — | rating |
-| 3 | Texas Warriors FC 15B Salas | Texas Warriors FC | Juan Salas | 0W-1L (1-2) | H2H |
+## U11 Girls _(31 teams · 28 with H2H · 3 without)_
 
-**Bracket C** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+### H2H-Ranked Brackets _(U11 Girls)_
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Dallas Surf 15B Black | Dallas Surf | Victor Corral | — | rating |
-| 2 | Atletico Dallas Youth 15B Brandt | Atletico Dallas Youth | Aerial Brandt | — | rating |
-| 3 | FC Dallas Youth Pre ECNL B15 Malik | FC Dallas Youth | Usman Malik | — | rating |
+Teams ranked by head-to-head record against other U11 Girls DSS attendees, then split into brackets of ~4–6.
 
-### DS 9v9 Silver Elite
+#### Bracket A _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-**Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | FC Dallas Youth 15G North White | FC Dallas Youth | Eduardo Marin | 12W-8L-1D (21 games) | 61–46 | 37 |
+| 2 | Atletico Dallas Youth 15G Welge | Atletico Dallas Youth | Jw Welge | 11W-3L (14 games) | 48–22 | 33 |
+| 3 | ULETE FC 15G Andre | Ulete FC | Andre De Freitas Lima | 10W-1L-2D (13 games) | 42–9 | 32 |
+| 4 | FC Dallas Youth 15G Navy | FC Dallas Youth | Paul Niehoff | 9W-2L-5D (16 games) | 52–21 | 32 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | BVB 15B PreECNL Elite (Klassen) | BVB International Academy Texas | Joseph Klassen | 1W-0L (4-2) | H2H |
-| 2 | FC Dallas Pre ECNL B15 Raine | FC Dallas Youth | Michael Raine | — | rating |
-| 3 | Sting Pre ECNL B16 Lucero | Sting Soccer Club | Jonathan Lucero | 0W-1L (2-4) | H2H |
+#### Bracket B _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-**Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Atletico Dallas Youth 15G Williams | Atletico Dallas Youth | Hunter Williams | 9W-3L-2D (14 games) | 31–20 | 29 |
+| 2 | Dallas Legacy 15G Arroyo | Dallas Legacy | Miguel Arroyo | 9W-7L-2D (18 games) | 42–38 | 29 |
+| 3 | Solar South 16G Adames | Solar SC | Gabriel Adames | 9W-1L-1D (11 games) | 37–9 | 28 |
+| 4 | Revolution Premier SC 15G | Revolution Premier SC | Alexis Miles | 8W-8L-4D (20 games) | 32–40 | 28 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Pflugerville Rayados 2015 | Mortega Soccer Club Laredo Youth Soccer Academy | Miguel Ortega | — | rating |
-| 2 | Solar 15B Molano PreECNL Red | Solar SC | Alexander Molano | — | rating |
-| 3 | Tyler FC 15B | Tyler FC | Killian Pallone | — | rating |
+#### Bracket C _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-### Silver II
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Texas Warriors FC 15G - Salas | Texas Warriors FC | Juan Salas | 7W-8L-2D (17 games) | 44–43 | 23 |
+| 2 | The Hive | The Hive | Ramfery Cornelio | 7W-2L (9 games) | 38–26 | 21 |
+| 3 | Dallas Surf 15G Central | Dallas Surf | Jose Lopez | 6W-7L-2D (15 games) | 25–28 | 20 |
+| 4 | 15G Moon | Evolution | Kevin Moon | 5W-6L-4D (15 games) | 32–28 | 19 |
 
-**Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+#### Bracket D _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Frisco Fusion 15B Blue | Frisco Fusion | Mark Axon | — | rating |
-| 2 | FC Dallas Youth 15B Navy | FC Dallas Youth | Michael Raine | — | rating |
-| 3 | NTX United FC 2015/16B Guibert | NTX United FC | Anthony Guibert | — | rating |
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Dallas Surf 15G North | Dallas Surf | Danielle Caro | 5W-1L-1D (7 games) | 20–6 | 16 |
+| 2 | North Texas Elite 2015G Pina | North Texas Elite SC | Robert Pina | 5W-10L (15 games) | 20–34 | 15 |
+| 3 | Coppell FC 15G Campanella White | Coppell Youth SA | Daniel Campanella | 4W-14L-2D (20 games) | 35–72 | 14 |
+| 4 | BVB 15G Black (Oldham) | BVB International Academy Texas | Andrew Oldham | 4W-5L (9 games) | 13–20 | 12 |
 
-**Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+#### Bracket E _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Atlético United FC | Atletico United FC | Eliseo Madera | — | rating |
-| 2 | Fever United 15B C. Smith | Fever United | Constance Smith | — | rating |
-| 3 | Barca Academy Austin 15/16B Blue | Hill Country FC / Barca Academy Austin | David Cots | — | rating |
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | FC Dallas High Plains 2015 Girls Red | FC Dallas High Plains | Bryan Chaffin | 3W-0L-1D (4 games) | 13–5 | 10 |
+| 2 | FC Dallas Youth 15G Blue | FC Dallas Youth | Kathy Webb | 3W-5L-1D (9 games) | 5–13 | 10 |
+| 3 | Fortress FC 15G | Fortress FC | John Strong | 2W-7L-2D (11 games) | 16–32 | 8 |
+| 4 | Solar Pre ECNL G15 Naizer | Solar SC | Chad Naizer | 2W-5L (7 games) | 10–18 | 6 |
 
-**Bracket C** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+#### Bracket F _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | BVB 15B PreECNL Black East (Contreras) | BVB International Academy Texas | Jose Contreras | — | rating |
-| 2 | Atletico Dallas Youth FTW 15B Blue | Atletico Dallas Youth | Matt Alford | — | rating |
-| 3 | Royal Peak FC 2015 White | Royal Peak FC | Felix Lopez | — | rating |
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Dallas Cosmos 15G White | Dallas Cosmos Soccer Club | Olivia Severson | 2W-13L (15 games) | 14–50 | 6 |
+| 2 | Sting WTX G15 Fernandez | Sting Soccer Club | Darío Fernández | 1W-5L-2D (8 games) | 15–24 | 5 |
+| 3 | Frisco Fusion 15G Blue | Frisco Fusion | Mark Axon | 1W-4L-1D (6 games) | 15–21 | 4 |
+| 4 | FC Dallas High Plains 2015 Girls Blue | FC Dallas High Plains | Bryan Chaffin | 1W-1L (2 games) | 4–3 | 3 |
 
-## U11 Girls _(31 teams)_
+#### Bracket G _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
 
-### (no division — unassigned)
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | FC Dallas Youth Pre-ECNL 15G Avant West | FC Dallas Youth | Neil Avant | 1W-2L (3 games) | 4–7 | 3 |
+| 2 | BVB 15G Yellow (Ibrahimpasic) | BVB International Academy Texas | Elvir Ibrahimpasic | 1W-1L (2 games) | 3–7 | 3 |
+| 3 | Dallas Surf 15G Black | Dallas Surf | Richard Evans | 0W-6L-3D (9 games) | 8–29 | 3 |
+| 4 | Athens Futbol Club - 15G Gonzalez | Athens Futbol Club | Eduardo Gonzalez | 0W-2L (2 games) | 3–11 | 0 |
 
-**(no bracket — unassigned)** _(1 teams)_ — Round robin (1 teams) — too small for knockout
+### U11 Girls — No H2H Data _(3 teams)_
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Dallas Surf 15G Central | Dallas Surf | Jose Lopez | — | rating |
+These teams haven't played any other U11 Girls DSS attendees in the last 24 months, so they can't be H2H-ranked. Their registrar-preferred Division and Bracket are shown — they need either manual seeding or grouping with H2H-ranked teams of similar level.
 
-### 9v9 Bronze
-
-**Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Atletico Dallas Youth 15G Williams | Atletico Dallas Youth | Hunter Williams | 1W-0L (2-0) | H2H |
-| 2 | The Hive | The Hive | Ramfery Cornelio | — | rating |
-| 3 | FC Dallas High Plains 2015 Girls Blue | FC Dallas High Plains | Bryan Chaffin | — | rating |
-| 4 | Revolution Premier SC 15G | Revolution Premier SC | Alexis Miles | 0W-1L (0-2) | H2H |
-
-**Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Dallas Legacy 15G Arroyo | Dallas Legacy | Miguel Arroyo | 2W-0L (6-2) | H2H |
-| 2 | Sting WTX G15 Fernandez | Sting Soccer Club | Darío Fernández | — | rating |
-| 3 | FC Dallas Youth Pre-ECNL 15G Avant West | FC Dallas Youth | Neil Avant | — | rating |
-| 4 | Dallas Cosmos 15G White | Dallas Cosmos Soccer Club | Olivia Severson | 0W-2L (2-6) | H2H |
-
-### 9v9 Bronze II
-
-**Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Coppell FC 15G Campanella White | Coppell Youth SA | Daniel Campanella | 1W-1L (8-4) | H2H |
-| 2 | Fortress FC 15G | Fortress FC | John Strong | 1W-0L (3-2) | H2H |
-| 3 | Dallas Deportivo F.C. 15 | Dallas Deportivo FC | Gabriel Martinez Ibarra | — | rating |
-| 4 | BVB 15G Yellow (Ibrahimpasic) | BVB International Academy Texas | Elvir Ibrahimpasic | 0W-1L (1-6) | H2H |
-
-**Bracket B** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Frisco Fusion 15G Blue | Frisco Fusion | Mark Axon | — | rating |
-| 2 | Dallas Surf 15G Black | Dallas Surf | Richard Evans | — | rating |
-| 3 | Athens Futbol Club - 15G Gonzalez | Athens Futbol Club | Eduardo Gonzalez | — | rating |
-| 4 | Dallas Cosmos 15G Red | Dallas Cosmos Soccer Club | Olivia Severson | — | rating |
-
-### 9v9 DS Gold
-
-**Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | FC Dallas High Plains 2015 Girls Red | FC Dallas High Plains | Bryan Chaffin | 0W-0L-1D (3-3) | H2H |
-| 2 | Solar South 16G Adames | Solar SC | Gabriel Adames | 0W-0L-1D (3-3) | H2H |
-| 3 | Solar North 16G | Solar SC | Reginald Wilcox | — | rating |
-
-**Bracket B** _(2 teams)_ — Round robin (2 teams) — too small for knockout
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | ULETE FC 15G Andre | Ulete FC | Andre De Freitas Lima | 1W-0L (4-0) | H2H |
-| 2 | Atletico Dallas Youth 15G Welge | Atletico Dallas Youth | Jw Welge | 0W-1L (0-4) | H2H |
-
-### 9v9 Silver
-
-**Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Solar Pre ECNL G15 Naizer | Solar SC | Chad Naizer | 1W-1L (7-4) | H2H |
-| 2 | North Texas Elite 2015G Pina | North Texas Elite SC | Robert Pina | 1W-1L (4-7) | H2H |
-| 3 | FC Dallas Youth 15G North White | FC Dallas Youth | Eduardo Marin | — | rating |
-
-**Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Dallas Surf 15G North | Dallas Surf | Danielle Caro | 1W-0L (2-0) | H2H |
-| 2 | 15G Moon | Evolution | Kevin Moon | — | rating |
-| 3 | FC Dallas Youth 15G Blue | FC Dallas Youth | Kathy Webb | 0W-1L (0-2) | H2H |
-
-**Bracket C** _(3 teams)_ — Round robin (3 teams) — too small for knockout
-
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | FC Dallas Youth 15G Navy | FC Dallas Youth | Paul Niehoff | 2W-0L-1D (9-3) | H2H |
-| 2 | Texas Warriors FC 15G - Salas | Texas Warriors FC | Juan Salas | 0W-1L-1D (3-5) | H2H |
-| 3 | BVB 15G Black (Oldham) | BVB International Academy Texas | Andrew Oldham | 0W-1L (0-4) | H2H |
+| Team | Club | Coach | Preferred Division | Preferred Bracket |
+|------|------|-------|--------------------|-------------------|
+| Dallas Deportivo F.C. 15 | Dallas Deportivo FC | Gabriel Martinez Ibarra | 9v9 Bronze II | Bracket A |
+| Dallas Cosmos 15G Red | Dallas Cosmos Soccer Club | Olivia Severson | 9v9 Bronze II | Bracket B |
+| Solar North 16G | Solar SC | Reginald Wilcox | 9v9 DS Gold | Bracket A |
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
@@ -577,16 +527,16 @@ Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Readin
 | | 15G Moon | 1W-0L | 2-0 (2026-02-03) |
 | | FC Dallas Youth 15G Navy | 1W-0L | 1-0 (2026-03-21) |
 | | Dallas Surf 15G Black | 0W-1L | 0-3 (2026-02-07) |
-| | Coppell FC 15G Campanella White | 0W-1L | 0-2 (2026-02-21) |
 | | Fortress FC 15G | 0W-1L | 0-3 (2025-10-19) |
+| | Coppell FC 15G Campanella White | 0W-1L | 0-2 (2026-02-21) |
 | | Atletico Dallas Youth 15G Williams | 1W-0L | 4-0 (2025-08-23) |
 | | Sting WTX G15 Fernandez | 0W-0L-1D | 3-3 (2026-01-18) |
 | | Dallas Cosmos 15G White | 0W-1L | 1-2 (2025-04-19) |
-| **2015 Girls FW** _(10 DSS teams played)_ | Revolution Premier SC 15G | 0W-3L | 1-4 (2026-03-07) |
+| **Dallas Texans 2015 Girls FW** _(10 DSS teams played)_ | Revolution Premier SC 15G | 0W-3L | 1-4 (2026-03-07) |
 | | Fortress FC 15G | 0W-2L | 0-5 (2025-08-30) |
 | | Dallas Legacy 15G Arroyo | 0W-2L | 0-8 (2026-03-22) |
-| | ULETE FC 15G Andre | 1W-0L | 3-2 (2026-03-30) |
 | | Atletico Dallas Youth 15G Welge | 0W-1L | 0-2 (2026-04-11) |
+| | ULETE FC 15G Andre | 1W-0L | 3-2 (2026-03-30) |
 | | FC Dallas High Plains 2015 Girls Red | 0W-1L | 1-2 (2025-11-09) |
 | | FC Dallas Youth 15G North White | 0W-1L | 2-6 (2025-09-14) |
 | | FC Dallas Youth 15G Navy | 1W-0L | 2-1 (2025-11-02) |
@@ -598,9 +548,9 @@ Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Readin
 | | FC Dallas Youth 15G Navy | 1W-0L | 4-1 (2026-03-01) |
 | | Fortress FC 15G | 0W-0L-1D | 2-2 (2026-02-28) |
 | | BVB 15G Yellow (Ibrahimpasic) | 0W-1L | 0-5 (2025-03-01) |
+| | Revolution Premier SC 15G | 1W-0L | 2-1 (2025-10-19) |
 | | Atletico Dallas Youth 15G Williams | 1W-0L | 1-0 (2025-11-12) |
 | | The Hive | 0W-1L | 1-2 (2025-11-15) |
-| | Revolution Premier SC 15G | 1W-0L | 2-1 (2025-10-19) |
 | | Dallas Legacy 15G Arroyo | 0W-0L-1D | 0-0 (2025-11-09) |
 | **INVICTUS SC 15B RED RODRIGUEZ** _(9 DSS teams played)_ | Atletico Dallas Youth FTW 15B Blue | 0W-1L | 1-7 (2026-03-21) |
 | | Royal Peak FC 2015 White | 0W-1L | 1-6 (2025-11-16) |
@@ -613,45 +563,38 @@ Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Readin
 | | Dallas Cosmos 15B Black | 1W-0L | 3-0 (2026-02-22) |
 | **Atletico Dallas Youth 15G Moreno** _(8 DSS teams played)_ | FC Dallas Youth 15G North White | 3W-0L | 2-1 (2026-02-07) |
 | | Dallas Legacy 15G Arroyo | 2W-0L | 5-1 (2025-10-19) |
-| | ULETE FC 15G Andre | 1W-0L | 5-0 (2025-11-23) |
 | | Atletico Dallas Youth 15G Welge | 1W-0L | 5-0 (2025-11-11) |
+| | ULETE FC 15G Andre | 1W-0L | 5-0 (2025-11-23) |
 | | FC Dallas Youth 15G Navy | 1W-0L | 3-0 (2026-03-28) |
-| | Coppell FC 15G Campanella White | 0W-0L-1D | 2-2 (2026-02-22) |
 | | Fortress FC 15G | 1W-0L | 3-0 (2025-11-02) |
+| | Coppell FC 15G Campanella White | 0W-0L-1D | 2-2 (2026-02-22) |
 | | Revolution Premier SC 15G | 1W-0L | 2-1 (2026-02-03) |
 | **Texas Warriors FC 15G** _(8 DSS teams played)_ | Atletico Dallas Youth 15G Welge | 1W-0L | 8-0 (2025-09-20) |
 | | FC Dallas Youth 15G North White | 1W-0L | 5-2 (2026-03-01) |
 | | FC Dallas Youth 15G Navy | 1W-0L | 4-0 (2025-10-04) |
-| | Coppell FC 15G Campanella White | 1W-0L | 2-1 (2025-09-14) |
 | | Fortress FC 15G | 0W-0L-1D | 4-4 (2026-02-21) |
-| | Atletico Dallas Youth 15G Williams | 1W-0L | 6-2 (2025-10-19) |
+| | Coppell FC 15G Campanella White | 1W-0L | 2-1 (2025-09-14) |
 | | Revolution Premier SC 15G | 1W-0L | 9-0 (2025-11-02) |
+| | Atletico Dallas Youth 15G Williams | 1W-0L | 6-2 (2025-10-19) |
 | | Dallas Legacy 15G Arroyo | 1W-0L | 4-1 (2026-02-07) |
 | **Falls Town FC 15G** _(8 DSS teams played)_ | FC Dallas Youth 15G North White | 2W-0L | 4-1 (2025-11-15) |
 | | Fortress FC 15G | 2W-0L | 3-0 (2025-11-15) |
-| | Atletico Dallas Youth 15G Williams | 1W-0L-1D | 2-0 (2026-03-21) |
 | | Revolution Premier SC 15G | 1W-1L | 2-1 (2026-02-08) |
+| | Atletico Dallas Youth 15G Williams | 1W-0L-1D | 2-0 (2026-03-21) |
 | | FC Dallas High Plains 2015 Girls Red | 1W-0L | 6-0 (2026-03-14) |
 | | FC Dallas Youth 15G Navy | 1W-0L | 1-0 (2026-02-28) |
 | | Coppell FC 15G Campanella White | 1W-0L | 1-0 (2026-02-07) |
 | | Dallas Legacy 15G Arroyo | 1W-0L | 3-0 (2025-09-20) |
-| **Dallas Hornets 15G (Prev Alpha)** _(7 DSS teams played)_ | ULETE FC 15G Andre | 0W-2L | 1-5 (2026-04-02) |
-| | Atletico Dallas Youth 15G Welge | 0W-2L | 1-5 (2025-04-26) |
+| **Dallas Hornets 15G (Prev Alpha)** _(7 DSS teams played)_ | Atletico Dallas Youth 15G Welge | 0W-2L | 1-5 (2025-04-26) |
+| | ULETE FC 15G Andre | 0W-2L | 1-5 (2026-04-02) |
 | | 15B McGregor | 0W-1L | 2-4 (2025-12-13) |
 | | BVB 15B PreECNL White (DeSousa) | 0W-1L | 2-5 (2025-08-29) |
-| | Dallas Surf 15G North | 0W-1L | 0-5 (2025-12-06) |
 | | FC Dallas Youth 15G Blue | 0W-1L | 0-3 (2025-04-18) |
+| | Dallas Surf 15G North | 0W-1L | 0-5 (2025-12-06) |
 | | Coppell FC 15G Campanella White | 0W-1L | 0-11 (2025-04-29) |
-| **Red Flames FC 15G** _(7 DSS teams played)_ | ULETE FC 15G Andre | 3W-1L | 3-0 (2025-12-07) |
-| | Solar South 16G Adames | 1W-0L | 4-0 (2025-08-02) |
-| | North Texas Elite 2015G Pina | 0W-1L | 0-1 (2025-10-29) |
-| | FC Dallas Youth 15G Blue | 0W-1L | 1-5 (2025-09-27) |
-| | BVB 15G Black (Oldham) | 0W-1L | 0-2 (2025-12-06) |
-| | Atletico Dallas Youth 15G Williams | 0W-1L | 1-4 (2025-02-23) |
-| | Dallas Legacy 15G Arroyo | 0W-1L | 0-1 (2025-04-12) |
 | **Dallas Cosmos 15G BLACK** _(7 DSS teams played)_ | North Texas Elite 2015G Pina | 1W-3L-2D | 1-2 (2026-02-22) |
-| | ULETE FC 15G Andre | 2W-0L | 3-1 (2026-03-28) |
 | | Atletico Dallas Youth 15G Welge | 0W-2L | 0-2 (2025-04-09) |
+| | ULETE FC 15G Andre | 2W-0L | 3-1 (2026-03-28) |
 | | FC Dallas Youth 15G Blue | 0W-1L-1D | 1-1 (2025-11-14) |
 | | Solar South 16G Adames | 1W-0L | 4-0 (2025-12-07) |
 | | BVB 15G Black (Oldham) | 0W-1L | 0-1 (2025-05-10) |
@@ -663,32 +606,39 @@ Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Readin
 | | FC Dallas Youth 15G Blue | 1W-0L | 2-0 (2025-02-23) |
 | | FC Dallas Youth 15G Navy | 0W-1L | 1-2 (2025-08-16) |
 | | BVB 15G Yellow (Ibrahimpasic) | 0W-1L | 2-5 (2025-05-10) |
+| **Red Flames FC 15G** _(7 DSS teams played)_ | ULETE FC 15G Andre | 3W-1L | 3-0 (2025-12-07) |
+| | Solar South 16G Adames | 1W-0L | 4-0 (2025-08-02) |
+| | North Texas Elite 2015G Pina | 0W-1L | 0-1 (2025-10-29) |
+| | FC Dallas Youth 15G Blue | 0W-1L | 1-5 (2025-09-27) |
+| | BVB 15G Black (Oldham) | 0W-1L | 0-2 (2025-12-06) |
+| | Atletico Dallas Youth 15G Williams | 0W-1L | 1-4 (2025-02-23) |
+| | Dallas Legacy 15G Arroyo | 0W-1L | 0-1 (2025-04-12) |
 | **TAG 15B Gold** _(6 DSS teams played)_ | Atletico Dallas Youth 15G Welge | 0W-2L | 1-9 (2025-03-30) |
 | | Fever United 15B C. Smith | 0W-1L | 1-9 (2026-01-18) |
 | | Barca Academy Austin 15/16B Blue | 0W-1L | 0-6 (2025-12-06) |
 | | BVB 15B PreECNL Elite (Klassen) | 1W-0L | 3-0 (2025-04-27) |
 | | FC Dallas Pre ECNL B15 Raine | 0W-0L-1D | 4-4 (2026-01-17) |
 | | ULETE FC 15B Simon | 0W-1L | 2-6 (2025-08-17) |
+| **Dallas Surf 15B Silver 277/2982** _(6 DSS teams played)_ | FC Dallas Youth 15B Navy | 1W-1L-1D | 2-2 (2025-11-23) |
+| | ULETE FC 15B Simon | 0W-1L-1D | 2-2 (2026-03-29) |
+| | BVB 15B PreECNL White (DeSousa) | 2W-0L | 3-0 (2025-08-24) |
+| | Thunder United SC 15B Red | 0W-1L | 1-5 (2025-09-20) |
+| | BVB 15B Black (DeSousa) | 0W-1L | 0-3 (2025-08-24) |
+| | FC LEGENDS UTD 15B Black | 0W-0L-1D | 1-1 (2025-03-22) |
 | **Dutch Lions 15B PSV** _(6 DSS teams played)_ | Frisco Fusion 15B Blue | 1W-0L | 4-2 (2026-03-21) |
 | | Fort Worth Vaqueros FC 15 Alonzo | 0W-0L-1D | 3-3 (2025-11-16) |
 | | FC LEGENDS UTD 15B Red | 0W-0L-1D | 1-1 (2025-08-16) |
 | | 15B Sinnott | 0W-0L-1D | 1-1 (2026-03-28) |
 | | FC LEGENDS UTD 15B Black | 1W-0L | 5-0 (2025-10-11) |
 | | Texas Warriors FC 15B Black | 0W-1L | 2-3 (2025-11-14) |
-| **Dallas Surf 15B Silver 277/2982** _(6 DSS teams played)_ | FC Dallas Youth 15B Navy | 1W-1L-1D | 2-2 (2025-11-23) |
-| | ULETE FC 15B Simon | 0W-1L-1D | 2-2 (2026-03-29) |
-| | BVB 15B PreECNL White (DeSousa) | 2W-0L | 3-0 (2025-08-24) |
-| | Thunder United SC 15B Red | 0W-1L | 1-5 (2025-09-20) |
-| | FC LEGENDS UTD 15B Black | 0W-0L-1D | 1-1 (2025-03-22) |
-| | BVB 15B Black (DeSousa) | 0W-1L | 0-3 (2025-08-24) |
 | **FC Dallas Youth Pre ECNL G15 Haylock - ** _(6 DSS teams played)_ | ULETE FC 15G Andre | 1W-1L | 4-2 (2025-11-02) |
 | | Atletico Dallas Youth 15G Welge | 0W-1L | 0-2 (2025-03-02) |
 | | Solar South 16G Adames | 0W-0L-1D | 2-2 (2026-01-11) |
 | | North Texas Elite 2015G Pina | 0W-1L | 0-11 (2025-09-14) |
 | | FC Dallas Youth 15G Blue | 0W-0L-1D | 2-2 (2026-02-21) |
 | | Coppell FC 15G Campanella White | 0W-1L | 0-6 (2025-02-02) |
-| **Sting G15 Tapia** _(6 DSS teams played)_ | ULETE FC 15G Andre | 2W-0L | 5-0 (2026-02-21) |
-| | Atletico Dallas Youth 15G Welge | 0W-0L-2D | 0-0 (2026-04-01) |
+| **Sting G15 Tapia** _(6 DSS teams played)_ | Atletico Dallas Youth 15G Welge | 0W-0L-2D | 0-0 (2026-04-01) |
+| | ULETE FC 15G Andre | 2W-0L | 5-0 (2026-02-21) |
 | | North Texas Elite 2015G Pina | 0W-1L | 0-1 (2026-04-11) |
 | | FC Dallas Youth 15G Blue | 0W-1L | 1-2 (2025-09-14) |
 | | Coppell FC 15G Campanella White | 0W-1L | 0-1 (2025-03-01) |
@@ -698,6 +648,11 @@ Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Readin
 | | FC LEGENDS UTD 15B Black | 0W-1L | 1-2 (2025-11-16) |
 | | ULETE FC 15B Simon | 0W-1L | 0-1 (2026-03-07) |
 | | Dallas Cosmos 15B Black | 1W-0L | 1-0 (2025-11-15) |
+| **Southside Juventus 15/16B** _(5 DSS teams played)_ | Atletico Dallas Youth FTW 15B Blue | 1W-0L | 10-0 (2025-10-05) |
+| | NTX Celtic 15B Strange South | 1W-0L | 5-3 (2025-09-27) |
+| | LC United 15B White Lyle | 0W-1L | 1-5 (2026-03-14) |
+| | ULETE FC 15B Simon | 1W-0L | 10-0 (2025-09-20) |
+| | Pegasus Futbol 2015 | 1W-0L | 2-1 (2026-03-29) |
 | **Fort Worth All Stars 2015 Montes** _(5 DSS teams played)_ | BVB 15B PreECNL Black East (Contreras) | 2W-0L | 7-1 (2026-02-15) |
 | | Thunder United SC 15B Red | 2W-0L | 3-2 (2026-02-28) |
 | | NTX Celtic 15B Strange South | 1W-1L | 3-2 (2026-03-28) |
@@ -713,11 +668,6 @@ Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Readin
 | | BVB 15B PreECNL Elite (Klassen) | 1W-0L | 4-0 (2025-02-15) |
 | | Tyler FC 15B | 1W-0L | 8-0 (2026-02-08) |
 | | BVB 15B Black (DeSousa) | 0W-1L | 0-3 (2025-09-21) |
-| **Southside Juventus 15/16B** _(5 DSS teams played)_ | Atletico Dallas Youth FTW 15B Blue | 1W-0L | 10-0 (2025-10-05) |
-| | NTX Celtic 15B Strange South | 1W-0L | 5-3 (2025-09-27) |
-| | LC United 15B White Lyle | 0W-1L | 1-5 (2026-03-14) |
-| | Pegasus Futbol 2015 | 1W-0L | 2-1 (2026-03-29) |
-| | ULETE FC 15B Simon | 1W-0L | 10-0 (2025-09-20) |
 | **Dallas Hornets 15B Alpha Pre-MLS** _(5 DSS teams played)_ | BVB 15B PreECNL Elite (Klassen) | 1W-0L | 2-1 (2025-02-15) |
 | | FC Dallas Pre ECNL B15 Raine | 1W-0L | 4-0 (2025-12-06) |
 | | 15B McGregor | 0W-1L | 1-3 (2025-04-27) |
@@ -726,8 +676,8 @@ Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Readin
 | **Waco United 2015B Elite 39** _(5 DSS teams played)_ | BVB 15B PreECNL Elite (Klassen) | 1W-0L | 4-3 (2025-11-16) |
 | | Sting Pre ECNL B16 Lucero | 1W-0L | 3-2 (2025-11-15) |
 | | ULETE FC 15B Simon | 0W-1L | 0-2 (2026-03-15) |
-| | Dallas Cosmos 15B Black | 0W-1L | 1-5 (2025-11-01) |
 | | TAG Pre ECNL 15B Gold East | 0W-1L | 0-2 (2025-11-15) |
+| | Dallas Cosmos 15B Black | 0W-1L | 1-5 (2025-11-01) |
 | **Dallas Texans Pre ECNL B15 Juliao** _(5 DSS teams played)_ | Dallas Cosmos 15B Black | 0W-2L | 1-2 (2025-11-02) |
 | | BVB 15B PreECNL Elite (Klassen) | 1W-0L | 3-1 (2026-04-10) |
 | | FC Dallas Pre ECNL B15 Raine | 0W-0L-1D | 0-0 (2026-01-19) |
@@ -785,8 +735,8 @@ Opponents played by 2+ U11 DSS teams (not attending DSS), last 24 months. Readin
 | | Fortress FC 15G | 0W-0L-1D | 0-0 (2025-03-09) |
 | **Solar South 15 Adames Red** _(5 DSS teams played)_ | ULETE FC 15G Andre | 0W-0L-1D | 1-1 (2025-05-24) |
 | | Solar South 16G Adames | 0W-1L | 0-1 (2025-03-16) |
-| | Solar Pre ECNL G15 Naizer | 0W-1L | 0-5 (2025-05-25) |
 | | North Texas Elite 2015G Pina | 0W-1L | 0-3 (2025-05-17) |
+| | Solar Pre ECNL G15 Naizer | 0W-1L | 0-5 (2025-05-25) |
 | | Revolution Premier SC 15G | 0W-1L | 0-12 (2025-01-25) |
 | **Solar East 16G Campos White** _(5 DSS teams played)_ | North Texas Elite 2015G Pina | 1W-0L | 1-0 (2026-02-07) |
 | | FC Dallas Youth 15G North White | 1W-0L | 2-1 (2025-02-28) |

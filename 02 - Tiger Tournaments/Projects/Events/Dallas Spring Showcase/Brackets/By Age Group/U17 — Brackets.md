@@ -16,58 +16,57 @@ status: ready-for-scheduler
 
 ---
 
-## U17 Boys _(10 teams)_
+## U17 Boys _(10 teams · 6 with H2H · 4 without)_
 
-### (no division — unassigned)
+### H2H-Ranked Brackets _(U17 Boys)_
 
-**(no bracket — unassigned)** _(1 teams)_ — Round robin (1 teams) — too small for knockout
+Teams ranked by head-to-head record against other U17 Boys DSS attendees, then split into brackets of ~4–6.
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Atletico Dallas Youth ECNL RL NTX BLUE 08/07B HERNANDEZ-WTX | Atletico Dallas Youth | Victor Hernandez | — | rating |
+#### Bracket A _(6 teams)_ — Two pools of 3, cross-play, top 4 → semifinals → final
 
-### Bracket B
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | PSG DFW 09B ORTEGA | Paris Saint-Germain Academy DFW | Haime Ortega | 2W-0L-1D (3 games) | 5–0 | 7 |
+| 2 | Arsenal CF 09B | Independent Teams - NTX | Joe Avitia | 1W-0L (1 games) | 4–0 | 3 |
+| 3 | OTIS F.C | Otis FC | Jose Romero-Iniestra | 1W-0L (1 games) | 3–0 | 3 |
+| 4 | TAG 09B Black | TAG Soccer | Mayowa Alli | 0W-1L-1D (2 games) | 0–2 | 1 |
+| 5 | Atletico Dallas Youth Blue ECNL-RL NTX B09 | Atletico Dallas Youth | Jonathan Curiel | 0W-1L (1 games) | 0–3 | 0 |
+| 6 | Atletico Dallas Youth FDL 09B Reyes | Atletico Dallas Youth | Dominik Reyes | 0W-2L (2 games) | 0–7 | 0 |
 
-**Bracket A** _(5 teams)_ — Round robin (4 games each), then semifinals, then final
+### U17 Boys — No H2H Data _(4 teams)_
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | PSG DFW 09B ORTEGA | Paris Saint-Germain Academy DFW | Haime Ortega | 1W-0L-1D (2-0) | H2H |
-| 2 | OTIS F.C | Otis FC | Jose Romero-Iniestra | 1W-0L (3-0) | H2H |
-| 3 | TAG 09B Black | TAG Soccer | Mayowa Alli | 0W-1L-1D (0-2) | H2H |
-| 4 | Solar East 09B Spear | Solar SC | Christopher Spear | — | rating |
-| 5 | Atletico Dallas Youth Blue ECNL-RL NTX B09 | Atletico Dallas Youth | Jonathan Curiel | 0W-1L (0-3) | H2H |
+These teams haven't played any other U17 Boys DSS attendees in the last 24 months, so they can't be H2H-ranked. Their registrar-preferred Division and Bracket are shown — they need either manual seeding or grouping with H2H-ranked teams of similar level.
 
-### DS Silver
+| Team | Club | Coach | Preferred Division | Preferred Bracket |
+|------|------|-------|--------------------|-------------------|
+| Atletico Dallas Youth ECNL RL NTX BLUE 08/07B HERNANDEZ-WTX | Atletico Dallas Youth | Victor Hernandez | _(none)_ | _(none)_ |
+| Solar East 09B Spear | Solar SC | Christopher Spear | Bracket B | Bracket A |
+| Bravos Academy 10B (Garcia) | FC JUAREZ DALLAS | Rene Garcia | DS Silver | Bracket A |
+| Toros FC 2009/2010 Black | El Paso Premier League | Jose Aleman | DS Silver | Bracket A |
 
-**Bracket A** _(4 teams)_ — Round robin (3 games each), then semifinals (1v4, 2v3), then final
+## U17 Girls _(6 teams · 3 with H2H · 3 without)_
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Arsenal CF 09B | Independent Teams - NTX | Joe Avitia | 1W-0L (4-0) | H2H |
-| 2 | Toros FC 2009/2010 Black | El Paso Premier League | Jose Aleman | — | rating |
-| 3 | Bravos Academy 10B (Garcia) | FC JUAREZ DALLAS | Rene Garcia | — | rating |
-| 4 | Atletico Dallas Youth FDL 09B Reyes | Atletico Dallas Youth | Dominik Reyes | 0W-1L (0-4) | H2H |
+### H2H-Ranked Brackets _(U17 Girls)_
 
-## U17 Girls _(6 teams)_
+Teams ranked by head-to-head record against other U17 Girls DSS attendees, then split into brackets of ~4–6.
 
-### HS 1
+#### Bracket A _(3 teams)_ — Round robin (3 teams) — too small for knockout
 
-**Bracket A** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+| Seed | Team | Club | Coach | H2H Record | GF–GA | Pts |
+|------|------|------|-------|-----------|-------|-----|
+| 1 | Atletico Dallas Youth 09G Clark | Atletico Dallas Youth | Adam Clark | 4W-0L-1D (5 games) | 17–1 | 13 |
+| 2 | Inter Dallas SC 09G | Dallas Inter Soccer Club | Javier Loredo | 1W-3L (4 games) | 3–16 | 3 |
+| 3 | Solar 09G Megli | Solar SC | Kevin Megli | 0W-2L-1D (3 games) | 0–3 | 1 |
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Inter Dallas SC 09G | Dallas Inter Soccer Club | Javier Loredo | 1W-0L (2-0) | H2H |
-| 2 | NTX Celtic FC ECNL RL NTX G09 | NTX Celtic FC | William Epps | — | rating |
-| 3 | Solar 09G Megli | Solar SC | Kevin Megli | 0W-1L (0-2) | H2H |
+### U17 Girls — No H2H Data _(3 teams)_
 
-**Bracket B** _(3 teams)_ — Round robin (3 teams) — too small for knockout
+These teams haven't played any other U17 Girls DSS attendees in the last 24 months, so they can't be H2H-ranked. Their registrar-preferred Division and Bracket are shown — they need either manual seeding or grouping with H2H-ranked teams of similar level.
 
-| Seed | Team | Club | Coach | In-bracket H2H | Seed source |
-|------|------|------|-------|----------------|-------------|
-| 1 | Coppell FC 09G Sansom | Coppell Youth SA | Benjamin Sansom | — | rating |
-| 2 | Dallas Legacy 09G Arroyo | Dallas Legacy | Miguel Arroyo | — | rating |
-| 3 | Atletico Dallas Youth 09G Clark | Atletico Dallas Youth | Adam Clark | — | rating |
+| Team | Club | Coach | Preferred Division | Preferred Bracket |
+|------|------|-------|--------------------|-------------------|
+| NTX Celtic FC ECNL RL NTX G09 | NTX Celtic FC | William Epps | HS 1 | Bracket A |
+| Coppell FC 09G Sansom | Coppell Youth SA | Benjamin Sansom | HS 1 | Bracket B |
+| Dallas Legacy 09G Arroyo | Dallas Legacy | Miguel Arroyo | HS 1 | Bracket B |
 
 ---
 _Seeding is by Evo Draw rating (highest = seed 1). Match format suggestions follow Presten's verbal rules from 2026-04-28._
@@ -129,26 +128,32 @@ Opponents played by 2+ U17 DSS teams (not attending DSS), last 24 months. Readin
 
 | Shared opponent | DSS team | Record | Last |
 |-----------------|----------|--------|------|
-| **Dallas Surf 09G FDL** _(5 DSS teams played)_ | Inter Dallas SC 09G | 0W-2L | 1-3 (2026-04-08) |
+| **Dallas Surf 09G Black** _(5 DSS teams played)_ | Inter Dallas SC 09G | 0W-2L | 1-3 (2026-04-08) |
 | | Solar 09G Megli | 0W-0L-2D | 2-2 (2025-09-21) |
+| | Atletico Dallas Youth 09G Clark | 1W-0L | 3-1 (2025-09-28) |
 | | Coppell FC 09G Sansom | 1W-0L | 2-0 (2025-03-23) |
 | | Dallas Legacy 09G Arroyo | 1W-0L | 5-1 (2025-11-22) |
-| | Atletico Dallas Youth 09G Clark | 1W-0L | 3-1 (2025-09-28) |
-| **Frisco Fusion 09B Blue** _(3 DSS teams played)_ | PSG DFW 09B ORTEGA | 2W-0L | 4-1 (2025-01-26) |
-| | OTIS F.C | 0W-2L | 0-3 (2025-04-26) |
-| | Arsenal CF 09B | 1W-0L | 3-0 (2025-11-13) |
 | **Dallas Texans ETX Ruiz 09/10B** _(3 DSS teams played)_ | OTIS F.C | 2W-1L | 1-0 (2025-11-08) |
 | | Atletico Dallas Youth Blue ECNL-RL NTX B09 | 0W-0L-1D | 1-1 (2026-02-07) |
 | | Arsenal CF 09B | 0W-1L | 0-1 (2025-12-13) |
-| **LC United 09G Red Mundt - NL** _(3 DSS teams played)_ | Coppell FC 09G Sansom | 0W-2L-1D | 1-1 (2026-04-11) |
+| **Frisco Fusion 09B Blue** _(3 DSS teams played)_ | OTIS F.C | 0W-2L | 0-3 (2025-04-26) |
+| | PSG DFW 09B ORTEGA | 2W-0L | 4-1 (2025-01-26) |
+| | Arsenal CF 09B | 1W-0L | 3-0 (2025-11-13) |
+| **LC United 09G Red Mundt - FL** _(3 DSS teams played)_ | Coppell FC 09G Sansom | 0W-2L-1D | 1-1 (2026-04-11) |
 | | Dallas Legacy 09G Arroyo | 0W-2L-1D | 3-3 (2026-03-28) |
 | | Atletico Dallas Youth 09G Clark | 0W-1L | 0-3 (2025-04-29) |
 | **Villarreal NTX 09G Yellow** _(3 DSS teams played)_ | Dallas Legacy 09G Arroyo | 2W-0L-1D | 2-0 (2026-03-22) |
-| | Coppell FC 09G Sansom | 1W-0L | 1-0 (2025-11-02) |
 | | Atletico Dallas Youth 09G Clark | 0W-0L-1D | 2-2 (2025-04-09) |
-| **FC Dallas ETX 09G Smith - LD - NL** _(3 DSS teams played)_ | Coppell FC 09G Sansom | 0W-2L | 1-8 (2026-04-19) |
+| | Coppell FC 09G Sansom | 1W-0L | 1-0 (2025-11-02) |
+| **FC Dallas ETX 09G Smith - LD - FL** _(3 DSS teams played)_ | Coppell FC 09G Sansom | 0W-2L | 1-8 (2026-04-19) |
 | | Dallas Legacy 09G Arroyo | 1W-1L | 2-1 (2025-11-02) |
 | | Atletico Dallas Youth 09G Clark | 0W-1L | 0-7 (2025-04-26) |
+| **East Texas Football Club Stocker 09B** _(2 DSS teams played)_ | OTIS F.C | 0W-1L | 1-2 (2025-11-09) |
+| | Arsenal CF 09B | 0W-0L-1D | 1-1 (2025-08-23) |
+| **Evolution 09B McMillian** _(2 DSS teams played)_ | OTIS F.C | 1W-0L | 3-1 (2025-11-08) |
+| | Atletico Dallas Youth Blue ECNL-RL NTX B09 | 0W-0L-1D | 2-2 (2025-11-08) |
+| **Revolucion FC 2009** _(2 DSS teams played)_ | OTIS F.C | 3W-1L | 5-3 (2025-10-12) |
+| | Arsenal CF 09B | 1W-0L | 2-1 (2026-01-17) |
 | **Sting 09B Barrientos** _(2 DSS teams played)_ | TAG 09B Black | 2W-0L | 2-1 (2025-09-22) |
 | | PSG DFW 09B ORTEGA | 1W-0L | 2-1 (2025-09-13) |
 | **Atletico Dallas FC 09B Torres** _(2 DSS teams played)_ | TAG 09B Black | 1W-1L | 2-4 (2025-08-23) |
@@ -165,14 +170,6 @@ Opponents played by 2+ U17 DSS teams (not attending DSS), last 24 months. Readin
 | | PSG DFW 09B ORTEGA | 1W-0L | 2-0 (2025-09-22) |
 | **WTX RIOT 2010B** _(2 DSS teams played)_ | PSG DFW 09B ORTEGA | 1W-0L | 6-1 (2025-01-26) |
 | | Arsenal CF 09B | 1W-0L | 4-0 (2025-10-12) |
-| **East Texas Football Club Stocker 09B** _(2 DSS teams played)_ | OTIS F.C | 0W-1L | 1-2 (2025-11-09) |
-| | Arsenal CF 09B | 0W-0L-1D | 1-1 (2025-08-23) |
-| **Evolution 09B McMillian** _(2 DSS teams played)_ | OTIS F.C | 1W-0L | 3-1 (2025-11-08) |
-| | Atletico Dallas Youth Blue ECNL-RL NTX B09 | 0W-0L-1D | 2-2 (2025-11-08) |
-| **Revolucion FC 2009** _(2 DSS teams played)_ | OTIS F.C | 3W-1L | 5-3 (2025-10-12) |
-| | Arsenal CF 09B | 1W-0L | 2-1 (2026-01-17) |
-| **Dallas Surf 09/10B Silver Proctor** _(2 DSS teams played)_ | TAG 09B Black | 1W-0L | 4-1 (2025-11-09) |
-| | Arsenal CF 09B | 1W-0L | 3-0 (2025-11-16) |
 | **Coppell FC 08B Williams Black** _(2 DSS teams played)_ | Atletico Dallas Youth ECNL RL NTX BLUE 08/07B HERNANDEZ-WTX | 1W-2L | 3-1 (2025-08-02) |
 | | Atletico Dallas Youth Blue ECNL-RL NTX B09 | 0W-0L-1D | 3-3 (2026-02-07) |
 | **Fortress FC 09B** _(2 DSS teams played)_ | Arsenal CF 09B | 3W-0L | 7-0 (2026-04-12) |
@@ -181,16 +178,12 @@ Opponents played by 2+ U17 DSS teams (not attending DSS), last 24 months. Readin
 | | Atletico Dallas Youth FDL 09B Reyes | 0W-1L | 0-3 (2025-11-15) |
 | **Dallas Surf 2009B NL TX-N 20-40** _(2 DSS teams played)_ | Atletico Dallas Youth FDL 09B Reyes | 0W-2L | 1-5 (2025-11-01) |
 | | Atletico Dallas Youth Blue ECNL-RL NTX B09 | 0W-1L | 2-4 (2025-11-22) |
+| **Dallas Surf 09/10B Silver Proctor** _(2 DSS teams played)_ | TAG 09B Black | 1W-0L | 4-1 (2025-11-09) |
+| | Arsenal CF 09B | 1W-0L | 3-0 (2025-11-16) |
 | **FC Dallas Youth North NPL NTX B09** _(2 DSS teams played)_ | Arsenal CF 09B | 1W-0L | 3-0 (2025-12-13) |
 | | Atletico Dallas Youth FDL 09B Reyes | 0W-0L-1D | 2-2 (2025-12-13) |
-| **Dallas Texans 2009 Girls East  ~** _(2 DSS teams played)_ | Coppell FC 09G Sansom | 0W-1L | 0-4 (2025-04-26) |
-| | Solar 09G Megli | 0W-1L | 1-2 (2025-04-22) |
-| **BVB09G Black** _(2 DSS teams played)_ | Solar 09G Megli | 1W-0L-1D | 0-0 (2025-04-13) |
-| | Coppell FC 09G Sansom | 1W-0L | 3-2 (2025-03-29) |
-| **Aztecas SC 2009G** _(2 DSS teams played)_ | Dallas Legacy 09G Arroyo | 0W-1L | 2-3 (2025-03-23) |
-| | Atletico Dallas Youth 09G Clark | 0W-1L | 0-1 (2025-05-13) |
-| **Solar 09G Castro GCL Elite** _(2 DSS teams played)_ | Dallas Legacy 09G Arroyo | 0W-0L-1D | 1-1 (2025-04-02) |
-| | Atletico Dallas Youth 09G Clark | 0W-1L | 1-3 (2025-03-29) |
+| **Aztecas SC 2009G** _(2 DSS teams played)_ | Atletico Dallas Youth 09G Clark | 0W-1L | 0-1 (2025-05-13) |
+| | Dallas Legacy 09G Arroyo | 0W-1L | 2-3 (2025-03-23) |
 | **LC United 09G White Mundt** _(2 DSS teams played)_ | Atletico Dallas Youth 09G Clark | 1W-0L-1D | 5-1 (2026-04-11) |
 | | Inter Dallas SC 09G | 0W-1L-1D | 0-1 (2026-03-20) |
 | **FC Dallas ETX 09G Lara 85** _(2 DSS teams played)_ | Atletico Dallas Youth 09G Clark | 0W-1L | 1-2 (2025-08-17) |
@@ -203,3 +196,9 @@ Opponents played by 2+ U17 DSS teams (not attending DSS), last 24 months. Readin
 | | Inter Dallas SC 09G | 0W-1L | 0-6 (2025-08-23) |
 | **Waco Texans 09G Andrade - LD** _(2 DSS teams played)_ | Atletico Dallas Youth 09G Clark | 1W-0L | 2-1 (2025-10-04) |
 | | Inter Dallas SC 09G | 0W-1L | 0-1 (2025-10-12) |
+| **Solar 09G Castro GCL Elite** _(2 DSS teams played)_ | Atletico Dallas Youth 09G Clark | 0W-1L | 1-3 (2025-03-29) |
+| | Dallas Legacy 09G Arroyo | 0W-0L-1D | 1-1 (2025-04-02) |
+| **Dallas Texans 2009 Girls East  ~** _(2 DSS teams played)_ | Coppell FC 09G Sansom | 0W-1L | 0-4 (2025-04-26) |
+| | Solar 09G Megli | 0W-1L | 1-2 (2025-04-22) |
+| **BVB09G Black** _(2 DSS teams played)_ | Solar 09G Megli | 1W-0L-1D | 0-0 (2025-04-13) |
+| | Coppell FC 09G Sansom | 1W-0L | 3-2 (2025-03-29) |
