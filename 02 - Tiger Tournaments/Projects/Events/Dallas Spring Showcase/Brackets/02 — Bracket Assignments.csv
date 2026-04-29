@@ -1,514 +1,514 @@
 team_id,team_name,club,event_age,gender,division,bracket,assignment_source,coverage,rating,flag
-65155,Fever United 15B C. Smith,Fever United,U11,m,Silver II,Bracket B,registrar,RED,,ranking-uncertain
-490220,Atletico Dallas Youth Pre ECNL G15- Perez,Atletico Dallas Youth,U12,f,11v11 Silver,Bracket A,registrar,GREEN,1464.28,move-down → 9v9 Bronze
-624292,BVB IA 18B Black East Solares,BVB International Academy Texas,U8,m,7v7 18s Silver,Bracket B,registrar,RED,1452.15,ranking-uncertain
-518001,BC Elite 10/11G,BC Elite,U16,f,HS 1,Bracket A,registrar,RED,,ranking-uncertain
-496328,North Texas Elite 19B Pina,North Texas Elite SC,U7,m,Gold 4v4,Bracket A,registrar,RED,1491.36,ranking-uncertain
+65155,Fever United 15B C. Smith,Fever United,U11,m,Silver II,Bracket B,registrar,YELLOW,1495.34,move-down → 9v9 Silver
+490220,Atletico Dallas Youth Pre ECNL G15- Perez,Atletico Dallas Youth,U12,f,11v11 Silver,Bracket A,registrar,GREEN,1464.28,move-down → 11v11 Bronze
+624292,BVB IA 18B Black East Solares,BVB International Academy Texas,U8,m,7v7 18s Silver,Bracket B,registrar,GREEN,,ranking-uncertain
+518001,BC Elite 10/11G,BC Elite,U16,f,HS 1,Bracket A,registrar,GREEN,1485.57,
+496328,North Texas Elite 19B Pina,North Texas Elite SC,U7,m,Gold 4v4,Bracket A,registrar,GREEN,1491.36,move-down → Silver 4v4
 296025,Coppell Youth SA LIGHTNING,Coppell Youth SA,U9,m,7v7 Recreational,Bracket A,registrar,RED,,ranking-uncertain
-647375,Nido Águila 14G Gonzalez,Club America - Tarrant County,U12,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-210400,Solar ECNL RL 13B Tremblay,Solar SC,U13,m,11v11 Gold,Bracket A,registrar,RED,,ranking-uncertain
-523070,ULETE FC 16B Rab,Ulete FC,U10,m,,,NEEDS-SLOTTING,RED,,ranking-uncertain
+647375,Nido Águila 14G Gonzalez,Club America - Tarrant County,U12,f,9v9 Bronze II,Bracket B,registrar,GREEN,1495.31,move-down → 11v11 Silver
+210400,Solar ECNL RL 13B Tremblay,Solar SC,U13,m,11v11 Gold,Bracket A,registrar,GREEN,1610.27,
+523070,ULETE FC 16B Rab,Ulete FC,U10,m,,,NEEDS-SLOTTING,GREEN,1497.69,
 647790,Avanti SA White NPL NTX B11,Avanti Soccer Academy,U15,m,DS Silver,Bracket B,registrar,MISSING,,
-127797,Dallas Legacy 12G Olguin,Dallas Legacy,U14,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-352970,BVB 15B PreECNL Elite (Klassen),BVB International Academy Texas,U11,m,DS 9v9 Silver Elite,Bracket A,registrar,RED,,ranking-uncertain
-209632,NTX Celtic 16B Del Olmo,NTX Celtic FC,U10,m,9v9 Gold,Bracket A,registrar,RED,,ranking-uncertain
-612676,Dallas Surf 2013G NL TX-N,Dallas Surf,U13,f,11v11 Silver,Bracket A,registrar,GREEN,1726.81,
-646561,Southside Soccer 14B Black,Southside Soccer,U12,m,9v9 Silver Crossover,Bracket A,registrar,RED,,ranking-uncertain
-274348,Kernow Storm FC G13 API Lynch,Kernow Storm FC,U13,f,11v11 Bronze,Bracket A,registrar,RED,1485.46,ranking-uncertain
-661076,NTX United FC 2018B Balleza,NTX United FC,U8,m,4v4 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-452126,BVB 18B Puma (DeSousa),BVB International Academy Texas,U8,m,7v7 18s Silver,Bracket A,registrar,RED,1541.83,ranking-uncertain
-544815,Athens Futbol Club - 12B Aguilar,Athens Futbol Club,U14,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-577503,FC Dallas Youth 16B Palmisano,FC Dallas Youth,U10,m,9v9 16s Silver,Bracket A,registrar,RED,,ranking-uncertain
-620522,DKSC 16B RAMOS,DKSC,U10,m,9v9 16s Silver,Bracket A,registrar,RED,,ranking-uncertain
+127797,Dallas Legacy 12G Olguin,Dallas Legacy,U14,f,11v11 Silver,Bracket A,registrar,GREEN,1477.03,
+352970,BVB 15B PreECNL Elite (Klassen),BVB International Academy Texas,U11,m,DS 9v9 Silver Elite,Bracket A,registrar,GREEN,1557.62,
+209632,NTX Celtic 16B Del Olmo,NTX Celtic FC,U10,m,9v9 Gold,Bracket A,registrar,GREEN,1602.77,
+612676,Dallas Surf 2013G NL TX-N,Dallas Surf,U13,f,11v11 Silver,Bracket A,registrar,GREEN,1519.69,
+646561,Southside Soccer 14B Black,Southside Soccer,U12,m,9v9 Silver Crossover,Bracket A,registrar,GREEN,1465.03,
+274348,Kernow Storm FC G13 API Lynch,Kernow Storm FC,U13,f,11v11 Bronze,Bracket A,registrar,GREEN,1581.52,move-up → 11v11 Bronze II
+661076,NTX United FC 2018B Balleza,NTX United FC,U8,m,4v4 Bronze,Bracket A,registrar,GREEN,,ranking-uncertain
+452126,BVB 18B Puma (DeSousa),BVB International Academy Texas,U8,m,7v7 18s Silver,Bracket A,registrar,GREEN,1541.83,
+544815,Athens Futbol Club - 12B Aguilar,Athens Futbol Club,U14,m,11v11 Silver,Bracket A,registrar,GREEN,1486.45,
+577503,FC Dallas Youth 16B Palmisano,FC Dallas Youth,U10,m,9v9 16s Silver,Bracket A,registrar,GREEN,1549.81,move-up → 9v9 17s
+620522,DKSC 16B RAMOS,DKSC,U10,m,9v9 16s Silver,Bracket A,registrar,GREEN,1496.94,move-down → 9v9 Silver
 564974,Wildcats 18G,Lake Highlands SA,U8,f,4v4 Recreational,Bracket A,registrar,MISSING,,
-411364,FC Strikers 11B,Strikers FC( Texas),U15,m,DS Silver,Bracket B,registrar,RED,,ranking-uncertain
-338205,Juventus Premier FC 14G Black Cantu,Juventus Premier Futbol Club,U12,f,11v11 Silver,Bracket A,registrar,RED,1489.01,ranking-uncertain
-363837,OK Energy FC 13G ECRL2,Oklahoma Energy FC,U13,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-385563,NTX United FC 2010B Costello,NTX United FC,U16,m,DS Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-480477,Atletico Dallas Youth 15G Welge,Atletico Dallas Youth,U11,f,9v9 DS Gold,Bracket B,registrar,RED,,ranking-uncertain
-263642,FC Dallas Youth Pre ECNL G16 Webb,FC Dallas Youth,U10,f,9v9 DS Gold,Bracket A,registrar,RED,1499.73,ranking-uncertain
-206219,Sting Pre-ECNL G14 Kovacevic,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,registrar,RED,1615.42,ranking-uncertain
-450608,Sting Attack G13 H Pantoja,Sting Soccer Club,U13,f,11v11 Bronze,Bracket B,registrar,RED,1436.71,ranking-uncertain
-515832,Texoma FC 2011 Boys Red,Texoma Football Club,U15,m,DS Silver Elite,Bracket A,registrar,RED,,ranking-uncertain
-120385,TEXAS UNITED AC 11B ALDAMA,Texas United AC,U15,m,DS Silver Elite,Bracket A,registrar,YELLOW,,ranking-uncertain
-468764,Sting B17 Lucero,Sting Soccer Club,U10,m,9v9 17s,Bracket B,registrar,RED,1624.15,ranking-uncertain
+411364,FC Strikers 11B,Strikers FC( Texas),U15,m,DS Silver,Bracket B,registrar,GREEN,1518.39,
+338205,Juventus Premier FC 14G Black Cantu,Juventus Premier Futbol Club,U12,f,11v11 Silver,Bracket A,registrar,YELLOW,1524.02,move-up → 9v9 Bronze II
+363837,OK Energy FC 13G ECRL2,Oklahoma Energy FC,U13,f,11v11 Silver,Bracket A,registrar,YELLOW,1504.50,
+385563,NTX United FC 2010B Costello,NTX United FC,U16,m,DS Bronze Crossover,Bracket A,registrar,GREEN,1496.58,
+480477,Atletico Dallas Youth 15G Welge,Atletico Dallas Youth,U11,f,9v9 DS Gold,Bracket B,registrar,GREEN,1554.59,
+263642,FC Dallas Youth Pre ECNL G16 Webb,FC Dallas Youth,U10,f,9v9 DS Gold,Bracket A,registrar,GREEN,1539.71,
+206219,Sting Pre-ECNL G14 Kovacevic,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,registrar,GREEN,1539.87,
+450608,Sting Attack G13 H Pantoja,Sting Soccer Club,U13,f,11v11 Bronze,Bracket B,registrar,GREEN,1468.41,move-down → 11v11 Bronze 14s
+515832,Texoma FC 2011 Boys Red,Texoma Football Club,U15,m,DS Silver Elite,Bracket A,registrar,GREEN,1562.62,
+120385,TEXAS UNITED AC 11B ALDAMA,Texas United AC,U15,m,DS Silver Elite,Bracket A,registrar,GREEN,1569.05,
+468764,Sting B17 Lucero,Sting Soccer Club,U10,m,9v9 17s,Bracket B,registrar,GREEN,,ranking-uncertain
 607909,Blue Dragons Ramirez 20,Mineral Wells Soccer,U6,m,Bronze,Bracket A,registrar,MISSING,,
-691814,Atletico Dallas Youth 17G South Gray,Atletico Dallas Youth,U9,f,7v7 Bronze II Crossover,Bracket A,registrar,RED,1426.43,ranking-uncertain
-88917,Solar ECNL RL-NTX 11B Red,Solar SC,U15,m,DS Silver,Bracket A,registrar,GREEN,,ranking-uncertain
-122423,NTX Celtic 13B High,NTX Celtic FC,U13,m,11v11 Bronze Crossover,Bracket B,registrar,RED,,ranking-uncertain
-512002,Fort Worth Vaqueros FC 15 Alonzo,Fort Worth Vaqueros FC,U11,m,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-438739,Texas Warriors FC 2017G,Texas Warriors FC,U9,f,7v7 Bronze II Crossover,Bracket B,registrar,RED,1435.47,ranking-uncertain
-642320,Solar South 19G Guzman,Solar SC,U7,f,4v4 2019s,Bracket A,registrar,RED,,ranking-uncertain
-614141,ISW Academy 16 Oviedo,ISW Academy,U10,m,,,NEEDS-SLOTTING,RED,1468.28,ranking-uncertain
-120670,OTIS F.C,Otis FC,U17,m,Bracket B,Bracket A,registrar,RED,,ranking-uncertain
-625861,Dallas Surf 17B North Black,Dallas Surf,U9,m,7v7 Bronze Crossover,Bracket B,registrar,RED,1491.30,ranking-uncertain
-404872,Chili Peppers 18G,GLASA,U8,f,4v4 Recreational,Bracket A,registrar,RED,,ranking-uncertain
-625826,Dallas Surf 2013B NL TX-N,Dallas Surf,U13,m,11v11 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-475356,North Texas Elite 2015G Pina,North Texas Elite SC,U11,f,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-387583,Sting Pre ECNL B16 Lucero,Sting Soccer Club,U11,m,DS 9v9 Silver Elite,Bracket A,registrar,RED,1600.99,ranking-uncertain
-639034,Atletico Dallas Youth Central 18B White,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket A,registrar,RED,1456.99,ranking-uncertain
-625812,Dallas Surf 12B Blue,Dallas Surf,U14,m,11v11 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-500550,Dallas Surf 11G Black,Dallas Surf,U15,f,Silver,Bracket A,registrar,GREEN,1564.58,
-380066,Solar South 17G Guzman,Solar SC,U10,f,9v9 17s,Bracket A,registrar,RED,1483.95,ranking-uncertain
-590352,FC Dallas Youth 17B Central Mata,FC Dallas Youth,U9,m,7v7 Silver,Bracket A,registrar,YELLOW,1538.97,move-up → 18s
-686296,FC Dallas Youth 18B Mata Central,FC Dallas Youth,U8,m,4v4 Silver,Bracket A,registrar,RED,1500.96,ranking-uncertain
-91775,Fever United 14G Wright,Fever United,U12,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
+691814,Atletico Dallas Youth 17G South Gray,Atletico Dallas Youth,U9,f,7v7 Bronze II Crossover,Bracket A,registrar,GREEN,1426.43,move-down → 7v7 Bronze II
+88917,Solar ECNL RL-NTX 11B Red,Solar SC,U15,m,DS Silver,Bracket A,registrar,GREEN,1574.94,move-up → Silver Elite Crossover
+122423,NTX Celtic 13B High,NTX Celtic FC,U13,m,11v11 Bronze Crossover,Bracket B,registrar,GREEN,1498.44,
+512002,Fort Worth Vaqueros FC 15 Alonzo,Fort Worth Vaqueros FC,U11,m,9v9 Bronze II,Bracket B,registrar,GREEN,1549.94,move-up → 9v9 Silver
+438739,Texas Warriors FC 2017G,Texas Warriors FC,U9,f,7v7 Bronze II Crossover,Bracket B,registrar,GREEN,1435.47,
+642320,Solar South 19G Guzman,Solar SC,U7,f,4v4 2019s,Bracket A,registrar,GREEN,,ranking-uncertain
+614141,ISW Academy 16 Oviedo,ISW Academy,U10,m,,,NEEDS-SLOTTING,YELLOW,,ranking-uncertain
+120670,OTIS F.C,Otis FC,U17,m,Bracket B,Bracket A,registrar,GREEN,1621.72,
+625861,Dallas Surf 17B North Black,Dallas Surf,U9,m,7v7 Bronze Crossover,Bracket B,registrar,GREEN,1491.30,
+404872,Chili Peppers 18G,GLASA,U8,f,4v4 Recreational,Bracket A,registrar,GREEN,,ranking-uncertain
+625826,Dallas Surf 2013B NL TX-N,Dallas Surf,U13,m,11v11 Bronze II,Bracket B,registrar,GREEN,1547.90,move-up → 11v11 Bronze Crossover
+475356,North Texas Elite 2015G Pina,North Texas Elite SC,U11,f,9v9 Silver,Bracket A,registrar,GREEN,1488.20,move-down → 9v9 Bronze II
+387583,Sting Pre ECNL B16 Lucero,Sting Soccer Club,U11,m,DS 9v9 Silver Elite,Bracket A,registrar,GREEN,1600.99,move-up → 9v9 DS Gold
+639034,Atletico Dallas Youth Central 18B White,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket A,registrar,GREEN,1456.99,
+625812,Dallas Surf 12B Blue,Dallas Surf,U14,m,11v11 Bronze II,Bracket B,registrar,GREEN,1470.56,
+500550,Dallas Surf 11G Black,Dallas Surf,U15,f,Silver,Bracket A,registrar,GREEN,1539.04,move-up → DS Bronze
+380066,Solar South 17G Guzman,Solar SC,U10,f,9v9 17s,Bracket A,registrar,GREEN,1483.95,move-down → 9v9 16s Silver
+590352,FC Dallas Youth 17B Central Mata,FC Dallas Youth,U9,m,7v7 Silver,Bracket A,registrar,GREEN,1538.97,move-up → 7v7 Dallas Showcase Super Group 17s
+686296,FC Dallas Youth 18B Mata Central,FC Dallas Youth,U8,m,4v4 Silver,Bracket A,registrar,GREEN,1500.96,move-up → 7v7 Bronze
+91775,Fever United 14G Wright,Fever United,U12,f,9v9 Bronze II,Bracket B,registrar,GREEN,1428.59,move-down → 11v11 Silver
 209911,GLASA Scorpions 12B,GLASA,U14,m,11v11 Bronze II,Bracket A,registrar,RED,1441.26,ranking-uncertain
-242929,Sting Pre-ECNL G14 H Martinez,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,registrar,RED,1543.13,ranking-uncertain
+242929,Sting Pre-ECNL G14 H Martinez,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,registrar,GREEN,1631.25,
 582485,GLASA Goal Getters 18B,GLASA,U8,m,4v4 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-396557,Fever United 12B (Prev. Nido Águila Tarrant 12B Tovar),Fever United,U14,m,11v11 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-299334,Dallas Texans 2018 Girls Dallas,Dallas Texans,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,registrar,RED,1466.02,ranking-uncertain
-124196,Pinnacle Soccer Academy 16B,Independent Teams - NTX,U10,m,9v9 Bronze II Crossover,Bracket C,registrar,RED,,ranking-uncertain
-205965,TAG 16B Black,TAG Soccer,U10,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-261287,Texas Spurs FC 13B,Texas Spurs,U13,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-385588,Solar 14B Jenkins,Solar SC,U13,m,11v11 Silver 14s,Bracket A,registrar,RED,1566.42,ranking-uncertain
-534498,Solar 18G Jenkins,Solar SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,registrar,RED,1439.14,ranking-uncertain
-640564,ULETE FC 17G Josh,Ulete FC,U9,f,7v7 Silver,Bracket A,registrar,RED,1498.08,ranking-uncertain
-651878,ULETE FC 18G Jasmine,Ulete FC,U8,f,4v4 Bronze,Bracket A,registrar,RED,1463.15,ranking-uncertain
-588213,Forms Academy 19,Forms Academy,U7,m,Gold 4v4,Bracket B,registrar,RED,1541.01,ranking-uncertain
-651875,ULETE FC 18B Jasmine,Ulete FC,U8,m,4v4 Silver,Bracket A,registrar,RED,1455.25,ranking-uncertain
-390230,Lions Futbol Club 2011B,Lions Futbol Club,U15,m,DS Silver Elite,Bracket A,registrar,RED,1523.41,ranking-uncertain
-612399,Solar West 15B Garcia.S PreECNL,Solar SC,U12,m,9v9 Silver Crossover,Bracket A,registrar,YELLOW,1468.82,move-down → 11v11 Silver
-544813,Athens Futbol Club - 15G Gonzalez,Athens Futbol Club,U11,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-531954,Thunder United SC 15B Red,Thunder United Soccer Club,U11,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
+396557,Fever United 12B (Prev. Nido Águila Tarrant 12B Tovar),Fever United,U14,m,11v11 Bronze,Bracket C,registrar,GREEN,,ranking-uncertain
+299334,Dallas Texans 2018 Girls Dallas,Dallas Texans,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,registrar,GREEN,1543.87,
+124196,Pinnacle Soccer Academy 16B,Independent Teams - NTX,U10,m,9v9 Bronze II Crossover,Bracket C,registrar,GREEN,1437.53,
+205965,TAG 16B Black,TAG Soccer,U10,m,9v9 Bronze,Bracket A,registrar,GREEN,1491.85,
+261287,Texas Spurs FC 13B,Texas Spurs,U13,m,11v11 Silver,Bracket A,registrar,GREEN,1512.09,
+385588,Solar 14B Jenkins,Solar SC,U13,m,11v11 Silver 14s,Bracket A,registrar,GREEN,1566.42,
+534498,Solar 18G Jenkins,Solar SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,registrar,GREEN,1553.16,
+640564,ULETE FC 17G Josh,Ulete FC,U9,f,7v7 Silver,Bracket A,registrar,GREEN,1498.08,
+651878,ULETE FC 18G Jasmine,Ulete FC,U8,f,4v4 Bronze,Bracket A,registrar,GREEN,1463.15,move-up → 4v4 Silver
+588213,Forms Academy 19,Forms Academy,U7,m,Gold 4v4,Bracket B,registrar,GREEN,1541.01,
+651875,ULETE FC 18B Jasmine,Ulete FC,U8,m,4v4 Silver,Bracket A,registrar,GREEN,1455.25,
+390230,Lions Futbol Club 2011B,Lions Futbol Club,U15,m,DS Silver Elite,Bracket A,registrar,GREEN,1612.86,
+612399,Solar West 15B Garcia.S PreECNL,Solar SC,U12,m,9v9 Silver Crossover,Bracket A,registrar,GREEN,1468.82,
+544813,Athens Futbol Club - 15G Gonzalez,Athens Futbol Club,U11,f,9v9 Bronze II,Bracket B,registrar,YELLOW,,ranking-uncertain
+531954,Thunder United SC 15B Red,Thunder United Soccer Club,U11,m,9v9 Bronze,Bracket A,registrar,GREEN,1474.45,
 537575,GLASA LADYBUGS 17G,GLASA,U9,f,7v7 Bronze II Crossover,Bracket A,registrar,RED,,ranking-uncertain
-522356,Dallas Texans 2018 Boys South,Dallas Texans,U9,m,18s,Bracket A,registrar,YELLOW,1534.46,move-up → 7v7 Dallas Showcase Super Group 17s
-404320,Sting FTW G17 Rey,Sting Soccer Club,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,registrar,RED,1532.39,ranking-uncertain
-441884,Soccerplex United 17B Red,Soccerplex United,U9,m,7v7 Silver,Bracket B,registrar,RED,1452.34,ranking-uncertain
-632643,PSG DFW 09B ORTEGA,Paris Saint-Germain Academy DFW,U17,m,Bracket B,Bracket A,registrar,RED,,ranking-uncertain
-505988,Fever United 12G Schott,Fever United,U14,f,11v11 Bronze Crossover,Bracket B,registrar,GREEN,,ranking-uncertain
-85290,Juventus Premier FC 12G,Juventus Premier FC,U14,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-96187,FC Dallas Youth 15G North White,FC Dallas Youth,U11,f,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-586785,BVB 13G GA,BVB International Academy Texas,U13,f,Dallas Showcase Super Group 13s,Bracket A,registrar,RED,1501.77,ranking-uncertain
-81594,Coppell FC 11G Morales,Coppell Youth SA,U15,f,Silver,Bracket B,registrar,RED,,ranking-uncertain
-587363,Dallas Texans 2019 Boys Black Dallas,Dallas Texans,U7,m,Gold 4v4,Bracket A,registrar,RED,1541.01,ranking-uncertain
-149444,FC DIVAS XIII,FCD,U13,f,11v11 Silver,Bracket B,registrar,RED,,ranking-uncertain
-106525,Plano Planets,,U16,m,DS Bronze Crossover,Bracket B,registrar,RED,,ranking-uncertain
-65128,Fever United 10B Jacobo,Fever United,U16,m,DS Bronze Crossover,Bracket B,registrar,RED,,ranking-uncertain
-524735,Nido Aguila Mt. Pleasant,Club America (TX),U16,m,DS Silver Crossover,Bracket A,registrar,RED,,ranking-uncertain
-672639,ISW Academy 20 Muñoz,ISW Academy,U6,m,Bronze,Bracket B,registrar,RED,1470.02,ranking-uncertain
-642947,FC Dallas Youth 18G Webb,FC Dallas Youth,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,registrar,RED,1596.84,ranking-uncertain
-625830,Dallas Surf 14G White,Dallas Surf,U12,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-96125,FC Dallas Youth 15G Blue,FC Dallas Youth,U11,f,9v9 Silver,Bracket B,registrar,RED,,ranking-uncertain
-452033,DSA Dallas Blues 19B,,U8,m,4v4 Bronze,Bracket A,registrar,RED,1503.36,ranking-uncertain
-452034,Dallas Blues 19G,,U7,f,4v4 2019s,Bracket A,registrar,RED,,ranking-uncertain
-505380,BVB 18G Gold (DeWet),BVB International Academy Texas,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,registrar,YELLOW,,ranking-uncertain
-541502,Arl Rodriguez/South Dallas Leon 15B,Arlington SA,U11,m,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-640234,North Texas Elite 2020B Pina,North Texas Elite SC,U6,m,Gold,Bracket A,registrar,RED,1514.33,ranking-uncertain
-649980,South Dallas Leon 2014B,Independent Teams - NTX,U12,m,9v9 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-527493,Texas Spurs FC 10B White,Texas Spurs,U16,m,DS Bronze Crossover,Bracket B,registrar,RED,,ranking-uncertain
-82918,FC Dallas Youth 11G North White,FC Dallas Youth,U15,f,Silver Elite Crossover,Bracket A,registrar,RED,,ranking-uncertain
-364378,BVB 15B Black (DeSousa),BVB International Academy Texas,U11,m,9v9 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-547107,ULETE FC 15B Simon,Ulete FC,U11,m,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
+522356,Dallas Texans 2018 Boys South,Dallas Texans,U9,m,18s,Bracket A,registrar,GREEN,1534.46,
+404320,Sting FTW G17 Rey,Sting Soccer Club,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,registrar,GREEN,1532.39,
+441884,Soccerplex United 17B Red,Soccerplex United,U9,m,7v7 Silver,Bracket B,registrar,GREEN,1452.34,move-down → 7v7 Bronze Crossover
+632643,PSG DFW 09B ORTEGA,Paris Saint-Germain Academy DFW,U17,m,Bracket B,Bracket A,registrar,GREEN,,ranking-uncertain
+505988,Fever United 12G Schott,Fever United,U14,f,11v11 Bronze Crossover,Bracket B,registrar,YELLOW,,ranking-uncertain
+85290,Juventus Premier FC 12G,Juventus Premier FC,U14,f,11v11 Silver,Bracket A,registrar,GREEN,1471.82,
+96187,FC Dallas Youth 15G North White,FC Dallas Youth,U11,f,9v9 Silver,Bracket A,registrar,GREEN,1510.41,
+586785,BVB 13G GA,BVB International Academy Texas,U13,f,Dallas Showcase Super Group 13s,Bracket A,registrar,GREEN,1627.28,
+81594,Coppell FC 11G Morales,Coppell Youth SA,U15,f,Silver,Bracket B,registrar,GREEN,1421.65,
+587363,Dallas Texans 2019 Boys Black Dallas,Dallas Texans,U7,m,Gold 4v4,Bracket A,registrar,GREEN,1541.01,
+149444,FC DIVAS XIII,FCD,U13,f,11v11 Silver,Bracket B,registrar,GREEN,1480.82,move-down → 11v11 Bronze Crossover
+106525,Plano Planets,,U16,m,DS Bronze Crossover,Bracket B,registrar,RED,1511.38,
+65128,Fever United 10B Jacobo,Fever United,U16,m,DS Bronze Crossover,Bracket B,registrar,YELLOW,1518.32,move-up → HS 2
+524735,Nido Aguila Mt. Pleasant,Club America (TX),U16,m,DS Silver Crossover,Bracket A,registrar,GREEN,1614.14,
+672639,ISW Academy 20 Muñoz,ISW Academy,U6,m,Bronze,Bracket B,registrar,GREEN,,ranking-uncertain
+642947,FC Dallas Youth 18G Webb,FC Dallas Youth,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,registrar,GREEN,1596.84,
+625830,Dallas Surf 14G White,Dallas Surf,U12,f,11v11 Silver,Bracket A,registrar,GREEN,1499.62,
+96125,FC Dallas Youth 15G Blue,FC Dallas Youth,U11,f,9v9 Silver,Bracket B,registrar,GREEN,1451.45,move-down → 9v9 Bronze II
+452033,DSA Dallas Blues 19B,,U8,m,4v4 Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
+452034,Dallas Blues 19G,,U7,f,4v4 2019s,Bracket A,registrar,YELLOW,,ranking-uncertain
+505380,BVB 18G Gold (DeWet),BVB International Academy Texas,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,registrar,GREEN,,ranking-uncertain
+541502,Arl Rodriguez/South Dallas Leon 15B,Arlington SA,U11,m,9v9 Bronze II,Bracket B,registrar,YELLOW,,ranking-uncertain
+640234,North Texas Elite 2020B Pina,North Texas Elite SC,U6,m,Gold,Bracket A,registrar,GREEN,,ranking-uncertain
+649980,South Dallas Leon 2014B,Independent Teams - NTX,U12,m,9v9 Bronze,Bracket C,registrar,GREEN,,ranking-uncertain
+527493,Texas Spurs FC 10B White,Texas Spurs,U16,m,DS Bronze Crossover,Bracket B,registrar,GREEN,1505.47,
+82918,FC Dallas Youth 11G North White,FC Dallas Youth,U15,f,Silver Elite Crossover,Bracket A,registrar,GREEN,1544.28,
+364378,BVB 15B Black (DeSousa),BVB International Academy Texas,U11,m,9v9 Bronze,Bracket C,registrar,GREEN,1510.41,move-up → 9v9 Bronze II
+547107,ULETE FC 15B Simon,Ulete FC,U11,m,9v9 Bronze,Bracket B,registrar,GREEN,1460.17,
 669148,DSA Dallas Blues 19/18B Dev.,,U8,m,4v4 Bronze,Bracket B,registrar,MISSING,,
-631197,Metro West Wolves 16B Rogers,Metro West SC,U10,m,9v9 Bronze II Crossover,Bracket B,registrar,RED,,ranking-uncertain
-507940,BVB 15B PreECNL White (DeSousa),BVB International Academy Texas,U11,m,9v9 Silver,Bracket B,registrar,RED,,ranking-uncertain
-365055,DKSC 16/17B DE LA CRUZ BLACK,DKSC,U10,m,9v9 Bronze,Bracket B,registrar,RED,1423.20,ranking-uncertain
-233278,DKSC 16B Pre-ECNL DE LA CRUZ,DKSC,U10,m,9v9 Gold,Bracket A,registrar,RED,,ranking-uncertain
-298249,Fortress FC 15G,Fortress FC,U11,f,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-703397,BVB 17/18G White East (Solares),BVB International Academy Texas,U9,f,7v7 Bronze II Crossover,Bracket B,registrar,GREEN,,ranking-uncertain
-496853,Fever United 12B Morrow,Fever United,U14,m,11v11 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-637598,Texoma FC 2010 Girls Red,Texoma Football Club,U16,f,HS 2,Bracket A,registrar,RED,,ranking-uncertain
-666725,Villarreal NTX 16B,Villarreal NTX,U10,m,9v9 16s Silver Elite,Bracket A,registrar,RED,,ranking-uncertain
-361688,Solar 11G Givens ECNL RL NTX,Solar SC,U15,f,Silver Elite Crossover,Bracket A,registrar,RED,1564.36,ranking-uncertain
-536477,Revolution Premier SC 15G,Revolution Premier SC,U11,f,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-454411,Revolution Premier SC 16G Blue,Revolution Premier SC,U10,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
+631197,Metro West Wolves 16B Rogers,Metro West SC,U10,m,9v9 Bronze II Crossover,Bracket B,registrar,GREEN,1395.00,
+507940,BVB 15B PreECNL White (DeSousa),BVB International Academy Texas,U11,m,9v9 Silver,Bracket B,registrar,GREEN,1503.15,
+365055,DKSC 16/17B DE LA CRUZ BLACK,DKSC,U10,m,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
+233278,DKSC 16B Pre-ECNL DE LA CRUZ,DKSC,U10,m,9v9 Gold,Bracket A,registrar,GREEN,1535.33,move-down → 9v9 DS Gold
+298249,Fortress FC 15G,Fortress FC,U11,f,9v9 Bronze II,Bracket A,registrar,GREEN,1453.91,move-down → 9v9 Bronze
+703397,BVB 17/18G White East (Solares),BVB International Academy Texas,U9,f,7v7 Bronze II Crossover,Bracket B,registrar,YELLOW,,ranking-uncertain
+496853,Fever United 12B Morrow,Fever United,U14,m,11v11 Bronze II,Bracket B,registrar,GREEN,1478.15,
+637598,Texoma FC 2010 Girls Red,Texoma Football Club,U16,f,HS 2,Bracket A,registrar,GREEN,1514.17,
+666725,Villarreal NTX 16B,Villarreal NTX,U10,m,9v9 16s Silver Elite,Bracket A,registrar,GREEN,,ranking-uncertain
+361688,Solar 11G Givens ECNL RL NTX,Solar SC,U15,f,Silver Elite Crossover,Bracket A,registrar,GREEN,1562.30,
+536477,Revolution Premier SC 15G,Revolution Premier SC,U11,f,9v9 Bronze,Bracket A,registrar,GREEN,1461.75,
+454411,Revolution Premier SC 16G Blue,Revolution Premier SC,U10,f,9v9 Bronze II,Bracket B,registrar,GREEN,1385.16,move-down → 9v9 16s Silver Elite
 688610,Fever United 11B Yellow,Fever United,U15,m,DS Silver Elite,Bracket A,registrar,MISSING,,
-532048,Atletico Dallas Youth Central 16B White,Atletico Dallas Youth,U10,m,9v9 Bronze II Crossover,Bracket C,registrar,RED,1459.20,ranking-uncertain
-520052,AlphaForms'16G,Forms Academy,U10,f,9v9 DS Gold,Bracket A,registrar,RED,,ranking-uncertain
-541887,AlphaForms'17G,Forms Academy,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,registrar,RED,1577.80,ranking-uncertain
-154329,Cobras,Little Elm Youth SA,U11,m,9v9 Bronze II,Bracket C,registrar,RED,,ranking-uncertain
-625811,Dallas Surf South 12B Black,Dallas Surf,U14,m,11v11 Bronze II,Bracket C,registrar,GREEN,,ranking-uncertain
-623896,FC Dallas Youth 15B Navy,FC Dallas Youth,U11,m,Silver II,Bracket A,registrar,RED,,ranking-uncertain
-523908,Dallas Texans 2019 Boys White Dallas,Dallas Texans,U7,m,Bronze 4v4,Bracket A,registrar,RED,1484.74,ranking-uncertain
-370310,Sting FTW G17 Kovacevic,Sting Soccer Club,U9,f,7v7 Silver,Bracket A,registrar,RED,,ranking-uncertain
+532048,Atletico Dallas Youth Central 16B White,Atletico Dallas Youth,U10,m,9v9 Bronze II Crossover,Bracket C,registrar,GREEN,1429.23,
+520052,AlphaForms'16G,Forms Academy,U10,f,9v9 DS Gold,Bracket A,registrar,GREEN,1582.06,
+541887,AlphaForms'17G,Forms Academy,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,registrar,GREEN,1577.80,move-up → 18s
+154329,Cobras,Little Elm Youth SA,U11,m,9v9 Bronze II,Bracket C,registrar,RED,1494.40,ranking-uncertain
+625811,Dallas Surf South 12B Black,Dallas Surf,U14,m,11v11 Bronze II,Bracket C,registrar,GREEN,1478.61,
+623896,FC Dallas Youth 15B Navy,FC Dallas Youth,U11,m,Silver II,Bracket A,registrar,GREEN,1524.39,
+523908,Dallas Texans 2019 Boys White Dallas,Dallas Texans,U7,m,Bronze 4v4,Bracket A,registrar,GREEN,1484.74,
+370310,Sting FTW G17 Kovacevic,Sting Soccer Club,U9,f,7v7 Silver,Bracket A,registrar,GREEN,1487.95,
 387622,Dallas Texans 2018 Boys Red Dallas,Dallas Texans,U8,m,7v7 18s Silver,Bracket B,registrar,RED,1471.37,ranking-uncertain
-401805,Dutch Lionesses 14G AJAX,Dutch FC,U12,f,11v11 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-120846,Dallas Cosmos 11G White,Dallas Cosmos Soccer Club,U15,f,Silver,Bracket B,registrar,RED,,ranking-uncertain
-82916,FC Dallas Youth 11G White,FC Dallas Youth,U15,f,Silver,Bracket B,registrar,RED,1467.46,ranking-uncertain
-386019,FC Dallas Youth Pre ECNL G16 Avant West,FC Dallas Youth,U10,f,9v9 Silver,Bracket B,registrar,RED,,ranking-uncertain
-62113,BVB 14G East (Brown),BVB International Academy Texas,U12,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-579139,FC Guardians 2016,FC Guardians,U10,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-494964,FC Guardians 2017,FC Guardians,U9,m,7v7 Bronze Crossover,Bracket B,registrar,RED,1473.82,ranking-uncertain
-389719,Texas Warriors FC 16G Red,Texas Warriors FC,U10,f,9v9 Bronze II,Bracket A,registrar,RED,1440.09,ranking-uncertain
+401805,Dutch Lionesses 14G AJAX,Dutch FC,U12,f,11v11 Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
+120846,Dallas Cosmos 11G White,Dallas Cosmos Soccer Club,U15,f,Silver,Bracket B,registrar,GREEN,1432.73,
+82916,FC Dallas Youth 11G White,FC Dallas Youth,U15,f,Silver,Bracket B,registrar,GREEN,1398.80,
+386019,FC Dallas Youth Pre ECNL G16 Avant West,FC Dallas Youth,U10,f,9v9 Silver,Bracket B,registrar,YELLOW,1512.41,move-up → 9v9 16s Silver
+62113,BVB 14G East (Brown),BVB International Academy Texas,U12,f,11v11 Silver,Bracket A,registrar,GREEN,,ranking-uncertain
+579139,FC Guardians 2016,FC Guardians,U10,m,9v9 Bronze,Bracket A,registrar,GREEN,1545.98,move-up → 9v9 Silver
+494964,FC Guardians 2017,FC Guardians,U9,m,7v7 Bronze Crossover,Bracket B,registrar,YELLOW,1473.82,
+389719,Texas Warriors FC 16G Red,Texas Warriors FC,U10,f,9v9 Bronze II,Bracket A,registrar,GREEN,1440.09,move-down → 9v9 16s Silver Elite
 233273,DKSC 20B DE LA CRUZ,DKSC,U6,m,Bronze,Bracket B,registrar,MISSING,,
-636821,Dallas Surf 15B Black,Dallas Surf,U11,m,9v9 Silver,Bracket C,registrar,RED,,ranking-uncertain
+636821,Dallas Surf 15B Black,Dallas Surf,U11,m,9v9 Silver,Bracket C,registrar,GREEN,1524.04,move-up → Silver II
 122826,Dortmund 17B,Independent Teams - NTX,U9,m,7v7 Bronze II,Bracket A,registrar,GREEN,1408.92,
-122868,Dortmund 18B,Independent Teams - NTX,U8,m,7v7 Bronze,Bracket B,registrar,RED,1494.47,ranking-uncertain
-452458,Thunder United SC 13B Gold,Thunder United Soccer Club,U13,m,11v11 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-450821,NTX United FC 2014G Smith,NTX United FC,U13,f,11v11 Bronze,Bracket B,registrar,RED,1534.07,ranking-uncertain
-248284,BVB 11G Black East (Contreras),BVB International Academy Texas,U15,f,Silver,Bracket A,registrar,RED,,ranking-uncertain
-68358,Fever United 12B Phiri,Fever United,U14,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-579647,Sting B18 Guess,Sting Soccer Club,U8,m,7v7 18s Silver,Bracket B,registrar,RED,1638.04,ranking-uncertain
-210381,Dallas Hornets 15G (Prev Alpha),Dallas Hornets,U12,f,11v11 DS Gold,Bracket A,registrar,RED,,ranking-uncertain
-624279,BVB 17G Black East Solares,BVB International Academy Texas,U9,f,7v7 Silver,Bracket A,registrar,RED,,ranking-uncertain
-166771,Solar South 15G Adames,Solar SC,U12,f,11v11 DS Gold,Bracket A,registrar,RED,1550.83,ranking-uncertain
-383382,Solar South 16G Adames,Solar SC,U11,f,9v9 DS Gold,Bracket A,registrar,RED,1586.24,ranking-uncertain
-522200,IRVING VELOCITY SC 12 BR,Irving Soccer Association,U14,m,11v11 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
+122868,Dortmund 18B,Independent Teams - NTX,U8,m,7v7 Bronze,Bracket B,registrar,GREEN,1494.47,move-up → 7v7 Silver
+452458,Thunder United SC 13B Gold,Thunder United Soccer Club,U13,m,11v11 Bronze II,Bracket A,registrar,GREEN,1450.82,move-down → 11v11 Bronze
+450821,NTX United FC 2014G Smith,NTX United FC,U13,f,11v11 Bronze,Bracket B,registrar,GREEN,1534.07,move-up → 11v11 Bronze II
+248284,BVB 11G Black East (Contreras),BVB International Academy Texas,U15,f,Silver,Bracket A,registrar,GREEN,1439.84,
+68358,Fever United 12B Phiri,Fever United,U14,m,11v11 Silver,Bracket A,registrar,YELLOW,1544.65,move-up → 11v11 Bronze Crossover
+579647,Sting B18 Guess,Sting Soccer Club,U8,m,7v7 18s Silver,Bracket B,registrar,GREEN,1638.04,move-up → Dallas Showcase Super Group 7v7 18s
+210381,Dallas Hornets 15G (Prev Alpha),Dallas Hornets,U12,f,11v11 DS Gold,Bracket A,registrar,GREEN,,ranking-uncertain
+624279,BVB 17G Black East Solares,BVB International Academy Texas,U9,f,7v7 Silver,Bracket A,registrar,GREEN,,ranking-uncertain
+166771,Solar South 15G Adames,Solar SC,U12,f,11v11 DS Gold,Bracket A,registrar,GREEN,1550.83,
+383382,Solar South 16G Adames,Solar SC,U11,f,9v9 DS Gold,Bracket A,registrar,GREEN,1586.24,
+522200,IRVING VELOCITY SC 12 BR,Irving Soccer Association,U14,m,11v11 Bronze II,Bracket B,registrar,YELLOW,1457.62,
 662850,Kernow Storm FC B10 ECNL RL Alexander,Kernow Storm FC,U16,m,DS Silver Crossover,Bracket B,registrar,MISSING,,
-659289,Dallas Texans 2020 Boys Red Dallas,Dallas Texans,U7,m,Gold 4v4,Bracket A,registrar,RED,1593.77,ranking-uncertain
-633235,Solar 11G Richardson RL NTX,Solar SC,U15,f,Silver,Bracket A,registrar,RED,,ranking-uncertain
-441539,Sting Attack 17G D Sarmiento,Sting Soccer Club,U10,f,9v9 DS Gold,Bracket B,registrar,YELLOW,1514.43,move-up → 9v9 16s Silver
-450822,NTX United FC 2017B Costello,NTX United FC,U9,m,7v7 Bronze Crossover,Bracket B,registrar,RED,1447.21,ranking-uncertain
+659289,Dallas Texans 2020 Boys Red Dallas,Dallas Texans,U7,m,Gold 4v4,Bracket A,registrar,GREEN,1593.77,
+633235,Solar 11G Richardson RL NTX,Solar SC,U15,f,Silver,Bracket A,registrar,GREEN,1478.99,
+441539,Sting Attack 17G D Sarmiento,Sting Soccer Club,U10,f,9v9 DS Gold,Bracket B,registrar,GREEN,1602.72,move-up → 9v9 Gold
+450822,NTX United FC 2017B Costello,NTX United FC,U9,m,7v7 Bronze Crossover,Bracket B,registrar,GREEN,,ranking-uncertain
 655127,Arl Cruz/JPFC 20B,Arlington SA,U6,m,Bronze,Bracket A,registrar,MISSING,,
-538656,NTX United FC 2016B Costello,NTX United FC,U10,m,9v9 Bronze,Bracket B,registrar,YELLOW,,ranking-uncertain
-647952,NTX United FC 2016B Herrera,NTX United FC,U10,m,9v9 Bronze II Crossover,Bracket A,registrar,RED,,ranking-uncertain
-403434,LCSA Warriors,Lake Cities SA,U8,f,4v4 Bronze,Bracket B,registrar,RED,1534.93,ranking-uncertain
-88993,Sting Royal ECNL RL NTX G13 Brave Oliver,Sting Soccer Club,U13,f,Dallas Showcase Super Group 13s,Bracket A,registrar,RED,1510.64,ranking-uncertain
-107538,DFW United 11G Sutherland,DFW United SC,U15,f,Silver Elite Crossover,Bracket A,registrar,RED,1590.72,ranking-uncertain
-614131,ISW Academy 10G,ISW Academy,U16,f,HS 2,Bracket A,registrar,RED,,ranking-uncertain
-606148,ISW Academy 12G Ramirez,ISW Academy,U14,f,11v11 Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-354265,DKSC 18B DE LA CRUZ,DKSC,U8,m,4v4 Silver,Bracket A,registrar,RED,1442.49,ranking-uncertain
+538656,NTX United FC 2016B Costello,NTX United FC,U10,m,9v9 Bronze,Bracket B,registrar,GREEN,1450.77,
+647952,NTX United FC 2016B Herrera,NTX United FC,U10,m,9v9 Bronze II Crossover,Bracket A,registrar,GREEN,,ranking-uncertain
+403434,LCSA Warriors,Lake Cities SA,U8,f,4v4 Bronze,Bracket B,registrar,YELLOW,,ranking-uncertain
+88993,Sting Royal ECNL RL NTX G13 Brave Oliver,Sting Soccer Club,U13,f,Dallas Showcase Super Group 13s,Bracket A,registrar,GREEN,1614.03,
+107538,DFW United 11G Sutherland,DFW United SC,U15,f,Silver Elite Crossover,Bracket A,registrar,GREEN,1486.69,move-down → DS Silver
+614131,ISW Academy 10G,ISW Academy,U16,f,HS 2,Bracket A,registrar,GREEN,,ranking-uncertain
+606148,ISW Academy 12G Ramirez,ISW Academy,U14,f,11v11 Bronze Crossover,Bracket A,registrar,GREEN,1504.35,
+354265,DKSC 18B DE LA CRUZ,DKSC,U8,m,4v4 Silver,Bracket A,registrar,GREEN,1442.49,
 643194,Sting Attack B19/20 D Sarmiento,Sting Soccer Club,U7,m,Silver 4v4,Bracket B,registrar,MISSING,,
-577109,North Texas Elite 18B Soto,North Texas Elite SC,U8,m,7v7 18s Silver,Bracket A,registrar,RED,1528.34,ranking-uncertain
-657244,Texas Lonestars FC,Texas Lonestars FC,U6,m,Gold,Bracket A,registrar,YELLOW,1514.15,
+577109,North Texas Elite 18B Soto,North Texas Elite SC,U8,m,7v7 18s Silver,Bracket A,registrar,GREEN,1528.34,
+657244,Texas Lonestars FC,Texas Lonestars FC,U6,m,Gold,Bracket A,registrar,YELLOW,,ranking-uncertain
 672503,Texas Lonestars FC 19B,Texas Lonestars FC,U7,m,Bronze 4v4,Bracket A,registrar,RED,1431.13,ranking-uncertain
-646542,Solar 14G Tremblay Gold,Solar SC,U12,f,11v11 Bronze,Bracket A,registrar,RED,,ranking-uncertain
+646542,Solar 14G Tremblay Gold,Solar SC,U12,f,11v11 Bronze,Bracket A,registrar,GREEN,1485.97,
 184133,Cannonballs FC 17B,Lake Highlands SA,U9,m,7v7 Recreational,Bracket A,registrar,MISSING,,
-637021,DKSC 11B RODRIGUEZ ETX,DKSC,U15,m,DS Silver Elite,Bracket A,registrar,RED,,ranking-uncertain
-615139,DFW United SC 18G Sutherland,DFW United SC,U8,f,7v7 Silver,Bracket A,registrar,RED,1491.49,ranking-uncertain
-167646,Kernow Storm FC B13 Red River NPL H.Espinosa,Kernow Storm FC,U13,m,11v11 Gold,Bracket A,registrar,RED,,ranking-uncertain
-139099,Dallas Legacy 15G Arroyo,Dallas Legacy,U11,f,9v9 Bronze,Bracket B,registrar,RED,1501.45,ranking-uncertain
-485179,Dallas Legacy 17B Arroyo,Dallas Legacy,U9,m,7v7 Recreational,Bracket A,registrar,RED,1390.04,ranking-uncertain
-636940,Atletico Dallas Youth 18G Meighen,Atletico Dallas Youth,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,registrar,YELLOW,1580.36,
-634194,Solar East 17B Gonzales,Solar SC,U9,m,7v7 Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-534291,Juventus Premier FC 14B Cantu,Juventus Premier Futbol Club,U12,m,9v9 Silver Crossover,Bracket A,registrar,GREEN,,ranking-uncertain
-645462,-Juventus Premier FC 2019B,Juventus Premier Futbol Club,U7,m,Bronze 4v4,Bracket B,registrar,RED,1487.54,ranking-uncertain
-641387,Arsenal CF 09B,Independent Teams - NTX,U17,m,DS Silver,Bracket A,registrar,RED,1498.62,ranking-uncertain
-633580,NTX Celtic 19B Monk West,NTX Celtic FC,U7,m,Silver 4v4,Bracket A,registrar,RED,1484.40,ranking-uncertain
-356455,Dallas Surf 17G East Blue,Dallas Surf,U10,f,9v9 17s,Bracket A,registrar,RED,1468.74,ranking-uncertain
-620580,Sting WTX G15 Fernandez,Sting Soccer Club,U11,f,9v9 Bronze,Bracket B,registrar,GREEN,,ranking-uncertain
-513849,ETX United 16G - Swiney,East Texas United SC,U10,f,9v9 Silver,Bracket B,registrar,YELLOW,,ranking-uncertain
-693399,Falls Town FC 17G,Falls Town FC,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,registrar,RED,1498.00,ranking-uncertain
-524255,NTX Celtic 14B Shaffer West,NTX Celtic FC,U12,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-288181,NTX Celtic FC Pre-ECNL B14 Shaffer,NTX Celtic FC,U13,m,11v11 Silver 14s,Bracket B,registrar,RED,1663.68,
-576833,ULETE FC 17G RAB,Ulete FC,U9,f,7v7 Bronze II Crossover,Bracket A,registrar,RED,1476.04,ranking-uncertain
-260098,Sting FTW G16 Oliver,Sting Soccer Club,U10,f,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-553844,RPSC 16B Mercado_Blue,Revolution Premier SC,U10,m,9v9 16s Silver Elite,Bracket A,registrar,RED,,ranking-uncertain
-408758,Atletico Dallas Youth 16Gs Central Pre ECNL Meighan,Atletico Dallas Youth,U10,f,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-478937,Atletico Dallas Youth Pre-ECNL G16 Meighen,Atletico Dallas Youth,U10,f,9v9 DS Gold,Bracket A,registrar,RED,1471.12,ranking-uncertain
-251738,Sting WTX B14 Fernandez,Sting Soccer Club,U13,m,11v11 Bronze 14s,Bracket A,registrar,RED,1468.50,ranking-uncertain
-683403,Little Gunners - Segura,Heart of Texas Soccer,U6,m,Bronze,Bracket A,registrar,RED,1487.19,ranking-uncertain
+637021,DKSC 11B RODRIGUEZ ETX,DKSC,U15,m,DS Silver Elite,Bracket A,registrar,GREEN,1543.26,move-down → Silver Elite Crossover
+615139,DFW United SC 18G Sutherland,DFW United SC,U8,f,7v7 Silver,Bracket A,registrar,GREEN,1491.49,
+167646,Kernow Storm FC B13 Red River NPL H.Espinosa,Kernow Storm FC,U13,m,11v11 Gold,Bracket A,registrar,GREEN,1598.09,
+139099,Dallas Legacy 15G Arroyo,Dallas Legacy,U11,f,9v9 Bronze,Bracket B,registrar,GREEN,1460.93,
+485179,Dallas Legacy 17B Arroyo,Dallas Legacy,U9,m,7v7 Recreational,Bracket A,registrar,GREEN,1390.04,
+636940,Atletico Dallas Youth 18G Meighen,Atletico Dallas Youth,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket B,registrar,GREEN,1580.36,
+634194,Solar East 17B Gonzales,Solar SC,U9,m,7v7 Bronze Crossover,Bracket A,registrar,GREEN,,ranking-uncertain
+534291,Juventus Premier FC 14B Cantu,Juventus Premier Futbol Club,U12,m,9v9 Silver Crossover,Bracket A,registrar,GREEN,1455.82,
+645462,-Juventus Premier FC 2019B,Juventus Premier Futbol Club,U7,m,Bronze 4v4,Bracket B,registrar,YELLOW,,ranking-uncertain
+641387,Arsenal CF 09B,Independent Teams - NTX,U17,m,DS Silver,Bracket A,registrar,GREEN,1586.71,
+633580,NTX Celtic 19B Monk West,NTX Celtic FC,U7,m,Silver 4v4,Bracket A,registrar,GREEN,1484.40,move-down → Bronze 4v4
+356455,Dallas Surf 17G East Blue,Dallas Surf,U10,f,9v9 17s,Bracket A,registrar,GREEN,1492.96,move-down → 9v9 16s Silver
+620580,Sting WTX G15 Fernandez,Sting Soccer Club,U11,f,9v9 Bronze,Bracket B,registrar,GREEN,1484.72,
+513849,ETX United 16G - Swiney,East Texas United SC,U10,f,9v9 Silver,Bracket B,registrar,GREEN,1557.05,move-up → 9v9 16s Silver
+693399,Falls Town FC 17G,Falls Town FC,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,registrar,GREEN,1498.00,move-down → 7v7 Silver
+524255,NTX Celtic 14B Shaffer West,NTX Celtic FC,U12,m,9v9 Bronze,Bracket A,registrar,GREEN,1490.54,move-up → 11v11 Bronze
+288181,NTX Celtic FC Pre-ECNL B14 Shaffer,NTX Celtic FC,U13,m,11v11 Silver 14s,Bracket B,registrar,YELLOW,1663.68,move-up → 11v11 Gold
+576833,ULETE FC 17G RAB,Ulete FC,U9,f,7v7 Bronze II Crossover,Bracket A,registrar,GREEN,1476.04,move-up → 7v7 Bronze Crossover
+260098,Sting FTW G16 Oliver,Sting Soccer Club,U10,f,9v9 Silver,Bracket A,registrar,GREEN,1482.13,
+553844,RPSC 16B Mercado_Blue,Revolution Premier SC,U10,m,9v9 16s Silver Elite,Bracket A,registrar,GREEN,1555.15,move-up → 9v9 Bronze II
+408758,Atletico Dallas Youth 16Gs Central Pre ECNL Meighan,Atletico Dallas Youth,U10,f,9v9 Silver,Bracket A,registrar,GREEN,1508.70,
+478937,Atletico Dallas Youth Pre-ECNL G16 Meighen,Atletico Dallas Youth,U10,f,9v9 DS Gold,Bracket A,registrar,GREEN,1647.05,move-up → 9v9 Gold
+251738,Sting WTX B14 Fernandez,Sting Soccer Club,U13,m,11v11 Bronze 14s,Bracket A,registrar,GREEN,1468.50,
+683403,Little Gunners - Segura,Heart of Texas Soccer,U6,m,Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
 280420,GLASA Raichu 16B,GLASA,U10,m,,,NEEDS-SLOTTING,RED,,ranking-uncertain
-640464,ULETE FC 13G Chris,Ulete FC,U13,f,11v11 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-695547,ULETE FC 18B Degrenier,Ulete FC,U8,m,4v4 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-509792,Solar South 18G Guzman,Solar SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,registrar,RED,1595.84,ranking-uncertain
-547188,ULETE FC 17B Simon,Ulete FC,U9,m,7v7 Bronze Crossover,Bracket A,registrar,RED,1411.10,ranking-uncertain
-529243,ULETE FC 12G Andre,Ulete FC,U14,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-640499,ULETE FC 14G Carlo,Ulete FC,U12,f,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
+640464,ULETE FC 13G Chris,Ulete FC,U13,f,11v11 Bronze,Bracket A,registrar,GREEN,1445.65,move-down → 11v11 Bronze 14s
+695547,ULETE FC 18B Degrenier,Ulete FC,U8,m,4v4 Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
+509792,Solar South 18G Guzman,Solar SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,registrar,GREEN,1595.84,
+547188,ULETE FC 17B Simon,Ulete FC,U9,m,7v7 Bronze Crossover,Bracket A,registrar,GREEN,1411.10,move-down → 7v7 Bronze II Crossover
+529243,ULETE FC 12G Andre,Ulete FC,U14,f,11v11 Silver,Bracket A,registrar,GREEN,1469.93,move-down → 11v11 Bronze II
+640499,ULETE FC 14G Carlo,Ulete FC,U12,f,9v9 Bronze,Bracket A,registrar,GREEN,1466.17,move-down → 9v9 Silver Crossover
 658389,ULETE FC 20B Jordan,Ulete FC,U6,m,Bronze,Bracket B,registrar,MISSING,,
-651942,ULETE FC 19B Jordan,Ulete FC,U7,m,Bronze 4v4,Bracket B,registrar,RED,1421.02,ranking-uncertain
-698802,ULETE FC 18/19G Serame,Ulete FC,U8,f,4v4 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-651871,ULETE FC 20/19G Jordan,Ulete FC,U7,f,4v4 2019s,Bracket A,registrar,RED,1431.01,ranking-uncertain
-695412,ULETE FC 19B Degrenier Blue,Ulete FC,U7,m,Silver 4v4,Bracket B,registrar,RED,1505.82,ranking-uncertain
-697599,ULETE FC 18B Hanibal,Ulete FC,U8,m,4v4 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-572567,ULETE FC 15G Andre,Ulete FC,U11,f,9v9 DS Gold,Bracket B,registrar,RED,,ranking-uncertain
-442024,BVB 16B Pre ECNL Brown,BVB International Academy Texas,U10,m,9v9 16s Silver,Bracket A,registrar,RED,,ranking-uncertain
-123743,Lioness Select 13G,Independent Teams - NTX,U13,f,11v11 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-330123,Sting WTX B16 Albarado,Sting Soccer Club,U10,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-704964,Atlético United FC,Atletico United FC,U11,m,Silver II,Bracket B,registrar,RED,,ranking-uncertain
-330347,TAG Pre ECNL 15B Gold East,TAG Soccer,U11,m,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-334798,Atletico Dallas Youth 15G Williams,Atletico Dallas Youth,U11,f,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-636127,Dutch Lions 14B Sparta,Dutch FC,U12,m,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-634886,NTX Celtic 16B Monk West,NTX Celtic FC,U10,m,9v9 Bronze II Crossover,Bracket B,registrar,RED,,ranking-uncertain
-480478,Atletico Dallas Youth 14B Welge,Atletico Dallas Youth,U12,m,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-579421,Dallas Surf 18/19B East,Dallas Surf,U8,m,4v4 Bronze,Bracket B,registrar,RED,1424.78,ranking-uncertain
-333942,Avanti Pre-Academy 17B Red Cavazos,Avanti Soccer Academy,U10,m,7v7 Gold,Bracket A,registrar,RED,,ranking-uncertain
-287678,Avanti PreAcademy 16B Red Cavazos,Avanti Soccer Academy,U10,m,9v9 16s Silver,Bracket A,registrar,RED,,ranking-uncertain
-405293,StrikerZ DFW 2012B Purple,StrikerZ DFW,U14,m,11v11 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-516663,StrikerZ DFW 2012G Purple,StrikerZ DFW,U14,f,11v11 Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-404131,StrikerZ DFW 2013B Purple,StrikerZ DFW,U13,m,11v11 Bronze Crossover,Bracket B,registrar,YELLOW,,ranking-uncertain
-600249,DKSC 19B GARCIA,DKSC,U7,m,Silver 4v4,Bracket A,registrar,RED,1495.47,ranking-uncertain
-634543,Atletico Dallas Youth Blue ECNL-RL NTX B09,Atletico Dallas Youth,U17,m,Bracket B,Bracket A,registrar,RED,1453.00,ranking-uncertain
-82976,FC Dallas Youth Red ECNL RL NTX G13,FC Dallas Youth,U13,f,Dallas Showcase Super Group 13s,Bracket A,registrar,RED,,ranking-uncertain
-405579,Juventus Premier FC 16B Sikora,Juventus Premier Futbol Club,U10,m,9v9 16s Silver Elite,Bracket A,registrar,RED,,ranking-uncertain
-516598,RPSC 13B Mercado,Revolution Premier SC,U13,m,11v11 Bronze Crossover,Bracket B,registrar,RED,,ranking-uncertain
-521886,RPSC 17B Mercado,Revolution Premier SC,U9,m,7v7 Bronze II,Bracket A,registrar,RED,1443.38,ranking-uncertain
+651942,ULETE FC 19B Jordan,Ulete FC,U7,m,Bronze 4v4,Bracket B,registrar,GREEN,1421.02,move-down → 4v4 2019s
+698802,ULETE FC 18/19G Serame,Ulete FC,U8,f,4v4 Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
+651871,ULETE FC 20/19G Jordan,Ulete FC,U7,f,4v4 2019s,Bracket A,registrar,GREEN,1476.15,
+695412,ULETE FC 19B Degrenier Blue,Ulete FC,U7,m,Silver 4v4,Bracket B,registrar,GREEN,1505.82,
+697599,ULETE FC 18B Hanibal,Ulete FC,U8,m,4v4 Bronze,Bracket B,registrar,YELLOW,,ranking-uncertain
+572567,ULETE FC 15G Andre,Ulete FC,U11,f,9v9 DS Gold,Bracket B,registrar,GREEN,1614.65,
+442024,BVB 16B Pre ECNL Brown,BVB International Academy Texas,U10,m,9v9 16s Silver,Bracket A,registrar,GREEN,1466.88,move-down → 9v9 Silver
+123743,Lioness Select 13G,Independent Teams - NTX,U13,f,11v11 Bronze,Bracket B,registrar,GREEN,1463.62,move-down → 11v11 Bronze 14s
+330123,Sting WTX B16 Albarado,Sting Soccer Club,U10,m,9v9 Bronze,Bracket A,registrar,GREEN,1467.62,
+704964,Atlético United FC,Atletico United FC,U11,m,Silver II,Bracket B,registrar,GREEN,1515.09,
+330347,TAG Pre ECNL 15B Gold East,TAG Soccer,U11,m,9v9 Silver,Bracket A,registrar,YELLOW,1472.88,move-down → 9v9 Bronze II
+334798,Atletico Dallas Youth 15G Williams,Atletico Dallas Youth,U11,f,9v9 Bronze,Bracket A,registrar,GREEN,1461.12,
+636127,Dutch Lions 14B Sparta,Dutch FC,U12,m,9v9 Bronze II,Bracket A,registrar,GREEN,1504.85,
+634886,NTX Celtic 16B Monk West,NTX Celtic FC,U10,m,9v9 Bronze II Crossover,Bracket B,registrar,GREEN,1441.07,
+480478,Atletico Dallas Youth 14B Welge,Atletico Dallas Youth,U12,m,9v9 Bronze II,Bracket B,registrar,GREEN,1530.83,
+579421,Dallas Surf 18/19B East,Dallas Surf,U8,m,4v4 Bronze,Bracket B,registrar,YELLOW,1424.78,
+333942,Avanti Pre-Academy 17B Red Cavazos,Avanti Soccer Academy,U10,m,7v7 Gold,Bracket A,registrar,GREEN,,ranking-uncertain
+287678,Avanti PreAcademy 16B Red Cavazos,Avanti Soccer Academy,U10,m,9v9 16s Silver,Bracket A,registrar,GREEN,,ranking-uncertain
+405293,StrikerZ DFW 2012B Purple,StrikerZ DFW,U14,m,11v11 Bronze,Bracket C,registrar,GREEN,1495.04,move-down → 11v11 Bronze Crossover
+516663,StrikerZ DFW 2012G Purple,StrikerZ DFW,U14,f,11v11 Bronze Crossover,Bracket A,registrar,GREEN,1520.48,move-up → 11v11 Bronze
+404131,StrikerZ DFW 2013B Purple,StrikerZ DFW,U13,m,11v11 Bronze Crossover,Bracket B,registrar,GREEN,1517.12,move-up → 11v11 Silver
+600249,DKSC 19B GARCIA,DKSC,U7,m,Silver 4v4,Bracket A,registrar,GREEN,1495.47,
+634543,Atletico Dallas Youth Blue ECNL-RL NTX B09,Atletico Dallas Youth,U17,m,Bracket B,Bracket A,registrar,YELLOW,1520.96,move-down → DS Silver
+82976,FC Dallas Youth Red ECNL RL NTX G13,FC Dallas Youth,U13,f,Dallas Showcase Super Group 13s,Bracket A,registrar,GREEN,,ranking-uncertain
+405579,Juventus Premier FC 16B Sikora,Juventus Premier Futbol Club,U10,m,9v9 16s Silver Elite,Bracket A,registrar,YELLOW,1527.47,
+516598,RPSC 13B Mercado,Revolution Premier SC,U13,m,11v11 Bronze Crossover,Bracket B,registrar,GREEN,1466.88,move-down → 11v11 Bronze II
+521886,RPSC 17B Mercado,Revolution Premier SC,U9,m,7v7 Bronze II,Bracket A,registrar,GREEN,,ranking-uncertain
 549269,RPSC 18B Mercado,Revolution Premier SC,U8,m,7v7 Bronze,Bracket A,registrar,GREEN,1441.39,move-down → 4v4 Silver
-638843,RPSC 19B Mercado_White,Revolution Premier SC,U7,m,Bronze 4v4,Bracket A,registrar,RED,1412.06,ranking-uncertain
-693983,Sting WTX G14 Jimenez,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,registrar,RED,,ranking-uncertain
-639228,Revolution Premier SC 18G Black,Revolution Premier SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,registrar,RED,1581.36,ranking-uncertain
-580876,NTX United FC 2018 Tredway,NTX United FC,U8,m,7v7 Bronze,Bracket A,registrar,RED,1473.79,ranking-uncertain
-661366,South 18G Gold,HTX,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,registrar,RED,1487.82,ranking-uncertain
-520251,Atletico Dallas Youth 09G Clark,Atletico Dallas Youth,U17,f,HS 1,Bracket B,registrar,RED,,ranking-uncertain
-621115,Sting Pre ECNL G16 Robles,Sting Soccer Club,U10,f,9v9 DS Gold,Bracket A,registrar,GREEN,1453.54,move-down → 9v9 16s Silver Elite
+638843,RPSC 19B Mercado_White,Revolution Premier SC,U7,m,Bronze 4v4,Bracket A,registrar,GREEN,1412.06,move-down → 4v4 2019s
+693983,Sting WTX G14 Jimenez,Sting Soccer Club,U12,f,11v11 DS Gold,Bracket A,registrar,GREEN,1645.33,
+639228,Revolution Premier SC 18G Black,Revolution Premier SC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,registrar,GREEN,1581.36,
+580876,NTX United FC 2018 Tredway,NTX United FC,U8,m,7v7 Bronze,Bracket A,registrar,GREEN,1473.79,
+661366,South 18G Gold,HTX,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,registrar,GREEN,1544.34,
+520251,Atletico Dallas Youth 09G Clark,Atletico Dallas Youth,U17,f,HS 1,Bracket B,registrar,GREEN,,ranking-uncertain
+621115,Sting Pre ECNL G16 Robles,Sting Soccer Club,U10,f,9v9 DS Gold,Bracket A,registrar,GREEN,1553.88,
 704595,Pumas SC 19 ZAM,Duncanville SA,U7,m,Silver 4v4,Bracket B,registrar,MISSING,,
-488693,BVB 14B PreECNL Yellow (Suffredin),BVB International Academy Texas,U13,m,11v11 Silver 14s,Bracket A,registrar,RED,1528.45,ranking-uncertain
-486124,Dallas Surf 12B South,Dallas Surf,U14,m,11v11 Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
-560234,Dallas Texans 2020 Boys Dallas,Dallas Texans,U6,m,Gold,Bracket A,registrar,RED,1515.54,ranking-uncertain
-616668,Texas Premier SC 16B,Texas Premier SC,U10,m,9v9 Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
-697618,Texas Premier SC U12,Texas Premier SC,U12,m,9v9 Silver Crossover,Bracket A,registrar,RED,1537.20,ranking-uncertain
-636891,Atletico Dallas Youth 14G Enciso,Atletico Dallas Youth,U12,f,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-396897,Pflugerville Rayados 2015,Mortega Soccer Club Laredo Youth Soccer Academy,U11,m,DS 9v9 Silver Elite,Bracket B,registrar,RED,1460.16,ranking-uncertain
-151633,Rayados MOrtega 2013 Blue,Laredo Youth Soccer Assn,U13,m,11v11 Gold,Bracket A,registrar,RED,,ranking-uncertain
-516534,Rayados MOrtega 2013 White,Laredo Youth Soccer Assn,U13,m,11v11 Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-448624,Rayados Pflugerville 16,Mortega Soccer Club Laredo Youth Soccer Academy,U10,m,9v9 Gold,Bracket A,registrar,RED,1506.16,ranking-uncertain
-448477,Rayados Pflugerville 17,Mortega Soccer Club Laredo Youth Soccer Academy,U10,m,9v9 17s,Bracket B,registrar,RED,1563.04,ranking-uncertain
-516535,Rayados MOrtega 11/12,Laredo Youth Soccer Assn,U15,m,DS Bronze,Bracket B,registrar,RED,,ranking-uncertain
-678221,Rayados Pflugerville 2016 White TYPL,Texas Youth Premier League,U10,m,,,NEEDS-SLOTTING,RED,,ranking-uncertain
-570607,Rayados Pflugerville 2018,Mortega Soccer Club Laredo Youth Soccer Academy,U8,m,7v7 18s Silver,Bracket A,registrar,RED,1509.58,ranking-uncertain
+488693,BVB 14B PreECNL Yellow (Suffredin),BVB International Academy Texas,U13,m,11v11 Silver 14s,Bracket A,registrar,GREEN,1528.45,
+486124,Dallas Surf 12B South,Dallas Surf,U14,m,11v11 Bronze,Bracket A,registrar,GREEN,1516.08,
+560234,Dallas Texans 2020 Boys Dallas,Dallas Texans,U6,m,Gold,Bracket A,registrar,GREEN,,ranking-uncertain
+616668,Texas Premier SC 16B,Texas Premier SC,U10,m,9v9 Bronze,Bracket A,registrar,GREEN,1437.21,move-down → 9v9 Bronze II Crossover
+697618,Texas Premier SC U12,Texas Premier SC,U12,m,9v9 Silver Crossover,Bracket A,registrar,YELLOW,1537.20,move-up → 9v9 Bronze
+636891,Atletico Dallas Youth 14G Enciso,Atletico Dallas Youth,U12,f,9v9 Bronze II,Bracket A,registrar,GREEN,1424.62,move-down → 11v11 Silver
+396897,Pflugerville Rayados 2015,Mortega Soccer Club Laredo Youth Soccer Academy,U11,m,DS 9v9 Silver Elite,Bracket B,registrar,GREEN,1551.07,
+151633,Rayados MOrtega 2013 Blue,Laredo Youth Soccer Assn,U13,m,11v11 Gold,Bracket A,registrar,GREEN,1565.07,move-down → 11v11 Silver 14s
+516534,Rayados MOrtega 2013 White,Laredo Youth Soccer Assn,U13,m,11v11 Bronze Crossover,Bracket A,registrar,GREEN,1498.71,
+448624,Rayados Pflugerville 16,Mortega Soccer Club Laredo Youth Soccer Academy,U10,m,9v9 Gold,Bracket A,registrar,GREEN,1588.24,
+448477,Rayados Pflugerville 17,Mortega Soccer Club Laredo Youth Soccer Academy,U10,m,9v9 17s,Bracket B,registrar,GREEN,,ranking-uncertain
+516535,Rayados MOrtega 11/12,Laredo Youth Soccer Assn,U15,m,DS Bronze,Bracket B,registrar,GREEN,1414.47,move-down → Silver
+678221,Rayados Pflugerville 2016 White TYPL,Texas Youth Premier League,U10,m,,,NEEDS-SLOTTING,GREEN,,ranking-uncertain
+570607,Rayados Pflugerville 2018,Mortega Soccer Club Laredo Youth Soccer Academy,U8,m,7v7 18s Silver,Bracket A,registrar,GREEN,1509.58,
 678227,Rayados Pflugerville 2018 White TYPL,Texas Youth Premier League,U8,m,7v7 Bronze,Bracket C,registrar,MISSING,,
-369682,17G Nike Volt,RISE Soccer Club,U9,f,7v7 Silver,Bracket A,registrar,YELLOW,1524.84,move-up → 18s
-364344,Dallas Surf 17G East Black,Dallas Surf,U10,f,9v9 DS Gold,Bracket B,registrar,RED,1585.58,ranking-uncertain
-458924,BVB 15G Yellow (Ibrahimpasic),BVB International Academy Texas,U11,f,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-262107,Premier FA 2008B Green,Premier Futbol Academy of San Antonio,U18,m,DS 08-09,Bracket A,registrar,RED,1549.89,ranking-uncertain
-483054,FC Dallas High Plains 2015 Girls Blue,FC Dallas High Plains,U11,f,9v9 Bronze,Bracket A,registrar,RED,1531.98,ranking-uncertain
-483053,FC Dallas High Plains 2015 Girls Red,FC Dallas High Plains,U11,f,9v9 DS Gold,Bracket A,registrar,RED,,ranking-uncertain
-380587,Dutch Lions 14B PSV,Dutch FC,U12,m,9v9 Bronze,Bracket B,registrar,RED,1478.13,ranking-uncertain
+369682,17G Nike Volt,RISE Soccer Club,U9,f,7v7 Silver,Bracket A,registrar,GREEN,1524.84,
+364344,Dallas Surf 17G East Black,Dallas Surf,U10,f,9v9 DS Gold,Bracket B,registrar,GREEN,1582.16,
+458924,BVB 15G Yellow (Ibrahimpasic),BVB International Academy Texas,U11,f,9v9 Bronze II,Bracket A,registrar,GREEN,1503.52,move-up → 9v9 Silver
+262107,Premier FA 2008B Green,Premier Futbol Academy of San Antonio,U18,m,DS 08-09,Bracket A,registrar,GREEN,,ranking-uncertain
+483054,FC Dallas High Plains 2015 Girls Blue,FC Dallas High Plains,U11,f,9v9 Bronze,Bracket A,registrar,GREEN,1461.52,
+483053,FC Dallas High Plains 2015 Girls Red,FC Dallas High Plains,U11,f,9v9 DS Gold,Bracket A,registrar,GREEN,1590.28,
+380587,Dutch Lions 14B PSV,Dutch FC,U12,m,9v9 Bronze,Bracket B,registrar,GREEN,1467.48,move-down → 9v9 Silver Crossover
 708343,ULETE FC 14/15 Hanibal,Ulete FC,U12,m,9v9 Bronze II,Bracket B,registrar,MISSING,,
-100365,Texas Spurs FC 11B,Texas Spurs,U15,m,DS Silver,Bracket A,registrar,RED,,ranking-uncertain
-100366,Texas Spurs FC 10B Blue,Texas Spurs,U16,m,DS Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-146891,DFW United SC 16B - BLUE,DFW United SC,U10,m,9v9 16s Silver Elite,Bracket B,registrar,RED,1495.78,ranking-uncertain
-640216,Rayados MOrtega 2014 White,Laredo Youth Soccer Assn,U12,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-204390,Dallas Surf 13G White,Dallas Surf,U13,f,11v11 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-83029,FC Dallas Youth 13G North White,FC Dallas Youth,U13,f,11v11 Silver,Bracket B,registrar,RED,,ranking-uncertain
-655210,DFW United SC 16B - WHITE,DFW United SC,U10,m,,,NEEDS-SLOTTING,RED,,ranking-uncertain
-150463,Statik '10 Boys,Statik Futbol Club,U16,m,DS Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-450578,NTX Celtic 15B Strange South,NTX Celtic FC,U11,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-450377,Revolution Premier SC 18G Blue,Revolution Premier SC,U8,f,7v7 Silver,Bracket A,registrar,RED,1451.44,ranking-uncertain
-658982,Atletico Dallas Youth FTW 15B Blue,Atletico Dallas Youth,U11,m,Silver II,Bracket C,registrar,RED,,ranking-uncertain
+100365,Texas Spurs FC 11B,Texas Spurs,U15,m,DS Silver,Bracket A,registrar,GREEN,1478.45,move-down → DS Bronze
+100366,Texas Spurs FC 10B Blue,Texas Spurs,U16,m,DS Bronze Crossover,Bracket A,registrar,GREEN,1485.17,
+146891,DFW United SC 16B - BLUE,DFW United SC,U10,m,9v9 16s Silver Elite,Bracket B,registrar,GREEN,1558.41,move-up → 9v9 Bronze II
+640216,Rayados MOrtega 2014 White,Laredo Youth Soccer Assn,U12,m,9v9 Bronze,Bracket A,registrar,GREEN,1464.01,move-down → 9v9 Silver Crossover
+204390,Dallas Surf 13G White,Dallas Surf,U13,f,11v11 Bronze,Bracket A,registrar,GREEN,1503.49,move-up → 11v11 Bronze II
+83029,FC Dallas Youth 13G North White,FC Dallas Youth,U13,f,11v11 Silver,Bracket B,registrar,GREEN,1495.12,move-down → 11v11 Bronze Crossover
+655210,DFW United SC 16B - WHITE,DFW United SC,U10,m,,,NEEDS-SLOTTING,GREEN,1511.64,
+150463,Statik '10 Boys,Statik Futbol Club,U16,m,DS Bronze Crossover,Bracket A,registrar,YELLOW,1493.31,
+450578,NTX Celtic 15B Strange South,NTX Celtic FC,U11,m,9v9 Bronze,Bracket A,registrar,GREEN,1476.40,
+450377,Revolution Premier SC 18G Blue,Revolution Premier SC,U8,f,7v7 Silver,Bracket A,registrar,GREEN,1451.44,move-down → 7v7 Bronze
+658982,Atletico Dallas Youth FTW 15B Blue,Atletico Dallas Youth,U11,m,Silver II,Bracket C,registrar,GREEN,1466.96,move-down → 9v9 Silver
 704626,Angels,North Fort Worth Alliance SA,U8,f,4v4 Recreational,Bracket A,registrar,MISSING,,
 269607,ATLETICO DALLAS YOUTH NPL NTX 10G HERNANDEZ-WTX,Atletico Dallas Youth,U16,f,HS 2,Bracket A,registrar,RED,,ranking-uncertain
-253925,OK Energy FC 12B Red,Oklahoma Energy FC,U14,m,11v11 Bronze,Bracket B,registrar,GREEN,,ranking-uncertain
-634238,FC Dallas East Texas 2014/15 G - Sabillon - BLUE,FC Dallas ETX,U12,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
+253925,OK Energy FC 12B Red,Oklahoma Energy FC,U14,m,11v11 Bronze,Bracket B,registrar,GREEN,1464.99,move-down → 11v11 Bronze Crossover
+634238,FC Dallas East Texas 2014/15 G - Sabillon - BLUE,FC Dallas ETX,U12,f,9v9 Bronze II,Bracket B,registrar,GREEN,1440.71,move-down → 11v11 Silver
 405813,Atletico Dallas Youth Pre ECNL 16B HERNANDEZ-WTX,Atletico Dallas Youth,U10,m,9v9 16s Silver,Bracket B,registrar,MISSING,,
-644733,Titan Warriors 13B,Independent Teams - NTX,U13,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-631678,NTX Celtic 14G Holden,NTX Celtic FC,U12,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-635771,Solar 15B Molano PreECNL Red,Solar SC,U11,m,DS 9v9 Silver Elite,Bracket B,registrar,RED,1504.26,ranking-uncertain
-79154,GLASA Roaring Lions 14G,GLASA,U12,f,9v9 Bronze II,Bracket A,registrar,GREEN,,ranking-uncertain
-529657,Coppell FC 18G Mobley Red,Coppell FC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,registrar,RED,1473.44,ranking-uncertain
-574776,Coppell FC 18G Mobley White,Coppell FC,U8,f,4v4 Bronze,Bracket A,registrar,RED,1364.92,ranking-uncertain
-77860,Kernow Storm FC WTX B08 Lubbock,Kernow Storm FC,U18,m,DS 08-09,Bracket A,registrar,RED,1564.11,ranking-uncertain
+644733,Titan Warriors 13B,Independent Teams - NTX,U13,m,11v11 Silver,Bracket A,registrar,GREEN,1562.50,
+631678,NTX Celtic 14G Holden,NTX Celtic FC,U12,f,9v9 Bronze II,Bracket B,registrar,GREEN,1437.55,move-down → 11v11 Silver
+635771,Solar 15B Molano PreECNL Red,Solar SC,U11,m,DS 9v9 Silver Elite,Bracket B,registrar,GREEN,1490.26,move-down → Silver II
+79154,GLASA Roaring Lions 14G,GLASA,U12,f,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
+529657,Coppell FC 18G Mobley Red,Coppell FC,U8,f,Dallas Showcase Super Group 7v7 18s,Bracket A,registrar,GREEN,1552.25,
+574776,Coppell FC 18G Mobley White,Coppell FC,U8,f,4v4 Bronze,Bracket A,registrar,GREEN,1364.92,
+77860,Kernow Storm FC WTX B08 Lubbock,Kernow Storm FC,U18,m,DS 08-09,Bracket A,registrar,GREEN,,ranking-uncertain
 702797,Dallas Deportivo F.C. 15,Dallas Deportivo FC,U11,f,9v9 Bronze II,Bracket A,registrar,MISSING,,
-138606,FC LEGENDS UTD 10/11B Red,FC LEGENDS UTD,U16,m,DS Bronze Crossover,Bracket B,registrar,RED,,ranking-uncertain
-127580,Sting NPL NTX B13 Pitcock/C Rodriguez,Sting Soccer Club,U13,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-647985,Toros FC 2018/2019 Black,El Paso Premier League,U8,m,7v7 18s Silver,Bracket B,registrar,RED,,ranking-uncertain
+138606,FC LEGENDS UTD 10/11B Red,FC LEGENDS UTD,U16,m,DS Bronze Crossover,Bracket B,registrar,GREEN,1427.01,move-down → HS 1
+127580,Sting NPL NTX B13 Pitcock/C Rodriguez,Sting Soccer Club,U13,m,11v11 Silver,Bracket A,registrar,GREEN,1518.90,
+647985,Toros FC 2018/2019 Black,El Paso Premier League,U8,m,7v7 18s Silver,Bracket B,registrar,GREEN,,ranking-uncertain
 717023,Toros FC 2009/2010 Black,El Paso Premier League,U17,m,DS Silver,Bracket A,registrar,MISSING,,
-643973,TOROS FC 2014 Black,El Paso Premier League,U12,m,9v9 Bronze,Bracket C,registrar,RED,,ranking-uncertain
+643973,TOROS FC 2014 Black,El Paso Premier League,U12,m,9v9 Bronze,Bracket C,registrar,GREEN,,ranking-uncertain
 693244,Toros FC 2016 Black,El Paso Premier League,U10,m,,,NEEDS-SLOTTING,GREEN,,ranking-uncertain
-686963,Toros FC 2017 Black,El Paso Premier League,U9,m,7v7 Silver,Bracket A,registrar,RED,,ranking-uncertain
+686963,Toros FC 2017 Black,El Paso Premier League,U9,m,7v7 Silver,Bracket A,registrar,GREEN,,ranking-uncertain
 720833,Toros FC 2011/2012 Neon,El Paso Premier League,U15,m,DS Bronze,Bracket A,registrar,MISSING,,
-10904,Colorado United 2010B Red,Colorado United,U16,m,DS Silver Crossover,Bracket B,registrar,RED,,ranking-uncertain
-537196,BVB 17/18G Oldham,BVB International Academy Texas,U9,f,7v7 Silver,Bracket A,registrar,RED,1498.10,ranking-uncertain
-709418,Solar North 16G,Solar SC,U11,f,9v9 DS Gold,Bracket A,registrar,RED,1601.98,ranking-uncertain
-510811,Dallas Surf 14G East Silver,Dallas Surf,U12,f,11v11 Silver,Bracket A,registrar,YELLOW,,ranking-uncertain
-330126,BVB 15G Black (Oldham),BVB International Academy Texas,U11,f,9v9 Silver,Bracket C,registrar,RED,,ranking-uncertain
-138605,FC LEGENDS UTD 15B Black,FC LEGENDS UTD,U11,m,9v9 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-138604,FC LEGENDS UTD 15B Red,FC LEGENDS UTD,U11,m,9v9 Bronze II,Bracket C,registrar,RED,,ranking-uncertain
-521584,U13 Boys Gold - GO,GFI Academy,U13,m,11v11 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-620286,Rayos 19B blue 4v4 A,Rayos FC,U7,m,Gold 4v4,Bracket B,registrar,RED,,ranking-uncertain
-701410,Rayos 2019b Red,Rayos FC,U7,m,Bronze 4v4,Bracket B,registrar,RED,1509.98,ranking-uncertain
-81641,Coppell FC 14B Williams Red,Coppell Youth SA,U13,m,11v11 Bronze 14s,Bracket A,registrar,RED,,ranking-uncertain
-188365,Olympians SC 14B Red Chadbourn,Olympians SC,U13,m,11v11 Silver 14s,Bracket A,registrar,RED,,ranking-uncertain
-579593,Sting Attack G17 D Sarmiento White,Sting Soccer Club,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,registrar,RED,1615.70,ranking-uncertain
+10904,Colorado United 2010B Red,Colorado United,U16,m,DS Silver Crossover,Bracket B,registrar,YELLOW,,ranking-uncertain
+537196,BVB 17/18G Oldham,BVB International Academy Texas,U9,f,7v7 Silver,Bracket A,registrar,GREEN,1498.10,
+709418,Solar North 16G,Solar SC,U11,f,9v9 DS Gold,Bracket A,registrar,YELLOW,1601.98,
+510811,Dallas Surf 14G East Silver,Dallas Surf,U12,f,11v11 Silver,Bracket A,registrar,GREEN,1486.57,
+330126,BVB 15G Black (Oldham),BVB International Academy Texas,U11,f,9v9 Silver,Bracket C,registrar,GREEN,1514.10,
+138605,FC LEGENDS UTD 15B Black,FC LEGENDS UTD,U11,m,9v9 Bronze,Bracket C,registrar,GREEN,1533.36,move-up → 9v9 Bronze II
+138604,FC LEGENDS UTD 15B Red,FC LEGENDS UTD,U11,m,9v9 Bronze II,Bracket C,registrar,GREEN,1485.00,
+521584,U13 Boys Gold - GO,GFI Academy,U13,m,11v11 Bronze II,Bracket A,registrar,GREEN,1435.87,move-down → 11v11 Bronze
+620286,Rayos 19B blue 4v4 A,Rayos FC,U7,m,Gold 4v4,Bracket B,registrar,GREEN,,ranking-uncertain
+701410,Rayos 2019b Red,Rayos FC,U7,m,Bronze 4v4,Bracket B,registrar,YELLOW,1509.98,move-up → Silver 4v4
+81641,Coppell FC 14B Williams Red,Coppell Youth SA,U13,m,11v11 Bronze 14s,Bracket A,registrar,GREEN,,ranking-uncertain
+188365,Olympians SC 14B Red Chadbourn,Olympians SC,U13,m,11v11 Silver 14s,Bracket A,registrar,GREEN,,ranking-uncertain
+579593,Sting Attack G17 D Sarmiento White,Sting Soccer Club,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket A,registrar,GREEN,1598.98,move-up → 18s
 701441,Solar 18G Carrillo.T,Solar SC,U8,f,4v4 Bronze,Bracket B,registrar,MISSING,,
-96642,Dallas Surf 12G Black,Dallas Surf,U14,f,11v11 Bronze Crossover,Bracket B,registrar,RED,,ranking-uncertain
-521596,U12 Boys Gold - GO,GFI Academy,U12,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-521605,U11 Boys Gold - GO,GFI Academy,U11,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-362201,Dallas Texans ECNL RL NTX G13,Dallas Texans,U13,f,11v11 Silver,Bracket B,registrar,GREEN,,ranking-uncertain
+96642,Dallas Surf 12G Black,Dallas Surf,U14,f,11v11 Bronze Crossover,Bracket B,registrar,GREEN,1428.34,move-down → 11v11 Silver
+521596,U12 Boys Gold - GO,GFI Academy,U12,m,9v9 Bronze,Bracket A,registrar,GREEN,1453.27,move-down → 9v9 Silver Crossover
+521605,U11 Boys Gold - GO,GFI Academy,U11,m,9v9 Bronze,Bracket A,registrar,GREEN,1420.58,
+362201,Dallas Texans ECNL RL NTX G13,Dallas Texans,U13,f,11v11 Silver,Bracket B,registrar,YELLOW,1470.38,move-down → 11v11 Bronze Crossover
 486146,Dallas Surf 17G South,Dallas Surf,U9,f,7v7 Bronze II Crossover,Bracket B,registrar,GREEN,1435.70,
-151346,Dutch Lions 12B PSV,Dutch FC,U14,m,11v11 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-147249,Dutch Lions 13B PSV,Dutch FC,U13,m,11v11 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-79663,Sting G14 Fuentes,Sting Soccer Club,U12,f,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-581666,Coerver United 17B Garcia,GLASA LEAGUE TEAM,U9,m,7v7 Silver,Bracket B,registrar,RED,1498.69,ranking-uncertain
+151346,Dutch Lions 12B PSV,Dutch FC,U14,m,11v11 Bronze,Bracket A,registrar,GREEN,1559.57,
+147249,Dutch Lions 13B PSV,Dutch FC,U13,m,11v11 Bronze II,Bracket A,registrar,GREEN,1478.54,
+79663,Sting G14 Fuentes,Sting Soccer Club,U12,f,9v9 Bronze,Bracket A,registrar,GREEN,1430.65,move-down → 9v9 Silver Crossover
+581666,Coerver United 17B Garcia,GLASA LEAGUE TEAM,U9,m,7v7 Silver,Bracket B,registrar,GREEN,1498.69,
 702031,Atletico Dallas Youth 18B North,Atletico Dallas Youth,U8,m,4v4 Silver,Bracket A,registrar,MISSING,,
 482778,Atletico Dallas Youth NPL NTX 13B GARCIA-WTX,Atletico Dallas Youth,U13,m,11v11 Bronze Crossover,Bracket A,registrar,MISSING,,
 729468,Shiloh FC 11B,Shiloh FC,U15,m,DS Silver,Bracket B,registrar,MISSING,,
-511449,Sting ECNL RL NTX B12 Pitcock,Sting Soccer Club,U14,m,11v11 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-166088,14G McGregor,Evolution,U12,f,11v11 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-164913,15B McGregor,Evolution,U11,m,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
+511449,Sting ECNL RL NTX B12 Pitcock,Sting Soccer Club,U14,m,11v11 Bronze II,Bracket A,registrar,GREEN,1449.33,
+166088,14G McGregor,Evolution,U12,f,11v11 Bronze,Bracket A,registrar,GREEN,1461.55,move-down → 9v9 Bronze
+164913,15B McGregor,Evolution,U11,m,9v9 Bronze II,Bracket B,registrar,GREEN,1479.19,
 637372,Solar East 09B Spear,Solar SC,U17,m,Bracket B,Bracket A,registrar,MISSING,,
 58684,Houstonians FC STXCL ECNL-RL G07,Houstonians FC,U19,f,Gold,Bracket B,registrar,MISSING,,
-354518,Inter Dallas SC 09G,Dallas Inter Soccer Club,U17,f,HS 1,Bracket A,registrar,RED,,ranking-uncertain
-134104,Coppell FC 15G Campanella White,Coppell Youth SA,U11,f,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
+354518,Inter Dallas SC 09G,Dallas Inter Soccer Club,U17,f,HS 1,Bracket A,registrar,GREEN,1469.93,
+134104,Coppell FC 15G Campanella White,Coppell Youth SA,U11,f,9v9 Bronze II,Bracket A,registrar,GREEN,1422.54,move-down → 9v9 Bronze
 602391,DKSC 20B ROJAS,DKSC,U6,m,Gold,Bracket A,registrar,MISSING,,
-622312,BVB 14B Black East (Fritz),BVB International Academy Texas,U12,m,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-269189,Amarillo Rush 14G,Amarillo Rush SC,U12,f,11v11 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-526703,Sting B18 Lucero,Sting Soccer Club,U9,m,18s,Bracket A,registrar,YELLOW,1503.92,
+622312,BVB 14B Black East (Fritz),BVB International Academy Texas,U12,m,9v9 Bronze II,Bracket A,registrar,GREEN,1550.84,
+269189,Amarillo Rush 14G,Amarillo Rush SC,U12,f,11v11 Bronze,Bracket A,registrar,GREEN,1570.07,move-up → 11v11 Silver
+526703,Sting B18 Lucero,Sting Soccer Club,U9,m,18s,Bracket A,registrar,GREEN,1587.65,
 363894,NOKC 2017 Boys White,North OKC SC,U9,m,7v7 Silver,Bracket B,registrar,MISSING,,
-646179,Sting B17 Ortiz,Sting Soccer Club,U10,m,9v9 17s,Bracket B,registrar,RED,1527.85,ranking-uncertain
-166090,15G Moon,Evolution,U11,f,9v9 Silver,Bracket B,registrar,RED,,ranking-uncertain
-501618,FC LEGENDS UTD 16B Black,FC LEGENDS UTD,U10,m,9v9 Bronze II Crossover,Bracket B,registrar,GREEN,1587.88,move-up → 9v9 Gold
-392513,FC LEGENDS UTD 16B Red,FC LEGENDS UTD,U10,m,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-329562,FC LEGENDS UTD 17B Red,FC LEGENDS UTD,U9,m,7v7 Silver,Bracket A,registrar,RED,1503.97,ranking-uncertain
-661305,Solar West 19G Richie,Solar SC,U7,f,4v4 2019s,Bracket A,registrar,RED,,ranking-uncertain
-516424,Extreme FC 12G Reyes,Extreme FC,U14,f,11v11 Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-508168,NTX Celtic FC Pre-ECNL B14 Brice,NTX Celtic FC,U13,m,11v11 Silver 14s,Bracket A,registrar,RED,,ranking-uncertain
-510567,FC LEGENDS UTD 18B Red,FC LEGENDS UTD,U8,m,7v7 Bronze,Bracket C,registrar,GREEN,,ranking-uncertain
-510864,FC Dallas Youth 17B Barrera,FC Dallas Youth,U9,m,7v7 Silver,Bracket B,registrar,RED,1475.73,ranking-uncertain
-488204,Texas Warriors FC 15B Salas,Texas Warriors FC,U11,m,9v9 Silver,Bracket B,registrar,RED,,ranking-uncertain
-385944,FC Dallas Youth 14G West,FC Dallas Youth,U12,f,11v11 Bronze,Bracket A,registrar,GREEN,1462.84,
-658373,ISW Academy 18 Munoz,ISW Academy,U8,m,7v7 Bronze,Bracket B,registrar,RED,1636.94,ranking-uncertain
+646179,Sting B17 Ortiz,Sting Soccer Club,U10,m,9v9 17s,Bracket B,registrar,GREEN,1602.42,move-up → 9v9 16s Silver Elite
+166090,15G Moon,Evolution,U11,f,9v9 Silver,Bracket B,registrar,GREEN,1497.10,
+501618,FC LEGENDS UTD 16B Black,FC LEGENDS UTD,U10,m,9v9 Bronze II Crossover,Bracket B,registrar,GREEN,1555.58,move-up → 9v9 Bronze
+392513,FC LEGENDS UTD 16B Red,FC LEGENDS UTD,U10,m,9v9 Bronze,Bracket B,registrar,GREEN,1454.11,
+329562,FC LEGENDS UTD 17B Red,FC LEGENDS UTD,U9,m,7v7 Silver,Bracket A,registrar,GREEN,1503.97,
+661305,Solar West 19G Richie,Solar SC,U7,f,4v4 2019s,Bracket A,registrar,GREEN,,ranking-uncertain
+516424,Extreme FC 12G Reyes,Extreme FC,U14,f,11v11 Bronze Crossover,Bracket A,registrar,YELLOW,1539.28,move-up → 11v11 Bronze
+508168,NTX Celtic FC Pre-ECNL B14 Brice,NTX Celtic FC,U13,m,11v11 Silver 14s,Bracket A,registrar,YELLOW,,ranking-uncertain
+510567,FC LEGENDS UTD 18B Red,FC LEGENDS UTD,U8,m,7v7 Bronze,Bracket C,registrar,RED,,ranking-uncertain
+510864,FC Dallas Youth 17B Barrera,FC Dallas Youth,U9,m,7v7 Silver,Bracket B,registrar,GREEN,1475.73,
+488204,Texas Warriors FC 15B Salas,Texas Warriors FC,U11,m,9v9 Silver,Bracket B,registrar,GREEN,1486.75,move-down → 9v9 Bronze II
+385944,FC Dallas Youth 14G West,FC Dallas Youth,U12,f,11v11 Bronze,Bracket A,registrar,YELLOW,1462.84,move-down → 9v9 Bronze
+658373,ISW Academy 18 Munoz,ISW Academy,U8,m,7v7 Bronze,Bracket B,registrar,GREEN,1636.94,move-up → 7v7 Silver
 711810,Solar SW 20B Garcia S.,Solar SC,U6,m,Bronze,Bracket A,registrar,MISSING,,
-612677,Dallas Surf 15G North,Dallas Surf,U11,f,9v9 Silver,Bracket B,registrar,RED,,ranking-uncertain
-514002,Texas LoneStars 14B,Texas LoneStars Soccer Club,U12,m,9v9 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-277190,Texas LoneStars 12B,Texas LoneStars Soccer Club,U14,m,11v11 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-535016,Pumas SC- 2013 Zam,Pumas SC NTX,U13,m,11v11 Gold,Bracket A,registrar,YELLOW,,ranking-uncertain
-129045,Atletico Dallas Youth 13B Reyes Central,Atletico Dallas Youth,U13,m,11v11 Bronze Crossover,Bracket B,registrar,YELLOW,,ranking-uncertain
-152293,Texas Spurs FC 12B,Texas Spurs,U14,m,11v11 Bronze II,Bracket C,registrar,RED,,ranking-uncertain
-661810,Atletico Dallas Youth Central 18G Welge,Atletico Dallas Youth,U8,f,7v7 Silver,Bracket A,registrar,RED,,ranking-uncertain
-148428,13B McMillian,Evolution,U14,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-628945,FC Dallas Youth 15G Navy,FC Dallas Youth,U11,f,9v9 Silver,Bracket C,registrar,YELLOW,,ranking-uncertain
-333895,GLASA CHEETAHS 16G,GLASA,U10,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-272284,Coppell FC 16B Reeck Red,Coppell Youth SA,U10,m,9v9 Gold,Bracket A,registrar,RED,,ranking-uncertain
-390669,Atletico Dallas Youth FDL 09B Reyes,Atletico Dallas Youth,U17,m,DS Silver,Bracket A,registrar,RED,,ranking-uncertain
-262456,Elite Premier FC 2010,Elite Premier FC,U16,m,DS Silver Crossover,Bracket A,registrar,RED,,ranking-uncertain
-614628,Elite Premier FC 2014G,Elite Premier FC,U12,f,9v9 Bronze,Bracket A,registrar,GREEN,,ranking-uncertain
-382244,Bulverde YSA Relentless SC '14,Bulverde YSA,U12,m,9v9 Bronze,Bracket C,registrar,RED,,ranking-uncertain
+612677,Dallas Surf 15G North,Dallas Surf,U11,f,9v9 Silver,Bracket B,registrar,YELLOW,1515.50,move-up → Silver II
+514002,Texas LoneStars 14B,Texas LoneStars Soccer Club,U12,m,9v9 Bronze,Bracket C,registrar,GREEN,1552.81,move-up → 11v11 Bronze
+277190,Texas LoneStars 12B,Texas LoneStars Soccer Club,U14,m,11v11 Bronze,Bracket B,registrar,RED,1514.15,ranking-uncertain
+535016,Pumas SC- 2013 Zam,Pumas SC NTX,U13,m,11v11 Gold,Bracket A,registrar,GREEN,1572.96,
+129045,Atletico Dallas Youth 13B Reyes Central,Atletico Dallas Youth,U13,m,11v11 Bronze Crossover,Bracket B,registrar,GREEN,1492.56,
+152293,Texas Spurs FC 12B,Texas Spurs,U14,m,11v11 Bronze II,Bracket C,registrar,YELLOW,,ranking-uncertain
+661810,Atletico Dallas Youth Central 18G Welge,Atletico Dallas Youth,U8,f,7v7 Silver,Bracket A,registrar,GREEN,1455.01,move-down → 7v7 Bronze
+148428,13B McMillian,Evolution,U14,m,11v11 Silver,Bracket A,registrar,GREEN,,ranking-uncertain
+628945,FC Dallas Youth 15G Navy,FC Dallas Youth,U11,f,9v9 Silver,Bracket C,registrar,GREEN,1513.09,
+333895,GLASA CHEETAHS 16G,GLASA,U10,f,9v9 Bronze II,Bracket B,registrar,RED,1547.99,
+272284,Coppell FC 16B Reeck Red,Coppell Youth SA,U10,m,9v9 Gold,Bracket A,registrar,GREEN,1492.73,move-down → 9v9 DS Gold
+390669,Atletico Dallas Youth FDL 09B Reyes,Atletico Dallas Youth,U17,m,DS Silver,Bracket A,registrar,GREEN,1456.29,move-down → HS 1
+262456,Elite Premier FC 2010,Elite Premier FC,U16,m,DS Silver Crossover,Bracket A,registrar,YELLOW,,ranking-uncertain
+614628,Elite Premier FC 2014G,Elite Premier FC,U12,f,9v9 Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
+382244,Bulverde YSA Relentless SC '14,Bulverde YSA,U12,m,9v9 Bronze,Bracket C,registrar,GREEN,1518.55,move-up → 11v11 Bronze
 389072,Barca Academy Austin STXCL B12,Legends FC - San Antonio,U14,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-634544,Barça Academy Austin 14B Red,Legends FC - San Antonio,U12,m,9v9 Silver Crossover,Bracket A,registrar,RED,,ranking-uncertain
-634545,Barça Academy Austin 14B Black,Legends FC - San Antonio,U12,m,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-406242,Barca Academy Austin 15/16B Blue,Hill Country FC / Barca Academy Austin,U11,m,Silver II,Bracket B,registrar,RED,,ranking-uncertain
-645858,Coppell FC 19B Shabout Red,Coppell FC,U7,m,Silver 4v4,Bracket B,registrar,RED,1485.47,ranking-uncertain
-105799,NTX Celtic FC ECNL RL NTX G09,NTX Celtic FC,U17,f,HS 1,Bracket A,registrar,RED,,ranking-uncertain
+634544,Barça Academy Austin 14B Red,Legends FC - San Antonio,U12,m,9v9 Silver Crossover,Bracket A,registrar,GREEN,1491.05,move-up → 9v9 Bronze
+634545,Barça Academy Austin 14B Black,Legends FC - San Antonio,U12,m,9v9 Bronze,Bracket B,registrar,GREEN,1479.46,
+406242,Barca Academy Austin 15/16B Blue,Hill Country FC / Barca Academy Austin,U11,m,Silver II,Bracket B,registrar,GREEN,1480.07,move-down → 9v9 Silver
+645858,Coppell FC 19B Shabout Red,Coppell FC,U7,m,Silver 4v4,Bracket B,registrar,GREEN,,ranking-uncertain
+105799,NTX Celtic FC ECNL RL NTX G09,NTX Celtic FC,U17,f,HS 1,Bracket A,registrar,RED,1532.97,ranking-uncertain
 630965,Sting G16 Brady,Sting Soccer Club,U10,f,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-631035,Elite Premier FC 2015B,Elite Premier FC,U11,m,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-452635,Dallas Texans 2018 Girls Red Dallas,Dallas Texans,U8,f,7v7 Silver,Bracket B,registrar,RED,1490.24,ranking-uncertain
-491040,Solar Pre ECNL G15 Naizer,Solar SC,U11,f,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-484573,Atletico Dallas Youth G17 Meighen,Atletico Dallas Youth,U10,f,9v9 17s,Bracket A,registrar,YELLOW,1557.64,
+631035,Elite Premier FC 2015B,Elite Premier FC,U11,m,9v9 Bronze II,Bracket A,registrar,GREEN,1533.29,move-up → 9v9 Silver
+452635,Dallas Texans 2018 Girls Red Dallas,Dallas Texans,U8,f,7v7 Silver,Bracket B,registrar,GREEN,1490.24,
+491040,Solar Pre ECNL G15 Naizer,Solar SC,U11,f,9v9 Silver,Bracket A,registrar,GREEN,1468.03,move-down → 9v9 Bronze II
+484573,Atletico Dallas Youth G17 Meighen,Atletico Dallas Youth,U10,f,9v9 17s,Bracket A,registrar,GREEN,1638.31,move-up → 9v9 16s Silver Elite
 265071,FC Hurst United 09G,Hurst United SA,U19,f,Gold,Bracket B,registrar,MISSING,,
-654833,BVB 16B White (Kennedy),BVB International Academy Texas,U10,m,9v9 16s Silver,Bracket B,registrar,RED,,ranking-uncertain
-645859,Coppell FC 19B Robicheaux White,Coppell FC,U7,m,Silver 4v4,Bracket A,registrar,RED,1492.82,ranking-uncertain
-643624,OKC 405 FC 2016 G - Elite,OKC 405 FC,U10,f,9v9 DS Gold,Bracket B,registrar,RED,,ranking-uncertain
-584552,Atletico Dallas Youth Dallas 18B O Rodriguez,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket C,registrar,RED,,ranking-uncertain
+654833,BVB 16B White (Kennedy),BVB International Academy Texas,U10,m,9v9 16s Silver,Bracket B,registrar,GREEN,1579.07,move-up → 9v9 17s
+645859,Coppell FC 19B Robicheaux White,Coppell FC,U7,m,Silver 4v4,Bracket A,registrar,GREEN,,ranking-uncertain
+643624,OKC 405 FC 2016 G - Elite,OKC 405 FC,U10,f,9v9 DS Gold,Bracket B,registrar,YELLOW,1604.88,move-up → 9v9 Gold
+584552,Atletico Dallas Youth Dallas 18B O Rodriguez,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket C,registrar,YELLOW,,ranking-uncertain
 326480,Dutch Lions 12B Feyenoord,Dutch FC,U14,m,11v11 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-656212,Sharks FC,Independent Teams - NTX,U9,m,7v7 Bronze II,Bracket B,registrar,RED,1434.05,ranking-uncertain
-151489,FC Dallas El Paso 2011,El Paso Premier League,U15,m,DS Silver,Bracket A,registrar,RED,,ranking-uncertain
-492976,Solar South 11G Cameron,Solar SC,U15,f,Silver Elite Crossover,Bracket A,registrar,RED,,ranking-uncertain
-685328,FC Dallas 2017 Pre MLS Academy,,U10,m,9v9 Gold,Bracket A,registrar,RED,1548.97,ranking-uncertain
-698904,FC Dallas North Academy 2017,FC Dallas,U10,m,9v9 17s,Bracket A,registrar,RED,1564.78,ranking-uncertain
-691655,NTX United FC 2015/16B Guibert,NTX United FC,U11,m,Silver II,Bracket A,registrar,RED,1489.34,ranking-uncertain
-644115,NTX United FC 2019B Guibert,NTX United FC,U7,m,Bronze 4v4,Bracket B,registrar,RED,1500.44,ranking-uncertain
-654209,Solar South 12G Cameron RLNTX,Solar SC,U14,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-81616,Coppell FC 13B Shirazi White,Coppell Youth SA,U13,m,11v11 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-206710,ETX United 12G,East Texas United SC,U14,f,11v11 Silver,Bracket A,registrar,GREEN,,ranking-uncertain
-494025,Atletico Dallas Youth 15B Brandt,Atletico Dallas Youth,U11,m,9v9 Silver,Bracket C,registrar,RED,,ranking-uncertain
-635332,FC Dallas Youth 17G Niehoff,FC Dallas Youth,U10,f,9v9 17s,Bracket A,registrar,RED,1560.75,ranking-uncertain
-567395,NTX United FC 2011B Paice,NTX United FC,U15,m,DS Silver,Bracket B,registrar,RED,1525.89,ranking-uncertain
+656212,Sharks FC,Independent Teams - NTX,U9,m,7v7 Bronze II,Bracket B,registrar,YELLOW,1434.05,
+151489,FC Dallas El Paso 2011,El Paso Premier League,U15,m,DS Silver,Bracket A,registrar,YELLOW,1479.32,move-down → DS Bronze
+492976,Solar South 11G Cameron,Solar SC,U15,f,Silver Elite Crossover,Bracket A,registrar,YELLOW,1477.33,move-down → DS Silver
+685328,FC Dallas 2017 Pre MLS Academy,,U10,m,9v9 Gold,Bracket A,registrar,YELLOW,,ranking-uncertain
+698904,FC Dallas North Academy 2017,FC Dallas,U10,m,9v9 17s,Bracket A,registrar,YELLOW,,ranking-uncertain
+691655,NTX United FC 2015/16B Guibert,NTX United FC,U11,m,Silver II,Bracket A,registrar,YELLOW,,ranking-uncertain
+644115,NTX United FC 2019B Guibert,NTX United FC,U7,m,Bronze 4v4,Bracket B,registrar,GREEN,,ranking-uncertain
+654209,Solar South 12G Cameron RLNTX,Solar SC,U14,f,11v11 Silver,Bracket A,registrar,YELLOW,1484.96,
+81616,Coppell FC 13B Shirazi White,Coppell Youth SA,U13,m,11v11 Bronze II,Bracket B,registrar,GREEN,1526.69,move-up → 11v11 Bronze Crossover
+206710,ETX United 12G,East Texas United SC,U14,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
+494025,Atletico Dallas Youth 15B Brandt,Atletico Dallas Youth,U11,m,9v9 Silver,Bracket C,registrar,GREEN,1489.55,move-down → 9v9 Bronze II
+635332,FC Dallas Youth 17G Niehoff,FC Dallas Youth,U10,f,9v9 17s,Bracket A,registrar,GREEN,,ranking-uncertain
+567395,NTX United FC 2011B Paice,NTX United FC,U15,m,DS Silver,Bracket B,registrar,GREEN,1534.09,
 383332,FC Dallas Youth Pre-ECNL 15G Avant West,FC Dallas Youth,U11,f,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-517375,SPD FC 14B Black,SPD FC,U12,m,9v9 Bronze,Bracket B,registrar,YELLOW,,ranking-uncertain
-380586,Frisco Fusion 15B Blue,Frisco Fusion,U11,m,Silver II,Bracket A,registrar,RED,,ranking-uncertain
-550321,Frisco Fusion 15G Blue,Frisco Fusion,U11,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-646537,Avanti SA ECNL RL B13,Avanti Soccer Academy,U13,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-517372,SPD FC 13B Red,SPD FC,U13,m,11v11 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
+517375,SPD FC 14B Black,SPD FC,U12,m,9v9 Bronze,Bracket B,registrar,GREEN,1527.34,move-up → 11v11 Bronze
+380586,Frisco Fusion 15B Blue,Frisco Fusion,U11,m,Silver II,Bracket A,registrar,GREEN,1580.82,move-up → DS 9v9 Silver Elite
+550321,Frisco Fusion 15G Blue,Frisco Fusion,U11,f,9v9 Bronze II,Bracket B,registrar,GREEN,1514.50,move-up → 9v9 Silver
+646537,Avanti SA ECNL RL B13,Avanti Soccer Academy,U13,m,11v11 Silver,Bracket A,registrar,YELLOW,1537.71,
+517372,SPD FC 13B Red,SPD FC,U13,m,11v11 Bronze II,Bracket B,registrar,GREEN,1444.65,move-down → 11v11 Bronze
 383586,Atletico Dallas Youth 07/08G Clark,Atletico Dallas Youth,U19,f,Gold,Bracket A,registrar,MISSING,,
-415277,FCD ETX Palestine 15/16B,FC Dallas ETX,U11,m,9v9 Silver,Bracket B,registrar,RED,,ranking-uncertain
-543663,Solar 16G Tremblay,Solar SC,U10,f,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-268555,Athens Futbol Club 12B,Athens Futbol Club,U14,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-99024,FC LEGENDS UTD 13B Red,FC LEGENDS UTD,U13,m,11v11 Gold,Bracket A,registrar,RED,,ranking-uncertain
-496326,North Texas Elite 18B Flores,North Texas Elite SC,U9,m,18s,Bracket A,registrar,RED,,ranking-uncertain
-511727,Solar 17B Tremblay,Solar SC,U9,m,7v7 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-655787,The Hive,The Hive,U11,f,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
+415277,FCD ETX Palestine 15/16B,FC Dallas ETX,U11,m,9v9 Silver,Bracket B,registrar,GREEN,1534.21,move-up → Silver II
+543663,Solar 16G Tremblay,Solar SC,U10,f,9v9 Silver,Bracket A,registrar,GREEN,1483.98,
+268555,Athens Futbol Club 12B,Athens Futbol Club,U14,m,11v11 Silver,Bracket A,registrar,YELLOW,,ranking-uncertain
+99024,FC LEGENDS UTD 13B Red,FC LEGENDS UTD,U13,m,11v11 Gold,Bracket A,registrar,GREEN,1558.45,move-down → 11v11 Silver 14s
+496326,North Texas Elite 18B Flores,North Texas Elite SC,U9,m,18s,Bracket A,registrar,YELLOW,,ranking-uncertain
+511727,Solar 17B Tremblay,Solar SC,U9,m,7v7 Bronze II,Bracket B,registrar,YELLOW,,ranking-uncertain
+655787,The Hive,The Hive,U11,f,9v9 Bronze,Bracket A,registrar,GREEN,1543.83,move-up → 9v9 Bronze II
 538511,Texas Warriors FC 10B - NPL NTX Foster,Texas Warriors FC,U16,m,DS Silver Crossover,Bracket A,registrar,RED,,ranking-uncertain
 633473,Pegasus Futbol 2013G,Pegasus Futbol,U13,f,11v11 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-703019,Pegasus Futbol 2015,Pegasus Futbol,U11,m,9v9 Bronze,Bracket B,registrar,RED,1538.02,ranking-uncertain
-626056,Pegasus Futbol 2013,Pegasus Futbol,U13,m,11v11 Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-492975,Solar South 10G Cameron,Solar SC,U16,f,HS 1,Bracket A,registrar,RED,,ranking-uncertain
-209098,Dallas Cosmos 13G Red,Dallas Cosmos Soccer Club,U13,f,11v11 Bronze,Bracket C,registrar,YELLOW,,ranking-uncertain
-410175,Dallas Cosmos 16G Black,Dallas Cosmos Soccer Club,U10,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-293968,Dallas Cosmos 16B White,Dallas Cosmos Soccer Club,U10,m,9v9 16s Silver,Bracket B,registrar,RED,1501.88,ranking-uncertain
+703019,Pegasus Futbol 2015,Pegasus Futbol,U11,m,9v9 Bronze,Bracket B,registrar,YELLOW,1538.02,move-up → 9v9 Bronze II
+626056,Pegasus Futbol 2013,Pegasus Futbol,U13,m,11v11 Bronze Crossover,Bracket A,registrar,GREEN,1564.21,move-up → 11v11 Silver
+492975,Solar South 10G Cameron,Solar SC,U16,f,HS 1,Bracket A,registrar,GREEN,1471.68,
+209098,Dallas Cosmos 13G Red,Dallas Cosmos Soccer Club,U13,f,11v11 Bronze,Bracket C,registrar,GREEN,1457.89,move-down → 11v11 Bronze 14s
+410175,Dallas Cosmos 16G Black,Dallas Cosmos Soccer Club,U10,f,9v9 Bronze II,Bracket B,registrar,YELLOW,1534.05,
+293968,Dallas Cosmos 16B White,Dallas Cosmos Soccer Club,U10,m,9v9 16s Silver,Bracket B,registrar,GREEN,1510.18,
 164899,12B Giurgila,Evolution,U14,m,11v11 Bronze II,Bracket C,registrar,RED,,ranking-uncertain
-163527,13B Giurgila,Evolution,U13,m,11v11 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-419884,17B McGregor (Black),Evolution,U9,m,7v7 Bronze II,Bracket A,registrar,RED,1496.84,ranking-uncertain
-451850,Fever United 11B Jacobo,Fever United,U15,m,DS Bronze,Bracket A,registrar,RED,1510.26,ranking-uncertain
-107876,Solar 09G Megli,Solar SC,U17,f,HS 1,Bracket A,registrar,RED,,ranking-uncertain
-612374,Texas Warriors FC 15G - Salas,Texas Warriors FC,U11,f,9v9 Silver,Bracket C,registrar,GREEN,,ranking-uncertain
-193618,Texas Warriors FC 15B Black,Texas Warriors FC,U11,m,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-77672,Midlothian Premier FC 2012 Girls,Midlothian Premier FC,U14,f,11v11 Bronze Crossover,Bracket B,registrar,RED,,ranking-uncertain
-279157,Metro West Wolves 16B Thiem,Metro West SC,U10,m,9v9 16s Silver Elite,Bracket B,registrar,RED,,ranking-uncertain
-499346,OK Energy FC 14B White,Oklahoma Energy FC,U13,m,11v11 Silver 14s,Bracket B,registrar,RED,1532.91,ranking-uncertain
-528941,Legacy United FC 12B - Mininni,Legacy United FC,U14,m,11v11 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-518517,Solar 10G Megli GCL,Solar SC,U16,f,HS 2,Bracket A,registrar,RED,,ranking-uncertain
-550627,Liverpool FC Dallas 2016B,Liverpool FC Texas,U10,m,9v9 Bronze II Crossover,Bracket A,registrar,RED,,ranking-uncertain
-657201,Trinity FC - Castillo 17/18,Independent Teams - NTX,U9,m,7v7 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-582558,Current Elite 19G,Current Elite 2019G,U8,f,4v4 Bronze,Bracket B,registrar,RED,1496.24,ranking-uncertain
-644075,Soccerplex United 19/20B,Soccerplex United,U7,m,Gold 4v4,Bracket B,registrar,YELLOW,1515.96,
-441885,Soccerplex United 16B,Soccerplex United,U10,m,9v9 16s Silver,Bracket B,registrar,RED,,ranking-uncertain
+163527,13B Giurgila,Evolution,U13,m,11v11 Bronze II,Bracket B,registrar,GREEN,1467.38,move-down → 11v11 Bronze
+419884,17B McGregor (Black),Evolution,U9,m,7v7 Bronze II,Bracket A,registrar,GREEN,1496.84,move-up → 7v7 Bronze II Crossover
+451850,Fever United 11B Jacobo,Fever United,U15,m,DS Bronze,Bracket A,registrar,GREEN,,ranking-uncertain
+107876,Solar 09G Megli,Solar SC,U17,f,HS 1,Bracket A,registrar,YELLOW,1421.33,
+612374,Texas Warriors FC 15G - Salas,Texas Warriors FC,U11,f,9v9 Silver,Bracket C,registrar,GREEN,1500.66,
+193618,Texas Warriors FC 15B Black,Texas Warriors FC,U11,m,9v9 Bronze,Bracket B,registrar,GREEN,1622.93,move-up → 9v9 Bronze II
+77672,Midlothian Premier FC 2012 Girls,Midlothian Premier FC,U14,f,11v11 Bronze Crossover,Bracket B,registrar,GREEN,1469.90,move-down → 11v11 Silver
+279157,Metro West Wolves 16B Thiem,Metro West SC,U10,m,9v9 16s Silver Elite,Bracket B,registrar,GREEN,1512.23,move-down → 9v9 17s
+499346,OK Energy FC 14B White,Oklahoma Energy FC,U13,m,11v11 Silver 14s,Bracket B,registrar,GREEN,1532.91,
+528941,Legacy United FC 12B - Mininni,Legacy United FC,U14,m,11v11 Bronze,Bracket A,registrar,YELLOW,1600.33,
+518517,Solar 10G Megli GCL,Solar SC,U16,f,HS 2,Bracket A,registrar,GREEN,,ranking-uncertain
+550627,Liverpool FC Dallas 2016B,Liverpool FC Texas,U10,m,9v9 Bronze II Crossover,Bracket A,registrar,GREEN,1467.90,move-up → 9v9 Bronze
+657201,Trinity FC - Castillo 17/18,Independent Teams - NTX,U9,m,7v7 Bronze II,Bracket A,registrar,GREEN,,ranking-uncertain
+582558,Current Elite 19G,Current Elite 2019G,U8,f,4v4 Bronze,Bracket B,registrar,GREEN,,ranking-uncertain
+644075,Soccerplex United 19/20B,Soccerplex United,U7,m,Gold 4v4,Bracket B,registrar,GREEN,1515.96,
+441885,Soccerplex United 16B,Soccerplex United,U10,m,9v9 16s Silver,Bracket B,registrar,GREEN,1473.32,move-down → 9v9 Silver
 647555,ETFC 07G Muhr,East Texas Football Club,U19,f,Gold,Bracket A,registrar,MISSING,,
 687693,Valley Academy Green,Mt. Pleasant Youth Soccer Association,U6,m,Bronze,Bracket B,registrar,MISSING,,
-152149,Royal Peak FC 2015 White,Royal Peak FC,U11,m,Silver II,Bracket C,registrar,RED,,ranking-uncertain
-296905,Dallas Texans 2018 Boys Dallas Rojas,Dallas Texans,U9,m,18s,Bracket A,registrar,RED,1522.83,ranking-uncertain
-333287,Dallas Texans 2017 Boys Dallas Rojas,Dallas Texans,U10,m,9v9 17s,Bracket A,registrar,YELLOW,,ranking-uncertain
-65147,Fever United 14B Mee,Fever United,U13,m,11v11 Bronze 14s,Bracket A,registrar,RED,,ranking-uncertain
-81643,Coppell FC 14B Gee White,Coppell Youth SA,U12,m,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-513133,Coppell FC 11B Gee Grey,Coppell Youth SA,U15,m,DS Bronze,Bracket A,registrar,RED,,ranking-uncertain
-521835,Kernow Storm FC G16 Pre-ECNL Nelson,Kernow Storm FC,U10,f,9v9 DS Gold,Bracket B,registrar,RED,,ranking-uncertain
+152149,Royal Peak FC 2015 White,Royal Peak FC,U11,m,Silver II,Bracket C,registrar,GREEN,1450.45,move-down → 9v9 Silver
+296905,Dallas Texans 2018 Boys Dallas Rojas,Dallas Texans,U9,m,18s,Bracket A,registrar,GREEN,,ranking-uncertain
+333287,Dallas Texans 2017 Boys Dallas Rojas,Dallas Texans,U10,m,9v9 17s,Bracket A,registrar,GREEN,,ranking-uncertain
+65147,Fever United 14B Mee,Fever United,U13,m,11v11 Bronze 14s,Bracket A,registrar,GREEN,,ranking-uncertain
+81643,Coppell FC 14B Gee White,Coppell Youth SA,U12,m,9v9 Bronze II,Bracket A,registrar,GREEN,,ranking-uncertain
+513133,Coppell FC 11B Gee Grey,Coppell Youth SA,U15,m,DS Bronze,Bracket A,registrar,GREEN,1502.76,
+521835,Kernow Storm FC G16 Pre-ECNL Nelson,Kernow Storm FC,U10,f,9v9 DS Gold,Bracket B,registrar,GREEN,1510.31,move-down → 9v9 Bronze II
 83004,FC Dallas Youth North NPL NTX B10,FC Dallas Youth,U16,m,DS Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
 388334,FC Dallas Youth North NPL NTX B12,FC Dallas Youth,U14,m,11v11 Bronze,Bracket C,registrar,RED,,ranking-uncertain
 679949,Solar 08B Volkan RLNTX,Solar SC,U18,m,DS 08-09,Bracket A,registrar,MISSING,,
-334941,Dallas Cosmos 15G White,Dallas Cosmos Soccer Club,U11,f,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-410178,Dallas Cosmos 14G Red,Dallas Cosmos Soccer Club,U12,f,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
+334941,Dallas Cosmos 15G White,Dallas Cosmos Soccer Club,U11,f,9v9 Bronze,Bracket B,registrar,GREEN,1434.93,
+410178,Dallas Cosmos 14G Red,Dallas Cosmos Soccer Club,U12,f,9v9 Bronze II,Bracket A,registrar,GREEN,1542.29,
 729412,Dallas Cosmos 15G Red,Dallas Cosmos Soccer Club,U11,f,9v9 Bronze II,Bracket B,registrar,MISSING,,
-293967,Dallas Cosmos 16B Black,Dallas Cosmos Soccer Club,U10,m,9v9 16s Silver Elite,Bracket B,registrar,RED,1476.81,ranking-uncertain
-293964,Dallas Cosmos 15B Black,Dallas Cosmos Soccer Club,U11,m,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-293304,Dallas Cosmos 14G White,Dallas Cosmos Soccer Club,U12,f,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-410384,Dallas Cosmos 17B Black,Dallas Cosmos Soccer Club,U9,m,7v7 Silver,Bracket A,registrar,RED,1500.72,ranking-uncertain
-159269,Avanti Soccer Academy 13B Blue,Avanti Soccer Academy,U13,m,11v11 Bronze Crossover,Bracket A,registrar,RED,,ranking-uncertain
-276187,Dallas Legends Panthers 17B,Dallas Legends,U9,m,7v7 Bronze II,Bracket B,registrar,RED,1420.69,ranking-uncertain
-79069,GLASA Thunderbirds 14B,GLASA,U12,m,9v9 Bronze II,Bracket A,registrar,GREEN,,ranking-uncertain
-552488,Solar 17G Jenkins,Solar SC,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,registrar,RED,1464.97,ranking-uncertain
+293967,Dallas Cosmos 16B Black,Dallas Cosmos Soccer Club,U10,m,9v9 16s Silver Elite,Bracket B,registrar,GREEN,1523.18,
+293964,Dallas Cosmos 15B Black,Dallas Cosmos Soccer Club,U11,m,9v9 Silver,Bracket A,registrar,GREEN,1506.24,
+293304,Dallas Cosmos 14G White,Dallas Cosmos Soccer Club,U12,f,9v9 Bronze,Bracket A,registrar,YELLOW,1481.95,
+410384,Dallas Cosmos 17B Black,Dallas Cosmos Soccer Club,U9,m,7v7 Silver,Bracket A,registrar,GREEN,1500.72,
+159269,Avanti Soccer Academy 13B Blue,Avanti Soccer Academy,U13,m,11v11 Bronze Crossover,Bracket A,registrar,GREEN,,ranking-uncertain
+276187,Dallas Legends Panthers 17B,Dallas Legends,U9,m,7v7 Bronze II,Bracket B,registrar,YELLOW,1420.69,
+79069,GLASA Thunderbirds 14B,GLASA,U12,m,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
+552488,Solar 17G Jenkins,Solar SC,U9,f,7v7 Dallas Showcase Super Group 17s,Bracket B,registrar,GREEN,1464.97,move-down → 7v7 Silver
 409517,GLASA Fireballs 17B,GLASA,U9,m,7v7 Recreational,Bracket A,registrar,MISSING,,
-70461,Victory SC 2010 Girls Black,Victory SC,U16,f,HS 1,Bracket A,registrar,RED,1452.82,ranking-uncertain
-54442,FC Dallas-High Plains 2013 Girls Red,FC Dallas High Plains,U13,f,Dallas Showcase Super Group 13s,Bracket A,registrar,RED,,ranking-uncertain
-631542,Coppell FC 15B Williams White,Coppell Youth SA,U11,m,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-585645,IRVING SPIRIT 18 GR,Irving Soccer Association,U8,f,4v4 Recreational,Bracket A,registrar,RED,,ranking-uncertain
-707563,Atletico Dallas Youth 17/18B Central,Atletico Dallas Youth,U9,m,7v7 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-661697,Atletico Dallas Youth 18B Blue,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-583341,Dallas Texans 2020 Girls Dallas,Dallas Texans,U7,f,4v4 2019s,Bracket A,registrar,RED,,ranking-uncertain
-564769,Real Madrid,Cooke County SA,U10,m,,,NEEDS-SLOTTING,YELLOW,,ranking-uncertain
-634732,Sting G16 Doan,Sting Soccer Club,U10,f,9v9 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
-643062,Solar 11B Volkan NPLNTX,Solar SC,U15,m,DS Bronze,Bracket B,registrar,GREEN,,ranking-uncertain
-523885,Dallas Texans 2017 Boys South,Dallas Texans,U10,m,9v9 17s,Bracket A,registrar,RED,1544.22,ranking-uncertain
-523891,Dallas Texans 2017 Boys Red South,Dallas Texans,U10,m,9v9 Bronze II Crossover,Bracket A,registrar,RED,1505.84,ranking-uncertain
-633260,FC Forney 2014B,FC Forney,U12,m,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
+70461,Victory SC 2010 Girls Black,Victory SC,U16,f,HS 1,Bracket A,registrar,GREEN,1452.82,
+54442,FC Dallas-High Plains 2013 Girls Red,FC Dallas High Plains,U13,f,Dallas Showcase Super Group 13s,Bracket A,registrar,YELLOW,,ranking-uncertain
+631542,Coppell FC 15B Williams White,Coppell Youth SA,U11,m,9v9 Bronze II,Bracket A,registrar,GREEN,1572.31,move-up → 9v9 Silver
+585645,IRVING SPIRIT 18 GR,Irving Soccer Association,U8,f,4v4 Recreational,Bracket A,registrar,YELLOW,,ranking-uncertain
+707563,Atletico Dallas Youth 17/18B Central,Atletico Dallas Youth,U9,m,7v7 Bronze II,Bracket B,registrar,YELLOW,,ranking-uncertain
+661697,Atletico Dallas Youth 18B Blue,Atletico Dallas Youth,U8,m,7v7 Bronze,Bracket B,registrar,YELLOW,,ranking-uncertain
+583341,Dallas Texans 2020 Girls Dallas,Dallas Texans,U7,f,4v4 2019s,Bracket A,registrar,GREEN,,ranking-uncertain
+564769,Real Madrid,Cooke County SA,U10,m,,,NEEDS-SLOTTING,RED,1472.47,ranking-uncertain
+634732,Sting G16 Doan,Sting Soccer Club,U10,f,9v9 Bronze II,Bracket A,registrar,YELLOW,,ranking-uncertain
+643062,Solar 11B Volkan NPLNTX,Solar SC,U15,m,DS Bronze,Bracket B,registrar,RED,,ranking-uncertain
+523885,Dallas Texans 2017 Boys South,Dallas Texans,U10,m,9v9 17s,Bracket A,registrar,GREEN,1512.96,
+523891,Dallas Texans 2017 Boys Red South,Dallas Texans,U10,m,9v9 Bronze II Crossover,Bracket A,registrar,GREEN,1549.81,move-up → 9v9 Bronze
+633260,FC Forney 2014B,FC Forney,U12,m,9v9 Bronze II,Bracket B,registrar,GREEN,1503.61,
 94680,10B Scannell,Evolution,U16,m,DS Silver Crossover,Bracket B,registrar,RED,,ranking-uncertain
-161859,14B Sinnott,Evolution,U13,m,11v11 Bronze 14s,Bracket A,registrar,RED,,ranking-uncertain
-166772,15B Sinnott,Evolution,U11,m,9v9 Bronze II,Bracket C,registrar,RED,,ranking-uncertain
-297208,Fever United 16B Tovar,Fever United,U10,m,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-456819,GLASA Jaguars 18B,GLASA,U8,m,4v4 Bronze,Bracket A,registrar,YELLOW,,ranking-uncertain
-634179,FC Dallas Youth 19G / 20G - Frayre,FC Dallas Youth,U7,f,4v4 2019s,Bracket A,registrar,RED,,ranking-uncertain
-489195,Solar SW 15B Garcia.S White,Solar SC,U11,m,9v9 Bronze II,Bracket A,registrar,RED,1462.14,ranking-uncertain
+161859,14B Sinnott,Evolution,U13,m,11v11 Bronze 14s,Bracket A,registrar,GREEN,,ranking-uncertain
+166772,15B Sinnott,Evolution,U11,m,9v9 Bronze II,Bracket C,registrar,GREEN,1481.85,
+297208,Fever United 16B Tovar,Fever United,U10,m,9v9 Bronze,Bracket B,registrar,GREEN,,ranking-uncertain
+456819,GLASA Jaguars 18B,GLASA,U8,m,4v4 Bronze,Bracket A,registrar,RED,,ranking-uncertain
+634179,FC Dallas Youth 19G / 20G - Frayre,FC Dallas Youth,U7,f,4v4 2019s,Bracket A,registrar,GREEN,,ranking-uncertain
+489195,Solar SW 15B Garcia.S White,Solar SC,U11,m,9v9 Bronze II,Bracket A,registrar,GREEN,1515.77,move-up → 9v9 Silver
 538015,FCP Dynamos 12B,FCP Dynamos,U14,m,11v11 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-567225,GLASA Lake City Elite 16B,GLASA,U10,m,,,NEEDS-SLOTTING,RED,,ranking-uncertain
-552600,American Tornadoes,American Tornadoes,U7,m,Bronze 4v4,Bracket A,registrar,RED,1491.81,ranking-uncertain
+567225,GLASA Lake City Elite 16B,GLASA,U10,m,,,NEEDS-SLOTTING,YELLOW,1452.04,
+552600,American Tornadoes,American Tornadoes,U7,m,Bronze 4v4,Bracket A,registrar,GREEN,1491.81,
 636126,Dutch Lions 14B AZ,Dutch FC,U12,m,9v9 Bronze II,Bracket B,registrar,MISSING,,
 385933,FC Dallas Youth Pre ECNL B15 Malik,FC Dallas Youth,U11,m,9v9 Silver,Bracket C,registrar,RED,,ranking-uncertain
-530905,Soccerplex United 16/17G Red,Soccerplex United,U10,f,9v9 Silver,Bracket B,registrar,YELLOW,,ranking-uncertain
-645936,Dallas Texans 2019 Girls East,Dallas Texans,U8,f,7v7 Silver,Bracket B,registrar,YELLOW,1456.32,move-down → 7v7 Bronze
-508863,LC United 15B White Lyle,LC United,U11,m,9v9 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-703183,Dallas Texans 2019 Girls Red East,Dallas Texans,U7,f,4v4 2019s,Bracket A,registrar,RED,,ranking-uncertain
-283774,Tyler FC 15B,Tyler FC,U11,m,DS 9v9 Silver Elite,Bracket B,registrar,RED,1534.94,ranking-uncertain
-407081,Tyler FC 18B,Tyler FC,U9,m,18s,Bracket A,registrar,RED,1508.09,ranking-uncertain
-536481,Tyler FC 19B,Tyler FC,U8,m,7v7 18s Silver,Bracket A,registrar,RED,1530.97,ranking-uncertain
-638734,Frisco Fusion 13G Red,Frisco Fusion,U13,f,11v11 Bronze,Bracket C,registrar,RED,,ranking-uncertain
-148172,Southern Soccer 14B,Southern Soccer,U12,m,9v9 Bronze,Bracket A,registrar,RED,,ranking-uncertain
-385932,FC Dallas Youth Pre ECNL B15,FC Dallas Youth,U11,m,9v9 Silver,Bracket A,registrar,RED,,ranking-uncertain
-204509,FC Dallas Pre ECNL B15 Raine,FC Dallas Youth,U11,m,DS 9v9 Silver Elite,Bracket A,registrar,RED,,ranking-uncertain
-96926,Coppell FC 09G Sansom,Coppell Youth SA,U17,f,HS 1,Bracket B,registrar,RED,,ranking-uncertain
-625815,Dallas Surf 13G Central,Dallas Surf,U13,f,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
-576495,FC Dallas Youth 18G Herrera,FC Dallas Youth,U8,f,7v7 Silver,Bracket B,registrar,RED,1505.70,ranking-uncertain
-625834,Dallas Surf 15G Black,Dallas Surf,U11,f,9v9 Bronze II,Bracket B,registrar,RED,,ranking-uncertain
-121665,Bravos Academy 10B (Garcia),FC JUAREZ DALLAS,U17,m,DS Silver,Bracket A,registrar,RED,,ranking-uncertain
-116698,Dallas Legacy 08B Arroyo,Dallas Legacy,U18,m,DS 08-09,Bracket A,registrar,RED,,ranking-uncertain
-116701,Dallas Legacy 09G Arroyo,Dallas Legacy,U17,f,HS 1,Bracket B,registrar,RED,,ranking-uncertain
-656517,Sting B19 Guess,Sting Soccer Club,U7,m,Silver 4v4,Bracket A,registrar,RED,,ranking-uncertain
-111354,Steel United TX MSA 08G Elite,Steel United Texas,U19,f,Gold,Bracket B,registrar,RED,,ranking-uncertain
-444455,Coppell FC 16B Williams White,Coppell Youth SA,U10,m,9v9 Bronze II Crossover,Bracket C,registrar,RED,1413.15,ranking-uncertain
+530905,Soccerplex United 16/17G Red,Soccerplex United,U10,f,9v9 Silver,Bracket B,registrar,YELLOW,1428.42,move-down → 9v9 Bronze
+645936,Dallas Texans 2019 Girls East,Dallas Texans,U8,f,7v7 Silver,Bracket B,registrar,GREEN,1456.32,move-down → 7v7 Bronze
+508863,LC United 15B White Lyle,LC United,U11,m,9v9 Bronze,Bracket C,registrar,YELLOW,1442.59,
+703183,Dallas Texans 2019 Girls Red East,Dallas Texans,U7,f,4v4 2019s,Bracket A,registrar,GREEN,,ranking-uncertain
+283774,Tyler FC 15B,Tyler FC,U11,m,DS 9v9 Silver Elite,Bracket B,registrar,GREEN,1456.82,move-down → Silver II
+407081,Tyler FC 18B,Tyler FC,U9,m,18s,Bracket A,registrar,GREEN,1508.09,move-down → 7v7 Dallas Showcase Super Group 17s
+536481,Tyler FC 19B,Tyler FC,U8,m,7v7 18s Silver,Bracket A,registrar,GREEN,1530.97,
+638734,Frisco Fusion 13G Red,Frisco Fusion,U13,f,11v11 Bronze,Bracket C,registrar,GREEN,1470.80,
+148172,Southern Soccer 14B,Southern Soccer,U12,m,9v9 Bronze,Bracket A,registrar,GREEN,1507.28,move-up → 11v11 Bronze
+385932,FC Dallas Youth Pre ECNL B15,FC Dallas Youth,U11,m,9v9 Silver,Bracket A,registrar,YELLOW,,ranking-uncertain
+204509,FC Dallas Pre ECNL B15 Raine,FC Dallas Youth,U11,m,DS 9v9 Silver Elite,Bracket A,registrar,YELLOW,,ranking-uncertain
+96926,Coppell FC 09G Sansom,Coppell Youth SA,U17,f,HS 1,Bracket B,registrar,GREEN,1468.65,
+625815,Dallas Surf 13G Central,Dallas Surf,U13,f,11v11 Silver,Bracket A,registrar,RED,1568.93,ranking-uncertain
+576495,FC Dallas Youth 18G Herrera,FC Dallas Youth,U8,f,7v7 Silver,Bracket B,registrar,GREEN,1505.70,
+625834,Dallas Surf 15G Black,Dallas Surf,U11,f,9v9 Bronze II,Bracket B,registrar,GREEN,1438.06,move-down → 9v9 Bronze
+121665,Bravos Academy 10B (Garcia),FC JUAREZ DALLAS,U17,m,DS Silver,Bracket A,registrar,YELLOW,,ranking-uncertain
+116698,Dallas Legacy 08B Arroyo,Dallas Legacy,U18,m,DS 08-09,Bracket A,registrar,GREEN,1596.91,
+116701,Dallas Legacy 09G Arroyo,Dallas Legacy,U17,f,HS 1,Bracket B,registrar,GREEN,1440.62,
+656517,Sting B19 Guess,Sting Soccer Club,U7,m,Silver 4v4,Bracket A,registrar,GREEN,,ranking-uncertain
+111354,Steel United TX MSA 08G Elite,Steel United Texas,U19,f,Gold,Bracket B,registrar,YELLOW,,ranking-uncertain
+444455,Coppell FC 16B Williams White,Coppell Youth SA,U10,m,9v9 Bronze II Crossover,Bracket C,registrar,GREEN,,ranking-uncertain
 500576,Dallas Surf 14G East Wave,Dallas Surf,U12,f,9v9 Bronze II,Bracket A,registrar,MISSING,,
-336332,GLASA Hulk Smash 15B,GLASA,U11,m,,,NEEDS-SLOTTING,RED,1486.57,ranking-uncertain
-77208,TAG 09B Black,TAG Soccer,U17,m,Bracket B,Bracket A,registrar,RED,,ranking-uncertain
+336332,GLASA Hulk Smash 15B,GLASA,U11,m,,,NEEDS-SLOTTING,YELLOW,1486.57,
+77208,TAG 09B Black,TAG Soccer,U17,m,Bracket B,Bracket A,registrar,YELLOW,,ranking-uncertain
 129701,Villarreal NTX 11B Yellow Vargas,Villarreal NTX,U15,m,DS Silver,Bracket A,registrar,RED,,ranking-uncertain
-140117,BVB 15B PreECNL Black East (Contreras),BVB International Academy Texas,U11,m,Silver II,Bracket C,registrar,RED,,ranking-uncertain
+140117,BVB 15B PreECNL Black East (Contreras),BVB International Academy Texas,U11,m,Silver II,Bracket C,registrar,GREEN,1534.54,
 261335,FC Dallas Youth Pre ECNL B14 Bailey,FC Dallas Youth,U13,m,11v11 Silver 14s,Bracket B,registrar,RED,,ranking-uncertain
-131542,IRVING TEXAS HEAT 14 GR,Irving Soccer Association,U12,f,,,NEEDS-SLOTTING,GREEN,,ranking-uncertain
-631113,Solar SW 14B Gallegos PreECNL,Solar SC,U13,m,11v11 Silver 14s,Bracket B,registrar,RED,,ranking-uncertain
-526884,Legacy United FC 17B,Legacy United FC,U9,m,7v7 Bronze Crossover,Bracket A,registrar,RED,1458.77,ranking-uncertain
-489179,Legacy United FC 14B - Juarez,Legacy United FC,U12,m,9v9 Bronze,Bracket B,registrar,RED,,ranking-uncertain
-130687,Legacy United FC 13B,Legacy United FC,U13,m,11v11 Bronze II,Bracket A,registrar,RED,,ranking-uncertain
+131542,IRVING TEXAS HEAT 14 GR,Irving Soccer Association,U12,f,,,NEEDS-SLOTTING,YELLOW,,ranking-uncertain
+631113,Solar SW 14B Gallegos PreECNL,Solar SC,U13,m,11v11 Silver 14s,Bracket B,registrar,YELLOW,,ranking-uncertain
+526884,Legacy United FC 17B,Legacy United FC,U9,m,7v7 Bronze Crossover,Bracket A,registrar,YELLOW,1458.77,
+489179,Legacy United FC 14B - Juarez,Legacy United FC,U12,m,9v9 Bronze,Bracket B,registrar,GREEN,1581.68,move-up → 11v11 Bronze
+130687,Legacy United FC 13B,Legacy United FC,U13,m,11v11 Bronze II,Bracket A,registrar,GREEN,1538.51,move-up → 11v11 Bronze Crossover
 521491,Atlético Dallas youth NPL NTX 12B HERNANDEZ-WTX,Atletico Dallas Youth,U15,m,DS Bronze,Bracket B,registrar,RED,,ranking-uncertain
-82996,FC Dallas Youth Navy ECNL RL NTX B13,FC Dallas Youth,U13,m,11v11 Silver,Bracket A,registrar,RED,,ranking-uncertain
+82996,FC Dallas Youth Navy ECNL RL NTX B13,FC Dallas Youth,U13,m,11v11 Silver,Bracket A,registrar,YELLOW,1508.00,
 284420,Atletico Dallas Youth ECNL RL NTX BLUE 08/07B HERNANDEZ-WTX,Atletico Dallas Youth,U17,m,,,NEEDS-SLOTTING,MISSING,,
 131519,IRVING WILD CATS 12 GR,Irving Soccer Association,U14,f,,,NEEDS-SLOTTING,MISSING,,
-625839,Dallas Surf 15G Central,Dallas Surf,U11,f,,,NEEDS-SLOTTING,RED,,ranking-uncertain
-83012,FC Dallas Youth White ECNL RL NTX G10,FC Dallas Youth,U16,f,HS 1,Bracket A,registrar,RED,,ranking-uncertain
+625839,Dallas Surf 15G Central,Dallas Surf,U11,f,,,NEEDS-SLOTTING,GREEN,1493.76,
+83012,FC Dallas Youth White ECNL RL NTX G10,FC Dallas Youth,U16,f,HS 1,Bracket A,registrar,YELLOW,,ranking-uncertain
 80236,07G GARCIA (TXN),DKSC,U19,f,Gold,Bracket A,registrar,MISSING,,
