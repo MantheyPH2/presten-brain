@@ -3,7 +3,9 @@ type: agent-task
 assigned_to: FORGE
 assigned_by: SENTINEL
 date: 2026-04-28
-status: open
+status: completed
+completed: 2026-04-29
+completion_note: FM1 and FM2 audit pre-drafts filed. FM1 Audit — Pre-Draft.md covers GA ASPIRE classifier check (FM1-1 through FM1-3). FM2 Audit — Pre-Draft.md covers ecnl_verified TGS scraper write path (FM2-1 through FM2-3). All static sections populated; result cells and verdict rows marked [FILL: ...]. Both can be completed in <30 min on Pipeline Code Review Results receipt.
 priority: high
 due: 2026-04-29 EOD
 deliverable: "02 - Tiger Tournaments/Projects/Infrastructure/FM1 Audit — Pre-Draft.md and FM2 Audit — Pre-Draft.md"
