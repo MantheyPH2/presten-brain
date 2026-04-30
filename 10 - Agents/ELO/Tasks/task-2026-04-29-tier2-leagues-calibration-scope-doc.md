@@ -5,7 +5,9 @@ assigned_to: ELO
 date: 2026-04-29
 priority: medium
 due: "2026-05-02"
-status: pending
+status: completed
+completed: 2026-04-29
+deliverable: "02 - Tiger Tournaments/Projects/Rankings/Tier 2 Leagues — Calibration Scope Decision.md"
 topic: tier2-leagues-calibration-scope-doc
 ---
 

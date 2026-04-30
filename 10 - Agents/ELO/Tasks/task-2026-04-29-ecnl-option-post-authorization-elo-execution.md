@@ -5,7 +5,9 @@ assigned_to: ELO
 date: 2026-04-29
 priority: high
 due: "Within 30 minutes of Presten authorization"
-status: pending
+status: completed
+completed: 2026-04-29
+deliverable: "02 - Tiger Tournaments/Projects/Rankings/ECNL Migration — ELO Post-Authorization Execution Card.md"
 topic: ecnl-option-post-authorization-elo-execution
 ---
 
